@@ -1,0 +1,149 @@
+{
+  "site": "esta",
+  "type": "sources",
+  "date": "2026-03-13",
+  "timestamp": "2026-03-14T08:57:50.356Z",
+  "count": 20,
+  "data": [
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "sessionSource": "(direct)",
+      "sessions": 109,
+      "activeUsers": 99,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "google",
+      "sessions": 95,
+      "activeUsers": 86,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "yahoo",
+      "sessions": 63,
+      "activeUsers": 56,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "search.google.com",
+      "sessions": 9,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "mlit.go.jp",
+      "sessions": 8,
+      "activeUsers": 6,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "bing",
+      "sessions": 6,
+      "activeUsers": 5,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "editor.wix.com",
+      "sessions": 4,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "3stars-h.com",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "hukkoujuutaku.sakura.ne.jp",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "miyakoanshinsumai.com",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Video",
+      "sessionSource": "youtube.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "arbre-d.sakura.ne.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "archi.fukuicompu.co.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "b2o1xv9zinzx.cybozu.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "co-jsp.co.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "google.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "nichinet.co.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "service.smt.docomo.ne.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "tohoku-yjk.jimdofree.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessionSource": "qrcord",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    }
+  ]
+}

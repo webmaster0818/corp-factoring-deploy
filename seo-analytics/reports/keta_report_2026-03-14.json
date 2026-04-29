@@ -1,0 +1,203 @@
+{
+  "site": "K-ETA",
+  "siteId": "keta",
+  "domain": "keta-travel.com",
+  "timestamp": "2026-03-14T08:58:11.724Z",
+  "searchConsole": {
+    "totalClicks": 71,
+    "totalImpressions": 2888,
+    "averageCTR": "2.46",
+    "averagePosition": "19.8",
+    "totalQueries": 591
+  },
+  "analytics": {
+    "totalSessions": 12517,
+    "totalUsers": 10796,
+    "totalPageViews": 25356,
+    "totalConversions": 0,
+    "conversionRate": "0.00",
+    "averageSessionDuration": "267",
+    "averageBounceRate": "30.88",
+    "topSources": [
+      {
+        "channel": "Direct",
+        "source": "(direct)",
+        "sessions": 6021,
+        "users": 5248,
+        "conversions": 0
+      },
+      {
+        "channel": "Organic Search",
+        "source": "yahoo",
+        "sessions": 3983,
+        "users": 3237,
+        "conversions": 0
+      },
+      {
+        "channel": "Organic Search",
+        "source": "bing",
+        "sessions": 2023,
+        "users": 1616,
+        "conversions": 0
+      },
+      {
+        "channel": "Organic Search",
+        "source": "google",
+        "sessions": 352,
+        "users": 272,
+        "conversions": 0
+      },
+      {
+        "channel": "Paid Search",
+        "source": "yahoo",
+        "sessions": 21,
+        "users": 14,
+        "conversions": 0
+      }
+    ]
+  },
+  "topQueries": [
+    {
+      "query": "韓国 トランジット 入国",
+      "clicks": 9,
+      "impressions": 64,
+      "ctr": "14.06",
+      "position": "7.2"
+    },
+    {
+      "query": "韓国 トランジット k-eta",
+      "clicks": 4,
+      "impressions": 9,
+      "ctr": "44.44",
+      "position": "3.4"
+    },
+    {
+      "query": "k-eta申請方法 わかりやすく",
+      "clicks": 3,
+      "impressions": 23,
+      "ctr": "13.04",
+      "position": "3.5"
+    },
+    {
+      "query": "keta 乗り継ぎ",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": "33.33",
+      "position": "2.7"
+    },
+    {
+      "query": "unknown 意味 パスポート",
+      "clicks": 2,
+      "impressions": 24,
+      "ctr": "8.33",
+      "position": "5.7"
+    },
+    {
+      "query": "仁川国際空港 乗り継ぎ",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": "25.00",
+      "position": "7.5"
+    },
+    {
+      "query": "韓国 トランジット 入国カード",
+      "clicks": 2,
+      "impressions": 38,
+      "ctr": "5.26",
+      "position": "8.3"
+    },
+    {
+      "query": "韓国 トランジットビザ",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": "40.00",
+      "position": "7.0"
+    },
+    {
+      "query": "韓国 ビザ免除国",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": "50.00",
+      "position": "4.0"
+    },
+    {
+      "query": "韓国 乗り継ぎ k-eta",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": "15.38",
+      "position": "4.5"
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://keta-travel.com/transit/index.html",
+      "clicks": 91,
+      "impressions": 1239,
+      "ctr": "7.34",
+      "position": "8.2"
+    },
+    {
+      "page": "https://keta-travel.com/country/index.html",
+      "clicks": 22,
+      "impressions": 421,
+      "ctr": "5.23",
+      "position": "18.0"
+    },
+    {
+      "page": "https://keta-travel.com/fee/index.html",
+      "clicks": 22,
+      "impressions": 359,
+      "ctr": "6.13",
+      "position": "16.8"
+    },
+    {
+      "page": "https://keta-travel.com/reapplication/index.html",
+      "clicks": 21,
+      "impressions": 332,
+      "ctr": "6.33",
+      "position": "9.0"
+    },
+    {
+      "page": "https://keta-travel.com/flow/index.html",
+      "clicks": 18,
+      "impressions": 559,
+      "ctr": "3.22",
+      "position": "17.3"
+    },
+    {
+      "page": "https://keta-travel.com/refusal/index.html",
+      "clicks": 16,
+      "impressions": 172,
+      "ctr": "9.30",
+      "position": "12.1"
+    },
+    {
+      "page": "https://keta-travel.com/group/index.html",
+      "clicks": 14,
+      "impressions": 864,
+      "ctr": "1.62",
+      "position": "12.9"
+    },
+    {
+      "page": "https://keta-travel.com/agreement/index.html",
+      "clicks": 13,
+      "impressions": 62,
+      "ctr": "20.97",
+      "position": "16.2"
+    },
+    {
+      "page": "https://keta-travel.com/top/index.html",
+      "clicks": 10,
+      "impressions": 147,
+      "ctr": "6.80",
+      "position": "26.0"
+    },
+    {
+      "page": "https://keta-travel.com/incheon-airport/index.html",
+      "clicks": 9,
+      "impressions": 434,
+      "ctr": "2.07",
+      "position": "12.4"
+    }
+  ]
+}

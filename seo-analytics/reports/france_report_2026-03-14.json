@@ -1,0 +1,84 @@
+{
+  "site": "フランス",
+  "siteId": "france",
+  "domain": "eudiasporacouncil.org",
+  "timestamp": "2026-03-14T08:58:11.724Z",
+  "searchConsole": {
+    "totalClicks": 0,
+    "totalImpressions": 3,
+    "averageCTR": "0.00",
+    "averagePosition": "83.7",
+    "totalQueries": 3
+  },
+  "analytics": {
+    "totalSessions": 9,
+    "totalUsers": 4,
+    "totalPageViews": 52,
+    "totalConversions": 0,
+    "conversionRate": "0.00",
+    "averageSessionDuration": "627",
+    "averageBounceRate": "44.44",
+    "topSources": [
+      {
+        "channel": "Direct",
+        "source": "(direct)",
+        "sessions": 7,
+        "users": 2,
+        "conversions": 0
+      },
+      {
+        "channel": "Organic Search",
+        "source": "google",
+        "sessions": 2,
+        "users": 1,
+        "conversions": 0
+      }
+    ]
+  },
+  "topQueries": [
+    {
+      "query": "demande eta",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": "0.00",
+      "position": "85.0"
+    },
+    {
+      "query": "eta irlande",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": "0.00",
+      "position": "85.0"
+    },
+    {
+      "query": "eta visa",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": "0.00",
+      "position": "81.0"
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.eudiasporacouncil.org/",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": "11.11",
+      "position": "51.4"
+    },
+    {
+      "page": "https://www.eudiasporacouncil.org/mentions-legales",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": "0.00",
+      "position": "3.0"
+    },
+    {
+      "page": "https://www.eudiasporacouncil.org/tarif",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": "0.00",
+      "position": "2.0"
+    }
+  ]
+}

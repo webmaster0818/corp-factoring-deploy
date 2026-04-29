@@ -1,0 +1,36 @@
+{
+  "site": "france",
+  "type": "countries",
+  "date": "2026-03-15",
+  "timestamp": "2026-03-16T16:44:18.322Z",
+  "count": 3,
+  "data": [
+    {
+      "keys": [
+        "jpn"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "keys": [
+        "fra"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "keys": [
+        "vnm"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    }
+  ]
+}

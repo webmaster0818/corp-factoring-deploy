@@ -1,0 +1,63 @@
+{
+  "site": "esta",
+  "type": "landing_pages",
+  "date": "2026-03-12",
+  "timestamp": "2026-03-13T13:04:07.339Z",
+  "count": 6,
+  "data": [
+    {
+      "landingPage": "/",
+      "sessions": 154,
+      "activeUsers": 125,
+      "screenPageViews": 253,
+      "averageSessionDuration": 115.97717446753246,
+      "bounceRate": 0.5454545454545454,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/list-esta-application/esta-flow",
+      "sessions": 62,
+      "activeUsers": 58,
+      "screenPageViews": 80,
+      "averageSessionDuration": 138.09897872580646,
+      "bounceRate": 0.22580645161290322,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/list-esta-application/application",
+      "sessions": 18,
+      "activeUsers": 18,
+      "screenPageViews": 29,
+      "averageSessionDuration": 315.83183883333334,
+      "bounceRate": 0.16666666666666666,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/list-esta-application/expiration-date",
+      "sessions": 14,
+      "activeUsers": 14,
+      "screenPageViews": 14,
+      "averageSessionDuration": 41.831804214285704,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "(not set)",
+      "sessions": 10,
+      "activeUsers": 8,
+      "screenPageViews": 0,
+      "averageSessionDuration": 0.18096669999999998,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "//checkout",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    }
+  ]
+}

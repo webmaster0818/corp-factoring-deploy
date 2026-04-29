@@ -1,0 +1,18 @@
+{
+  "name": "日次SEOデータ収集",
+  "schedule": {
+    "kind": "cron",
+    "expr": "0 2 * * *",
+    "tz": "Asia/Tokyo"
+  },
+  "payload": {
+    "kind": "agentTurn",
+    "message": "日次SEOデータ収集を実行してください:\n1. cd ~/.openclaw/workspace/seo-analytics/scripts\n2. node fetch-search-console.js\n3. node fetch-ga4.js\n\nデータ収集のみでレポート生成は不要です。エラーがあれば報告してください。",
+    "timeoutSeconds": 300
+  },
+  "delivery": {
+    "mode": "none"
+  },
+  "sessionTarget": "isolated",
+  "enabled": true
+}

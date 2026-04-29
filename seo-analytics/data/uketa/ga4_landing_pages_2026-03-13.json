@@ -1,0 +1,126 @@
+{
+  "site": "uketa",
+  "type": "landing_pages",
+  "date": "2026-03-13",
+  "timestamp": "2026-03-14T08:58:03.086Z",
+  "count": 13,
+  "data": [
+    {
+      "landingPage": "/",
+      "sessions": 31,
+      "activeUsers": 24,
+      "screenPageViews": 81,
+      "averageSessionDuration": 333.28726032258066,
+      "bounceRate": 0.45161290322580644,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/uk-entry/index.html",
+      "sessions": 27,
+      "activeUsers": 26,
+      "screenPageViews": 42,
+      "averageSessionDuration": 166.17041025925923,
+      "bounceRate": 0.2962962962962963,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/flow/index.html",
+      "sessions": 22,
+      "activeUsers": 21,
+      "screenPageViews": 23,
+      "averageSessionDuration": 122.57544536363635,
+      "bounceRate": 0.22727272727272727,
+      "conversions": 0
+    },
+    {
+      "landingPage": "(not set)",
+      "sessions": 15,
+      "activeUsers": 8,
+      "screenPageViews": 0,
+      "averageSessionDuration": 0.0048301333333333335,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/fee/index.html",
+      "sessions": 9,
+      "activeUsers": 9,
+      "screenPageViews": 16,
+      "averageSessionDuration": 122.70213222222222,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/heathrow-airport-flight/index.html",
+      "sessions": 9,
+      "activeUsers": 7,
+      "screenPageViews": 26,
+      "averageSessionDuration": 1223.7827754444445,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/about/index.html",
+      "sessions": 7,
+      "activeUsers": 5,
+      "screenPageViews": 8,
+      "averageSessionDuration": 165.36334185714284,
+      "bounceRate": 0.14285714285714285,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/page_cat/ukentry",
+      "sessions": 2,
+      "activeUsers": 2,
+      "screenPageViews": 2,
+      "averageSessionDuration": 1041.015226,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/page_cat/uketa",
+      "sessions": 2,
+      "activeUsers": 2,
+      "screenPageViews": 4,
+      "averageSessionDuration": 48.9971125,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/beli-flash",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 7,
+      "averageSessionDuration": 552.294905,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/heathrow-airport-fright/index.html",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 2,
+      "averageSessionDuration": 9.910691,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/product/scope57",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 8,
+      "averageSessionDuration": 1238.845727,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/unitedkingdom-visa/index.html",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 33.414598,
+      "bounceRate": 0,
+      "conversions": 0
+    }
+  ]
+}

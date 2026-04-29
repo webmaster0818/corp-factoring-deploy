@@ -1,0 +1,69 @@
+{
+  "site": "uketa",
+  "type": "device_location",
+  "date": "2026-04-09",
+  "timestamp": "2026-04-10T13:55:31.217Z",
+  "count": 10,
+  "data": [
+    {
+      "deviceCategory": "desktop",
+      "country": "Japan",
+      "sessions": 57,
+      "activeUsers": 46
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Japan",
+      "sessions": 44,
+      "activeUsers": 38
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "United States",
+      "sessions": 11,
+      "activeUsers": 11
+    },
+    {
+      "deviceCategory": "tablet",
+      "country": "Japan",
+      "sessions": 3,
+      "activeUsers": 3
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "China",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "India",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "United Kingdom",
+      "sessions": 1,
+      "activeUsers": 0
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Hong Kong",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Netherlands",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "United States",
+      "sessions": 1,
+      "activeUsers": 1
+    }
+  ]
+}

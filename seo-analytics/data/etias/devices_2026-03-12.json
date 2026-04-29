@@ -1,0 +1,36 @@
+{
+  "site": "etias",
+  "type": "devices",
+  "date": "2026-03-12",
+  "timestamp": "2026-03-13T13:04:36.546Z",
+  "count": 3,
+  "data": [
+    {
+      "keys": [
+        "MOBILE"
+      ],
+      "clicks": 57,
+      "impressions": 2333,
+      "ctr": 0.0244320617231033,
+      "position": 16.75782254607801
+    },
+    {
+      "keys": [
+        "DESKTOP"
+      ],
+      "clicks": 24,
+      "impressions": 1616,
+      "ctr": 0.01485148514851485,
+      "position": 21.06311881188119
+    },
+    {
+      "keys": [
+        "TABLET"
+      ],
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 9.379310344827585
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "site": "ESTA",
+  "siteId": "esta",
+  "domain": "未確認",
+  "timestamp": "2026-03-14T08:58:11.721Z",
+  "searchConsole": {},
+  "analytics": {
+    "totalSessions": 311,
+    "totalUsers": 274,
+    "totalPageViews": 437,
+    "totalConversions": 0,
+    "conversionRate": "0.00",
+    "averageSessionDuration": "125",
+    "averageBounceRate": "49.83",
+    "topSources": [
+      {
+        "channel": "Direct",
+        "source": "(direct)",
+        "sessions": 109,
+        "users": 99,
+        "conversions": 0
+      },
+      {
+        "channel": "Organic Search",
+        "source": "google",
+        "sessions": 95,
+        "users": 86,
+        "conversions": 0
+      },
+      {
+        "channel": "Organic Search",
+        "source": "yahoo",
+        "sessions": 63,
+        "users": 56,
+        "conversions": 0
+      },
+      {
+        "channel": "Organic Search",
+        "source": "search.google.com",
+        "sessions": 9,
+        "users": 1,
+        "conversions": 0
+      },
+      {
+        "channel": "Referral",
+        "source": "mlit.go.jp",
+        "sessions": 8,
+        "users": 6,
+        "conversions": 0
+      }
+    ]
+  },
+  "topQueries": [],
+  "topPages": []
+}

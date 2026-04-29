@@ -1,0 +1,58 @@
+{
+  "site": "uketa",
+  "type": "sources",
+  "date": "2026-03-15",
+  "timestamp": "2026-03-16T16:44:54.749Z",
+  "count": 7,
+  "data": [
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "google",
+      "sessions": 65,
+      "activeUsers": 60,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "sessionSource": "(direct)",
+      "sessions": 50,
+      "activeUsers": 29,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "yahoo",
+      "sessions": 15,
+      "activeUsers": 13,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "search.google.com",
+      "sessions": 9,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "service.smt.docomo.ne.jp",
+      "sessions": 4,
+      "activeUsers": 4,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "search.fenrir-inc.com",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "safe.menlosecurity.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    }
+  ]
+}

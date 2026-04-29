@@ -1,0 +1,205 @@
+{
+  "site": "keta",
+  "type": "sources",
+  "date": "2026-04-09",
+  "timestamp": "2026-04-10T13:55:26.400Z",
+  "count": 28,
+  "data": [
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "sessionSource": "(direct)",
+      "sessions": 4792,
+      "activeUsers": 4043,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "yahoo",
+      "sessions": 3401,
+      "activeUsers": 2809,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "bing",
+      "sessions": 1373,
+      "activeUsers": 1065,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "google",
+      "sessions": 58,
+      "activeUsers": 39,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "ads-media.websearch.rakuten.co.jp",
+      "sessions": 14,
+      "activeUsers": 10,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Search",
+      "sessionSource": "yahoo",
+      "sessions": 12,
+      "activeUsers": 8,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "m.mail.yahoo.co.jp",
+      "sessions": 9,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessionSource": "(not set)",
+      "sessions": 9,
+      "activeUsers": 9,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "card-workers-ratio-execute.trycloudflare.com",
+      "sessions": 8,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessionSource": "chatgpt.com",
+      "sessions": 8,
+      "activeUsers": 8,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "mail.yahoo.co.jp",
+      "sessions": 7,
+      "activeUsers": 6,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "sp-search.jp",
+      "sessions": 7,
+      "activeUsers": 6,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "statics.teams.cdn.office.net",
+      "sessions": 7,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "ads.yahoo.co.jp",
+      "sessions": 6,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "openai",
+      "sessions": 5,
+      "activeUsers": 5,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "kaikatsu.jword.jp",
+      "sessions": 3,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "secure.okbiz.jp",
+      "sessions": 3,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "ntp.msn.com",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "l.threads.com",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "levy-mhz-muscles-powerseller.trycloudflare.com",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "mail.nifty.com",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "mail.ocn.jp",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "chatgpt.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "gateway.zscaler.net",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "rd.listing.yahoo.co.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "talk.worksmobile.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "timeskk.jword.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessionSource": "openai",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    }
+  ]
+}

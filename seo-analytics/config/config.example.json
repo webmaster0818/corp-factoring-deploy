@@ -1,0 +1,19 @@
+{
+  "ga4": {
+    "propertyId": "123456789",
+    "comment": "GA4 Property ID (数字のみ、G- は不要)"
+  },
+  "searchConsole": {
+    "siteUrl": "https://keta-travel.com/",
+    "comment": "Search Console のサイトURL（末尾スラッシュ含む）"
+  },
+  "dateRange": {
+    "startDate": "2025-01-01",
+    "endDate": "2026-03-13"
+  },
+  "authentication": {
+    "type": "service_account",
+    "keyFilePath": "~/.openclaw/workspace/seo-analytics/config/service-account-key.json",
+    "comment": "サービスアカウントのJSONキーファイルのパス"
+  }
+}

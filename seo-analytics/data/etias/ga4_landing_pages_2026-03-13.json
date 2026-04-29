@@ -1,0 +1,621 @@
+{
+  "site": "etias",
+  "type": "landing_pages",
+  "date": "2026-03-13",
+  "timestamp": "2026-03-14T08:57:53.671Z",
+  "count": 68,
+  "data": [
+    {
+      "landingPage": "/united-kingdom/top",
+      "sessions": 833,
+      "activeUsers": 697,
+      "screenPageViews": 1196,
+      "averageSessionDuration": 195.47814197358943,
+      "bounceRate": 0.3505402160864346,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/pc/step1",
+      "sessions": 203,
+      "activeUsers": 176,
+      "screenPageViews": 523,
+      "averageSessionDuration": 517.2623895418719,
+      "bounceRate": 0.3497536945812808,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/sp/step1",
+      "sessions": 200,
+      "activeUsers": 155,
+      "screenPageViews": 807,
+      "averageSessionDuration": 629.305955885,
+      "bounceRate": 0.285,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/",
+      "sessions": 97,
+      "activeUsers": 88,
+      "screenPageViews": 219,
+      "averageSessionDuration": 162.99106660824742,
+      "bounceRate": 0.38144329896907214,
+      "conversions": 0
+    },
+    {
+      "landingPage": "(not set)",
+      "sessions": 91,
+      "activeUsers": 64,
+      "screenPageViews": 0,
+      "averageSessionDuration": 0.46914958241758237,
+      "bounceRate": 0.978021978021978,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/united-kingdom/about",
+      "sessions": 87,
+      "activeUsers": 83,
+      "screenPageViews": 124,
+      "averageSessionDuration": 184.94503316091954,
+      "bounceRate": 0.28735632183908044,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/pc/status",
+      "sessions": 46,
+      "activeUsers": 37,
+      "screenPageViews": 146,
+      "averageSessionDuration": 407.0016061086957,
+      "bounceRate": 0.391304347826087,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/sp/status",
+      "sessions": 42,
+      "activeUsers": 23,
+      "screenPageViews": 164,
+      "averageSessionDuration": 415.6399738809524,
+      "bounceRate": 0.30952380952380953,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/contact/top",
+      "sessions": 34,
+      "activeUsers": 30,
+      "screenPageViews": 100,
+      "averageSessionDuration": 350.9627012647059,
+      "bounceRate": 0.38235294117647056,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/belgium_visa",
+      "sessions": 22,
+      "activeUsers": 18,
+      "screenPageViews": 23,
+      "averageSessionDuration": 43.88784172727273,
+      "bounceRate": 0.36363636363636365,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/germany_visa",
+      "sessions": 21,
+      "activeUsers": 20,
+      "screenPageViews": 23,
+      "averageSessionDuration": 288.4924032380953,
+      "bounceRate": 0.23809523809523808,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/italy_visa",
+      "sessions": 16,
+      "activeUsers": 16,
+      "screenPageViews": 20,
+      "averageSessionDuration": 47.1891038125,
+      "bounceRate": 0.375,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/poland",
+      "sessions": 12,
+      "activeUsers": 12,
+      "screenPageViews": 15,
+      "averageSessionDuration": 159.33390975,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/france",
+      "sessions": 11,
+      "activeUsers": 11,
+      "screenPageViews": 17,
+      "averageSessionDuration": 421.9921983636364,
+      "bounceRate": 0.18181818181818182,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/hungary_visa",
+      "sessions": 10,
+      "activeUsers": 6,
+      "screenPageViews": 10,
+      "averageSessionDuration": 45.667066,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/finland_visa",
+      "sessions": 9,
+      "activeUsers": 8,
+      "screenPageViews": 14,
+      "averageSessionDuration": 79.5143661111111,
+      "bounceRate": 0.2222222222222222,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/denmark",
+      "sessions": 8,
+      "activeUsers": 7,
+      "screenPageViews": 9,
+      "averageSessionDuration": 53.851467,
+      "bounceRate": 0.625,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/spain",
+      "sessions": 8,
+      "activeUsers": 7,
+      "screenPageViews": 13,
+      "averageSessionDuration": 140.133751375,
+      "bounceRate": 0.25,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/austria_visa",
+      "sessions": 7,
+      "activeUsers": 6,
+      "screenPageViews": 7,
+      "averageSessionDuration": 37.07690542857143,
+      "bounceRate": 0.42857142857142855,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/belgium",
+      "sessions": 7,
+      "activeUsers": 7,
+      "screenPageViews": 8,
+      "averageSessionDuration": 22.80897457142857,
+      "bounceRate": 0.2857142857142857,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/how_to_apply",
+      "sessions": 6,
+      "activeUsers": 6,
+      "screenPageViews": 7,
+      "averageSessionDuration": 124.442613,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/germany",
+      "sessions": 6,
+      "activeUsers": 5,
+      "screenPageViews": 6,
+      "averageSessionDuration": 186.1180805,
+      "bounceRate": 0.16666666666666666,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/netherland",
+      "sessions": 6,
+      "activeUsers": 6,
+      "screenPageViews": 6,
+      "averageSessionDuration": 32.26616433333333,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/portugal_visa",
+      "sessions": 6,
+      "activeUsers": 6,
+      "screenPageViews": 8,
+      "averageSessionDuration": 81.17925533333333,
+      "bounceRate": 0.3333333333333333,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/united-kingdom/fee",
+      "sessions": 6,
+      "activeUsers": 3,
+      "screenPageViews": 10,
+      "averageSessionDuration": 444.2848658333333,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/czech_visa",
+      "sessions": 5,
+      "activeUsers": 4,
+      "screenPageViews": 5,
+      "averageSessionDuration": 338.088778,
+      "bounceRate": 0.4,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/czech",
+      "sessions": 5,
+      "activeUsers": 5,
+      "screenPageViews": 7,
+      "averageSessionDuration": 37.4602828,
+      "bounceRate": 0.6,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/finland",
+      "sessions": 5,
+      "activeUsers": 5,
+      "screenPageViews": 10,
+      "averageSessionDuration": 349.54850120000003,
+      "bounceRate": 0.2,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/united-kingdom/flow",
+      "sessions": 5,
+      "activeUsers": 5,
+      "screenPageViews": 14,
+      "averageSessionDuration": 50.178168799999995,
+      "bounceRate": 0.4,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/pc/complete",
+      "sessions": 4,
+      "activeUsers": 4,
+      "screenPageViews": 6,
+      "averageSessionDuration": 78.82986075,
+      "bounceRate": 0.75,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/links",
+      "sessions": 4,
+      "activeUsers": 4,
+      "screenPageViews": 4,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/greece",
+      "sessions": 4,
+      "activeUsers": 4,
+      "screenPageViews": 4,
+      "averageSessionDuration": 41.484329,
+      "bounceRate": 0.25,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/italy",
+      "sessions": 4,
+      "activeUsers": 4,
+      "screenPageViews": 4,
+      "averageSessionDuration": 3.6644845,
+      "bounceRate": 0.75,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/poland_visa",
+      "sessions": 4,
+      "activeUsers": 4,
+      "screenPageViews": 4,
+      "averageSessionDuration": 84.27171075,
+      "bounceRate": 0.25,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/spain_visa",
+      "sessions": 4,
+      "activeUsers": 3,
+      "screenPageViews": 5,
+      "averageSessionDuration": 122.10348775,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/united-kingdom/aboutus/index.html",
+      "sessions": 4,
+      "activeUsers": 4,
+      "screenPageViews": 9,
+      "averageSessionDuration": 392.699226,
+      "bounceRate": 0.25,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/ees",
+      "sessions": 3,
+      "activeUsers": 3,
+      "screenPageViews": 3,
+      "averageSessionDuration": 305.3178316666667,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/france_visa",
+      "sessions": 3,
+      "activeUsers": 3,
+      "screenPageViews": 3,
+      "averageSessionDuration": 19.162016333333334,
+      "bounceRate": 0.6666666666666666,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/netherlands_visa",
+      "sessions": 3,
+      "activeUsers": 2,
+      "screenPageViews": 3,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/004900",
+      "sessions": 3,
+      "activeUsers": 3,
+      "screenPageViews": 6,
+      "averageSessionDuration": 34.58623266666667,
+      "bounceRate": 0.3333333333333333,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/austria",
+      "sessions": 3,
+      "activeUsers": 3,
+      "screenPageViews": 7,
+      "averageSessionDuration": 288.9112136666667,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/france/、フランスでもETIASというのが、必要になるみたいですね。",
+      "sessions": 3,
+      "activeUsers": 1,
+      "screenPageViews": 8,
+      "averageSessionDuration": 105.98575333333332,
+      "bounceRate": 0.3333333333333333,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/portugal",
+      "sessions": 3,
+      "activeUsers": 3,
+      "screenPageViews": 3,
+      "averageSessionDuration": 142.878203,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/switzerland",
+      "sessions": 3,
+      "activeUsers": 3,
+      "screenPageViews": 3,
+      "averageSessionDuration": 25.605778666666666,
+      "bounceRate": 0.6666666666666666,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/sweden_visa",
+      "sessions": 3,
+      "activeUsers": 3,
+      "screenPageViews": 3,
+      "averageSessionDuration": 2.6957513333333334,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/switzerland_visa",
+      "sessions": 3,
+      "activeUsers": 3,
+      "screenPageViews": 3,
+      "averageSessionDuration": 472.01391233333334,
+      "bounceRate": 0.3333333333333333,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/about",
+      "sessions": 2,
+      "activeUsers": 2,
+      "screenPageViews": 7,
+      "averageSessionDuration": 109.1870975,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/iceland_visa",
+      "sessions": 2,
+      "activeUsers": 2,
+      "screenPageViews": 30,
+      "averageSessionDuration": 4033.871034,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/schengen_visa",
+      "sessions": 2,
+      "activeUsers": 2,
+      "screenPageViews": 3,
+      "averageSessionDuration": 91.2367395,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/slovakia_visa",
+      "sessions": 2,
+      "activeUsers": 2,
+      "screenPageViews": 2,
+      "averageSessionDuration": 35.07411,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/denmark_visa",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 109.841304,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/finland-tourism",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 37.048774,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/entry",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 4.561309,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/pc/confirm",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 3,
+      "averageSessionDuration": 83.759639,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/pc/payment",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 15,
+      "averageSessionDuration": 2065.846537,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/sp/complete",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/sp/confirm",
+      "sessions": 1,
+      "activeUsers": 0,
+      "screenPageViews": 1,
+      "averageSessionDuration": 4.622518,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/sp/payment",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/iceland-tourism",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 3,
+      "averageSessionDuration": 85.766392,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/latvia_visa",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 1038.66339,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/004800",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 498.205032,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/hungary",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/iceland",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 2,
+      "averageSessionDuration": 117.244817,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/luxembourg",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 26.644332,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/990100/sweden",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/page_cat/etias申請ガイド",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 61.05771,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/united-kingdom/agreement/index.html",
+      "sessions": 1,
+      "activeUsers": 0,
+      "screenPageViews": 1,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/unitedkingdom-visa",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 2,
+      "averageSessionDuration": 2.024503,
+      "bounceRate": 0,
+      "conversions": 0
+    }
+  ]
+}

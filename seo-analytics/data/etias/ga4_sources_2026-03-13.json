@@ -1,0 +1,170 @@
+{
+  "site": "etias",
+  "type": "sources",
+  "date": "2026-03-13",
+  "timestamp": "2026-03-14T08:57:54.850Z",
+  "count": 23,
+  "data": [
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "sessionSource": "(direct)",
+      "sessions": 654,
+      "activeUsers": 561,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "etias-eutravel.com",
+      "sessions": 375,
+      "activeUsers": 246,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "bing",
+      "sessions": 338,
+      "activeUsers": 272,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "yahoo",
+      "sessions": 336,
+      "activeUsers": 284,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "google",
+      "sessions": 107,
+      "activeUsers": 86,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "apply.uketa-travel.com",
+      "sessions": 52,
+      "activeUsers": 27,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "sardogs.net",
+      "sessions": 10,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "ecosia.org",
+      "sessions": 5,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "note.com",
+      "sessions": 3,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "ads-media.websearch.rakuten.co.jp",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "chatgpt.com",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "statics.teams.cdn.office.net",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "duckduckgo",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "4travel.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "ace.toyo.ac.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "block.opendns.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "kaegtcr.online",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "nativecamp.net",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "tairiku-travel.co.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessionSource": "(not set)",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessionSource": "chatgpt.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessionSource": "openai",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessionSource": "perplexity",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    }
+  ]
+}

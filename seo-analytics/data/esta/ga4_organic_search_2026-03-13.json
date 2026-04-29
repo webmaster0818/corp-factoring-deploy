@@ -1,0 +1,163 @@
+{
+  "site": "esta",
+  "type": "organic_search",
+  "date": "2026-03-13",
+  "timestamp": "2026-03-14T08:57:51.811Z",
+  "count": 22,
+  "data": [
+    {
+      "date": "20260312",
+      "landingPage": "/list-esta-application/esta-flow",
+      "sessions": 40,
+      "activeUsers": 38,
+      "conversions": 0
+    },
+    {
+      "date": "20260313",
+      "landingPage": "/list-esta-application/esta-flow",
+      "sessions": 30,
+      "activeUsers": 29,
+      "conversions": 0
+    },
+    {
+      "date": "20260311",
+      "landingPage": "/list-esta-application/esta-flow",
+      "sessions": 20,
+      "activeUsers": 20,
+      "conversions": 0
+    },
+    {
+      "date": "20260312",
+      "landingPage": "/list-esta-application/application",
+      "sessions": 15,
+      "activeUsers": 15,
+      "conversions": 0
+    },
+    {
+      "date": "20260313",
+      "landingPage": "/list-esta-application/expiration-date",
+      "sessions": 14,
+      "activeUsers": 12,
+      "conversions": 0
+    },
+    {
+      "date": "20260312",
+      "landingPage": "/list-esta-application/expiration-date",
+      "sessions": 13,
+      "activeUsers": 13,
+      "conversions": 0
+    },
+    {
+      "date": "20260313",
+      "landingPage": "/list-esta-application/application",
+      "sessions": 13,
+      "activeUsers": 11,
+      "conversions": 0
+    },
+    {
+      "date": "20260312",
+      "landingPage": "(not set)",
+      "sessions": 4,
+      "activeUsers": 4,
+      "conversions": 0
+    },
+    {
+      "date": "20260312",
+      "landingPage": "/",
+      "sessions": 4,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260313",
+      "landingPage": "(not set)",
+      "sessions": 4,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260311",
+      "landingPage": "/",
+      "sessions": 3,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260311",
+      "landingPage": "/list-esta-application/application",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260313",
+      "landingPage": "/list-esta-application/esta",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260307",
+      "landingPage": "/",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260309",
+      "landingPage": "(not set)",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260309",
+      "landingPage": "/",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260309",
+      "landingPage": "/list-esta-application/esta-flow",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260310",
+      "landingPage": "/",
+      "sessions": 1,
+      "activeUsers": 0,
+      "conversions": 0
+    },
+    {
+      "date": "20260311",
+      "landingPage": "(not set)",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260311",
+      "landingPage": "/list-esta-application/expiration-date",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260313",
+      "landingPage": "/",
+      "sessions": 1,
+      "activeUsers": 0,
+      "conversions": 0
+    },
+    {
+      "date": "20260313",
+      "landingPage": "/list-esta-application/cbp-flow",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "site": "keta",
+  "type": "traffic",
+  "date": "2026-03-15",
+  "timestamp": "2026-03-16T16:44:47.827Z",
+  "count": 7,
+  "data": [
+    {
+      "date": "20260309",
+      "activeUsers": 1589,
+      "sessions": 1887,
+      "screenPageViews": 3965,
+      "averageSessionDuration": 268.8222886306306,
+      "bounceRate": 0.296767355590885,
+      "conversions": 0
+    },
+    {
+      "date": "20260310",
+      "activeUsers": 1703,
+      "sessions": 1945,
+      "screenPageViews": 3992,
+      "averageSessionDuration": 286.918677311054,
+      "bounceRate": 0.30745501285347043,
+      "conversions": 0
+    },
+    {
+      "date": "20260311",
+      "activeUsers": 1621,
+      "sessions": 1880,
+      "screenPageViews": 3737,
+      "averageSessionDuration": 332.81733993723407,
+      "bounceRate": 0.31542553191489364,
+      "conversions": 0
+    },
+    {
+      "date": "20260312",
+      "activeUsers": 1811,
+      "sessions": 2113,
+      "screenPageViews": 4269,
+      "averageSessionDuration": 242.02021254756272,
+      "bounceRate": 0.3170847136772362,
+      "conversions": 0
+    },
+    {
+      "date": "20260313",
+      "activeUsers": 1497,
+      "sessions": 1736,
+      "screenPageViews": 3663,
+      "averageSessionDuration": 266.550196391129,
+      "bounceRate": 0.3185483870967742,
+      "conversions": 0
+    },
+    {
+      "date": "20260314",
+      "activeUsers": 1352,
+      "sessions": 1544,
+      "screenPageViews": 3116,
+      "averageSessionDuration": 261.06522802137306,
+      "bounceRate": 0.3238341968911917,
+      "conversions": 0
+    },
+    {
+      "date": "20260315",
+      "activeUsers": 1490,
+      "sessions": 1719,
+      "screenPageViews": 3520,
+      "averageSessionDuration": 269.20779136242004,
+      "bounceRate": 0.30831878999418266,
+      "conversions": 0
+    }
+  ]
+}

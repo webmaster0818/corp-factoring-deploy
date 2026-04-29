@@ -1,0 +1,20 @@
+{
+  "name": "週次SEOレポート",
+  "schedule": {
+    "kind": "cron",
+    "expr": "0 9 * * 1",
+    "tz": "Asia/Tokyo"
+  },
+  "payload": {
+    "kind": "agentTurn",
+    "message": "週次SEOレポートの時間です。以下を実行してください:\n1. ~/.openclaw/workspace/seo-analytics/run-analysis.sh を実行\n2. 全5サイトのデータを収集・分析\n3. 各サイトのチャンネルにレポートを投稿\n4. #分析レポート に全体サマリーを投稿\n\n完了したら報告してください。",
+    "timeoutSeconds": 600
+  },
+  "delivery": {
+    "mode": "announce",
+    "channel": "discord",
+    "to": "channel:1481647403902959728"
+  },
+  "sessionTarget": "isolated",
+  "enabled": true
+}

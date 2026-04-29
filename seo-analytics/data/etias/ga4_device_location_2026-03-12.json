@@ -1,0 +1,207 @@
+{
+  "site": "etias",
+  "type": "device_location",
+  "date": "2026-03-12",
+  "timestamp": "2026-03-13T13:04:13.462Z",
+  "count": 33,
+  "data": [
+    {
+      "deviceCategory": "mobile",
+      "country": "Japan",
+      "sessions": 917,
+      "activeUsers": 711
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Japan",
+      "sessions": 846,
+      "activeUsers": 632
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "United States",
+      "sessions": 47,
+      "activeUsers": 47
+    },
+    {
+      "deviceCategory": "tablet",
+      "country": "Japan",
+      "sessions": 41,
+      "activeUsers": 34
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "United States",
+      "sessions": 14,
+      "activeUsers": 10
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "United Kingdom",
+      "sessions": 10,
+      "activeUsers": 7
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Singapore",
+      "sessions": 7,
+      "activeUsers": 7
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "France",
+      "sessions": 5,
+      "activeUsers": 5
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Thailand",
+      "sessions": 4,
+      "activeUsers": 4
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "United Kingdom",
+      "sessions": 4,
+      "activeUsers": 3
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Germany",
+      "sessions": 4,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Australia",
+      "sessions": 3,
+      "activeUsers": 3
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Ethiopia",
+      "sessions": 3,
+      "activeUsers": 3
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Brazil",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "France",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Canada",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Hong Kong",
+      "sessions": 2,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Spain",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Austria",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Canada",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "China",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Denmark",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Germany",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Hungary",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Poland",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Portugal",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Sweden",
+      "sessions": 1,
+      "activeUsers": 0
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Taiwan",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Brazil",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "China",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Hungary",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Netherlands",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Türkiye",
+      "sessions": 1,
+      "activeUsers": 1
+    }
+  ]
+}

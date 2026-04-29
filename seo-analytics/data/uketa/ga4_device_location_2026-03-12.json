@@ -1,0 +1,93 @@
+{
+  "site": "uketa",
+  "type": "device_location",
+  "date": "2026-03-12",
+  "timestamp": "2026-03-13T13:04:23.295Z",
+  "count": 14,
+  "data": [
+    {
+      "deviceCategory": "desktop",
+      "country": "Japan",
+      "sessions": 73,
+      "activeUsers": 39
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Japan",
+      "sessions": 30,
+      "activeUsers": 28
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Germany",
+      "sessions": 3,
+      "activeUsers": 3
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Brazil",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Ghana",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "United States",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "(not set)",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Austria",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "France",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Germany",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "United Kingdom",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Netherlands",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "United Kingdom",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "United States",
+      "sessions": 1,
+      "activeUsers": 1
+    }
+  ]
+}

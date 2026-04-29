@@ -1,0 +1,63 @@
+{
+  "site": "esta",
+  "type": "device_location",
+  "date": "2026-03-15",
+  "timestamp": "2026-03-16T16:44:39.216Z",
+  "count": 9,
+  "data": [
+    {
+      "deviceCategory": "desktop",
+      "country": "Japan",
+      "sessions": 235,
+      "activeUsers": 188
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Japan",
+      "sessions": 217,
+      "activeUsers": 203
+    },
+    {
+      "deviceCategory": "tablet",
+      "country": "Japan",
+      "sessions": 11,
+      "activeUsers": 10
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "United States",
+      "sessions": 5,
+      "activeUsers": 5
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "(not set)",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Brazil",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Vietnam",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Thailand",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "United States",
+      "sessions": 1,
+      "activeUsers": 1
+    }
+  ]
+}

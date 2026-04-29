@@ -1,0 +1,203 @@
+{
+  "site": "ETIAS",
+  "siteId": "etias",
+  "domain": "etias-eutravel.com",
+  "timestamp": "2026-03-14T08:58:11.723Z",
+  "searchConsole": {
+    "totalClicks": 40,
+    "totalImpressions": 1990,
+    "averageCTR": "2.01",
+    "averagePosition": "26.1",
+    "totalQueries": 509
+  },
+  "analytics": {
+    "totalSessions": 1903,
+    "totalUsers": 1540,
+    "totalPageViews": 3669,
+    "totalConversions": 0,
+    "conversionRate": "0.00",
+    "averageSessionDuration": "269",
+    "averageBounceRate": "37.79",
+    "topSources": [
+      {
+        "channel": "Direct",
+        "source": "(direct)",
+        "sessions": 654,
+        "users": 561,
+        "conversions": 0
+      },
+      {
+        "channel": "Referral",
+        "source": "etias-eutravel.com",
+        "sessions": 375,
+        "users": 246,
+        "conversions": 0
+      },
+      {
+        "channel": "Organic Search",
+        "source": "bing",
+        "sessions": 338,
+        "users": 272,
+        "conversions": 0
+      },
+      {
+        "channel": "Organic Search",
+        "source": "yahoo",
+        "sessions": 336,
+        "users": 284,
+        "conversions": 0
+      },
+      {
+        "channel": "Organic Search",
+        "source": "google",
+        "sessions": 107,
+        "users": 86,
+        "conversions": 0
+      }
+    ]
+  },
+  "topQueries": [
+    {
+      "query": "etias申請フォーム",
+      "clicks": 6,
+      "impressions": 59,
+      "ctr": "10.17",
+      "position": "6.2"
+    },
+    {
+      "query": "ベルギー ワーホリ",
+      "clicks": 6,
+      "impressions": 25,
+      "ctr": "24.00",
+      "position": "4.0"
+    },
+    {
+      "query": "etias 申請",
+      "clicks": 5,
+      "impressions": 145,
+      "ctr": "3.45",
+      "position": "17.2"
+    },
+    {
+      "query": "etias 申請フォーム",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": "13.33",
+      "position": "5.9"
+    },
+    {
+      "query": "etias申請",
+      "clicks": 2,
+      "impressions": 41,
+      "ctr": "4.88",
+      "position": "23.0"
+    },
+    {
+      "query": "ポーランド入国",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": "66.67",
+      "position": "3.0"
+    },
+    {
+      "query": "ees etias 違い",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": "50.00",
+      "position": "11.5"
+    },
+    {
+      "query": "etias いつまでに申請",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": "100.00",
+      "position": "6.0"
+    },
+    {
+      "query": "etias オンライン申請",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": "5.56",
+      "position": "9.6"
+    },
+    {
+      "query": "エティアス 申請フォーム",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": "50.00",
+      "position": "6.0"
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://etias-eutravel.com/",
+      "clicks": 23,
+      "impressions": 1097,
+      "ctr": "2.10",
+      "position": "22.5"
+    },
+    {
+      "page": "https://etias-eutravel.com/belgium_visa/",
+      "clicks": 12,
+      "impressions": 187,
+      "ctr": "6.42",
+      "position": "10.7"
+    },
+    {
+      "page": "https://etias-eutravel.com/news/990100/poland/",
+      "clicks": 9,
+      "impressions": 110,
+      "ctr": "8.18",
+      "position": "15.1"
+    },
+    {
+      "page": "https://etias-eutravel.com/italy_visa/",
+      "clicks": 6,
+      "impressions": 175,
+      "ctr": "3.43",
+      "position": "18.2"
+    },
+    {
+      "page": "https://etias-eutravel.com/hungary_visa/",
+      "clicks": 5,
+      "impressions": 81,
+      "ctr": "6.17",
+      "position": "15.5"
+    },
+    {
+      "page": "https://etias-eutravel.com/news/990100/czech/",
+      "clicks": 4,
+      "impressions": 79,
+      "ctr": "5.06",
+      "position": "6.0"
+    },
+    {
+      "page": "https://etias-eutravel.com/poland_visa/",
+      "clicks": 4,
+      "impressions": 141,
+      "ctr": "2.84",
+      "position": "13.7"
+    },
+    {
+      "page": "https://etias-eutravel.com/france_visa/",
+      "clicks": 3,
+      "impressions": 109,
+      "ctr": "2.75",
+      "position": "27.2"
+    },
+    {
+      "page": "https://etias-eutravel.com/czech_visa/",
+      "clicks": 2,
+      "impressions": 84,
+      "ctr": "2.38",
+      "position": "15.0"
+    },
+    {
+      "page": "https://etias-eutravel.com/denmark_visa/",
+      "clicks": 2,
+      "impressions": 55,
+      "ctr": "3.64",
+      "position": "18.5"
+    }
+  ]
+}

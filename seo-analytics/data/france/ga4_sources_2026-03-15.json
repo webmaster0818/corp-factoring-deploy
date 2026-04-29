@@ -1,0 +1,23 @@
+{
+  "site": "france",
+  "type": "sources",
+  "date": "2026-03-15",
+  "timestamp": "2026-03-16T16:45:00.270Z",
+  "count": 2,
+  "data": [
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "sessionSource": "(direct)",
+      "sessions": 7,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "google",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    }
+  ]
+}

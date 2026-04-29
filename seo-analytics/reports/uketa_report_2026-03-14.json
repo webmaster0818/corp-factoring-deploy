@@ -1,0 +1,55 @@
+{
+  "site": "UK-ETA",
+  "siteId": "uketa",
+  "domain": "未確認",
+  "timestamp": "2026-03-14T08:58:11.724Z",
+  "searchConsole": {},
+  "analytics": {
+    "totalSessions": 128,
+    "totalUsers": 104,
+    "totalPageViews": 220,
+    "totalConversions": 0,
+    "conversionRate": "0.00",
+    "averageSessionDuration": "270",
+    "averageBounceRate": "32.19",
+    "topSources": [
+      {
+        "channel": "Organic Search",
+        "source": "google",
+        "sessions": 63,
+        "users": 54,
+        "conversions": 0
+      },
+      {
+        "channel": "Direct",
+        "source": "(direct)",
+        "sessions": 42,
+        "users": 24,
+        "conversions": 0
+      },
+      {
+        "channel": "Organic Search",
+        "source": "yahoo",
+        "sessions": 11,
+        "users": 9,
+        "conversions": 0
+      },
+      {
+        "channel": "Organic Search",
+        "source": "search.google.com",
+        "sessions": 8,
+        "users": 2,
+        "conversions": 0
+      },
+      {
+        "channel": "Referral",
+        "source": "service.smt.docomo.ne.jp",
+        "sessions": 3,
+        "users": 3,
+        "conversions": 0
+      }
+    ]
+  },
+  "topQueries": [],
+  "topPages": []
+}

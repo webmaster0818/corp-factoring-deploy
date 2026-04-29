@@ -1,0 +1,296 @@
+{
+  "site": "keta",
+  "type": "sources",
+  "date": "2026-03-15",
+  "timestamp": "2026-03-16T16:44:49.460Z",
+  "count": 41,
+  "data": [
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "sessionSource": "(direct)",
+      "sessions": 6050,
+      "activeUsers": 5273,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "yahoo",
+      "sessions": 4177,
+      "activeUsers": 3450,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "bing",
+      "sessions": 2035,
+      "activeUsers": 1615,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "google",
+      "sessions": 357,
+      "activeUsers": 274,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Search",
+      "sessionSource": "yahoo",
+      "sessions": 24,
+      "activeUsers": 17,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessionSource": "chatgpt.com",
+      "sessions": 17,
+      "activeUsers": 16,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "sp-search.jp",
+      "sessions": 14,
+      "activeUsers": 14,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "statics.teams.cdn.office.net",
+      "sessions": 12,
+      "activeUsers": 6,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "chatgpt.com",
+      "sessions": 9,
+      "activeUsers": 6,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessionSource": "(not set)",
+      "sessions": 8,
+      "activeUsers": 8,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "cn.bing.com",
+      "sessions": 7,
+      "activeUsers": 5,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "duckduckgo",
+      "sessions": 7,
+      "activeUsers": 6,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "search.google.com",
+      "sessions": 7,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "ads-media.websearch.rakuten.co.jp",
+      "sessions": 6,
+      "activeUsers": 5,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "portal.uacj.co.jp",
+      "sessions": 5,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "service.smt.docomo.ne.jp",
+      "sessions": 5,
+      "activeUsers": 4,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "ecosia.org",
+      "sessions": 4,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "mail.google.com",
+      "sessions": 3,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Social",
+      "sessionSource": "l.instagram.com",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "benri.com",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "jwsearch.jword.jp",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "m.mail.yahoo.co.jp",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "rd.listing.yahoo.co.jp",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "search.fenrir-inc.com",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "webmail.naosg.co.jp",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessionSource": "copilot.com",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "websearch.rakuten.co.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionSource": "wms.sso.biglobe.ne.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Shopping",
+      "sessionSource": "support.stripe.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Social",
+      "sessionSource": "facebook.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Social",
+      "sessionSource": "m.facebook.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Paid Search",
+      "sessionSource": "google",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "ccj-kokusen--c.vf.force.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "copilot.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "glo-tec.co.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "kaikatsu.jword.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "l.threads.com",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "mail.yahoo.co.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "secure.okbiz.jp",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "syh-keta-form-kqo3vtc9w-syh-s-team.vercel.app",
+      "sessions": 1,
+      "activeUsers": 0,
+      "conversions": 0
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessionSource": "uketa.local",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    }
+  ]
+}

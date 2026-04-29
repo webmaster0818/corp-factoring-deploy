@@ -1,0 +1,594 @@
+{
+  "site": "keta",
+  "type": "landing_pages",
+  "date": "2026-03-12",
+  "timestamp": "2026-03-13T13:04:16.474Z",
+  "count": 65,
+  "data": [
+    {
+      "landingPage": "/top/index.html",
+      "sessions": 7847,
+      "activeUsers": 6962,
+      "screenPageViews": 15662,
+      "averageSessionDuration": 246.43820644704985,
+      "bounceRate": 0.293615394418249,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/immigration-departure/index.html",
+      "sessions": 1145,
+      "activeUsers": 1062,
+      "screenPageViews": 2333,
+      "averageSessionDuration": 352.4436198419214,
+      "bounceRate": 0.2131004366812227,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/service/index.html",
+      "sessions": 731,
+      "activeUsers": 694,
+      "screenPageViews": 1374,
+      "averageSessionDuration": 234.6281293871409,
+      "bounceRate": 0.20930232558139536,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/e-arrival/index.html",
+      "sessions": 575,
+      "activeUsers": 523,
+      "screenPageViews": 978,
+      "averageSessionDuration": 258.6005110486957,
+      "bounceRate": 0.26956521739130435,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/sp/step1",
+      "sessions": 417,
+      "activeUsers": 329,
+      "screenPageViews": 1092,
+      "averageSessionDuration": 341.232668263789,
+      "bounceRate": 0.4940047961630695,
+      "conversions": 0
+    },
+    {
+      "landingPage": "(not set)",
+      "sessions": 345,
+      "activeUsers": 273,
+      "screenPageViews": 0,
+      "averageSessionDuration": 11.859410434782609,
+      "bounceRate": 0.9768115942028985,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/transit/index.html",
+      "sessions": 176,
+      "activeUsers": 153,
+      "screenPageViews": 225,
+      "averageSessionDuration": 133.18923263636364,
+      "bounceRate": 0.39204545454545453,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/flow/index.html",
+      "sessions": 129,
+      "activeUsers": 113,
+      "screenPageViews": 275,
+      "averageSessionDuration": 415.1926421472868,
+      "bounceRate": 0.2868217054263566,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/reapplication/index.html",
+      "sessions": 109,
+      "activeUsers": 100,
+      "screenPageViews": 195,
+      "averageSessionDuration": 227.91349678899087,
+      "bounceRate": 0.3577981651376147,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/",
+      "sessions": 97,
+      "activeUsers": 82,
+      "screenPageViews": 403,
+      "averageSessionDuration": 357.4537395154639,
+      "bounceRate": 0.3711340206185567,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/contact/top",
+      "sessions": 96,
+      "activeUsers": 78,
+      "screenPageViews": 355,
+      "averageSessionDuration": 320.61506825,
+      "bounceRate": 0.4791666666666667,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/country/index.html",
+      "sessions": 72,
+      "activeUsers": 62,
+      "screenPageViews": 110,
+      "averageSessionDuration": 184.09150830555555,
+      "bounceRate": 0.2777777777777778,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/sp/status",
+      "sessions": 56,
+      "activeUsers": 11,
+      "screenPageViews": 202,
+      "averageSessionDuration": 1209.4612187500002,
+      "bounceRate": 0.30357142857142855,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/fee/index.html",
+      "sessions": 48,
+      "activeUsers": 40,
+      "screenPageViews": 108,
+      "averageSessionDuration": 227.70875168749998,
+      "bounceRate": 0.3333333333333333,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/checklist/index.html",
+      "sessions": 46,
+      "activeUsers": 43,
+      "screenPageViews": 70,
+      "averageSessionDuration": 193.73841917391303,
+      "bounceRate": 0.2826086956521739,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news",
+      "sessions": 44,
+      "activeUsers": 44,
+      "screenPageViews": 111,
+      "averageSessionDuration": 158.81986781818182,
+      "bounceRate": 0.1590909090909091,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/pc/step1",
+      "sessions": 42,
+      "activeUsers": 37,
+      "screenPageViews": 160,
+      "averageSessionDuration": 602.8212637857143,
+      "bounceRate": 0.38095238095238093,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/group/index.html",
+      "sessions": 28,
+      "activeUsers": 28,
+      "screenPageViews": 82,
+      "averageSessionDuration": 314.11444085714294,
+      "bounceRate": 0.39285714285714285,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/incheon-airport/index.html",
+      "sessions": 26,
+      "activeUsers": 21,
+      "screenPageViews": 33,
+      "averageSessionDuration": 294.3477772692308,
+      "bounceRate": 0.38461538461538464,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/aboutus/index.html",
+      "sessions": 23,
+      "activeUsers": 17,
+      "screenPageViews": 42,
+      "averageSessionDuration": 299.13540073913043,
+      "bounceRate": 0.43478260869565216,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/002500",
+      "sessions": 23,
+      "activeUsers": 17,
+      "screenPageViews": 28,
+      "averageSessionDuration": 44.08056104347826,
+      "bounceRate": 0.6521739130434783,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/refusal/index.html",
+      "sessions": 22,
+      "activeUsers": 17,
+      "screenPageViews": 30,
+      "averageSessionDuration": 108.58854231818182,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/f5-visa/index.html",
+      "sessions": 18,
+      "activeUsers": 17,
+      "screenPageViews": 18,
+      "averageSessionDuration": 117.35852750000001,
+      "bounceRate": 0.1111111111111111,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/flow-passport/index.html",
+      "sessions": 16,
+      "activeUsers": 14,
+      "screenPageViews": 29,
+      "averageSessionDuration": 328.2124795625,
+      "bounceRate": 0.5625,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/pc/step2",
+      "sessions": 16,
+      "activeUsers": 16,
+      "screenPageViews": 148,
+      "averageSessionDuration": 1697.961769125,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/keta-and-visa/index.html",
+      "sessions": 14,
+      "activeUsers": 7,
+      "screenPageViews": 26,
+      "averageSessionDuration": 122.04878771428571,
+      "bounceRate": 0.5714285714285714,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/visa/index.html",
+      "sessions": 13,
+      "activeUsers": 13,
+      "screenPageViews": 20,
+      "averageSessionDuration": 171.5915276923077,
+      "bounceRate": 0.23076923076923078,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/agreement/index.html",
+      "sessions": 12,
+      "activeUsers": 11,
+      "screenPageViews": 44,
+      "averageSessionDuration": 435.17465816666663,
+      "bounceRate": 0.16666666666666666,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/q-code/index.html",
+      "sessions": 12,
+      "activeUsers": 11,
+      "screenPageViews": 14,
+      "averageSessionDuration": 184.76998333333333,
+      "bounceRate": 0.4166666666666667,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/sp/step2",
+      "sessions": 11,
+      "activeUsers": 11,
+      "screenPageViews": 57,
+      "averageSessionDuration": 622.90721,
+      "bounceRate": 0.09090909090909091,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/re-entry-permit/index.html",
+      "sessions": 11,
+      "activeUsers": 9,
+      "screenPageViews": 19,
+      "averageSessionDuration": 317.97682872727273,
+      "bounceRate": 0.2727272727272727,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/working-visa/index.html",
+      "sessions": 11,
+      "activeUsers": 11,
+      "screenPageViews": 18,
+      "averageSessionDuration": 266.56968863636365,
+      "bounceRate": 0.2727272727272727,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/app-keta/index.html",
+      "sessions": 9,
+      "activeUsers": 8,
+      "screenPageViews": 29,
+      "averageSessionDuration": 333.403772,
+      "bounceRate": 0.2222222222222222,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/deadline/index.html",
+      "sessions": 9,
+      "activeUsers": 8,
+      "screenPageViews": 24,
+      "averageSessionDuration": 57.306999888888896,
+      "bounceRate": 0.3333333333333333,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/001500",
+      "sessions": 9,
+      "activeUsers": 9,
+      "screenPageViews": 9,
+      "averageSessionDuration": 11.784707666666668,
+      "bounceRate": 0.6666666666666666,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/002600",
+      "sessions": 8,
+      "activeUsers": 7,
+      "screenPageViews": 14,
+      "averageSessionDuration": 821.50731975,
+      "bounceRate": 0.125,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/sp/stripePayment",
+      "sessions": 6,
+      "activeUsers": 5,
+      "screenPageViews": 11,
+      "averageSessionDuration": 21.243902833333333,
+      "bounceRate": 0.6666666666666666,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/sp/complete",
+      "sessions": 5,
+      "activeUsers": 5,
+      "screenPageViews": 10,
+      "averageSessionDuration": 431.681085,
+      "bounceRate": 0.8,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/page_cat/basic-information",
+      "sessions": 5,
+      "activeUsers": 1,
+      "screenPageViews": 7,
+      "averageSessionDuration": 47.5753144,
+      "bounceRate": 0.8,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/status-of-residence/index.html",
+      "sessions": 5,
+      "activeUsers": 5,
+      "screenPageViews": 6,
+      "averageSessionDuration": 319.78453,
+      "bounceRate": 0.4,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/pc/status",
+      "sessions": 4,
+      "activeUsers": 3,
+      "screenPageViews": 7,
+      "averageSessionDuration": 31.06019325,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/000900",
+      "sessions": 4,
+      "activeUsers": 3,
+      "screenPageViews": 6,
+      "averageSessionDuration": 125.9974395,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/002400",
+      "sessions": 4,
+      "activeUsers": 4,
+      "screenPageViews": 7,
+      "averageSessionDuration": 210.98374,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/page_cat/application-guide",
+      "sessions": 4,
+      "activeUsers": 4,
+      "screenPageViews": 10,
+      "averageSessionDuration": 311.17783249999997,
+      "bounceRate": 0.25,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/study-abroad-visa/index.html",
+      "sessions": 4,
+      "activeUsers": 4,
+      "screenPageViews": 4,
+      "averageSessionDuration": 36.58095925,
+      "bounceRate": 0.25,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/vwa/index.html",
+      "sessions": 4,
+      "activeUsers": 3,
+      "screenPageViews": 4,
+      "averageSessionDuration": 35.24100325,
+      "bounceRate": 0.75,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/digital-nomad-visa/index.html",
+      "sessions": 3,
+      "activeUsers": 2,
+      "screenPageViews": 3,
+      "averageSessionDuration": 57.22065733333333,
+      "bounceRate": 0.6666666666666666,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/exchange-program/index.html",
+      "sessions": 3,
+      "activeUsers": 2,
+      "screenPageViews": 3,
+      "averageSessionDuration": 13.884736000000002,
+      "bounceRate": 0.6666666666666666,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/pc/confirm",
+      "sessions": 3,
+      "activeUsers": 2,
+      "screenPageViews": 13,
+      "averageSessionDuration": 234.246726,
+      "bounceRate": 0.3333333333333333,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/002700",
+      "sessions": 3,
+      "activeUsers": 2,
+      "screenPageViews": 3,
+      "averageSessionDuration": 32.864985,
+      "bounceRate": 0.3333333333333333,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/contact/confirm",
+      "sessions": 2,
+      "activeUsers": 2,
+      "screenPageViews": 5,
+      "averageSessionDuration": 55.369174,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/sp/confirm",
+      "sessions": 2,
+      "activeUsers": 1,
+      "screenPageViews": 5,
+      "averageSessionDuration": 16.7824665,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/korea-visa/index.html",
+      "sessions": 2,
+      "activeUsers": 2,
+      "screenPageViews": 2,
+      "averageSessionDuration": 11.273951,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/family-visa/index.html",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 21.003867,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/form/pc/complete",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 2,
+      "averageSessionDuration": 42.115521,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/000400",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 46.011805,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/000800",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 5,
+      "averageSessionDuration": 1026.985215,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/001300",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 3,
+      "averageSessionDuration": 138.990955,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/001400",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 3.560333,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/001600",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 11.694848,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/news/001800",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 71.717732,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/page_cat/korea-visa",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/student-visa/index.html",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/top/index.ht",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 2,
+      "averageSessionDuration": 6.216501,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/working-holiday/index.html",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    }
+  ]
+}

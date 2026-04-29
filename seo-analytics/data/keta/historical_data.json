@@ -1,0 +1,697 @@
+{
+  "site": "keta",
+  "generatedAt": "2026-03-14T09:00:24.462Z",
+  "period": "2025-01 to present",
+  "data": [
+    {
+      "year": 2025,
+      "month": 1,
+      "period": "2025-01",
+      "totalClicks": 1178,
+      "totalImpressions": 30207,
+      "avgPosition": 9.283808388784056,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "keta",
+          "clicks": 22,
+          "impressions": 1852,
+          "position": 12.642008639308855,
+          "ctr": 0.011879049676025918
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 7,
+          "impressions": 174,
+          "position": 2.810344827586207,
+          "ctr": 0.040229885057471264
+        },
+        {
+          "keyword": "k-eta",
+          "clicks": 5,
+          "impressions": 213,
+          "position": 18.591549295774648,
+          "ctr": 0.023474178403755867
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 3,
+          "impressions": 133,
+          "position": 11.451127819548873,
+          "ctr": 0.022556390977443608
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 1,
+          "impressions": 32,
+          "position": 8.34375,
+          "ctr": 0.03125
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "month": 2,
+      "period": "2025-02",
+      "totalClicks": 4322,
+      "totalImpressions": 79667,
+      "avgPosition": 7.688679126865578,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "keta",
+          "clicks": 153,
+          "impressions": 5533,
+          "position": 9.292065787095607,
+          "ctr": 0.02765226820892825
+        },
+        {
+          "keyword": "k-eta",
+          "clicks": 43,
+          "impressions": 2824,
+          "position": 13.887393767705383,
+          "ctr": 0.015226628895184136
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 28,
+          "impressions": 1152,
+          "position": 6.880208333333333,
+          "ctr": 0.024305555555555556
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 25,
+          "impressions": 1170,
+          "position": 7.662393162393163,
+          "ctr": 0.021367521367521368
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 9,
+          "impressions": 236,
+          "position": 6.572033898305085,
+          "ctr": 0.038135593220338986
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "period": "2025-03",
+      "totalClicks": 26762,
+      "totalImpressions": 406229,
+      "avgPosition": 11.947684680315783,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "keta",
+          "clicks": 644,
+          "impressions": 27317,
+          "position": 30.28959988285683,
+          "ctr": 0.023575063147490572
+        },
+        {
+          "keyword": "k-eta",
+          "clicks": 386,
+          "impressions": 20413,
+          "position": 24.44153235683143,
+          "ctr": 0.01890951844412874
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 135,
+          "impressions": 2073,
+          "position": 5.188615533043897,
+          "ctr": 0.06512301013024602
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 61,
+          "impressions": 1998,
+          "position": 5.466966966966967,
+          "ctr": 0.03053053053053053
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 20,
+          "impressions": 534,
+          "position": 5.449438202247191,
+          "ctr": 0.03745318352059925
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "month": 4,
+      "period": "2025-04",
+      "totalClicks": 21327,
+      "totalImpressions": 313162,
+      "avgPosition": 9.768212618389205,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "k-eta",
+          "clicks": 1088,
+          "impressions": 16874,
+          "position": 19.12178499466635,
+          "ctr": 0.06447789498636956
+        },
+        {
+          "keyword": "keta",
+          "clicks": 911,
+          "impressions": 23089,
+          "position": 22.287366278314348,
+          "ctr": 0.039456018017237644
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 240,
+          "impressions": 1513,
+          "position": 3.067415730337079,
+          "ctr": 0.15862524785194976
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 102,
+          "impressions": 1543,
+          "position": 2.222294232015554,
+          "ctr": 0.0661049902786779
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 37,
+          "impressions": 331,
+          "position": 4.5347432024169185,
+          "ctr": 0.11178247734138973
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "month": 5,
+      "period": "2025-05",
+      "totalClicks": 20984,
+      "totalImpressions": 346416,
+      "avgPosition": 8.512106831093252,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "k-eta",
+          "clicks": 1276,
+          "impressions": 15993,
+          "position": 12.586756706058901,
+          "ctr": 0.07978490589632964
+        },
+        {
+          "keyword": "keta",
+          "clicks": 1087,
+          "impressions": 22845,
+          "position": 20.27065003282994,
+          "ctr": 0.0475815276865835
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 260,
+          "impressions": 1696,
+          "position": 2.716981132075472,
+          "ctr": 0.15330188679245282
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 200,
+          "impressions": 1962,
+          "position": 1.3287461773700306,
+          "ctr": 0.1019367991845056
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 76,
+          "impressions": 419,
+          "position": 2.62291169451074,
+          "ctr": 0.18138424821002386
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "month": 6,
+      "period": "2025-06",
+      "totalClicks": 21575,
+      "totalImpressions": 357465,
+      "avgPosition": 9.162773977871959,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "k-eta",
+          "clicks": 1417,
+          "impressions": 19243,
+          "position": 16.914514368861404,
+          "ctr": 0.0736371667619394
+        },
+        {
+          "keyword": "keta",
+          "clicks": 1224,
+          "impressions": 28937,
+          "position": 22.064934167329024,
+          "ctr": 0.0422987870200781
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 460,
+          "impressions": 2100,
+          "position": 2.211904761904762,
+          "ctr": 0.21904761904761905
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 192,
+          "impressions": 1950,
+          "position": 2.048205128205128,
+          "ctr": 0.09846153846153846
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 82,
+          "impressions": 446,
+          "position": 2.304932735426009,
+          "ctr": 0.18385650224215247
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "month": 7,
+      "period": "2025-07",
+      "totalClicks": 1182,
+      "totalImpressions": 69089,
+      "avgPosition": 32.41905368437812,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "keta",
+          "clicks": 76,
+          "impressions": 14462,
+          "position": 47.83612225141751,
+          "ctr": 0.005255151431337298
+        },
+        {
+          "keyword": "k-eta",
+          "clicks": 36,
+          "impressions": 12737,
+          "position": 43.1070110701107,
+          "ctr": 0.0028264112428358326
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 32,
+          "impressions": 902,
+          "position": 9.1019955654102,
+          "ctr": 0.03547671840354767
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 12,
+          "impressions": 1263,
+          "position": 38.18923198733175,
+          "ctr": 0.009501187648456057
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 4,
+          "impressions": 564,
+          "position": 9.936170212765957,
+          "ctr": 0.0070921985815602835
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "month": 8,
+      "period": "2025-08",
+      "totalClicks": 654,
+      "totalImpressions": 66068,
+      "avgPosition": 43.99123630199189,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "keta",
+          "clicks": 23,
+          "impressions": 8206,
+          "position": 48.03960516695101,
+          "ctr": 0.0028028271996100415
+        },
+        {
+          "keyword": "k-eta",
+          "clicks": 3,
+          "impressions": 10110,
+          "position": 52.37695351137488,
+          "ctr": 0.0002967359050445104
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 1,
+          "impressions": 96,
+          "position": 49.552083333333336,
+          "ctr": 0.010416666666666666
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 0,
+          "impressions": 17,
+          "position": 29.823529411764707,
+          "ctr": 0
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 0,
+          "impressions": 643,
+          "position": 11.89891135303266,
+          "ctr": 0
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "month": 9,
+      "period": "2025-09",
+      "totalClicks": 551,
+      "totalImpressions": 25866,
+      "avgPosition": 40.0995901956236,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "keta",
+          "clicks": 8,
+          "impressions": 590,
+          "position": 32.14237288135593,
+          "ctr": 0.013559322033898305
+        },
+        {
+          "keyword": "k-eta",
+          "clicks": 2,
+          "impressions": 3788,
+          "position": 77.41050686378036,
+          "ctr": 0.0005279831045406547
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 1,
+          "impressions": 81,
+          "position": 39.44444444444444,
+          "ctr": 0.012345679012345678
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 0,
+          "impressions": 30,
+          "position": 19.533333333333335,
+          "ctr": 0
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 0,
+          "impressions": 1067,
+          "position": 12.454545454545455,
+          "ctr": 0
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "month": 10,
+      "period": "2025-10",
+      "totalClicks": 315,
+      "totalImpressions": 17375,
+      "avgPosition": 35.70923741007194,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "keta",
+          "clicks": 7,
+          "impressions": 352,
+          "position": 44.46590909090909,
+          "ctr": 0.019886363636363636
+        },
+        {
+          "keyword": "k-eta",
+          "clicks": 4,
+          "impressions": 4373,
+          "position": 89.06814543791448,
+          "ctr": 0.000914703864623828
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 1,
+          "impressions": 60,
+          "position": 25.583333333333332,
+          "ctr": 0.016666666666666666
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 0,
+          "impressions": 51,
+          "position": 19.88235294117647,
+          "ctr": 0
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 0,
+          "impressions": 1559,
+          "position": 12.608723540731239,
+          "ctr": 0
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "period": "2025-11",
+      "totalClicks": 335,
+      "totalImpressions": 14005,
+      "avgPosition": 20.150589075330238,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "keta",
+          "clicks": 6,
+          "impressions": 377,
+          "position": 61.06631299734748,
+          "ctr": 0.015915119363395226
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 3,
+          "impressions": 183,
+          "position": 12.136612021857923,
+          "ctr": 0.01639344262295082
+        },
+        {
+          "keyword": "k-eta",
+          "clicks": 0,
+          "impressions": 249,
+          "position": 54.618473895582326,
+          "ctr": 0
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 0,
+          "impressions": 1570,
+          "position": 12.919745222929937,
+          "ctr": 0
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 0,
+          "impressions": 113,
+          "position": 16.353982300884958,
+          "ctr": 0
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "month": 12,
+      "period": "2025-12",
+      "totalClicks": 470,
+      "totalImpressions": 15516,
+      "avgPosition": 17.630381541634442,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "keta",
+          "clicks": 3,
+          "impressions": 941,
+          "position": 24.462274176408076,
+          "ctr": 0.003188097768331562
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 1,
+          "impressions": 289,
+          "position": 12.972318339100346,
+          "ctr": 0.0034602076124567475
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 1,
+          "impressions": 120,
+          "position": 21.05,
+          "ctr": 0.008333333333333333
+        },
+        {
+          "keyword": "k-eta",
+          "clicks": 0,
+          "impressions": 367,
+          "position": 57.346049046321525,
+          "ctr": 0
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 0,
+          "impressions": 1499,
+          "position": 13.083388925950635,
+          "ctr": 0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "period": "2026-01",
+      "totalClicks": 271,
+      "totalImpressions": 13652,
+      "avgPosition": 24.405508350424846,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "k-eta",
+          "clicks": 0,
+          "impressions": 499,
+          "position": 64.3066132264529,
+          "ctr": 0
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 0,
+          "impressions": 441,
+          "position": 24.551020408163264,
+          "ctr": 0
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 0,
+          "impressions": 1322,
+          "position": 12.533282904689864,
+          "ctr": 0
+        },
+        {
+          "keyword": "keta",
+          "clicks": 0,
+          "impressions": 400,
+          "position": 38.9125,
+          "ctr": 0
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 0,
+          "impressions": 269,
+          "position": 62.76951672862454,
+          "ctr": 0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "period": "2026-02",
+      "totalClicks": 206,
+      "totalImpressions": 11664,
+      "avgPosition": 20.250857338820303,
+      "queryCount": 1000,
+      "mainKeywords": [
+        {
+          "keyword": "k-eta",
+          "clicks": 0,
+          "impressions": 190,
+          "position": 75.06315789473685,
+          "ctr": 0
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 0,
+          "impressions": 222,
+          "position": 20.545045045045047,
+          "ctr": 0
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 0,
+          "impressions": 1091,
+          "position": 12.735105407882676,
+          "ctr": 0
+        },
+        {
+          "keyword": "keta",
+          "clicks": 0,
+          "impressions": 147,
+          "position": 52.64625850340136,
+          "ctr": 0
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 0,
+          "impressions": 185,
+          "position": 36.18378378378378,
+          "ctr": 0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "period": "2026-03",
+      "totalClicks": 163,
+      "totalImpressions": 6324,
+      "avgPosition": 15.179633143580013,
+      "queryCount": 905,
+      "mainKeywords": [
+        {
+          "keyword": "keta",
+          "clicks": 1,
+          "impressions": 97,
+          "position": 48.91752577319588,
+          "ctr": 0.010309278350515464
+        },
+        {
+          "keyword": "k-eta",
+          "clicks": 0,
+          "impressions": 18,
+          "position": 44.22222222222222,
+          "ctr": 0
+        },
+        {
+          "keyword": "k-eta 申請",
+          "clicks": 0,
+          "impressions": 228,
+          "position": 12.600877192982455,
+          "ctr": 0
+        },
+        {
+          "keyword": "k-etaとは",
+          "clicks": 0,
+          "impressions": 175,
+          "position": 12.811428571428571,
+          "ctr": 0
+        },
+        {
+          "keyword": "keta 申請",
+          "clicks": 0,
+          "impressions": 52,
+          "position": 33.75,
+          "ctr": 0
+        }
+      ]
+    }
+  ]
+}

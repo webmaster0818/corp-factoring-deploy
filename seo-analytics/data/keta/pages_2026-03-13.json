@@ -1,0 +1,1755 @@
+{
+  "site": "keta",
+  "type": "pages",
+  "date": "2026-03-13",
+  "timestamp": "2026-03-14T08:57:45.471Z",
+  "count": 194,
+  "data": [
+    {
+      "keys": [
+        "https://keta-travel.com/transit/index.html"
+      ],
+      "clicks": 91,
+      "impressions": 1239,
+      "ctr": 0.07344632768361582,
+      "position": 8.229217110573043
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/country/index.html"
+      ],
+      "clicks": 22,
+      "impressions": 421,
+      "ctr": 0.052256532066508314,
+      "position": 17.961995249406176
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/fee/index.html"
+      ],
+      "clicks": 22,
+      "impressions": 359,
+      "ctr": 0.06128133704735376,
+      "position": 16.818941504178273
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/reapplication/index.html"
+      ],
+      "clicks": 21,
+      "impressions": 332,
+      "ctr": 0.06325301204819277,
+      "position": 8.984939759036145
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/flow/index.html"
+      ],
+      "clicks": 18,
+      "impressions": 559,
+      "ctr": 0.03220035778175313,
+      "position": 17.34525939177102
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/refusal/index.html"
+      ],
+      "clicks": 16,
+      "impressions": 172,
+      "ctr": 0.09302325581395349,
+      "position": 12.087209302325581
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/group/index.html"
+      ],
+      "clicks": 14,
+      "impressions": 864,
+      "ctr": 0.016203703703703703,
+      "position": 12.935185185185185
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/agreement/index.html"
+      ],
+      "clicks": 13,
+      "impressions": 62,
+      "ctr": 0.20967741935483872,
+      "position": 16.241935483870968
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/top/index.html"
+      ],
+      "clicks": 10,
+      "impressions": 147,
+      "ctr": 0.06802721088435375,
+      "position": 25.993197278911566
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html"
+      ],
+      "clicks": 9,
+      "impressions": 434,
+      "ctr": 0.020737327188940093,
+      "position": 12.40783410138249
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/flow-passport/index.html"
+      ],
+      "clicks": 8,
+      "impressions": 66,
+      "ctr": 0.12121212121212122,
+      "position": 7.166666666666667
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/f5-visa/index.html"
+      ],
+      "clicks": 7,
+      "impressions": 378,
+      "ctr": 0.018518518518518517,
+      "position": 7.171957671957672
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/visa/index.html"
+      ],
+      "clicks": 6,
+      "impressions": 483,
+      "ctr": 0.012422360248447204,
+      "position": 19.318840579710145
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/e-arrival/index.html"
+      ],
+      "clicks": 5,
+      "impressions": 541,
+      "ctr": 0.009242144177449169,
+      "position": 21.155268022181147
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/app-keta/index.html"
+      ],
+      "clicks": 4,
+      "impressions": 208,
+      "ctr": 0.019230769230769232,
+      "position": 17.653846153846153
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/immigration-departure/index.html"
+      ],
+      "clicks": 3,
+      "impressions": 66,
+      "ctr": 0.045454545454545456,
+      "position": 43.60606060606061
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/working-visa/index.html"
+      ],
+      "clicks": 3,
+      "impressions": 40,
+      "ctr": 0.075,
+      "position": 11.85
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/checklist/index.html"
+      ],
+      "clicks": 2,
+      "impressions": 179,
+      "ctr": 0.0111731843575419,
+      "position": 44.614525139664806
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/keta-and-visa/index.html"
+      ],
+      "clicks": 2,
+      "impressions": 69,
+      "ctr": 0.028985507246376812,
+      "position": 14.492753623188406
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/q-code/index.html"
+      ],
+      "clicks": 2,
+      "impressions": 649,
+      "ctr": 0.0030816640986132513,
+      "position": 9.397534668721109
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/service/index.html"
+      ],
+      "clicks": 2,
+      "impressions": 194,
+      "ctr": 0.010309278350515464,
+      "position": 38.75257731958763
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/status-of-residence/index.html"
+      ],
+      "clicks": 2,
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 6.809523809523809
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/aboutus/index.html"
+      ],
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 14.515151515151516
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/deadline/index.html"
+      ],
+      "clicks": 1,
+      "impressions": 167,
+      "ctr": 0.005988023952095809,
+      "position": 16.40119760479042
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/digital-nomad-visa/index.html"
+      ],
+      "clicks": 1,
+      "impressions": 57,
+      "ctr": 0.017543859649122806,
+      "position": 10.017543859649123
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/001500/"
+      ],
+      "clicks": 1,
+      "impressions": 280,
+      "ctr": 0.0035714285714285713,
+      "position": 17.396428571428572
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/002400/"
+      ],
+      "clicks": 1,
+      "impressions": 74,
+      "ctr": 0.013513513513513514,
+      "position": 11.54054054054054
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/002500/"
+      ],
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 18.416666666666668
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/002700/"
+      ],
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 6.571428571428571
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/transit/index.html#transit3"
+      ],
+      "clicks": 1,
+      "impressions": 440,
+      "ctr": 0.0022727272727272726,
+      "position": 6.661363636363636
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/account-opening/index.html"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 14.333333333333334
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/app-keta/index.html#app-keta1"
+      ],
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 7.25
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/app-keta/index.html#app-keta2"
+      ],
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 7.25
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/app-keta/index.html#app-keta3"
+      ],
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 7.25
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/app-keta/index.html#app-keta4"
+      ],
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 7.25
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/app-keta/index.html#app-keta5"
+      ],
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 7.25
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/checklist/index.html#checklist0"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11.5
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/checklist/index.html#checklist0-1"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/checklist/index.html#checklist1"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11.5
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/checklist/index.html#checklist1-1"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/checklist/index.html#checklist1-10"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/checklist/index.html#checklist1-2"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11.5
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/checklist/index.html#checklist1-3"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11.5
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/checklist/index.html#checklist2"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11.5
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/checklist/index.html#checklist2-1"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/content-policy/index.html"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 20
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/country/index.html#country1"
+      ],
+      "clicks": 0,
+      "impressions": 181,
+      "ctr": 0,
+      "position": 6.513812154696133
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/country/index.html#country1-1"
+      ],
+      "clicks": 0,
+      "impressions": 134,
+      "ctr": 0,
+      "position": 6.3283582089552235
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/country/index.html#country1-2"
+      ],
+      "clicks": 0,
+      "impressions": 176,
+      "ctr": 0,
+      "position": 6.494318181818182
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/deadline/index.html#deadline1"
+      ],
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 9.095238095238095
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/deadline/index.html#deadline1-1"
+      ],
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 9.31578947368421
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/deadline/index.html#deadline1-2"
+      ],
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 8.95
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/deadline/index.html#deadline2"
+      ],
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 9.31578947368421
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/deadline/index.html#deadline3"
+      ],
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 9.166666666666666
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/digital-nomad-visa/index.html#nomad1"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/digital-nomad-visa/index.html#nomad2"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/digital-nomad-visa/index.html#nomad3"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/digital-nomad-visa/index.html#nomad4"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/digital-nomad-visa/index.html#nomad5"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/digital-nomad-visa/index.html#nomad6"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/en/?doing_wp_cron=1759138988.8216340541839599609375"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/exchange-program/index.html"
+      ],
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 5.25
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/f5-visa/index.html#f51"
+      ],
+      "clicks": 0,
+      "impressions": 131,
+      "ctr": 0,
+      "position": 7.175572519083969
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/f5-visa/index.html#f52"
+      ],
+      "clicks": 0,
+      "impressions": 149,
+      "ctr": 0,
+      "position": 7.134228187919463
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/f5-visa/index.html#f53"
+      ],
+      "clicks": 0,
+      "impressions": 148,
+      "ctr": 0,
+      "position": 7.148648648648648
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/f5-visa/index.html#f54"
+      ],
+      "clicks": 0,
+      "impressions": 131,
+      "ctr": 0,
+      "position": 7.175572519083969
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/f5-visa/index.html#f55"
+      ],
+      "clicks": 0,
+      "impressions": 148,
+      "ctr": 0,
+      "position": 7.162162162162162
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/f5-visa/index.html#f56"
+      ],
+      "clicks": 0,
+      "impressions": 132,
+      "ctr": 0,
+      "position": 7.159090909090909
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/f5-visa/index.html#f57"
+      ],
+      "clicks": 0,
+      "impressions": 132,
+      "ctr": 0,
+      "position": 7.143939393939394
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/family-visa/index.html"
+      ],
+      "clicks": 0,
+      "impressions": 79,
+      "ctr": 0,
+      "position": 4.3164556962025316
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/family-visa/index.html#family1"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 4.142857142857142
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/family-visa/index.html#family2"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 4.142857142857142
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/family-visa/index.html#family3"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 4.142857142857142
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/family-visa/index.html#family4"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 4.142857142857142
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/family-visa/index.html#family5"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 4.142857142857142
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/family-visa/index.html#family6"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 4.142857142857142
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/fee/index.html#fee0"
+      ],
+      "clicks": 0,
+      "impressions": 160,
+      "ctr": 0,
+      "position": 5.7375
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/fee/index.html#fee4"
+      ],
+      "clicks": 0,
+      "impressions": 109,
+      "ctr": 0,
+      "position": 5.26605504587156
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/fee/index.html#fee5"
+      ],
+      "clicks": 0,
+      "impressions": 160,
+      "ctr": 0,
+      "position": 5.7375
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/fee/index.html#fee6"
+      ],
+      "clicks": 0,
+      "impressions": 160,
+      "ctr": 0,
+      "position": 5.7375
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/flow/index.html#flow1"
+      ],
+      "clicks": 0,
+      "impressions": 164,
+      "ctr": 0,
+      "position": 6.762195121951219
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/flow/index.html#flow2"
+      ],
+      "clicks": 0,
+      "impressions": 168,
+      "ctr": 0,
+      "position": 6.714285714285714
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/flow/index.html#flow3"
+      ],
+      "clicks": 0,
+      "impressions": 171,
+      "ctr": 0,
+      "position": 6.818713450292398
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/flow/index.html#flow3-1"
+      ],
+      "clicks": 0,
+      "impressions": 111,
+      "ctr": 0,
+      "position": 6.576576576576577
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/flow/index.html#flow3-4"
+      ],
+      "clicks": 0,
+      "impressions": 143,
+      "ctr": 0,
+      "position": 6.65034965034965
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/flow/index.html#flow3-5"
+      ],
+      "clicks": 0,
+      "impressions": 146,
+      "ctr": 0,
+      "position": 6.63013698630137
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/flow/index.html#flow3-6"
+      ],
+      "clicks": 0,
+      "impressions": 115,
+      "ctr": 0,
+      "position": 6.756521739130434
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/flow/index.html#flow3-7"
+      ],
+      "clicks": 0,
+      "impressions": 96,
+      "ctr": 0,
+      "position": 6.71875
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/form/entry"
+      ],
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/form/status"
+      ],
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 17.583333333333332
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/group/index.html#group1"
+      ],
+      "clicks": 0,
+      "impressions": 63,
+      "ctr": 0,
+      "position": 5.285714285714286
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/group/index.html#group1-1"
+      ],
+      "clicks": 0,
+      "impressions": 59,
+      "ctr": 0,
+      "position": 5.610169491525424
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/group/index.html#group2"
+      ],
+      "clicks": 0,
+      "impressions": 68,
+      "ctr": 0,
+      "position": 5.25
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/group/index.html#group2-1"
+      ],
+      "clicks": 0,
+      "impressions": 57,
+      "ctr": 0,
+      "position": 5.385964912280702
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/group/index.html#group2-2"
+      ],
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 4.073170731707317
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/group/index.html#group2-3"
+      ],
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 6.073170731707317
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/group/index.html#group2-4"
+      ],
+      "clicks": 0,
+      "impressions": 49,
+      "ctr": 0,
+      "position": 5.224489795918367
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/group/index.html#group2-5"
+      ],
+      "clicks": 0,
+      "impressions": 58,
+      "ctr": 0,
+      "position": 5.431034482758621
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/immigration-departure/index.html#immigration1"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/immigration-departure/index.html#immigration2"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/immigration-departure/index.html#immigration2-1"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/immigration-departure/index.html#immigration3"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon1"
+      ],
+      "clicks": 0,
+      "impressions": 122,
+      "ctr": 0,
+      "position": 9.163934426229508
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon2"
+      ],
+      "clicks": 0,
+      "impressions": 159,
+      "ctr": 0,
+      "position": 9.270440251572326
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon2-1"
+      ],
+      "clicks": 0,
+      "impressions": 73,
+      "ctr": 0,
+      "position": 9.191780821917808
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon2-2"
+      ],
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 8.933333333333334
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon2-3"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 10.714285714285714
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon3"
+      ],
+      "clicks": 0,
+      "impressions": 161,
+      "ctr": 0,
+      "position": 9.322981366459627
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon3-1"
+      ],
+      "clicks": 0,
+      "impressions": 129,
+      "ctr": 0,
+      "position": 9.255813953488373
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon3-2"
+      ],
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon3-3"
+      ],
+      "clicks": 0,
+      "impressions": 116,
+      "ctr": 0,
+      "position": 9.206896551724139
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon3-4"
+      ],
+      "clicks": 0,
+      "impressions": 97,
+      "ctr": 0,
+      "position": 9.061855670103093
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon3-5"
+      ],
+      "clicks": 0,
+      "impressions": 37,
+      "ctr": 0,
+      "position": 9.567567567567568
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon3-6"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 8.4
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon3-7"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/incheon-airport/index.html#incheon3-8"
+      ],
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 9.451612903225806
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/keta-and-visa/index.html#andvisa1"
+      ],
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/keta-and-visa/index.html#andvisa1-1"
+      ],
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/keta-and-visa/index.html#andvisa1-2"
+      ],
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/keta-and-visa/index.html#andvisa2"
+      ],
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/keta-and-visa/index.html#andvisa3"
+      ],
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/korea-visa/index.html"
+      ],
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 27
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/maintenance"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/"
+      ],
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 9.25
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/000100/"
+      ],
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 7.636363636363637
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/000300/"
+      ],
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 8.25
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/000500/"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/000900/"
+      ],
+      "clicks": 0,
+      "impressions": 74,
+      "ctr": 0,
+      "position": 31.864864864864863
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/001000/"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 10.333333333333334
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/001100/"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 12.4
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/001200/"
+      ],
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 27.333333333333332
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/001300/"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/001400/"
+      ],
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/001600/"
+      ],
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 7.129032258064516
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/001700/"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 17.333333333333332
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/001800/"
+      ],
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 21.071428571428573
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/001900/"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.333333333333334
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/002000/"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/002200/"
+      ],
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 16.666666666666664
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/002600/"
+      ],
+      "clicks": 0,
+      "impressions": 37,
+      "ctr": 0,
+      "position": 18.594594594594593
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/news/002800/"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 5.8
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/page_cat/application-guide/"
+      ],
+      "clicks": 0,
+      "impressions": 34,
+      "ctr": 0,
+      "position": 38.529411764705884
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/page_cat/basic-information/"
+      ],
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 48.869565217391305
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/page_cat/korea-basic-information/"
+      ],
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 19.9375
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/page_cat/korea-visa/"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 43.5
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/q-code/index.html#qcode1-1"
+      ],
+      "clicks": 0,
+      "impressions": 55,
+      "ctr": 0,
+      "position": 9.636363636363637
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/q-code/index.html#qcode1-2"
+      ],
+      "clicks": 0,
+      "impressions": 194,
+      "ctr": 0,
+      "position": 10.092783505154639
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/q-code/index.html#qcode2-1"
+      ],
+      "clicks": 0,
+      "impressions": 138,
+      "ctr": 0,
+      "position": 9.695652173913043
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/q-code/index.html#qcode2-2"
+      ],
+      "clicks": 0,
+      "impressions": 197,
+      "ctr": 0,
+      "position": 9.954314720812183
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/q-code/index.html#qcode2-3"
+      ],
+      "clicks": 0,
+      "impressions": 164,
+      "ctr": 0,
+      "position": 9.896341463414634
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/q-code/index.html#qcode2-4"
+      ],
+      "clicks": 0,
+      "impressions": 155,
+      "ctr": 0,
+      "position": 9.76774193548387
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/q-code/index.html#qcode2-5"
+      ],
+      "clicks": 0,
+      "impressions": 162,
+      "ctr": 0,
+      "position": 9.75925925925926
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/q-code/index.html#qcode2-6"
+      ],
+      "clicks": 0,
+      "impressions": 190,
+      "ctr": 0,
+      "position": 10.042105263157895
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/re-entry-permit/index.html"
+      ],
+      "clicks": 0,
+      "impressions": 59,
+      "ctr": 0,
+      "position": 12.40677966101695
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/reapplication/index.html#reapplication1"
+      ],
+      "clicks": 0,
+      "impressions": 160,
+      "ctr": 0,
+      "position": 4.95
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/reapplication/index.html#reapplication1-1"
+      ],
+      "clicks": 0,
+      "impressions": 135,
+      "ctr": 0,
+      "position": 4.703703703703704
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/reapplication/index.html#reapplication1-3"
+      ],
+      "clicks": 0,
+      "impressions": 138,
+      "ctr": 0,
+      "position": 4.666666666666666
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/reapplication/index.html#reapplication2"
+      ],
+      "clicks": 0,
+      "impressions": 136,
+      "ctr": 0,
+      "position": 4.757352941176471
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/reapplication/index.html#reapplication22"
+      ],
+      "clicks": 0,
+      "impressions": 160,
+      "ctr": 0,
+      "position": 5.0375
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/reapplication/index.html#reapplication22-1"
+      ],
+      "clicks": 0,
+      "impressions": 137,
+      "ctr": 0,
+      "position": 4.7153284671532845
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/refusal/index.html#refusal1"
+      ],
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/refusal/index.html#refusal1-1"
+      ],
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/refusal/index.html#refusal1-2"
+      ],
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/refusal/index.html#refusal2"
+      ],
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/refusal/index.html#refusal2-1"
+      ],
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/rental-agreement/index.html"
+      ],
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 5.0625
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/service/index.html#how1"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/service/index.html#how1-1"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 6.8
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/service/index.html#how1-2"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/service/index.html#how1-3"
+      ],
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 6.8
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/service/index.html#how1-4"
+      ],
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/sitemap/index.html"
+      ],
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 31.333333333333332
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/status-of-residence/index.html#status1"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/status-of-residence/index.html#status2"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/status-of-residence/index.html#status3"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/status-of-residence/index.html#status4"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/status-of-residence/index.html#status5"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/status-of-residence/index.html#status6"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/student-visa/index.html"
+      ],
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 12.03225806451613
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/study-abroad-visa/index.html"
+      ],
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 12.272727272727273
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/transit/index.html#transit2"
+      ],
+      "clicks": 0,
+      "impressions": 412,
+      "ctr": 0,
+      "position": 6.798543689320389
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/transit/index.html#transit4"
+      ],
+      "clicks": 0,
+      "impressions": 448,
+      "ctr": 0,
+      "position": 6.642857142857143
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/visa/index.html#visa1"
+      ],
+      "clicks": 0,
+      "impressions": 66,
+      "ctr": 0,
+      "position": 10.196969696969697
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/visa/index.html#visa2"
+      ],
+      "clicks": 0,
+      "impressions": 70,
+      "ctr": 0,
+      "position": 10.042857142857143
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/visa/index.html#visa3"
+      ],
+      "clicks": 0,
+      "impressions": 58,
+      "ctr": 0,
+      "position": 10.258620689655173
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/visa/index.html#visa4"
+      ],
+      "clicks": 0,
+      "impressions": 57,
+      "ctr": 0,
+      "position": 10.24561403508772
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/visa/index.html#visa5"
+      ],
+      "clicks": 0,
+      "impressions": 58,
+      "ctr": 0,
+      "position": 10.258620689655173
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/visa/index.html#visa6"
+      ],
+      "clicks": 0,
+      "impressions": 70,
+      "ctr": 0,
+      "position": 10.157142857142857
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/vwa/index.html"
+      ],
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 46.11538461538461
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/vwa/index.html#vwa1"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/vwa/index.html#vwa2"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/vwa/index.html#vwa2-1"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/vwa/index.html#vwa2-2"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "keys": [
+        "https://keta-travel.com/working-holiday/index.html"
+      ],
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 21.5
+    }
+  ]
+}

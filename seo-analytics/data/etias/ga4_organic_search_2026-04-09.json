@@ -1,0 +1,709 @@
+{
+  "site": "etias",
+  "type": "organic_search",
+  "date": "2026-04-09",
+  "timestamp": "2026-04-10T13:55:24.797Z",
+  "count": 100,
+  "data": [
+    {
+      "date": "20260407",
+      "landingPage": "/united-kingdom/top",
+      "sessions": 81,
+      "activeUsers": 72,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/united-kingdom/top",
+      "sessions": 78,
+      "activeUsers": 76,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/united-kingdom/top",
+      "sessions": 72,
+      "activeUsers": 68,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "/united-kingdom/top",
+      "sessions": 53,
+      "activeUsers": 50,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/united-kingdom/top",
+      "sessions": 50,
+      "activeUsers": 48,
+      "conversions": 0
+    },
+    {
+      "date": "20260405",
+      "landingPage": "/united-kingdom/top",
+      "sessions": 47,
+      "activeUsers": 45,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "/united-kingdom/top",
+      "sessions": 44,
+      "activeUsers": 39,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/form/pc/step1",
+      "sessions": 20,
+      "activeUsers": 18,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "/form/pc/step1",
+      "sessions": 20,
+      "activeUsers": 19,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "/united-kingdom/about",
+      "sessions": 19,
+      "activeUsers": 19,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/form/sp/step1",
+      "sessions": 18,
+      "activeUsers": 17,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "/united-kingdom/about",
+      "sessions": 17,
+      "activeUsers": 16,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/united-kingdom/about",
+      "sessions": 16,
+      "activeUsers": 16,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "(not set)",
+      "sessions": 16,
+      "activeUsers": 14,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "(not set)",
+      "sessions": 15,
+      "activeUsers": 15,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "(not set)",
+      "sessions": 14,
+      "activeUsers": 12,
+      "conversions": 0
+    },
+    {
+      "date": "20260405",
+      "landingPage": "/form/pc/step1",
+      "sessions": 13,
+      "activeUsers": 10,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "/form/pc/step1",
+      "sessions": 12,
+      "activeUsers": 11,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "/form/sp/step1",
+      "sessions": 12,
+      "activeUsers": 12,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/",
+      "sessions": 12,
+      "activeUsers": 10,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/form/pc/step1",
+      "sessions": 12,
+      "activeUsers": 10,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/united-kingdom/about",
+      "sessions": 12,
+      "activeUsers": 12,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "(not set)",
+      "sessions": 11,
+      "activeUsers": 8,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/form/sp/step1",
+      "sessions": 11,
+      "activeUsers": 11,
+      "conversions": 0
+    },
+    {
+      "date": "20260405",
+      "landingPage": "/form/sp/step1",
+      "sessions": 11,
+      "activeUsers": 11,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "(not set)",
+      "sessions": 11,
+      "activeUsers": 11,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "/",
+      "sessions": 10,
+      "activeUsers": 10,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/form/pc/step1",
+      "sessions": 9,
+      "activeUsers": 9,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/united-kingdom/about",
+      "sessions": 9,
+      "activeUsers": 9,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "/form/sp/step1",
+      "sessions": 9,
+      "activeUsers": 9,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/",
+      "sessions": 9,
+      "activeUsers": 7,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "/form/pc/step1",
+      "sessions": 9,
+      "activeUsers": 9,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "/united-kingdom/about",
+      "sessions": 8,
+      "activeUsers": 8,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/form/sp/step1",
+      "sessions": 8,
+      "activeUsers": 7,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "/",
+      "sessions": 8,
+      "activeUsers": 8,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/",
+      "sessions": 7,
+      "activeUsers": 7,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "/",
+      "sessions": 7,
+      "activeUsers": 7,
+      "conversions": 0
+    },
+    {
+      "date": "20260405",
+      "landingPage": "(not set)",
+      "sessions": 7,
+      "activeUsers": 5,
+      "conversions": 0
+    },
+    {
+      "date": "20260405",
+      "landingPage": "/united-kingdom/about",
+      "sessions": 7,
+      "activeUsers": 7,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "/italy_visa",
+      "sessions": 7,
+      "activeUsers": 4,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "/form/sp/step1",
+      "sessions": 6,
+      "activeUsers": 6,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "/germany_visa",
+      "sessions": 6,
+      "activeUsers": 6,
+      "conversions": 0
+    },
+    {
+      "date": "20260405",
+      "landingPage": "/",
+      "sessions": 5,
+      "activeUsers": 5,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/germany_visa",
+      "sessions": 5,
+      "activeUsers": 5,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "/belgium_visa",
+      "sessions": 5,
+      "activeUsers": 5,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/news/990100/czech",
+      "sessions": 4,
+      "activeUsers": 4,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "(not set)",
+      "sessions": 4,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/germany_visa",
+      "sessions": 4,
+      "activeUsers": 4,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/belgium_visa",
+      "sessions": 3,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "/ees",
+      "sessions": 3,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260405",
+      "landingPage": "/belgium_visa",
+      "sessions": 3,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/news/990100/netherland",
+      "sessions": 3,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/slovakia_visa",
+      "sessions": 3,
+      "activeUsers": 0,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "/denmark_visa",
+      "sessions": 3,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "/italy_visa",
+      "sessions": 3,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/denmark_visa",
+      "sessions": 3,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/italy_visa",
+      "sessions": 3,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/news/990100/belgium",
+      "sessions": 3,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/news/990100/netherland",
+      "sessions": 3,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "/news/990100/spain",
+      "sessions": 3,
+      "activeUsers": 3,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/finland_visa",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/germany_visa",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/netherlands_visa",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/news/990100/poland",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "/iceland-tourism",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260405",
+      "landingPage": "/news/990100/greece",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/czech_visa",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/ees",
+      "sessions": 2,
+      "activeUsers": 0,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/italy_visa",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/news/990100/belgium",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/news/990100/denmark",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/news/990100/poland",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "landingPage": "/spain_visa",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "/austria_visa",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "/germany_visa",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "/news/990100/denmark",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "/news/990100/france",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "/news/990100/germany",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "landingPage": "/news/990100/netherland",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/ees",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/form/pc/status",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "landingPage": "/news/990100/france",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "/denmark_visa",
+      "sessions": 2,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "/finland_visa",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "landingPage": "/news/004900",
+      "sessions": 2,
+      "activeUsers": 2,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/austria_visa",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/country",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/ees",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/form/pc/step2",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/hungary_visa",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/news/990100/germany",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/news/990100/italy",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/news/990100/netherland",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/schengen_visa",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260403",
+      "landingPage": "/slovakia_visa",
+      "sessions": 1,
+      "activeUsers": 0,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "/czech_visa",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "/latvia_visa",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "/netherlands_visa",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "/news/990100/finland",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "landingPage": "/news/990100/greece",
+      "sessions": 1,
+      "activeUsers": 0,
+      "conversions": 0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "site": "france",
+  "type": "organic_search",
+  "date": "2026-03-12",
+  "timestamp": "2026-03-13T13:04:28.815Z",
+  "count": 2,
+  "data": [
+    {
+      "date": "20260312",
+      "landingPage": "/",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    },
+    {
+      "date": "20260312",
+      "landingPage": "/entry",
+      "sessions": 1,
+      "activeUsers": 1,
+      "conversions": 0
+    }
+  ]
+}

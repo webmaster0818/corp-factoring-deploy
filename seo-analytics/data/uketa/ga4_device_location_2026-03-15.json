@@ -1,0 +1,111 @@
+{
+  "site": "uketa",
+  "type": "device_location",
+  "date": "2026-03-15",
+  "timestamp": "2026-03-16T16:44:55.367Z",
+  "count": 17,
+  "data": [
+    {
+      "deviceCategory": "desktop",
+      "country": "Japan",
+      "sessions": 70,
+      "activeUsers": 38
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Japan",
+      "sessions": 41,
+      "activeUsers": 37
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "United States",
+      "sessions": 9,
+      "activeUsers": 9
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Germany",
+      "sessions": 5,
+      "activeUsers": 4
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "United States",
+      "sessions": 5,
+      "activeUsers": 5
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Brazil",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Ghana",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "United Kingdom",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "United Kingdom",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "(not set)",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "France",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Germany",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Pakistan",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Czechia",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Netherlands",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Spain",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Taiwan",
+      "sessions": 1,
+      "activeUsers": 1
+    }
+  ]
+}

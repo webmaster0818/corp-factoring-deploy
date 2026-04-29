@@ -1,0 +1,45 @@
+{
+  "site": "france",
+  "type": "landing_pages",
+  "date": "2026-03-13",
+  "timestamp": "2026-03-14T08:58:08.211Z",
+  "count": 4,
+  "data": [
+    {
+      "landingPage": "/",
+      "sessions": 6,
+      "activeUsers": 3,
+      "screenPageViews": 46,
+      "averageSessionDuration": 1064.3193948333333,
+      "bounceRate": 0.16666666666666666,
+      "conversions": 0
+    },
+    {
+      "landingPage": "(not set)",
+      "sessions": 1,
+      "activeUsers": 0,
+      "screenPageViews": 0,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/entry",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 4,
+      "averageSessionDuration": 1182.854264,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/politique-de-confidentialite",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 2,
+      "averageSessionDuration": 970.377885,
+      "bounceRate": 0,
+      "conversions": 0
+    }
+  ]
+}

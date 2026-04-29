@@ -1,0 +1,72 @@
+{
+  "site": "esta",
+  "type": "traffic",
+  "date": "2026-03-15",
+  "timestamp": "2026-03-16T16:44:36.236Z",
+  "count": 7,
+  "data": [
+    {
+      "date": "20260309",
+      "activeUsers": 28,
+      "sessions": 33,
+      "screenPageViews": 51,
+      "averageSessionDuration": 130.37664603030305,
+      "bounceRate": 0.5151515151515151,
+      "conversions": 0
+    },
+    {
+      "date": "20260310",
+      "activeUsers": 16,
+      "sessions": 21,
+      "screenPageViews": 40,
+      "averageSessionDuration": 157.59943066666668,
+      "bounceRate": 0.47619047619047616,
+      "conversions": 0
+    },
+    {
+      "date": "20260311",
+      "activeUsers": 44,
+      "sessions": 47,
+      "screenPageViews": 70,
+      "averageSessionDuration": 141.73428323404255,
+      "bounceRate": 0.5531914893617021,
+      "conversions": 0
+    },
+    {
+      "date": "20260312",
+      "activeUsers": 96,
+      "sessions": 107,
+      "screenPageViews": 141,
+      "averageSessionDuration": 147.9476166728972,
+      "bounceRate": 0.3364485981308411,
+      "conversions": 0
+    },
+    {
+      "date": "20260313",
+      "activeUsers": 72,
+      "sessions": 83,
+      "screenPageViews": 109,
+      "averageSessionDuration": 147.68607844578312,
+      "bounceRate": 0.40963855421686746,
+      "conversions": 0
+    },
+    {
+      "date": "20260314",
+      "activeUsers": 76,
+      "sessions": 79,
+      "screenPageViews": 97,
+      "averageSessionDuration": 108.45174805063292,
+      "bounceRate": 0.3670886075949367,
+      "conversions": 0
+    },
+    {
+      "date": "20260315",
+      "activeUsers": 91,
+      "sessions": 101,
+      "screenPageViews": 130,
+      "averageSessionDuration": 135.6189997128713,
+      "bounceRate": 0.297029702970297,
+      "conversions": 0
+    }
+  ]
+}

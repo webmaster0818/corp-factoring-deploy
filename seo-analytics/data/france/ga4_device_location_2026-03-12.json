@@ -1,0 +1,21 @@
+{
+  "site": "france",
+  "type": "device_location",
+  "date": "2026-03-12",
+  "timestamp": "2026-03-13T13:04:28.315Z",
+  "count": 2,
+  "data": [
+    {
+      "deviceCategory": "desktop",
+      "country": "Japan",
+      "sessions": 8,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Sweden",
+      "sessions": 1,
+      "activeUsers": 1
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "site": "etias",
+  "type": "device_location",
+  "date": "2026-03-15",
+  "timestamp": "2026-03-16T16:44:45.819Z",
+  "count": 40,
+  "data": [
+    {
+      "deviceCategory": "desktop",
+      "country": "Japan",
+      "sessions": 841,
+      "activeUsers": 624
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Japan",
+      "sessions": 835,
+      "activeUsers": 663
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "United States",
+      "sessions": 43,
+      "activeUsers": 42
+    },
+    {
+      "deviceCategory": "tablet",
+      "country": "Japan",
+      "sessions": 28,
+      "activeUsers": 24
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "United States",
+      "sessions": 9,
+      "activeUsers": 6
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "United Kingdom",
+      "sessions": 8,
+      "activeUsers": 6
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Singapore",
+      "sessions": 6,
+      "activeUsers": 6
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "France",
+      "sessions": 6,
+      "activeUsers": 6
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Thailand",
+      "sessions": 4,
+      "activeUsers": 4
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Australia",
+      "sessions": 4,
+      "activeUsers": 4
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Ethiopia",
+      "sessions": 3,
+      "activeUsers": 3
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Brazil",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Canada",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Denmark",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "France",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Netherlands",
+      "sessions": 2,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Canada",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "China",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Hong Kong",
+      "sessions": 2,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Italy",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Spain",
+      "sessions": 2,
+      "activeUsers": 2
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "(not set)",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Australia",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Belgium",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "China",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Germany",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Hungary",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Ireland",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "New Zealand",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Portugal",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "Taiwan",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "desktop",
+      "country": "United Kingdom",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Austria",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Brazil",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Germany",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Hungary",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Malta",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Netherlands",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Philippines",
+      "sessions": 1,
+      "activeUsers": 1
+    },
+    {
+      "deviceCategory": "mobile",
+      "country": "Switzerland",
+      "sessions": 1,
+      "activeUsers": 1
+    }
+  ]
+}

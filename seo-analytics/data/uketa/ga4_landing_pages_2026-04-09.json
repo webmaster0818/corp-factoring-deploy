@@ -1,0 +1,108 @@
+{
+  "site": "uketa",
+  "type": "landing_pages",
+  "date": "2026-04-09",
+  "timestamp": "2026-04-10T13:55:29.477Z",
+  "count": 11,
+  "data": [
+    {
+      "landingPage": "/flow/index.html",
+      "sessions": 60,
+      "activeUsers": 52,
+      "screenPageViews": 86,
+      "averageSessionDuration": 149.23359724999997,
+      "bounceRate": 0.45,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/fee/index.html",
+      "sessions": 20,
+      "activeUsers": 19,
+      "screenPageViews": 52,
+      "averageSessionDuration": 250.31273039999996,
+      "bounceRate": 0.5,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/",
+      "sessions": 17,
+      "activeUsers": 15,
+      "screenPageViews": 40,
+      "averageSessionDuration": 86.94128899999998,
+      "bounceRate": 0.5882352941176471,
+      "conversions": 0
+    },
+    {
+      "landingPage": "(not set)",
+      "sessions": 5,
+      "activeUsers": 3,
+      "screenPageViews": 0,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/events/trainings-and-workshops",
+      "sessions": 4,
+      "activeUsers": 4,
+      "screenPageViews": 4,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/uk-entry/index.html",
+      "sessions": 4,
+      "activeUsers": 4,
+      "screenPageViews": 4,
+      "averageSessionDuration": 84.3414985,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/ro/campionat-mondial-fci-2020",
+      "sessions": 3,
+      "activeUsers": 3,
+      "screenPageViews": 3,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/unitedkingdom-visa/index.html",
+      "sessions": 3,
+      "activeUsers": 3,
+      "screenPageViews": 4,
+      "averageSessionDuration": 513.3853993333333,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/about/index.html",
+      "sessions": 2,
+      "activeUsers": 2,
+      "screenPageViews": 4,
+      "averageSessionDuration": 162.103988,
+      "bounceRate": 0,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/maintenance",
+      "sessions": 2,
+      "activeUsers": 1,
+      "screenPageViews": 2,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    },
+    {
+      "landingPage": "/ro",
+      "sessions": 1,
+      "activeUsers": 1,
+      "screenPageViews": 1,
+      "averageSessionDuration": 0,
+      "bounceRate": 1,
+      "conversions": 0
+    }
+  ]
+}

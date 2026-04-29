@@ -1,0 +1,36 @@
+{
+  "site": "keta",
+  "type": "devices",
+  "date": "2026-03-12",
+  "timestamp": "2026-03-13T13:04:38.550Z",
+  "count": 3,
+  "data": [
+    {
+      "keys": [
+        "MOBILE"
+      ],
+      "clicks": 223,
+      "impressions": 5544,
+      "ctr": 0.040223665223665224,
+      "position": 9.828102453102453
+    },
+    {
+      "keys": [
+        "DESKTOP"
+      ],
+      "clicks": 52,
+      "impressions": 1960,
+      "ctr": 0.026530612244897958,
+      "position": 17.830102040816328
+    },
+    {
+      "keys": [
+        "TABLET"
+      ],
+      "clicks": 5,
+      "impressions": 62,
+      "ctr": 0.08064516129032258,
+      "position": 8.14516129032258
+    }
+  ]
+}

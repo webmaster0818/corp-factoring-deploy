@@ -1,0 +1,54 @@
+{
+  "site": "france",
+  "type": "countries",
+  "date": "2026-03-13",
+  "timestamp": "2026-03-14T08:57:47.725Z",
+  "count": 5,
+  "data": [
+    {
+      "keys": [
+        "jpn"
+      ],
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "keys": [
+        "fra"
+      ],
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "keys": [
+        "mar"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 127
+    },
+    {
+      "keys": [
+        "usa"
+      ],
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "keys": [
+        "vnm"
+      ],
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    }
+  ]
+}

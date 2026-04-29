@@ -1,0 +1,72 @@
+{
+  "site": "uketa",
+  "type": "traffic",
+  "date": "2026-04-09",
+  "timestamp": "2026-04-10T13:55:28.709Z",
+  "count": 7,
+  "data": [
+    {
+      "date": "20260403",
+      "activeUsers": 25,
+      "sessions": 30,
+      "screenPageViews": 35,
+      "averageSessionDuration": 128.39779786666665,
+      "bounceRate": 0.5666666666666667,
+      "conversions": 0
+    },
+    {
+      "date": "20260404",
+      "activeUsers": 14,
+      "sessions": 15,
+      "screenPageViews": 19,
+      "averageSessionDuration": 53.756021600000004,
+      "bounceRate": 0.4,
+      "conversions": 0
+    },
+    {
+      "date": "20260405",
+      "activeUsers": 20,
+      "sessions": 21,
+      "screenPageViews": 41,
+      "averageSessionDuration": 138.30310442857143,
+      "bounceRate": 0.5238095238095238,
+      "conversions": 0
+    },
+    {
+      "date": "20260406",
+      "activeUsers": 15,
+      "sessions": 18,
+      "screenPageViews": 29,
+      "averageSessionDuration": 313.1156326111111,
+      "bounceRate": 0.4444444444444444,
+      "conversions": 0
+    },
+    {
+      "date": "20260407",
+      "activeUsers": 16,
+      "sessions": 18,
+      "screenPageViews": 49,
+      "averageSessionDuration": 130.02572072222222,
+      "bounceRate": 0.3333333333333333,
+      "conversions": 0
+    },
+    {
+      "date": "20260408",
+      "activeUsers": 8,
+      "sessions": 10,
+      "screenPageViews": 15,
+      "averageSessionDuration": 142.8455968,
+      "bounceRate": 0.7,
+      "conversions": 0
+    },
+    {
+      "date": "20260409",
+      "activeUsers": 8,
+      "sessions": 10,
+      "screenPageViews": 12,
+      "averageSessionDuration": 67.2362743,
+      "bounceRate": 0.7,
+      "conversions": 0
+    }
+  ]
+}
