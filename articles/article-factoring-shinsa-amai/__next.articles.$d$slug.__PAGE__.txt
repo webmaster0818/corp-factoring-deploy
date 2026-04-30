@@ -1,0 +1,213 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
+e:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/images/articles/factoring-article.jpg","image"]
+:HL["/images/logo.png","image"]
+4:T3260,<p>「銀行融資の審査に落ちた」「税金を滞納している」「赤字決算が続いている」——そんな状況でも、ファクタリングなら審査に通る可能性があります。</p>
+<p>ファクタリングは銀行融資とは根本的に審査基準が異なります。この記事では、ファクタリング審査の仕組みから「審査が甘い」と言われる理由、通りやすい条件、そして審査に落ちる原因まで詳しく解説します。</p>
+<hr>
+<h2>ファクタリングの審査基準は「売掛先」が中心</h2>
+<h3>なぜ審査が甘いと言われるのか</h3>
+<p>銀行融資の審査では、申込企業の<strong>財務状況・信用情報・担保</strong>が重視されます。一方、ファクタリングの審査で最も重要なのは「<strong>売掛先の信用力</strong>」です。</p>
+<p>| 審査項目 | 銀行融資 | ファクタリング |
+|---------|---------|-------------|
+| 申込者の財務状況 | ◎ 最重要 | △ 参考程度 |
+| 申込者の信用情報 | ◎ 最重要 | △ 参考程度 |
+| 担保・保証人 | ◎ 必要な場合多い | × 不要 |
+| <strong>売掛先の信用力</strong> | × 関係なし | ◎ <strong>最重要</strong> |
+| 売掛金の実在性 | × 関係なし | ◎ 重要 |</p>
+<p><strong>ファクタリングは「売掛先が確実に支払えるか」を審査する仕組みのため、申込企業の業績が悪くても審査に通りやすい</strong>のです。</p>
+<h3>ファクタリング審査で見られる主な項目</h3>
+<p><strong>売掛先に関する確認事項：</strong></p>
+<ul>
+<li>売掛先の業歴・信用情報</li>
+<li>支払い遅延の有無</li>
+<li>業界の安定性</li>
+<li>上場・非上場</li>
+</ul>
+<p><strong>売掛金に関する確認事項：</strong></p>
+<ul>
+<li>売掛金の実在性（架空でないか）</li>
+<li>二重譲渡の有無（同じ売掛金を複数社に売却していないか）</li>
+<li>支払期日</li>
+<li>金額の妥当性</li>
+</ul>
+<p><strong>申込者に関する確認事項（参考程度）：</strong></p>
+<ul>
+<li>法人格の確認</li>
+<li>代表者の本人確認</li>
+<li>通帳の入出金状況</li>
+</ul>
+<hr>
+<h2>審査が通りやすい条件</h2>
+<h3>条件1：売掛先の信用力が高い</h3>
+<p>最も審査に有利な条件は、売掛先が信用力の高い企業であることです。</p>
+<p><strong>審査に通りやすい売掛先の例：</strong></p>
+<ul>
+<li>上場企業（東証プライム・スタンダード等）</li>
+<li>大手企業（従業員1,000人以上）</li>
+<li>国・地方公共団体（官公庁・市区町村）</li>
+<li>独立行政法人・国立大学</li>
+<li>大手医療機関（公立病院等）</li>
+</ul>
+<p><strong>これらの売掛先への請求書があれば、申込企業が赤字決算であっても審査通過の可能性が高くなります。</strong></p>
+<h3>条件2：売掛金の支払期日が近い</h3>
+<p>支払期日まで30〜60日程度の売掛金は審査が通りやすい傾向があります。ファクタリング会社にとって、回収までの期間が短いほどリスクが低くなります。</p>
+<h3>条件3：通帳の入出金が安定している</h3>
+<p>直近6ヶ月の通帳に大きな異常がない（急激な残高減少・頻繁な不審な入出金がない）ことが審査を通りやすくします。</p>
+<h3>条件4：申込者が継続した事業実態を持つ</h3>
+<ul>
+<li>業歴1年以上（開業直後は対応できない会社もある）</li>
+<li>定期的な売上がある（通帳で確認できる）</li>
+<li>固定の取引先がある</li>
+</ul>
+<hr>
+<h2>審査が通りにくい（落ちやすい）条件</h2>
+<h3>原因1：売掛先の信用力が低い</h3>
+<ul>
+<li>設立間もない会社（業歴1年未満）</li>
+<li>支払い遅延の前例がある会社</li>
+<li>業績が悪化している会社</li>
+<li>個人（法人格のない個人）</li>
+<li>海外企業（外国企業への請求は対応不可の場合が多い）</li>
+</ul>
+<h3>原因2：売掛金に問題がある</h3>
+<p><strong>架空の売掛金・二重譲渡</strong>は不正行為です。発覚した場合は契約解除だけでなく、法的責任を問われる場合もあります。</p>
+<ul>
+<li>架空の請求書（実際のサービス・商品提供が伴わない）</li>
+<li>同一の売掛金を複数のファクタリング会社に売却（二重譲渡）</li>
+<li>支払期日が極端に近い（7日以内）または遠い（120日超）</li>
+</ul>
+<h3>原因3：申込者に重大な問題がある</h3>
+<p>以下の状況は、会社によっては対応困難：</p>
+<ul>
+<li>破産・民事再生など法的整理中</li>
+<li>反社会的勢力への関与が疑われる</li>
+<li>通帳に不審な入出金がある</li>
+</ul>
+<p><strong>なお、以下は多くの会社で審査通過できます：</strong></p>
+<ul>
+<li>赤字決算（売掛先が健全なら問題なし）</li>
+<li>税金の滞納（条件によっては対応可能）</li>
+<li>銀行融資の審査落ち（別の評価基準のため影響しない）</li>
+</ul>
+<hr>
+<h2>審査が甘い・通りやすいおすすめファクタリング会社</h2>
+<h3>1位：アクセルファクター（審査通過率93%以上）</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 審査通過率 | <strong>93%以上</strong>（業界最高水準） |
+| 手数料 | 0.5〜12% |
+| 入金スピード | 最短2時間 |
+| 赤字決算 | 対応可能 |
+| 税金滞納 | 条件によって対応可能 |</p>
+<p><strong>審査が通りやすい理由：</strong> 売掛先の信用力を最優先に評価するため、申込企業の財務状況が悪くても通過できるケースが多い。審査通過率93%以上は業界トップ水準。</p>
+<h3>2位：ベストファクター（審査通過率92.25%）</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 審査通過率 | <strong>92.25%</strong> |
+| 手数料 | 2〜20% |
+| 入金スピード | 最短即日 |
+| 対応金額 | 10万円〜1億円 |
+| 個人事業主 | OK |</p>
+<p><strong>審査が通りやすい理由：</strong> 中小企業・個人事業主に特化した審査基準を持つ。10万円からの少額にも対応しており、審査完了まで平均5分。</p>
+<h3>3位：メンターキャピタル（審査通過率90%超）</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 審査通過率 | <strong>90%超</strong> |
+| 手数料 | 2〜20% |
+| 入金スピード | 最短即日 |
+| 赤字・税金滞納 | <strong>対応可能</strong> |
+| 特徴 | 厳しい状況でも柔軟対応 |</p>
+<p><strong>審査が通りやすい理由：</strong> 赤字決算・税金滞納・銀行融資否決後でも積極的に審査。「他社で断られた」という状況でも対応できるケースが多い。</p>
+<h3>4位：ラボル（開業直後・個人間取引OK）</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 審査通過率 | 非公開（高水準） |
+| 手数料 | 一律10% |
+| 入金スピード | 最短30分 |
+| 開業直後 | <strong>OK</strong> |
+| 個人間取引 | <strong>OK</strong> |</p>
+<p><strong>審査が通りやすい理由：</strong> 開業直後でも申込可能。個人間の取引（個人顧客への請求書）にも対応しており、通常のファクタリングでは難しいケースにも対応。</p>
+<h3>5位：みんなのファクタリング（柔軟審査）</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 手数料 | 3〜15% |
+| 入金スピード | 最短2時間 |
+| 対応金額 | 制限なし |
+| 個人事業主 | OK |
+| 特徴 | 柔軟な審査姿勢 |</p>
+<p><strong>審査が通りやすい理由：</strong> 規模に関わらず柔軟な審査を行い、中小・零細企業や個人事業主に対応。</p>
+<hr>
+<h2>審査に通過するための準備</h2>
+<h3>必要書類を揃える</h3>
+<p>審査の精度を上げるために、以下の書類を準備しておきましょう：</p>
+<p><strong>必須書類：</strong></p>
+<ul>
+<li>売掛金の請求書（申込する売掛金の証明）</li>
+<li>直近6ヶ月の通帳コピー</li>
+</ul>
+<p><strong>あると審査が有利になる書類：</strong></p>
+<ul>
+<li>売掛先との基本契約書</li>
+<li>発注書・納品書（取引実態の証明）</li>
+<li>決算書（直近2期分）</li>
+</ul>
+<h3>申込時のポイント</h3>
+<p><strong>1. 信用力の高い売掛先の請求書を選ぶ</strong>
+複数の売掛先がある場合、より信用力の高い企業への請求書でファクタリングを申し込む。</p>
+<p><strong>2. 売掛金の実在性を証明できる書類を準備する</strong>
+請求書だけでなく、納品書・検収書・契約書を揃えることで、架空請求の疑いを払拭できます。</p>
+<p><strong>3. 通帳の説明ができるようにしておく</strong>
+大きな入出金がある場合、理由を説明できるようにしておくと審査がスムーズです。</p>
+<hr>
+<h2>まとめ</h2>
+<p>ファクタリングの審査は、銀行融資と比べて「甘い」ことは事実です。しかし、それは「誰でも無条件で通る」という意味ではありません。</p>
+<p><strong>審査通過のカギは「売掛先の信用力」：</strong></p>
+<ul>
+<li>上場企業・大手企業・官公庁への請求書があれば、自社の状況が悪くても通過できる可能性が高い</li>
+<li>赤字・税金滞納・銀行融資落ちでも諦める必要はない</li>
+</ul>
+<p><strong>審査に不安な方には：</strong>
+アクセルファクター（93%）、ベストファクター（92.25%）、メンターキャピタル（90%超）の3社が審査通過率の高いおすすめ会社です。</p>
+<hr>
+<h2>よくある質問（FAQ）</h2>
+<p><strong>Q. 創業1年未満でもファクタリングは利用できますか？</strong></p>
+<p>A. 会社によります。ラボルは開業直後でも利用可能です。一般的に創業間もない場合は、より厳しい審査になる傾向があります。</p>
+<p><strong>Q. 消費者金融の借入が多くてもファクタリングは利用できますか？</strong></p>
+<p>A. ファクタリングは借入ではなく売掛金の売却なので、消費者金融の借入状況は審査に直接影響しません。信用情報の照会をしない会社がほとんどです。</p>
+<p><strong>Q. 決算書が赤字でも審査に通りますか？</strong></p>
+<p>A. 通過できる可能性があります。メンターキャピタルやアクセルファクターは赤字決算でも対応しています。審査では自社の財務よりも売掛先の信用力が重視されます。</p>
+<p><strong>Q. 審査に落ちる原因は何ですか？</strong></p>
+<p>A. 主な原因は①売掛先の信用力が低い（個人・設立間もない会社等）、②売掛金の実在性に疑問がある、③申込者が破産・民事再生中、④二重譲渡の疑いがある、などです。</p>
+<p><strong>Q. 複数のファクタリング会社に同時に申し込んでもいいですか？</strong></p>
+<p>A. 同じ売掛金を複数社に申し込むことは「二重譲渡」になる可能性があり、避けてください。ただし、異なる売掛金で複数社に申し込むことは問題ありません。</p>
+<hr>
+<p><em>この記事は2026年4月時点の情報に基づいています。各サービスの最新情報は公式サイトでご確認ください。</em></p>
+<hr>
+<blockquote>
+<p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
+</blockquote>
+<hr>
+<h2>関連記事</h2>
+<p>この記事を読んだ方は、以下の記事もよく読まれています。</p>
+<ul>
+<li><a href="/articles/article-factoring-shinsa/">ファクタリングの審査基準と通過率を高めるコツ</a></li>
+<li><a href="/articles/article-factoring-toha/">ファクタリングとは？仕組みをわかりやすく解説</a></li>
+<li><a href="/articles/article-factoring-osusume/">ファクタリングおすすめ20選｜手数料・即日対応を徹底比較</a></li>
+<li><a href="/articles/article-factoring-ihou/">ファクタリング違法業者の見分け方と安全な利用法</a></li>
+<li><a href="/articles/article-factoring-merit-demerit/">ファクタリングのメリット・デメリット完全解説</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングの審査は甘い？通りやすい会社と審査基準を徹底解","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングの審査は甘い？通りやすい会社と審査基準を徹底解説","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングの審査は甘い？通りやすい会社と審査基準を徹底解説"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 審査 甘い, ファクタリング 審査 通りやすい"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vD9DHHovw-vybGOFui3uw"}
+5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-clinic-kaigyou",{"href":"/articles/article-factoring-clinic-kaigyou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"クリニック 開業資金 ファクタリング, 医療 ファクタリング 開業"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"クリニック開業資金にファクタリングは使える？医療業界の資金調達完全解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-akaji",{"href":"/articles/article-factoring-akaji","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 赤字決算, 赤字 ファクタリング 審査"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"赤字決算でもファクタリングは使える？審査通過のポイントと注意点【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-shiwake",{"href":"/articles/article-factoring-shiwake","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 仕訳, ファクタリング 勘定科目"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの仕訳・会計処理を完全解説｜勘定科目・消費税・決算書への影響【税理士監修級】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]]}]]}]
+8:["$","div",null,{"className":"mt-8 text-center","children":["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]}]
+9:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]]}]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]]}]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ファクタリングの審査は甘い？通りやすい会社と審査基準を徹底解説\",\"item\":\"https://corp-factoring.com/articles/article-factoring-shinsa-amai\"}]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングの審査は甘い？通りやすい会社と審査基準を徹底解説\",\"description\":\"ファクタリングの審査は甘い？通りやすい会社と審査基準を徹底解説。ファクタリング 審査 甘い, ファクタリング 審査 通りやすいについて詳しく解説します。\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-shinsa-amai\"}}"}}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true}]
+d:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

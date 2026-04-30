@@ -1,0 +1,199 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
+e:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/images/articles/kojin-jigyonushi.jpg","image"]
+:HL["/images/logo.png","image"]
+4:T2d73,<p>「クリニックを開業したいが、資金が足りない」「診療報酬の入金まで1〜2ヶ月待てない」——医師・歯科医師がクリニック開業・運営で直面する資金繰りの問題は、一般的な業種とは異なる特殊性があります。</p>
+<p>この記事では、<strong>クリニック開業・運営におけるファクタリングの活用方法</strong>を、医療業界に特有の診療報酬サイクルや開業資金の特徴とあわせて徹底解説します。</p>
+<hr>
+<h2>クリニック経営の資金繰り特有の課題</h2>
+<h3>診療報酬の入金サイクル問題</h3>
+<p>クリニックの主要収入源である診療報酬には、独特の入金サイクルがあります。</p>
+<pre><code>診察・治療実施
+　↓
+レセプト（診療報酬請求書）作成・提出（翌月10日）
+　↓
+審査（社会保険診療報酬支払基金・国保連合会）
+　↓
+入金（翌々月20〜25日頃）
+</code></pre>
+<p><strong>例：1月の診療 → 3月20日頃に入金</strong>（最大75日の遅れ）</p>
+<p>この「診療から入金まで2ヶ月のタイムラグ」が、クリニック経営の資金繰りを圧迫します。</p>
+<h3>クリニック開業に必要な資金</h3>
+<p>クリニック開業時の資金需要は非常に大きいです。</p>
+<p>| 費用項目 | 一般内科（目安） | 歯科クリニック（目安） |
+|--------|-------------|----------------|
+| 物件取得費（保証金等） | 300〜500万円 | 300〜500万円 |
+| 内装工事 | 500〜1,500万円 | 500〜1,500万円 |
+| 医療機器 | 500〜2,000万円 | 1,000〜3,000万円 |
+| 電子カルテ・システム | 100〜300万円 | 100〜300万円 |
+| 開業前の人件費等 | 100〜200万円 | 100〜200万円 |
+| <strong>合計</strong> | <strong>1,500〜4,500万円</strong> | <strong>2,000〜5,500万円</strong> |</p>
+<hr>
+<h2>クリニックにおけるファクタリングの活用シーン</h2>
+<h3>活用シーン1：診療報酬ファクタリング（医療ファクタリング）</h3>
+<p>最も一般的な医療ファクタリングは、<strong>診療報酬の請求書（レセプト）を現金化する</strong>仕組みです。</p>
+<p><strong>仕組み：</strong></p>
+<ol>
+<li>月次でレセプトを提出（社保・国保）</li>
+<li>ファクタリング会社にレセプトを売却</li>
+<li>入金予定の2ヶ月前に現金を受取</li>
+<li>2ヶ月後に社保・国保から入金後、ファクタリング会社に送金</li>
+</ol>
+<p><strong>メリット：</strong></p>
+<ul>
+<li>診療から入金まで75日→即日（最大75日の短縮）</li>
+<li>社保・国保の支払いは確実なため、手数料が低い（2〜5%）</li>
+<li>運転資金の安定化</li>
+</ul>
+<h3>活用シーン2：自由診療の売掛金ファクタリング</h3>
+<p>自由診療（保険外診療）の場合、請求先が企業や健康保険組合になるケースがあります。</p>
+<p><strong>対象：</strong></p>
+<ul>
+<li>産業医・企業向け健康診断の請求書</li>
+<li>人間ドック・企業健診の請求（企業への請求）</li>
+<li>スポーツチームの医務室運営</li>
+</ul>
+<h3>活用シーン3：開業後の運転資金確保</h3>
+<p>開業直後（1〜3ヶ月）は特に資金が必要です。ファクタリングで診療報酬の入金を前倒しにすることで、この期間を乗り越えられます。</p>
+<hr>
+<h2>クリニック向けファクタリング会社の選び方</h2>
+<h3>医療ファクタリング専門かどうかを確認</h3>
+<p>「医療ファクタリング」に特化したサービスと、一般的なファクタリングサービスで医療に対応しているものがあります。</p>
+<p>| 種類 | 特徴 | 手数料目安 |
+|-----|-----|---------|
+| 医療ファクタリング専門 | 診療報酬に特化。審査が速い | 2%〜5% |
+| 一般FA（医療対応） | 診療報酬・その他請求書両方対応 | 2%〜12% |</p>
+<hr>
+<h2>クリニック開業資金の調達方法比較</h2>
+<p>開業前・開業直後はファクタリングは使えません（請求書がないため）。開業資金には以下の方法を組み合わせることが重要です。</p>
+<h3>開業資金調達の優先順位</h3>
+<p><strong>1位：日本政策金融公庫（医療貸付）</strong></p>
+<ul>
+<li>金利：0.5〜2%程度</li>
+<li>融資限度額：7,200万円（医師・歯科医師向け）</li>
+<li>返済期間：最長25年</li>
+<li><strong>クリニック開業の定番資金源</strong></li>
+</ul>
+<p><strong>2位：銀行融資（診療報酬担保ローン）</strong></p>
+<ul>
+<li>診療報酬を担保にした融資</li>
+<li>金利：2〜4%程度</li>
+<li>地方銀行・信金が積極的</li>
+</ul>
+<p><strong>3位：医療機器リース</strong></p>
+<ul>
+<li>高額医療機器を月払いで導入</li>
+<li>キャッシュフローを温存できる</li>
+</ul>
+<p><strong>4位：ファクタリング（開業後）</strong></p>
+<ul>
+<li>開業後、最初の診療報酬が確定した段階から活用可能</li>
+<li>運転資金の安定化に有効</li>
+</ul>
+<hr>
+<h2>クリニック開業後のファクタリング活用スケジュール</h2>
+<pre><code>【開業1〜3ヶ月目】
+→ 診療報酬の入金がまだ来ない時期
+→ 運転資金（薬品仕入れ・人件費等）が先行
+→ ファクタリングで最初のレセプトを現金化
+
+【開業4〜12ヶ月目】
+→ 診療報酬の入金が安定
+→ 必要に応じてファクタリングを活用（増設・採用等）
+
+【安定期（1年以降）】
+→ 銀行との関係構築
+→ ファクタリングより低コストの融資に移行
+</code></pre>
+<hr>
+<h2>クリニック向けおすすめファクタリング会社</h2>
+<h3>1位：ビートレーディング — 医療ファクタリング対応</h3>
+<p>| 項目 | 内容 |
+|-----|------|
+| <strong>手数料</strong> | 2〜12%（医療は低め） |
+| <strong>入金スピード</strong> | 最短2時間 |
+| <strong>医療対応</strong> | <strong>◎ 専門的に対応</strong> |
+| <strong>対応金額</strong> | 上限なし |
+| <strong>実績</strong> | 累計91,000社以上 |</p>
+<p>医療ファクタリング（診療報酬）に専門的に対応。医療業界の実績が豊富で、クリニックの規模・診療科を問わず対応可能。</p>
+<h3>2位：アクセルファクター</h3>
+<p>| 項目 | 内容 |
+|-----|------|
+| <strong>手数料</strong> | 0.5%〜12% |
+| <strong>入金スピード</strong> | 最短2時間 |
+| <strong>審査通過率</strong> | 93%以上 |
+| <strong>医療対応</strong> | ○ |</p>
+<p>審査通過率93%以上。開業直後で経営が安定していないクリニックでも、診療報酬（社保・国保）の信用力で審査通過できる可能性が高い。</p>
+<h3>3位：日本中小企業金融サポート機構</h3>
+<p>| 項目 | 内容 |
+|-----|------|
+| <strong>手数料</strong> | 1.5%〜10% |
+| <strong>入金スピード</strong> | 最短3時間 |
+| <strong>特徴</strong> | 非営利・経営支援 |
+| <strong>医療対応</strong> | ○ |</p>
+<p>低手数料1.5%〜10%で医療関係者の資金繰り支援実績あり。開業医の経営相談にも対応。</p>
+<h3>4位：トップマネジメント</h3>
+<p>| 項目 | 内容 |
+|-----|------|
+| <strong>手数料</strong> | 3.5%〜12.5% |
+| <strong>入金スピード</strong> | 最短即日 |
+| <strong>3社間対応</strong> | ○ |
+| <strong>特徴</strong> | 長期実績 |</p>
+<p>企業健診・産業医案件の3社間ファクタリングに対応。大手企業・自治体への請求書で低手数料を実現。</p>
+<h3>5位：PMG</h3>
+<p>| 項目 | 内容 |
+|-----|------|
+| <strong>手数料</strong> | 1%〜10% |
+| <strong>入金スピード</strong> | 最短2時間 |
+| <strong>特徴</strong> | 低手数料・オンライン |</p>
+<p>手数料1%〜と低水準。医療の診療報酬請求は支払い確実性が高いため、低手数料での利用を期待できる。</p>
+<hr>
+<h2>注意点：クリニックの診療報酬ファクタリング特有のリスク</h2>
+<h3>返戻・審査減点への対応</h3>
+<p>レセプトは審査で「返戻」（審査不合格・再請求必要）や「減点」（一部支払い拒否）になる場合があります。ファクタリング後にこれらが発生した場合、差額の取り扱いについてファクタリング会社との契約内容を必ず確認してください。</p>
+<h3>診療報酬の譲渡禁止特約</h3>
+<p>社会保険診療報酬支払基金・国保連合会との契約に「債権譲渡禁止特約」が含まれている場合があります。ファクタリング利用前に確認してください（2020年の民法改正により特約の効力が制限されましたが、個別の契約内容を確認することが重要です）。</p>
+<hr>
+<h2>まとめ</h2>
+<p>クリニックのファクタリング活用は、特に開業後の診療報酬入金タイムラグ解消に非常に有効です。</p>
+<p><strong>クリニックのファクタリング活用ポイント：</strong></p>
+<ol>
+<li>開業前→日本政策金融公庫の医療貸付・銀行融資を活用</li>
+<li>開業後→診療報酬ファクタリングで入金を最大75日前倒し</li>
+<li>安定後→銀行融資に切り替えてコストを削減</li>
+</ol>
+<p>クリニックの診療報酬ファクタリングには<strong>ビートレーディング</strong>（医療専門対応）が最もおすすめです。</p>
+<hr>
+<h2>よくある質問（FAQ）</h2>
+<p><strong>Q. 診療報酬ファクタリングの手数料はどれくらいですか？</strong>
+A. 社保・国保への請求は支払いが確実なため、通常のファクタリングより低手数料（2〜5%程度）での利用が期待できます。</p>
+<p><strong>Q. 歯科クリニックでも診療報酬ファクタリングは使えますか？</strong>
+A. 使えます。歯科の場合も社保・国保への請求（保険診療分）をファクタリングに活用できます。</p>
+<p><strong>Q. 開業1ヶ月目からファクタリングを使えますか？</strong>
+A. 開業1ヶ月目の診療報酬請求書（レセプト）が確定した段階から利用可能です。ただし初回は審査に時間がかかるケースもあるため、早めに問い合わせておくことをおすすめします。</p>
+<p><strong>Q. クリニック開業前の資金調達にファクタリングは使えますか？</strong>
+A. 請求書がない段階ではファクタリングは利用できません。開業前は日本政策金融公庫の医療貸付（担当：医療貸付課）への申請を最優先でご検討ください。</p>
+<hr>
+<h2>関連記事</h2>
+<p>この記事を読んだ方は、以下の記事もよく読まれています。</p>
+<ul>
+<li><a href="/articles/article-factoring-toha/">ファクタリングとは？仕組みをわかりやすく解説</a></li>
+<li><a href="/articles/article-factoring-gyoushu-guide/">業種別ファクタリング活用ガイド</a></li>
+<li><a href="/articles/article-factoring-shinsa/">ファクタリングの審査基準と通過率を高めるコツ</a></li>
+<li><a href="/articles/article-factoring-osusume/">ファクタリングおすすめ20選｜手数料・即日対応を徹底比較</a></li>
+<li><a href="/articles/article-factoring-tesuryo/">ファクタリング手数料の相場と安い会社12選</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}]," > ",["$","span",null,{"className":"text-gray-600","children":["クリニック開業資金にファクタリングは使える？医療業界の資金調","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"クリニック開業資金にファクタリングは使える？医療業界の資金調達完全解説【2026年】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"クリニック開業資金にファクタリングは使える？医療業界の資金調達完全解説【2026年】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"クリニック 開業資金 ファクタリング, 医療 ファクタリング 開業"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vD9DHHovw-vybGOFui3uw"}
+5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-hikaku",{"href":"/articles/article-factoring-hikaku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年4月最新】ファクタリング会社を徹底比較｜手数料・スピード・審査で選ぶ最適な1社"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-koukoku",{"href":"/articles/article-factoring-koukoku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"広告代理店 ファクタリング, 広告業 資金繰り"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"広告代理店向けファクタリング｜媒体費の立替問題を解決する方法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-zeikin",{"href":"/articles/article-factoring-zeikin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 税金滞納, 税金 滞納 資金調達"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"税金滞納でもファクタリングは利用できる？審査への影響と対処法【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]]}]]}]
+8:["$","div",null,{"className":"mt-8 text-center","children":["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]}]
+9:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]]}]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]]}]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"クリニック開業資金にファクタリングは使える？医療業界の資金調達完全解説【2026年】\",\"item\":\"https://corp-factoring.com/articles/article-factoring-clinic-kaigyou\"}]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"クリニック開業資金にファクタリングは使える？医療業界の資金調達完全解説【2026年】\",\"description\":\"クリニック開業資金にファクタリングは使える？医療業界の資金調達完全解説【2026年】。クリニック 開業資金 ファクタリング, 医療 ファクタリング 開業について詳しく解説します。\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-clinic-kaigyou\"}}"}}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true}]
+d:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

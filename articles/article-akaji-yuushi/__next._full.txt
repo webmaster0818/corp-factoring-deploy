@@ -1,0 +1,176 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0a5w-ig4hpr2u.css","style"]
+0:{"P":null,"c":["","articles","article-akaji-yuushi",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-akaji-yuushi","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0a5w-ig4hpr2u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0a5w-ig4hpr2u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vD9DHHovw-vybGOFui3uw"}
+e:[]
+8:"$We"
+f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
+10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
+:HL["/images/articles/kojin-jigyonushi.jpg","image"]
+11:T2de4,<p>「赤字決算だから融資は無理だろう…」と諦めていませんか？</p>
+<p>確かに赤字は融資審査でマイナス要因になりますが、<strong>赤字＝絶対に借りられないわけではありません。</strong> 赤字の原因や種類、そして申し込む先を正しく選べば、個人事業主でも資金を調達できる方法はあります。</p>
+<p>この記事では、赤字でも融資を受けられる5つの方法と、赤字の種類による審査への影響の違い、そして赤字から脱却するための改善策を解説します。</p>
+<hr>
+<h2>赤字の種類によって融資のハードルは変わる</h2>
+<p>一口に「赤字」といっても、金融機関の見方は赤字の原因によって大きく異なります。</p>
+<h3>融資審査で比較的許容される赤字</h3>
+<p>| 赤字の種類 | 理由 | 審査での評価 |
+|-----------|------|-----------|
+| <strong>開業初年度の赤字</strong> | 初期投資が大きく、売上が立ち上がっていない | 事業計画が妥当であれば許容 |
+| <strong>設備投資による赤字</strong> | 機械・車両・内装工事など大きな投資を実施 | 投資効果の説明ができれば問題なし |
+| <strong>減価償却費による帳簿上の赤字</strong> | 実際のキャッシュアウトを伴わない経費 | キャッシュフローで黒字なら評価される |
+| <strong>一時的な外部要因による赤字</strong> | コロナ禍・災害・取引先倒産等 | 回復見込みがあれば考慮される |</p>
+<h3>融資審査で厳しく見られる赤字</h3>
+<p>| 赤字の種類 | 理由 | 審査での評価 |
+|-----------|------|-----------|
+| <strong>売上低迷による慢性的な赤字</strong> | 事業モデルに問題がある可能性 | 改善計画がないと困難 |
+| <strong>2期連続以上の赤字</strong> | 回復の見込みが立ちにくい | かなり厳しい |
+| <strong>債務超過状態</strong> | 負債が資産を上回っている | ほぼ困難 |</p>
+<p><strong>キーポイント:</strong> 融資審査では「なぜ赤字なのか」「今後改善する見込みはあるか」を具体的に説明できるかどうかが勝負の分かれ目です。</p>
+<hr>
+<h2>赤字でも融資を受けられる5つの方法</h2>
+<h3>方法1: 日本政策金融公庫のセーフティネット貸付</h3>
+<p><strong>おすすめ度：★★★★★</strong></p>
+<p>日本政策金融公庫は政府系金融機関であり、<strong>民間銀行と比べて赤字企業への融資に積極的</strong>です。</p>
+<p>| 項目 | 内容 |
+|------|------|
+| 融資限度額 | 4,800万円 |
+| 金利 | 年1.0〜2.5%程度 |
+| 返済期間 | 設備資金15年以内、運転資金8年以内 |
+| 据置期間 | 設備資金3年以内、運転資金3年以内 |</p>
+<p>特に「経営環境変化対応資金（セーフティネット貸付）」は、売上が減少している事業者を対象としており、赤字であっても利用できる可能性があります。</p>
+<p><strong>審査に通るコツ:</strong></p>
+<ul>
+<li>赤字の原因を明確に説明する</li>
+<li>改善計画を具体的な数値で示す</li>
+<li>直近の売上が回復傾向にあることを証明する</li>
+</ul>
+<p>詳しくは<a href="/articles/article-jfc-kojin/">日本政策金融公庫の融資ガイド</a>をご覧ください。</p>
+<h3>方法2: 自治体の制度融資</h3>
+<p><strong>おすすめ度：★★★★☆</strong></p>
+<p><a href="/articles/article-seido-yuushi/">制度融資</a>は、自治体・金融機関・信用保証協会の3者が連携する融資制度です。自治体によっては赤字事業者向けの特別枠を設けているケースがあります。</p>
+<p>| メリット | デメリット |
+|---------|----------|
+| 低金利（0.5〜2.0%） | 審査に1〜2か月かかる |
+| 信用保証協会の保証付き | 保証料が必要 |
+| 自治体が利子補給してくれる場合あり | 必要書類が多い |</p>
+<p><strong>ポイント:</strong> 各自治体の産業振興課や商工会議所に相談すると、赤字でも利用できる制度を紹介してもらえることがあります。</p>
+<h3>方法3: ファクタリング（売掛金の早期現金化）</h3>
+<p><strong>おすすめ度：★★★★☆</strong></p>
+<p>ファクタリングは融資ではなく<strong>売掛金の買取サービス</strong>です。審査で重視されるのは利用者の信用力ではなく、<strong>売掛先（取引先）の支払い能力</strong>です。</p>
+<p>| 項目 | 内容 |
+|------|------|
+| 調達可能額 | 売掛金の70〜95% |
+| 手数料 | 2社間：8〜18%、3社間：2〜9% |
+| 入金スピード | 最短即日 |
+| 赤字の影響 | ほぼなし（売掛先の信用力が重要） |</p>
+<p><strong>赤字でもファクタリングが使える理由:</strong></p>
+<p>ファクタリングは「借入」ではなく「売掛金の売却（債権譲渡）」です。したがって、利用者が赤字であっても、売掛先が信用力のある企業であれば問題なく利用できます。</p>
+<p>個人事業主のファクタリング利用については<a href="/articles/article-factoring-kojin-jigyonushi/">個人事業主向けファクタリングガイド</a>で詳しく解説しています。</p>
+<h3>方法4: ビジネスローン（ノンバンク）</h3>
+<p><strong>おすすめ度：★★★☆☆</strong></p>
+<p>消費者金融系のビジネスローンは、<strong>銀行融資と比べて審査基準が緩やか</strong>です。赤字でも借りられる可能性があります。</p>
+<p>| 項目 | 内容 |
+|------|------|
+| 融資限度額 | 50〜1,000万円 |
+| 金利 | 年5〜18% |
+| 審査期間 | 最短即日〜数日 |
+| 赤字の影響 | 融資額の減額はあるが利用可能なケースあり |</p>
+<p><strong>注意点:</strong></p>
+<ul>
+<li>金利が高いため長期借入には向かない</li>
+<li>返済計画を慎重に立てる必要がある</li>
+<li>複数社からの借入は避ける（多重債務リスク）</li>
+</ul>
+<h3>方法5: 不動産担保ローン</h3>
+<p><strong>おすすめ度：★★★☆☆</strong></p>
+<p>自宅や事業用不動産を担保にすれば、赤字でも比較的大きな金額を借りられます。</p>
+<p>| 項目 | 内容 |
+|------|------|
+| 融資限度額 | 不動産評価額の60〜80% |
+| 金利 | 年3〜10% |
+| 返済期間 | 最長30年 |
+| 赤字の影響 | 担保があるため比較的緩やか |</p>
+<p><strong>リスク:</strong> 返済が滞った場合、不動産を失う可能性があります。最終手段として検討してください。</p>
+<hr>
+<h2>赤字でも審査に通るための準備</h2>
+<h3>1. 赤字の原因を明確に説明する資料を用意する</h3>
+<p>「なぜ赤字になったのか」を客観的な数字で説明できるように準備しましょう。</p>
+<ul>
+<li>売上推移のグラフ</li>
+<li>大型投資の明細</li>
+<li>外部要因（市場環境の変化等）のデータ</li>
+</ul>
+<h3>2. 改善計画を具体的な数値で示す</h3>
+<p>「今後は頑張ります」ではなく、具体的な数字を示すことが重要です。</p>
+<p>| 項目 | 記載例 |
+|------|--------|
+| 売上見込み | 「新規取引先2社が確定しており、月売上30万円増加の見込み」 |
+| 経費削減 | 「事務所を移転し、月5万円の家賃削減を実施済み」 |
+| 黒字化時期 | 「2026年7月から月次黒字化の見込み」 |</p>
+<h3>3. キャッシュフロー計算書を作成する</h3>
+<p>帳簿上は赤字でも、<strong>減価償却費を加算したキャッシュフローベースでは黒字</strong>というケースは少なくありません。</p>
+<p><strong>計算式:</strong>
+実質キャッシュフロー ＝ 税引後利益 ＋ 減価償却費</p>
+<p>例えば、税引後利益が-50万円でも、減価償却費が120万円あれば、実質キャッシュフローは+70万円です。この計算を書面で示すことで、返済能力があることをアピールできます。</p>
+<h3>4. 通帳の入金実績を整理する</h3>
+<p>確定申告書が赤字でも、<strong>通帳に安定した入金がある</strong>ことを示せれば、審査担当者の印象は大きく変わります。直近6か月分の通帳を整理し、入金パターンが安定していることを示しましょう。</p>
+<hr>
+<h2>赤字を改善するための3つの対策</h2>
+<p>融資を受けながら、同時に赤字体質の改善にも取り組みましょう。</p>
+<h3>対策1: 売上の単価を上げる</h3>
+<p>新規顧客を増やすよりも、<strong>既存顧客の単価を上げる方が効率的</strong>です。値上げ交渉、セットメニューの提案、追加サービスの提供を検討しましょう。</p>
+<h3>対策2: 固定費を見直す</h3>
+<p>毎月かかる固定費を削減することで、損益分岐点を下げられます。</p>
+<ul>
+<li>家賃の交渉・移転</li>
+<li>不要なサブスクリプションの解約</li>
+<li>外注先の見直し</li>
+<li>保険料の最適化</li>
+</ul>
+<h3>対策3: 売掛金の回収を早める</h3>
+<p>売上が立っていても、入金が遅ければ資金繰りは苦しくなります。支払いサイトの短縮交渉や、ファクタリングの活用で<strong>キャッシュの回転を速める</strong>ことが有効です。</p>
+<hr>
+<h2>まとめ</h2>
+<p>赤字だからといって資金調達を諦める必要はありません。重要なのは、<strong>赤字の原因を理解し、適切な調達方法を選ぶこと</strong>です。</p>
+<p>| 方法 | 金利・手数料 | 赤字への対応 | スピード |
+|------|-----------|-----------|--------|
+| 日本政策金融公庫 | 1.0〜2.5% | 比較的寛容 | 2〜3週間 |
+| 制度融資 | 0.5〜2.0% | 自治体による | 1〜2か月 |
+| ファクタリング | 2〜18% | 赤字でも利用可 | 最短即日 |
+| ビジネスローン | 5〜18% | 審査基準が緩め | 最短即日 |
+| 不動産担保ローン | 3〜10% | 担保次第 | 1〜3週間 |</p>
+<p><strong>最優先で検討すべきは日本政策金融公庫</strong>です。金利が最も低く、赤字事業者への理解もあります。急ぎの場合はファクタリングやビジネスローンも選択肢に入れましょう。</p>
+<hr>
+<h2>関連記事</h2>
+<ul>
+<li><a href="/articles/article-kojin-jigyonushi-yushi/">個人事業主の融資完全ガイド</a></li>
+<li><a href="/articles/article-factoring-kojin-jigyonushi/">個人事業主向けファクタリング活用ガイド</a></li>
+<li><a href="/articles/article-kojin-okane-kariru/">個人事業主がお金を借りる方法まとめ</a></li>
+<li><a href="/articles/article-kakuteishinkoku-yuushi/">確定申告と融資の関係</a></li>
+<li><a href="/articles/article-jfc-kojin/">日本政策金融公庫の融資ガイド</a></li>
+</ul>
+<hr>
+<p><em>この記事は2026年4月時点の情報に基づいています。各制度の最新情報は公式サイトでご確認ください。</em></p>
+<hr>
+<blockquote>
+<p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
+</blockquote>
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L10",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}]," > ",["$","span",null,{"className":"text-gray-600","children":["赤字でも融資は受けられる？個人事業主が審査に通る5つの方法","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"赤字でも融資は受けられる？個人事業主が審査に通る5つの方法","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"赤字でも融資は受けられる？個人事業主が審査に通る5つの方法"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"赤字 融資"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14","$L15"]}],"$L16","$L17","$L18"]}]
+:HL["/images/logo.png","image"]
+12:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+13:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+14:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-factoring-shiwake",{"href":"/articles/article-factoring-shiwake","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 仕訳, ファクタリング 勘定科目"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの仕訳・会計処理を完全解説｜勘定科目・消費税・決算書への影響【税理士監修級】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-business-loan-kojin",{"href":"/articles/article-business-loan-kojin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ビジネスローン 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】個人事業主向けビジネスローンおすすめ15選｜即日融資・低金利を目的別に徹底比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-shinsa",{"href":"/articles/article-factoring-shinsa","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 審査"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】ファクタリングの審査基準と落ちる理由7選｜通過率を上げるコツと審査が甘い会社を紹介"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]]}]]}]
+15:["$","div",null,{"className":"mt-8 text-center","children":["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]}]
+16:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L10",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L10",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]]}]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]]}]}]
+17:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"赤字でも融資は受けられる？個人事業主が審査に通る5つの方法\",\"item\":\"https://corp-factoring.com/articles/article-akaji-yuushi\"}]}"}}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"赤字でも融資は受けられる？個人事業主が審査に通る5つの方法\",\"description\":\"赤字でも融資は受けられる？個人事業主が審査に通る5つの方法。赤字 融資について詳しく解説します。\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-akaji-yuushi\"}}"}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+c:[["$","title","0",{"children":"赤字でも融資は受けられる？個人事業主が審査に通る5つの方法｜ファクタリング比較ナビ｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"赤字でも融資は受けられる？個人事業主が審査に通る5つの方法。赤字 融資について詳しく解説します。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-akaji-yuushi/"}],["$","meta","5",{"property":"og:title","content":"赤字でも融資は受けられる？個人事業主が審査に通る5つの方法｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"赤字でも融資は受けられる？個人事業主が審査に通る5つの方法。赤字 融資について詳しく解説します。"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","10",{"name":"twitter:description","content":"手数料・審査・入金スピードを徹底比較。最適なファクタリング会社が見つかります。"}]]

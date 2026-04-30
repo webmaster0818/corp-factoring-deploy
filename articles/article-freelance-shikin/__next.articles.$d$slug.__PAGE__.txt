@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
+e:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/images/articles/kojin-jigyonushi.jpg","image"]
+:HL["/images/logo.png","image"]
+4:T264d,<p>「請求書を出したのに、入金は2ヶ月後。今月の生活費が足りない…」</p>
+<p>フリーランスの<strong>43.3%が資金繰りに困った経験がある</strong>というデータがあります。会社員と違い、毎月決まった日に給料が振り込まれるわけではないフリーランスにとって、資金繰りは永遠の課題です。</p>
+<p>特に、支払いサイト（請求から入金までの期間）が60日以上の取引先がある場合、<strong>2ヶ月間は無収入</strong>で耐えなければなりません。</p>
+<p>この記事では、フリーランスの資金繰りを改善する<strong>5つの具体的な対策</strong>を解説します。</p>
+<hr>
+<h2>フリーランスの資金繰りが厳しくなる3つの原因</h2>
+<h3>原因1: 支払いサイトが長い</h3>
+<p>取引先から「月末締め・翌月末払い」と言われれば、最大60日待つことに。「翌々月払い」なら90日。その間の生活費・事業経費は自己負担です。</p>
+<p><strong>2024年施行のフリーランス保護新法により、60日以内の支払いが義務化</strong>されました。しかし、現実にはまだ60日ギリギリの支払いサイトが多いのが実情です。</p>
+<h3>原因2: 収入が不安定</h3>
+<p>月によって案件数が大きく変動。売上100万円の月もあれば、30万円の月もある。固定費は毎月かかるため、売上が少ない月は一気に苦しくなります。</p>
+<h3>原因3: 突発的な出費</h3>
+<p>パソコンの故障、税金の支払い、病気・ケガ…。フリーランスには傷病手当金もないため、突発的な出費のダメージが大きい。</p>
+<hr>
+<h2>資金繰りを改善する5つの対策</h2>
+<h3>対策1: ファクタリングで請求書を即日現金化【最速】</h3>
+<p><strong>手持ちの<a href="/articles/article-seikyusho-kaitori/">請求書を最短10分で現金化</a>できるサービスです。</strong></p>
+<p>支払いサイトが60日でも、ファクタリングを使えば請求書発行日に現金を受け取れます。借入ではないため信用情報にも影響しません。</p>
+<p>| サービス | 手数料 | 入金 | 最低額 |
+|---------|--------|------|--------|
+| ペイトナー | 10%固定 | <strong>最短10分</strong> | 1万円 |
+| ラボル | 10%固定 | <strong>最短30分</strong> | 1万円 |
+| QuQuMo | 1%〜 | 最短2時間 | なし |</p>
+<p><strong>こんな時に使う:</strong></p>
+<ul>
+<li>支払いサイトが長く、入金まで待てない</li>
+<li>今月の支払い（家賃・税金等）に間に合わない</li>
+<li>急な出費が発生した</li>
+</ul>
+<p><strong>コスト例:</strong> 50万円の請求書 × 手数料10% = 手数料5万円 → 45万円が即日入金</p>
+<h3>対策2: 支払いサイトの短縮交渉</h3>
+<p>取引先に支払いサイトの短縮を交渉しましょう。</p>
+<p><strong>交渉のポイント:</strong></p>
+<ul>
+<li>「月末締め・翌月末払い」→「月末締め・翌月15日払い」に短縮</li>
+<li>新規取引開始時に交渉するのがベスト</li>
+<li>フリーランス保護新法（60日ルール）を根拠にする</li>
+<li>長期的な取引関係をアピール</li>
+</ul>
+<p><strong>注意:</strong> 強気な交渉は取引関係を損なうリスクがあります。まずはファクタリングで当面を凌ぎながら、タイミングを見て交渉するのがベター。</p>
+<h3>対策3: 複数の収入源を確保する</h3>
+<p>1社に依存すると、その会社の支払いが遅れただけで資金繰りが破綻します。</p>
+<p><strong>具体策:</strong></p>
+<ul>
+<li>メインクライアント3社以上を確保</li>
+<li>月額固定の保守・顧問契約を増やす</li>
+<li>ストック型収入（教材販売・サブスク等）を作る</li>
+<li>エージェント経由の案件で安定受注</li>
+</ul>
+<h3>対策4: 生活費3〜6ヶ月分の緊急資金を貯める</h3>
+<p>理想は<strong>生活費6ヶ月分</strong>を事業用口座とは別に確保。これがあれば、支払いサイトが長くても、案件が途切れても、精神的に余裕を持てます。</p>
+<p><strong>貯め方のコツ:</strong></p>
+<ul>
+<li>売上の20%を自動的に別口座に移す</li>
+<li>高額案件が入った月に多めに貯金</li>
+<li>小規模企業共済に加入（節税＋退職金＋低金利貸付）</li>
+</ul>
+<h3>対策5: 日本政策金融公庫で低金利融資を受ける</h3>
+<p>2〜3週間待てるなら、**年0.3%〜3%の<a href="/articles/article-jfc-kojin/">低金利融資</a>**が最もコスパが良い<a href="/articles/article-kojin-shikin-chotatsu/">資金調達方法</a>です。</p>
+<ul>
+<li>新規開業・スタートアップ支援資金: 最大7,200万円</li>
+<li>無担保・無保証人で利用可能</li>
+<li>フリーランスも対象</li>
+</ul>
+<p><strong>おすすめ戦略:</strong> ファクタリングで今月を乗り切りながら、並行して日本公庫の融資を申請。融資が実行されたらファクタリングの利用を減らす。</p>
+<hr>
+<h2>フリーランス保護新法と支払いサイト</h2>
+<p>2024年11月施行の<strong>フリーランス保護新法</strong>により、以下が義務化されました。</p>
+<p>| 項目 | 内容 |
+|------|------|
+| 支払い期限 | <strong>成果物受領日から60日以内</strong> |
+| 契約条件の明示 | 書面またはメールで明示必須 |
+| 報酬の減額禁止 | 正当な理由のない減額は禁止 |
+| やり直し強制の禁止 | 報酬を支払わないやり直しは禁止 |</p>
+<p><strong>もし60日を超える支払いサイトを要求されたら：</strong></p>
+<ul>
+<li>フリーランス保護新法違反であることを伝える</li>
+<li>公正取引委員会に相談（0570-070-555）</li>
+<li>証拠（契約書・メール等）を保存しておく</li>
+</ul>
+<hr>
+<h2>資金繰り改善チェックリスト</h2>
+<ul>
+<li>[ ] 支払いサイトが60日を超えていないか確認</li>
+<li>[ ] ファクタリングのアカウントを事前登録（急ぎの時にすぐ使える）</li>
+<li>[ ] 生活費3ヶ月分の緊急資金を確保</li>
+<li>[ ] 収入源が1社に偏っていないか確認</li>
+<li>[ ] 小規模企業共済に加入しているか</li>
+<li>[ ] 確定申告を正確に行っているか（融資の準備）</li>
+<li>[ ] 請求書発行を即日行っているか（入金を早める）</li>
+</ul>
+<hr>
+<h2>よくある質問</h2>
+<h3>Q. ファクタリングは毎月使っても大丈夫？</h3>
+<p><strong>A. 使えますが、恒常的な利用はコストがかさみます。</strong> <a href="/articles/article-factoring-tesuryo/">手数料</a>10%なら年間で売上の10%が手数料に消えます。緊急時のつなぎとして使い、並行して支払いサイト短縮や融資の手配を進めましょう。</p>
+<h3>Q. フリーランス保護新法で何が変わった？</h3>
+<p><strong>A. 60日以内の支払いが義務化されました。</strong> 以前は法的な規制がなく、90日・120日の支払いサイトも横行していました。違反した場合は公正取引委員会が指導・勧告を行います。</p>
+<h3>Q. 確定申告で赤字だと融資は受けられない？</h3>
+<p><strong>A. 難しくなりますが、ファクタリングなら利用可能です。</strong> ファクタリングの審査は売掛先の信用力がメイン。あなたが赤字でも請求書があれば使えます。</p>
+<hr>
+<h2>まとめ</h2>
+<p>| 対策 | スピード | コスト | おすすめ度 |
+|------|---------|--------|----------|
+| ファクタリング | 最短10分 | 1〜20% | ★★★★★（緊急時） |
+| 支払いサイト短縮交渉 | 数週間 | 無料 | ★★★★☆ |
+| 複数収入源の確保 | 数ヶ月 | 無料 | ★★★★★（根本対策） |
+| 緊急資金の貯蓄 | 数ヶ月 | 無料 | ★★★★★（根本対策） |
+| 日本公庫の融資 | 2〜3週間 | 年0.3〜3% | ★★★★☆ |</p>
+<p><strong>今すぐやるべきこと:</strong></p>
+<ol>
+<li>ペイトナーまたはラボルのアカウントを作っておく（いざという時にすぐ使える）</li>
+<li>支払いサイトを確認し、60日超えがあればフリーランス新法を根拠に交渉</li>
+<li>生活費3ヶ月分の貯蓄を始める</li>
+</ol>
+<hr>
+<p><em>この記事は2026年4月時点の情報に基づいています。</em></p>
+<hr>
+<h2>関連記事</h2>
+<p>この記事を読んだ方は、以下の記事もよく読まれています。</p>
+<ul>
+<li><a href="/articles/article-kojin-shikin-chotatsu/">個人事業主の資金調達方法10選</a></li>
+<li><a href="/articles/article-factoring-kojin-jigyonushi/">個人事業主向けファクタリングおすすめ15選</a></li>
+<li><a href="/articles/article-seikyusho-kaitori/">請求書買取サービスおすすめ10選</a></li>
+<li><a href="/articles/article-jfc-kojin/">日本政策金融公庫で個人事業主が融資を受ける方法</a></li>
+<li><a href="/articles/article-kojin-hojokin/">個人事業主が使える補助金・助成金15選</a></li>
+</ul>
+<hr>
+<blockquote>
+<p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
+</blockquote>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}]," > ",["$","span",null,{"className":"text-gray-600","children":["【2026年最新】フリーランスの資金繰り改善ガイド｜支払いサ","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"【2026年最新】フリーランスの資金繰り改善ガイド｜支払いサイトが長い時の5つの対策","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【2026年最新】フリーランスの資金繰り改善ガイド｜支払いサイトが長い時の5つの対策"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"フリーランス 資金繰り / 個人事業主 資金繰り / フリーランス 支払いサイト"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vD9DHHovw-vybGOFui3uw"}
+5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-koukoku",{"href":"/articles/article-factoring-koukoku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"広告代理店 ファクタリング, 広告業 資金繰り"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"広告代理店向けファクタリング｜媒体費の立替問題を解決する方法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-akaji-yuushi",{"href":"/articles/article-akaji-yuushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"赤字 融資"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"赤字でも融資は受けられる？個人事業主が審査に通る5つの方法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-hajimete",{"href":"/articles/article-factoring-hajimete","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 初めて, ファクタリング 初回, ファクタリング 使い方"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング初めての方向け完全ガイド｜初回利用の手順・注意点・おすすめ会社【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]]}]]}]
+8:["$","div",null,{"className":"mt-8 text-center","children":["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]}]
+9:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]]}]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]]}]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"【2026年最新】フリーランスの資金繰り改善ガイド｜支払いサイトが長い時の5つの対策\",\"item\":\"https://corp-factoring.com/articles/article-freelance-shikin\"}]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"【2026年最新】フリーランスの資金繰り改善ガイド｜支払いサイトが長い時の5つの対策\",\"description\":\"【2026年最新】フリーランスの資金繰り改善ガイド｜支払いサイトが長い時の5つの対策。フリーランス 資金繰り / 個人事業主 資金繰り / フリーランス 支払いサイトについて詳しく解説します。\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-freelance-shikin\"}}"}}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true}]
+d:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

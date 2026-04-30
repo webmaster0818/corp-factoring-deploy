@@ -1,0 +1,144 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0a5w-ig4hpr2u.css","style"]
+0:{"P":null,"c":["","articles","article-kojin-okane-kariru",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-kojin-okane-kariru","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0a5w-ig4hpr2u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0a5w-ig4hpr2u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vD9DHHovw-vybGOFui3uw"}
+e:[]
+8:"$We"
+f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
+10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
+:HL["/images/articles/kojin-jigyonushi.jpg","image"]
+11:T1feb,<p>「個人事業主だけど、お金を借りる方法がわからない…」</p>
+<p>個人事業主がお金を借りる方法は大きく分けて<strong>9つ</strong>あります。しかし、方法によって<strong>金利・審査の厳しさ・入金スピード</strong>が全く違います。</p>
+<p>この記事では、9つの方法を<strong>審査に通りやすい順にランキング</strong>。あなたの状況に合った最適な借入方法が見つかります。</p>
+<hr>
+<h2>個人事業主がお金を借りる方法9選【審査通りやすい順】</h2>
+<p>| 順位 | 方法 | 金利/手数料 | 審査難易度 | スピード | 信用情報 |
+|------|------|-----------|----------|---------|---------|
+| 1 | <strong>ファクタリング</strong> | 1〜20% | ★☆☆☆☆ | 最短10分 | 影響なし |
+| 2 | <strong>小規模企業共済貸付</strong> | 年0.9〜1.5% | ★☆☆☆☆ | 即日〜1週間 | 影響なし |
+| 3 | <strong>ビジネスローン（ノンバンク）</strong> | 年3〜18% | ★★☆☆☆ | 最短即日 | 影響あり |
+| 4 | <strong>ビジネスローン（銀行系）</strong> | 年1.8〜14% | ★★★☆☆ | 数日〜1週間 | 影響あり |
+| 5 | <strong>日本政策金融公庫</strong> | 年0.3〜3% | ★★★☆☆ | 2〜3週間 | 影響あり |
+| 6 | <strong>信用金庫</strong> | 年1〜5% | ★★★☆☆ | 2〜4週間 | 影響あり |
+| 7 | <strong>自治体の制度融資</strong> | 年0.1〜3% | ★★★☆☆ | 1〜2ヶ月 | 影響あり |
+| 8 | <strong>銀行融資（プロパー）</strong> | 年1〜4% | ★★★★★ | 2〜4週間 | 影響あり |
+| 9 | <strong>親族からの借入</strong> | 応相談 | なし | 即日 | 影響なし |</p>
+<p><strong>注:</strong> ファクタリングは厳密には「借入」ではなく「売却」ですが、<a href="/articles/article-kojin-shikin-chotatsu/">資金調達方法</a>として最も審査が通りやすいためランキング1位に含めています。</p>
+<hr>
+<h2>1位: ファクタリング【審査最も通りやすい】</h2>
+<p><strong>なぜ通りやすい？</strong> → 審査対象が「あなた」ではなく「売掛先（取引先）」だから。</p>
+<p>| 項目 | 内容 |
+|------|------|
+| コスト | 1〜20%（売掛金額に対して） |
+| スピード | 最短10分 |
+| 条件 | 請求書（売掛金）があること |
+| 信用情報 | 影響なし |</p>
+<p><strong>おすすめサービス:</strong></p>
+<ul>
+<li>ペイトナー（最短10分・1万円〜）</li>
+<li>QuQuMo（手数料1%〜）</li>
+<li>アクセルファクター（審査通過率93%）</li>
+</ul>
+<p><strong>こんな人に最適:</strong> 請求書があり、今すぐ資金が必要な方。信用情報に影響させたくない方。</p>
+<hr>
+<h2>2位: 小規模企業共済の貸付【超低金利・即日可能】</h2>
+<p>小規模企業共済に加入していれば、掛け金の範囲内で即日〜1週間で借りられます。</p>
+<p>| 貸付種類 | 金利 |
+|---------|------|
+| 一般貸付 | 年1.5% |
+| 緊急経営安定貸付 | 年0.9% |
+| 傷病災害時貸付 | 年0.9% |</p>
+<p><strong>条件:</strong> 小規模企業共済に加入済みであること。</p>
+<hr>
+<h2>3位: ビジネスローン（ノンバンク系）【最短即日】</h2>
+<p>| サービス | 金利 | 限度額 | スピード |
+|---------|------|--------|---------|
+| AGビジネスサポート | 年3.1〜18% | 〜1,000万円 | 最短即日 |
+| プロミス自営者 | 年6.3〜17.8% | 〜300万円 | 最短即日 |</p>
+<p><strong>こんな人に最適:</strong> 請求書がなく、今日〜翌日に資金が必要な方。</p>
+<hr>
+<h2>4位: ビジネスローン（銀行系）【低金利】</h2>
+<p>| サービス | 金利 | 限度額 | スピード |
+|---------|------|--------|---------|
+| PayPay銀行 | 年1.8〜13.8% | 〜1,000万円 | 数日 |
+| GMOあおぞら | 年0.9〜14% | 〜1,000万円 | 数日 |</p>
+<p><strong>こんな人に最適:</strong> 数日待てて、低金利で借りたい方。</p>
+<hr>
+<h2>5位: <a href="/articles/article-jfc-kojin/">日本政策金融公庫</a>【最もコスパが良い】</h2>
+<p>| 制度 | 金利 | 限度額 | スピード |
+|------|------|--------|---------|
+| 新規開業・スタートアップ | 年0.3〜3% | 7,200万円 | 2〜3週間 |
+| 一般貸付 | 年0.3〜3% | 4,800万円 | 2〜3週間 |</p>
+<p><strong>こんな人に最適:</strong> 2〜3週間待てて、最も低金利で借りたい方。</p>
+<hr>
+<h2>6〜9位: その他の方法</h2>
+<p><strong>6位 信用金庫:</strong> 地域密着・対面相談向き
+<strong>7位 自治体の制度融資:</strong> 最低金利だが1〜2ヶ月かかる
+<strong>8位 銀行融資:</strong> 低金利だが審査が最も厳しい
+<strong>9位 親族からの借入:</strong> 審査なしだが人間関係リスク</p>
+<hr>
+<h2>審査に通らない場合の対処法</h2>
+<h3>パターン1: 信用情報に問題がある</h3>
+<p>→ <strong>ファクタリング</strong>（信用情報を照会しない）</p>
+<h3>パターン2: 赤字・税金滞納</h3>
+<p>→ <strong>ファクタリング</strong>（売掛先基準の審査）
+→ <strong>アクセルファクター</strong>（通過率93%・赤字OK）</p>
+<h3>パターン3: 開業したばかり</h3>
+<p>→ <strong><a href="/articles/article-sogyo-yushi/">日本政策金融公庫の創業融資</a></strong>（開業前でもOK）
+→ <strong>ファクタリング</strong>（請求書があれば業歴不問）</p>
+<h3>パターン4: 請求書がない</h3>
+<p>→ <strong>ビジネスローン</strong>（売掛金不要）
+→ <strong>日本政策金融公庫</strong>（事業計画書ベース）</p>
+<hr>
+<h2>絶対にやってはいけない借入方法</h2>
+<ul>
+<li><strong>闇金（ヤミ金融）</strong> — 年利数百〜数千%。取立てが違法・暴力的</li>
+<li><strong>クレジットカード現金化</strong> — カード会社の規約違反。カード停止のリスク</li>
+<li><strong>個人間融資（SNS等）</strong> — 闇金の別形態。犯罪に巻き込まれる可能性</li>
+<li><strong>給与ファクタリング</strong> — 金融庁が違法と判断</li>
+</ul>
+<p><strong>正規の方法で資金調達しましょう。</strong></p>
+<hr>
+<h2>まとめ</h2>
+<p>| 緊急度 | おすすめ |
+|--------|---------|
+| 今日中 + 請求書あり | ファクタリング（ペイトナー 10分） |
+| 今日中 + 請求書なし | ビジネスローン（AG 即日） |
+| 1週間以内 | 銀行系ビジネスローン |
+| 2〜3週間 | 日本政策金融公庫 |
+| 1ヶ月以上 | 自治体の制度融資 |</p>
+<p><strong>まずはファクタリングの無料見積もりを取りつつ、並行して日本政策金融公庫に相談するのが最も賢い戦略です。</strong></p>
+<hr>
+<p><em>この記事は2026年4月時点の情報に基づいています。</em></p>
+<hr>
+<h2>関連記事</h2>
+<p>この記事を読んだ方は、以下の記事もよく読まれています。</p>
+<ul>
+<li><a href="/articles/article-kojin-shikin-chotatsu/">個人事業主の資金調達方法10選</a></li>
+<li><a href="/articles/article-kojin-jigyonushi-yushi/">個人事業主が融資を受ける方法7選</a></li>
+<li><a href="/articles/article-business-loan-kojin/">個人事業主向けビジネスローンおすすめ15選</a></li>
+<li><a href="/articles/article-jfc-kojin/">日本政策金融公庫で個人事業主が融資を受ける方法</a></li>
+<li><a href="/articles/article-factoring-kojin-jigyonushi/">個人事業主向けファクタリングおすすめ15選</a></li>
+</ul>
+<hr>
+<blockquote>
+<p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
+</blockquote>
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L10",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}]," > ",["$","span",null,{"className":"text-gray-600","children":["【2026年最新】個人事業主がお金を借りる方法9選｜審査に通","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"【2026年最新】個人事業主がお金を借りる方法9選｜審査に通りやすい順にランキング","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【2026年最新】個人事業主がお金を借りる方法9選｜審査に通りやすい順にランキング"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"個人事業主 お金借りる"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14","$L15"]}],"$L16","$L17","$L18"]}]
+:HL["/images/logo.png","image"]
+12:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+13:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+14:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-factoring-kouri",{"href":"/articles/article-factoring-kouri","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"小売業 ファクタリング, 小売 資金繰り, 小売店 資金調達"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"小売業のファクタリング活用ガイド｜仕入れ資金・季節変動に対応する方法【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-clinic-kaigyou",{"href":"/articles/article-factoring-clinic-kaigyou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"クリニック 開業資金 ファクタリング, 医療 ファクタリング 開業"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"クリニック開業資金にファクタリングは使える？医療業界の資金調達完全解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-ec",{"href":"/articles/article-factoring-ec","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"EC通販 ファクタリング, Amazon 売上 資金化, 楽天 資金繰り"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"EC・通販事業者のファクタリング活用ガイド｜Amazonや楽天の売上を即日資金化【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]]}]]}]
+15:["$","div",null,{"className":"mt-8 text-center","children":["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]}]
+16:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L10",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L10",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]]}]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]]}]}]
+17:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"【2026年最新】個人事業主がお金を借りる方法9選｜審査に通りやすい順にランキング\",\"item\":\"https://corp-factoring.com/articles/article-kojin-okane-kariru\"}]}"}}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"【2026年最新】個人事業主がお金を借りる方法9選｜審査に通りやすい順にランキング\",\"description\":\"【2026年最新】個人事業主がお金を借りる方法9選｜審査に通りやすい順にランキング。個人事業主 お金借りるについて詳しく解説します。\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-kojin-okane-kariru\"}}"}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+c:[["$","title","0",{"children":"【2026年最新】個人事業主がお金を借りる方法9選｜審査に通りやすい順にランキング｜ファクタリング比較ナビ｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"【2026年最新】個人事業主がお金を借りる方法9選｜審査に通りやすい順にランキング。個人事業主 お金借りるについて詳しく解説します。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-kojin-okane-kariru/"}],["$","meta","5",{"property":"og:title","content":"【2026年最新】個人事業主がお金を借りる方法9選｜審査に通りやすい順にランキング｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"【2026年最新】個人事業主がお金を借りる方法9選｜審査に通りやすい順にランキング。個人事業主 お金借りるについて詳しく解説します。"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","10",{"name":"twitter:description","content":"手数料・審査・入金スピードを徹底比較。最適なファクタリング会社が見つかります。"}]]

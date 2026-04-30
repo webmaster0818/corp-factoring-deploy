@@ -1,0 +1,164 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
+e:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/images/articles/factoring-article.jpg","image"]
+:HL["/images/logo.png","image"]
+4:T2ca5,<p>「不動産仲介の仲介手数料は取引完了後にしか受け取れない」「不動産売買の残代金の入金まで時間がかかる」——不動産業特有の資金繰り課題があります。</p>
+<p>不動産業のファクタリングは、仲介手数料の早期資金化や売買代金の一部の現金化に活用できます。この記事では、不動産業者がファクタリングを活用する方法とおすすめ会社を解説します。</p>
+<hr>
+<h2>不動産業の資金繰り課題</h2>
+<h3>課題1：仲介手数料の入金タイミング</h3>
+<p>不動産仲介会社の収入（仲介手数料）が入るタイミング：</p>
+<p>| 取引形態 | 手数料入金のタイミング |
+|---------|-------------------|
+| 売買仲介 | 売買契約締結時（半金）＋決済完了時（半金）、または決済完了時に全額 |
+| 賃貸仲介 | 賃貸契約締結時（1ヶ月分） |
+| 管理委託 | 毎月の管理料（安定収入だが少額） |</p>
+<p>売買仲介は取引完了まで数週間〜数ヶ月かかることがあります。その間も広告費・人件費・事務所費が発生し続けます。</p>
+<h3>課題2：仕入れ資金の先行負担</h3>
+<p>不動産買取転売業者（買取再販）の場合：</p>
+<ul>
+<li>物件取得費（多額の資金が必要）</li>
+<li>リフォーム費用</li>
+<li>保有コスト（金利・固定資産税等）</li>
+</ul>
+<p>これらのコストが先行し、売却が完了するまで収入が入りません。</p>
+<h3>課題3：大型案件の収益は一時的</h3>
+<p>不動産業は大型取引が1件完了すると一時的に大きな収益が入りますが、次の案件が完了するまでの期間は収入が少なくなります。この「波のある収益」に対して、人件費・事務所費は毎月発生します。</p>
+<h3>課題4：金利負担の重さ</h3>
+<p>不動産購入資金の借入金利は、業者向けでも1〜3%程度が一般的です。売却が長期化すると金利負担が増加します。売却を急ぐ必要がある場合、値下げを余儀なくされることも。</p>
+<hr>
+<h2>不動産業がファクタリングで活用できる売掛金</h2>
+<h3>活用できるケース</h3>
+<p><strong>1. 不動産仲介手数料（売買・賃貸）</strong>
+売買契約締結後・賃貸契約締結後の未入金の仲介手数料。買主・売主・借主（法人の場合）への請求書をファクタリング可能。</p>
+<p><strong>2. テナント管理費・共益費</strong>
+商業ビル・テナントビルを管理している不動産会社の場合、毎月のテナント（法人）への管理費・共益費の請求書をファクタリング可能。</p>
+<p><strong>3. 不動産売買の残代金（法人間取引）</strong>
+法人間の不動産売買で、決済・登記完了後の未入金分をファクタリングできるケースがあります。</p>
+<p><strong>4. 建物建設費の立替（デベロッパー）</strong>
+デベロッパーが建設会社に支払った費用を、分譲販売代金の一部を担保として資金化するケース（会社によって対応が異なります）。</p>
+<hr>
+<h2>不動産ファクタリングに向いている取引・向いていない取引</h2>
+<h3>向いている取引</h3>
+<p>| 取引 | 理由 |
+|------|------|
+| 法人顧客への仲介手数料 | 信用力が高く審査通過しやすい |
+| 大手企業テナントの管理費 | 安定した売掛先 |
+| 継続的な管理委託費 | 安定収入として評価される |</p>
+<h3>向いていない取引</h3>
+<p>| 取引 | 理由 |
+|------|------|
+| 個人（消費者）への請求 | 個人への請求は審査が困難 |
+| 未契約・未成約の案件 | 売掛金が確定していない |
+| 手付金返還リスクのある案件 | 売掛金の実在性に疑義 |</p>
+<hr>
+<h2>不動産業向けファクタリングおすすめ会社</h2>
+<h3>1位：ビートレーディング</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 手数料 | 2社間：4〜12% / 3社間：2〜9% |
+| 入金スピード | 最短2時間 |
+| 対応金額 | 上限なし |
+| 実績 | 累計取引91,000社以上 |</p>
+<p><strong>不動産業おすすめ理由：</strong> 不動産業の取引実績が豊富。高額の仲介手数料（数百万円規模）にも対応。大手企業テナントや法人客への請求書には特に有利な条件が期待できます。</p>
+<h3>2位：トップマネジメント</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 手数料 | 2社間：3.5〜12.5% / 3社間：0.5〜3.5% |
+| 入金スピード | 最短即日 |
+| 最大金額 | 3億円 |
+| 特徴 | 高額対応・3社間 |</p>
+<p><strong>不動産業おすすめ理由：</strong> 不動産業の高額取引に対応（最大3億円）。大手法人テナントへの管理費等で3社間を活用すれば、手数料0.5%〜と極めて低コストでの資金化が可能。</p>
+<h3>3位：アクセルファクター</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 手数料 | 0.5〜12% |
+| 入金スピード | 最短2時間 |
+| 審査通過率 | 93%以上 |
+| 対応金額 | 30万円〜 |</p>
+<p><strong>不動産業おすすめ理由：</strong> 大手企業テナントへの請求書は業界最低水準の手数料での対応が期待できます。高い審査通過率で、不動産業者特有の不規則な収益サイクルにも柔軟に対応。</p>
+<h3>4位：日本中小企業金融サポート機構</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 手数料 | 1.5〜10% |
+| 入金スピード | 最短3時間 |
+| 運営 | 非営利団体 |
+| 特徴 | 手数料上限10%保証 |</p>
+<p><strong>不動産業おすすめ理由：</strong> 中小不動産会社の資金繰り相談にも対応。非営利団体として手数料上限が保証されており、高額手数料を請求されるリスクがありません。</p>
+<h3>5位：QuQuMo</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 手数料 | 1〜14.8% |
+| 入金スピード | 最短2時間 |
+| 必要書類 | 2点のみ |
+| 対応金額 | 上限なし |</p>
+<p><strong>不動産業おすすめ理由：</strong> シンプルな手続きで法人顧客への仲介手数料を即日資金化。書類2点のみでの申込が可能で、業務効率が良いです。</p>
+<hr>
+<h2>不動産業でファクタリングを利用する際の注意点</h2>
+<h3>注意点1：個人顧客への請求書は対象外になりやすい</h3>
+<p>不動産業では売主・買主・借主が個人（一般消費者）の場合が多いです。個人への請求書はほとんどのファクタリング会社で審査が困難です。法人顧客への請求書を持つ場合に活用できます。</p>
+<h3>注意点2：宅地建物取引業法との関係</h3>
+<p>ファクタリング自体は宅地建物取引業法に抵触しません。ただし、仲介手数料の請求は取引の実態（契約締結・決済完了等）に基づく必要があります。実態のない仲介手数料の請求書を作成することは違法です。</p>
+<h3>注意点3：取引の確定を確認してから申し込む</h3>
+<p>不動産取引は条件交渉・ローン審査・物件確認等で取引自体がキャンセルになることがあります。取引が確定（売買契約締結・決済完了等）した後に申し込むことで、架空請求のリスクを避けられます。</p>
+<hr>
+<h2>不動産業の資金繰り改善のための追加策</h2>
+<p><strong>短期的な改善策：</strong></p>
+<ul>
+<li>ファクタリング（本記事で解説）</li>
+<li>不動産担保融資（所有不動産を担保に）</li>
+<li>事業者向けビジネスローン</li>
+</ul>
+<p><strong>中長期的な改善策：</strong></p>
+<ul>
+<li>安定収入の管理委託・管理受託の比率を高める</li>
+<li>仲介手数料の内金（前払い）条件の交渉</li>
+<li>収益物件の取得による賃料収入の安定化</li>
+</ul>
+<hr>
+<h2>まとめ</h2>
+<p>不動産業のファクタリングは、主に「法人顧客への仲介手数料・管理費等」の早期資金化に活用できます。</p>
+<p>法人テナントや法人顧客への請求書がある場合は、低手数料（2〜6%程度）での資金化が可能です。</p>
+<p><strong>不動産業のおすすめ：</strong>
+ビートレーディング（高額・実績豊富）、トップマネジメント（高額・3社間で低手数料）、アクセルファクター（審査通過率93%）</p>
+<p>大型取引の入金を待つ間の運転資金確保に、ファクタリングを活用してください。</p>
+<hr>
+<h2>よくある質問（FAQ）</h2>
+<p><strong>Q. 不動産の仲介手数料はファクタリングできますか？</strong></p>
+<p>A. 法人（企業・法人）への仲介手数料であれば対応可能なケースがあります。個人（消費者）への請求書は対応が難しいことが多いです。</p>
+<p><strong>Q. 不動産業のファクタリング手数料の相場はいくらですか？</strong></p>
+<p>A. 法人テナント・大手企業への請求書なら2〜6%程度、中小企業への請求書は5〜12%程度が目安です。</p>
+<p><strong>Q. 決済前（登記完了前）の売買代金をファクタリングできますか？</strong></p>
+<p>A. 一般的に、確定した（支払い義務が発生した）売掛金のみファクタリング可能です。決済前の不確定な代金は対象外になることが多いです。事前に各社に確認してください。</p>
+<p><strong>Q. 不動産会社の開業直後でもファクタリングは利用できますか？</strong></p>
+<p>A. 開業直後は取引実績が少なく審査が難しいケースがありますが、信用力の高い法人顧客への請求書があれば審査可能な会社もあります。まずは各社に相談することをおすすめします。</p>
+<hr>
+<p><em>この記事は2026年4月時点の情報に基づいています。各サービスの最新情報は公式サイトでご確認ください。</em></p>
+<hr>
+<blockquote>
+<p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
+</blockquote>
+<hr>
+<h2>関連記事</h2>
+<p>この記事を読んだ方は、以下の記事もよく読まれています。</p>
+<ul>
+<li><a href="/articles/article-factoring-toha/">ファクタリングとは？仕組みをわかりやすく解説</a></li>
+<li><a href="/articles/article-factoring-gyoushu-guide/">業種別ファクタリング活用ガイド</a></li>
+<li><a href="/articles/article-factoring-osusume/">ファクタリングおすすめ20選｜手数料・即日対応を徹底比較</a></li>
+<li><a href="/articles/article-factoring-tesuryo/">ファクタリング手数料の相場と安い会社12選</a></li>
+<li><a href="/articles/article-factoring-keiyaku/">ファクタリングの契約の流れと注意点</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}]," > ",["$","span",null,{"className":"text-gray-600","children":["不動産業向けファクタリング｜仲介手数料・売買代金の早期資金化","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"不動産業向けファクタリング｜仲介手数料・売買代金の早期資金化","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"不動産業向けファクタリング｜仲介手数料・売買代金の早期資金化"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"不動産 ファクタリング, 不動産業 資金繰り"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vD9DHHovw-vybGOFui3uw"}
+5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-akaji-yuushi",{"href":"/articles/article-akaji-yuushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"赤字 融資"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"赤字でも融資は受けられる？個人事業主が審査に通る5つの方法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-toha",{"href":"/articles/article-factoring-toha","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリングとは"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【図解でわかる】ファクタリングとは？仕組み・手数料・メリットデメリットを初心者向けに完全解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-koukoku",{"href":"/articles/article-factoring-koukoku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"広告代理店 ファクタリング, 広告業 資金繰り"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"広告代理店向けファクタリング｜媒体費の立替問題を解決する方法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]]}]]}]
+8:["$","div",null,{"className":"mt-8 text-center","children":["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]}]
+9:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]]}]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]]}]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"不動産業向けファクタリング｜仲介手数料・売買代金の早期資金化\",\"item\":\"https://corp-factoring.com/articles/article-factoring-fudousan\"}]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"不動産業向けファクタリング｜仲介手数料・売買代金の早期資金化\",\"description\":\"不動産業向けファクタリング｜仲介手数料・売買代金の早期資金化。不動産 ファクタリング, 不動産業 資金繰りについて詳しく解説します。\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-fudousan\"}}"}}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true}]
+d:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

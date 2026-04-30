@@ -1,0 +1,205 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0a5w-ig4hpr2u.css","style"]
+0:{"P":null,"c":["","articles","article-seido-yuushi",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-seido-yuushi","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0a5w-ig4hpr2u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0a5w-ig4hpr2u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vD9DHHovw-vybGOFui3uw"}
+e:[]
+8:"$We"
+f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
+10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
+:HL["/images/articles/kojin-jigyonushi.jpg","image"]
+11:T373c,<p>「銀行融資は審査が厳しそう…でも高金利のローンは避けたい」</p>
+<p>そんな個人事業主におすすめなのが<strong>制度融資</strong>です。自治体・金融機関・信用保証協会の3者が連携し、<strong>低金利・低保証料で借りられる</strong>のが最大の特徴。自治体によっては利子補給があり、実質金利0%台で利用できるケースもあります。</p>
+<p>この記事では、制度融資の仕組み、メリット・デメリット、申込手順、そして主要自治体の制度例を解説します。</p>
+<hr>
+<h2>制度融資の仕組み</h2>
+<p>制度融資は、以下の3者が連携して成り立つ融資制度です。</p>
+<h3>3者の役割</h3>
+<p>| 関係者 | 役割 |
+|--------|------|
+| <strong>自治体（都道府県・市区町村）</strong> | 制度の設計、金融機関への預託金（原資）の提供、利子補給・保証料補助 |
+| <strong>金融機関（銀行・信用金庫等）</strong> | 実際の融資実行、審査、資金の貸付 |
+| <strong>信用保証協会</strong> | 融資の保証（利用者が返済できない場合に金融機関に代位弁済） |</p>
+<h3>資金の流れ</h3>
+<ol>
+<li><strong>個人事業主が自治体の窓口に申し込む</strong></li>
+<li>自治体が金融機関を紹介（あっせん）する</li>
+<li>信用保証協会が保証審査を行う</li>
+<li>金融機関が融資審査を行う</li>
+<li>審査通過後、金融機関から融資が実行される</li>
+<li>自治体が利子補給や保証料補助を行う（制度による）</li>
+</ol>
+<p><strong>ポイント:</strong> 自治体が「仲介役」となることで、民間融資では審査が通りにくい個人事業主でも借りやすくなります。</p>
+<hr>
+<h2>制度融資のメリット</h2>
+<h3>メリット1: 金利が非常に低い</h3>
+<p>制度融資の金利は<strong>年1.0〜2.5%程度</strong>が一般的です。さらに自治体の利子補給がある場合、<strong>実質金利0.5%以下</strong>になることもあります。</p>
+<p>| 融資方法 | 金利目安 |
+|---------|---------|
+| 制度融資 | 1.0〜2.5%（利子補給後は0.5%〜） |
+| 日本政策金融公庫 | 1.0〜3.0% |
+| 銀行プロパー融資 | 2.0〜5.0% |
+| ビジネスローン | 5.0〜18.0% |</p>
+<h3>メリット2: 信用保証協会の保証付き</h3>
+<p>信用保証協会が保証人の代わりになるため、<strong>担保・保証人なしで借りられる</strong>ケースがほとんどです。金融機関にとっても回収リスクが低くなるため、審査が通りやすくなります。</p>
+<h3>メリット3: 保証料の補助がある</h3>
+<p>信用保証協会の保証料（年0.5〜2.0%程度）を自治体が一部または全額補助してくれる制度もあります。</p>
+<h3>メリット4: 長期返済が可能</h3>
+<p>返済期間は設備資金で最長10〜15年、運転資金で最長5〜7年と、<strong>長期分割返済が可能</strong>です。月々の返済負担を抑えられます。</p>
+<h3>メリット5: 据置期間が設定できる</h3>
+<p>融資実行後、**元金の返済を猶予する「据置期間」**が6か月〜1年設定できる制度が多いです。開業直後の売上が不安定な時期に返済負担を軽減できます。</p>
+<hr>
+<h2>制度融資のデメリット</h2>
+<h3>デメリット1: 入金まで時間がかかる</h3>
+<p>自治体→信用保証協会→金融機関と3者の審査を経るため、<strong>申込みから入金まで1〜2か月</strong>かかるのが一般的です。急ぎの資金ニーズには対応できません。</p>
+<h3>デメリット2: 必要書類が多い</h3>
+<p>自治体・信用保証協会・金融機関それぞれに書類を提出する必要があるため、手続きが煩雑です。</p>
+<p><strong>主な必要書類:</strong></p>
+<ul>
+<li>確定申告書（直近2〜3期分）</li>
+<li>事業計画書</li>
+<li>資金使途の明細</li>
+<li>印鑑証明書</li>
+<li>住民票</li>
+<li>許認可証（業種による）</li>
+<li>通帳のコピー</li>
+</ul>
+<h3>デメリット3: 保証料がかかる</h3>
+<p>利子補給があっても、信用保証協会の保証料が別途かかります。保証料率は事業者の信用力や融資額によって異なりますが、**年0.45〜1.90%**が一般的です。</p>
+<h3>デメリット4: 融資限度額に上限がある</h3>
+<p>制度融資の限度額は自治体によって異なりますが、<strong>500万〜3,000万円程度</strong>が一般的です。大規模な設備投資には不足するケースもあります。</p>
+<hr>
+<h2>制度融資の申込手順</h2>
+<h3>ステップ1: 自治体の窓口に相談する</h3>
+<p>まずは事業所がある自治体の<strong>産業振興課（商工課）<strong>や</strong>商工会議所</strong>に相談しましょう。自分が利用できる制度と必要書類を教えてもらえます。</p>
+<h3>ステップ2: 必要書類を準備する</h3>
+<p>事業計画書が求められる場合は、売上見込み・資金使途・返済計画を具体的に記載します。<a href="/articles/article-kakuteishinkoku-yuushi/">確定申告と融資の関係</a>も参考にしてください。</p>
+<h3>ステップ3: 自治体の審査（あっせん審査）</h3>
+<p>自治体が事業内容や資金使途を確認し、金融機関への「あっせん書」を発行します。</p>
+<h3>ステップ4: 信用保証協会の保証審査</h3>
+<p>信用保証協会が事業の将来性や返済能力を審査し、保証の可否を判断します。面談が行われることもあります。</p>
+<h3>ステップ5: 金融機関の融資審査</h3>
+<p>金融機関が最終的な融資審査を行い、融資額・金利・返済期間を決定します。</p>
+<h3>ステップ6: 融資実行</h3>
+<p>審査通過後、金融機関から事業用口座に資金が振り込まれます。</p>
+<p><strong>所要期間の目安:</strong></p>
+<p>| ステップ | 所要期間 |
+|---------|---------|
+| 窓口相談〜書類準備 | 1〜2週間 |
+| あっせん審査 | 1〜2週間 |
+| 保証審査 | 2〜3週間 |
+| 融資審査〜実行 | 1〜2週間 |
+| <strong>合計</strong> | <strong>5〜9週間</strong> |</p>
+<hr>
+<h2>主要自治体の制度融資の例</h2>
+<h3>東京都の制度融資（令和8年度）</h3>
+<p>出典: <a href="https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/kinyu/yuushi/yuushi">東京都産業労働局 中小企業制度融資</a></p>
+<p>| 制度名 | 対象 | 融資限度額 | 金利（固定） | 融資期間 |
+|--------|------|---------|------|---------|
+| 創業融資 | 創業前〜創業5年以内 | 3,500万円 | 2.35〜3.35%以内 | 10年以内 |
+| 小口（フリーランス含む） | 小規模企業 | 2,000万円 | 2.35〜3.15%以内 | 7年以内 |
+| 事業一般 | 中小企業 | 2億8,000万円 | 2.35〜3.55%以内 | 10年以内 |
+| 経営セーフティネット | 売上減少等 | 2億8,000万円 | 2.35〜3.35%以内 | 10年以内 |</p>
+<p>東京都は<strong>信用保証料の2分の1〜全額を補助</strong>する制度があり、実質的な負担を大幅に軽減できます。また、区市町村との「併用」が可能で、区独自の利子補給を受けられるケースもあります。</p>
+<h3>大阪府の制度融資</h3>
+<p>出典: <a href="https://www.pref.osaka.lg.jp/o110080/kinyushien/seido001/index.html">大阪府 中小企業向け制度融資</a></p>
+<p>| 制度名 | 対象 | 融資限度額 | 金利（固定） | 信用保証料率 |
+|--------|------|---------|------|---------|
+| 開業・スタートアップ応援（開業資金） | 創業前〜創業5年以内 | 3,500万円 | 年1.65% | 年1.00% |
+| 開業・スタートアップ応援（地域支援NW型） | 認定支援機関の支援を受けた創業者 | 3,500万円 | 年1.45% | 年0.50% |
+| 小規模企業サポート資金 | 小規模事業者 | 2,000万円 | 年1.85% | 0.50〜2.20% |
+| 経営安定サポート資金（セーフティネット型） | 売上減少事業者 | 2億円（無担保8,000万円） | 金融機関所定 | 0.80〜0.90% |</p>
+<p>大阪府は<strong>女性・若者（35歳未満）・シニア（55歳以上）・UIJターン該当者は金利0.2%引下げ</strong>の優遇があります。</p>
+<h3>愛知県の制度融資（令和8年度）</h3>
+<p>出典: <a href="https://www.pref.aichi.jp/soshiki/kinyu/yushi2024.html">愛知県 中小企業融資制度</a></p>
+<p>| 制度名 | 対象 | 融資限度額 | 金利（固定） | 信用保証料率 |
+|--------|------|---------|------|---------|
+| 創業等支援資金 | 創業前〜創業5年以内 | 3,500万円 | 年1.4〜1.7% | 年0.68%（一律） |
+| 小規模企業等振興資金（通常） | 小規模事業者 | 5,000万円 | 年1.9〜2.2% | 0.38〜1.74% |
+| 小規模企業等振興資金（小口） | 小規模事業者 | 2,000万円 | 年1.7〜2.0% | 0.46〜1.83% |
+| パワーアップ資金（設備投資促進） | 中小企業 | 2億8,000万円 | 年1.6〜1.9% | 0.40〜1.83% |</p>
+<p>※2026年4月1日より全メニュー一律0.4%の利率引き上げが実施されています。スタートアップ支援事業の認定を受けた場合は金利0.3%割引。</p>
+<p><strong>注意:</strong> 金利・限度額・対象要件は年度によって変更されることがあります。最新情報は各自治体の公式サイトでご確認ください。</p>
+<hr>
+<h2>制度融資と日本政策金融公庫の比較</h2>
+<p>制度融資と日本政策金融公庫、どちらを利用すべきか迷う方は多いです。</p>
+<p>| 比較項目 | 制度融資 | 日本政策金融公庫 |
+|---------|---------|--------------|
+| <strong>金利</strong> | 1.0〜2.5%（利子補給あり） | 1.0〜3.0% |
+| <strong>審査期間</strong> | 1〜2か月 | 2〜3週間 |
+| <strong>保証人</strong> | 原則不要（保証協会が保証） | 原則不要 |
+| <strong>保証料</strong> | あり（0.45〜1.90%） | なし |
+| <strong>手続きの煩雑さ</strong> | やや複雑（3者が関与） | シンプル（1者で完結） |
+| <strong>融資限度額</strong> | 自治体による（500〜3,000万円） | 最大7,200万円 |</p>
+<p><strong>選び方の目安:</strong></p>
+<ul>
+<li><strong>スピード重視</strong> → 日本政策金融公庫</li>
+<li><strong>金利重視</strong> → 制度融資（利子補給がある自治体）</li>
+<li><strong>両方利用</strong> → 併用可能（限度額が別枠）</li>
+</ul>
+<p>日本政策金融公庫については<a href="/articles/article-jfc-kojin/">日本政策金融公庫の融資ガイド</a>で詳しく解説しています。</p>
+<hr>
+<h2>制度融資の審査に通るコツ</h2>
+<h3>1. 事業計画書を充実させる</h3>
+<p>制度融資では事業計画書が重視されます。以下の項目を具体的な数字で記載しましょう。</p>
+<ul>
+<li>事業の概要・強み</li>
+<li>売上の見込み（根拠となるデータ付き）</li>
+<li>資金の使い道</li>
+<li>返済計画</li>
+</ul>
+<h3>2. 自己資金を準備する</h3>
+<p>創業融資の場合、融資額の3分の1程度の自己資金があると審査に通りやすくなります。</p>
+<h3>3. 商工会議所の創業セミナーを受講する</h3>
+<p>自治体によっては、創業セミナーの受講が制度融資の利用条件になっているケースがあります。受講していなくても、事業計画書の作成指導を受けられるため、参加する価値があります。</p>
+<h3>4. 税金・社会保険料の滞納をなくす</h3>
+<p>制度融資では<strong>税金の完納が要件</strong>になっていることがほとんどです。滞納がある場合は、申込前に解消しておきましょう。</p>
+<hr>
+<h2>まとめ</h2>
+<p>制度融資は、個人事業主が<strong>低金利・低保証料で資金を借りられる</strong>優れた制度です。</p>
+<p>| メリット | デメリット |
+|---------|----------|
+| 金利1.0〜2.5%（利子補給で更に低下） | 入金まで1〜2か月 |
+| 保証人・担保が原則不要 | 必要書類が多い |
+| 長期返済が可能 | 保証料がかかる |
+| 据置期間が設定できる | 融資限度額に上限あり |</p>
+<p><strong>利用の流れ:</strong></p>
+<ol>
+<li>自治体の窓口（産業振興課・商工会議所）に相談</li>
+<li>必要書類を準備</li>
+<li>あっせん審査→保証審査→融資審査</li>
+<li>融資実行（申込から約1〜2か月）</li>
+</ol>
+<p>急ぎの資金ニーズには向きませんが、計画的に準備すれば最も有利な条件で借りられる方法です。まずはお住まいの自治体の窓口に相談してみてください。</p>
+<hr>
+<h2>関連記事</h2>
+<ul>
+<li><a href="/articles/article-kojin-jigyonushi-yushi/">個人事業主の融資完全ガイド</a></li>
+<li><a href="/articles/article-jfc-kojin/">日本政策金融公庫の個人事業主向け融資</a></li>
+<li><a href="/articles/article-sogyo-yushi/">【2026年最新】創業融資の審査に通るコツ</a></li>
+<li><a href="/articles/article-kakuteishinkoku-yuushi/">確定申告と融資の関係</a></li>
+<li><a href="/articles/article-kaigyo-shikin/">開業資金はいくら必要？業種別ガイド</a></li>
+</ul>
+<hr>
+<p><em>この記事は2026年4月時点の情報に基づいています。各制度の最新情報は公式サイトでご確認ください。</em></p>
+<hr>
+<blockquote>
+<p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
+</blockquote>
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L10",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}]," > ",["$","span",null,{"className":"text-gray-600","children":["【2026年最新】制度融資とは？個人事業主が低金利で借りられ","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"【2026年最新】制度融資とは？個人事業主が低金利で借りられる自治体の融資制度を解説","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【2026年最新】制度融資とは？個人事業主が低金利で借りられる自治体の融資制度を解説"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"制度融資 個人事業主"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14","$L15"]}],"$L16","$L17","$L18"]}]
+:HL["/images/logo.png","image"]
+12:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+13:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+14:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-factoring-kojin-osusume",{"href":"/articles/article-factoring-kojin-osusume","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"個人事業主 ファクタリング おすすめ, フリーランス ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"個人事業主向けファクタリングおすすめ8選【2026年】フリーランスも対応"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-clinic-kaigyou",{"href":"/articles/article-factoring-clinic-kaigyou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"クリニック 開業資金 ファクタリング, 医療 ファクタリング 開業"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"クリニック開業資金にファクタリングは使える？医療業界の資金調達完全解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-houjin-osusume",{"href":"/articles/article-factoring-houjin-osusume","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"法人 ファクタリング おすすめ, 法人向け ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"法人向けファクタリングおすすめ10選【2026年最新】大手・中小企業向け"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]]}]]}]
+15:["$","div",null,{"className":"mt-8 text-center","children":["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]}]
+16:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L10",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L10",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]]}]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]]}]}]
+17:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"【2026年最新】制度融資とは？個人事業主が低金利で借りられる自治体の融資制度を解説\",\"item\":\"https://corp-factoring.com/articles/article-seido-yuushi\"}]}"}}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"【2026年最新】制度融資とは？個人事業主が低金利で借りられる自治体の融資制度を解説\",\"description\":\"【2026年最新】制度融資とは？個人事業主が低金利で借りられる自治体の融資制度を解説。制度融資 個人事業主について詳しく解説します。\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-seido-yuushi\"}}"}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+c:[["$","title","0",{"children":"【2026年最新】制度融資とは？個人事業主が低金利で借りられる自治体の融資制度を解説｜ファクタリング比較ナビ｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"【2026年最新】制度融資とは？個人事業主が低金利で借りられる自治体の融資制度を解説。制度融資 個人事業主について詳しく解説します。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-seido-yuushi/"}],["$","meta","5",{"property":"og:title","content":"【2026年最新】制度融資とは？個人事業主が低金利で借りられる自治体の融資制度を解説｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"【2026年最新】制度融資とは？個人事業主が低金利で借りられる自治体の融資制度を解説。制度融資 個人事業主について詳しく解説します。"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","10",{"name":"twitter:description","content":"手数料・審査・入金スピードを徹底比較。最適なファクタリング会社が見つかります。"}]]

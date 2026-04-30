@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
+e:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/images/articles/factoring-article.jpg","image"]
+:HL["/images/logo.png","image"]
+4:T1e22,<p>「ファクタリングって便利そうだけど、デメリットはないの？」</p>
+<p>ファクタリングは最短10分で請求書を現金化できる便利なサービスですが、<strong>知らずに使うと損をするデメリット</strong>もあります。</p>
+<p>この記事では、ファクタリングのメリット5つ・デメリット5つを、<strong>具体的な金額例付き</strong>で正直に解説します。</p>
+<hr>
+<h2>ファクタリングの5つのメリット</h2>
+<h3>メリット1: 最短10分で現金化</h3>
+<p>銀行融資（2〜4週間）や<a href="/articles/article-business-loan-kojin/">ビジネスローン</a>（即日〜数日）と比べ、圧倒的に早い。</p>
+<p>| 資金調達方法 | スピード |
+|------------|---------|
+| <strong>ファクタリング</strong> | <strong>最短10分</strong> |
+| ビジネスローン | 最短即日 |
+| 日本政策金融公庫 | 2〜3週間 |
+| 銀行融資 | 2〜4週間 |</p>
+<h3>メリット2: 信用情報に影響しない</h3>
+<p>ファクタリングは「借入」ではなく「債権の売却」。CIC・JICCに記録されないため、将来の住宅ローンや事業融資に影響しません。</p>
+<h3>メリット3: 審査が通りやすい</h3>
+<p>審査対象は「あなた」ではなく「売掛先」の信用力。赤字・税金滞納・債務整理歴があっても利用可能なケースが多い。審査通過率93%のサービスも。</p>
+<h3>メリット4: 返済不要</h3>
+<p>売掛金を「売却」するため、毎月の返済義務がない。キャッシュフローの計画が立てやすい。</p>
+<h3>メリット5: 売掛先の倒産リスクを回避</h3>
+<p>ノンリコース（償還請求権なし）のファクタリングなら、売掛先が倒産しても返金義務なし。未回収リスクを完全にファクタリング会社に移転できる。</p>
+<hr>
+<h2>ファクタリングの5つのデメリット</h2>
+<h3>デメリット1: 手数料が高い</h3>
+<p><strong>これが最大のデメリットです。</strong></p>
+<p>| | ファクタリング | 銀行融資 | ビジネスローン |
+|--|------------|--------|------------|
+| コスト | 1〜20%（1回） | 年0.3〜3% | 年3〜18% |</p>
+<p><strong>具体例:</strong> 100万円の請求書、手数料10%の場合
+→ 手取り90万円（手数料10万円）</p>
+<p>毎月利用すると年間120万円の手数料。<strong>緊急時のみ利用し、恒常的に使わないことが重要。</strong></p>
+<h3>デメリット2: 売掛金の範囲でしか調達できない</h3>
+<p>融資なら数百万〜数千万円借りられますが、ファクタリングは手持ちの請求書が上限。100万円の請求書なら最大100万円（実際は手数料差引後）。</p>
+<h3>デメリット3: 3社間だと売掛先に知られる</h3>
+<p>3社間ファクタリングでは売掛先に通知が届く。「資金繰りが厳しいのでは？」と思われるリスク。</p>
+<p><strong>対策:</strong> 2社間ファクタリングなら売掛先に知られない。</p>
+<h3>デメリット4: 悪質業者が存在する</h3>
+<p>法規制が緩いため、ファクタリングを装った闇金業者が存在。手数料30%以上・審査なし・契約書なしは危険信号。<a href="/articles/article-factoring-ihou/">悪質業者の具体的な見分け方</a>もご確認ください。</p>
+<p><strong>対策:</strong> 実績のある大手サービスを選ぶ（ビートレーディング・ペイトナー・FREENANCE等）。</p>
+<h3>デメリット5: 依存すると資金繰りが悪化する</h3>
+<p>毎月ファクタリングに頼ると「手数料分だけ毎月収入が減る」状態に。根本的な資金繰り改善にならない。</p>
+<p><strong>対策:</strong> ファクタリングは一時的なつなぎ。並行して支払いサイト短縮交渉、融資申請、売上増加に取り組む。</p>
+<hr>
+<h2>メリット・デメリット比較表</h2>
+<p>| 項目 | メリット | デメリット |
+|------|---------|----------|
+| スピード | ✅ 最短10分 | - |
+| コスト | - | ❌ 手数料1〜20% |
+| 信用情報 | ✅ 影響なし | - |
+| 審査 | ✅ 通りやすい | - |
+| 調達上限 | - | ❌ 売掛金が上限 |
+| 返済 | ✅ 不要 | - |
+| 秘匿性 | ✅ 2社間ならバレない | ❌ 3社間はバレる |
+| 安全性 | - | ❌ 悪質業者リスク |
+| 持続性 | - | ❌ 依存すると悪化 |
+| リスク移転 | ✅ 倒産リスク回避 | - |</p>
+<hr>
+<h2>ファクタリングを使うべき人</h2>
+<ul>
+<li>✅ 今日〜明日中に現金が必要な人</li>
+<li>✅ 銀行融資の審査に落ちた人</li>
+<li>✅ 信用情報に傷をつけたくない人</li>
+<li>✅ 赤字だが請求書はある人</li>
+<li>✅ 支払いサイトが長く入金を待てない人</li>
+<li>✅ 売掛先の倒産リスクを回避したい人</li>
+</ul>
+<h2>ファクタリングをやめるべき人</h2>
+<ul>
+<li>❌ 毎月常にファクタリングに依存している人 → 根本的な経営改善が必要</li>
+<li>❌ 2〜3週間待てる人 → <a href="/articles/article-jfc-kojin/">日本政策金融公庫</a>（年0.3〜3%）の方がお得</li>
+<li>❌ 請求書がない人 → <a href="/articles/article-business-loan-kojin/">ビジネスローン</a>を検討</li>
+<li>❌ 手数料を払いたくない人 → <a href="/articles/article-kojin-hojokin/">補助金・助成金</a>を検討</li>
+</ul>
+<hr>
+<h2>賢いファクタリングの使い方</h2>
+<p><strong>「緊急時のつなぎ＋並行して低コスト手段を確保」</strong></p>
+<ol>
+<li><strong>急ぎの時</strong> → ファクタリングで即日現金化</li>
+<li><strong>同時に</strong> → 日本政策金融公庫に融資を申請</li>
+<li><strong>融資実行後</strong> → ファクタリングの利用を停止</li>
+<li><strong>中長期</strong> → 支払いサイト短縮交渉＋複数収入源の確保</li>
+</ol>
+<hr>
+<h2>おすすめファクタリング会社3選</h2>
+<p>| サービス | 手数料 | 最短入金 | おすすめポイント |
+|---------|--------|---------|---------------|
+| ペイトナー | 10%固定 | 10分 | 最速・1万円〜OK |
+| QuQuMo | 1%〜 | 2時間 | 手数料最安 |
+| ビートレーディング | 2%〜 | 2時間 | 91,000社実績 |</p>
+<hr>
+<p><em>この記事は2026年4月時点の情報に基づいています。</em></p>
+<hr>
+<h2>関連記事</h2>
+<p>この記事を読んだ方は、以下の記事もよく読まれています。</p>
+<ul>
+<li><a href="/articles/article-factoring-toha/">ファクタリングとは？仕組み・手数料・メリデメ完全解説</a></li>
+<li><a href="/articles/article-factoring-tesuryo/">ファクタリング手数料の相場と安い会社12選</a></li>
+<li><a href="/articles/article-factoring-shinsa/">ファクタリングの審査基準と落ちる理由7選</a></li>
+<li><a href="/articles/article-factoring-ihou/">ファクタリングは違法？合法の根拠と悪質業者の見分け方</a></li>
+<li><a href="/articles/article-kojin-shikin-chotatsu/">個人事業主の資金調達方法10選</a></li>
+</ul>
+<hr>
+<blockquote>
+<p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
+</blockquote>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングのメリット・デメリット完全ガイド｜使うべき人・","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングのメリット・デメリット完全ガイド｜使うべき人・やめるべき人を徹底解説【2026年】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングのメリット・デメリット完全ガイド｜使うべき人・やめるべき人を徹底解説【2026年】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング メリット デメリット"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vD9DHHovw-vybGOFui3uw"}
+5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-kojin-sokujitsu",{"href":"/articles/article-factoring-kojin-sokujitsu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"個人事業主 ファクタリング 即日, フリーランス ファクタリング 即日"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"個人事業主・フリーランスのファクタリング即日入金完全ガイド【2026年最新】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-shougaku",{"href":"/articles/article-factoring-shougaku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"小口 ファクタリング, 少額 ファクタリング 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"小口ファクタリング｜10万円〜少額対応のおすすめ会社5選【個人事業主OK】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-vs-yuushi",{"href":"/articles/article-factoring-vs-yuushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 銀行融資 違い, ファクタリング 融資 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングと銀行融資の違い｜どっちが得？状況別の使い分けガイド"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]]}]]}]
+8:["$","div",null,{"className":"mt-8 text-center","children":["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]}]
+9:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]]}]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]]}]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ファクタリングのメリット・デメリット完全ガイド｜使うべき人・やめるべき人を徹底解説【2026年】\",\"item\":\"https://corp-factoring.com/articles/article-factoring-merit-demerit\"}]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングのメリット・デメリット完全ガイド｜使うべき人・やめるべき人を徹底解説【2026年】\",\"description\":\"ファクタリングのメリット・デメリット完全ガイド｜使うべき人・やめるべき人を徹底解説【2026年】。ファクタリング メリット デメリットについて詳しく解説します。\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-merit-demerit\"}}"}}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true}]
+d:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

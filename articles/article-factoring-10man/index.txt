@@ -1,0 +1,180 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0a5w-ig4hpr2u.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-10man",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-10man","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0a5w-ig4hpr2u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0a5w-ig4hpr2u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vD9DHHovw-vybGOFui3uw"}
+e:[]
+8:"$We"
+f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
+10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
+:HL["/images/articles/factoring-article.jpg","image"]
+11:T2d6b,<p>「請求書の金額が小さいけどファクタリングを使えるの？」「10万円程度の請求書でもファクタリングできる？」——小規模事業者・フリーランスから多く寄せられる質問です。</p>
+<p>結論：<strong>10万円以下の少額請求書でもファクタリングを利用できるサービスが存在します</strong>。1万円から対応しているサービスも複数あります。この記事では、少額対応のファクタリングサービスを手数料・入金スピード・使いやすさで徹底比較します。</p>
+<hr>
+<h2>少額ファクタリングの定義と市場</h2>
+<h3>少額ファクタリングとは</h3>
+<p>ファクタリングには明確な「少額」の定義はありませんが、業界では一般的に以下のように区分されます：</p>
+<p>| 区分 | 金額目安 | 主な利用者 |
+|-----|--------|---------|
+| <strong>極小額</strong> | 1万〜10万円 | フリーランス・副業者 |
+| <strong>少額</strong> | 10万〜50万円 | 個人事業主・小規模事業者 |
+| <strong>中額</strong> | 50万〜500万円 | 中小企業・法人 |
+| <strong>大口</strong> | 500万円以上 | 中堅企業・大企業 |</p>
+<p>この記事では主に「1万〜50万円」の少額ファクタリングを解説します。</p>
+<h3>少額でもファクタリングができる理由</h3>
+<p>従来のファクタリングは「最低100万円から」という高額向けサービスが主流でした。しかし、フリーランス・個人事業主市場の拡大に伴い、2018年頃から少額特化型のデジタルサービスが急増。現在では1万円から対応するサービスも複数存在します。</p>
+<hr>
+<h2>最低利用額別ファクタリング会社比較</h2>
+<h3>1万円から利用可能なサービス</h3>
+<p>| サービス名 | 最低金額 | 手数料 | 入金スピード | 対象 |
+|---------|--------|------|-----------|-----|
+| <strong>ペイトナー</strong> | 1万円〜 | 一律10% | 最短10分 | 個人事業主 |
+| <strong>ラボル</strong> | 1万円〜 | 一律10% | 最短30分 | 個人事業主 |
+| <strong>FREENANCE</strong> | 1万円〜 | 3%〜10% | 最短即日 | 個人事業主 |</p>
+<h3>10万円から利用可能なサービス</h3>
+<p>| サービス名 | 最低金額 | 手数料 | 入金スピード | 対象 |
+|---------|--------|------|-----------|-----|
+| <strong>PayToday</strong> | 10万円〜 | 1%〜9.5% | 最短30分 | 法人・個人 |
+| <strong>ベストファクター</strong> | 10万円〜 | 2%〜20% | 最短即日 | 法人・個人 |</p>
+<h3>制限なし（数万円からOKが多い）</h3>
+<p>| サービス名 | 最低金額 | 手数料 | 入金スピード | 対象 |
+|---------|--------|------|-----------|-----|
+| <strong>QuQuMo</strong> | 制限なし | 1%〜14.8% | 最短2時間 | 法人・個人 |
+| <strong>ビートレーディング</strong> | 制限なし | 2%〜12% | 最短2時間 | 法人・個人 |</p>
+<hr>
+<h2>少額ファクタリングの手数料を徹底比較</h2>
+<h3>少額ほど手数料率が高くなる理由</h3>
+<p>手数料率は請求書の金額に関係なく一定（または金額に応じて変動）することが多いです。少額の場合、絶対金額は小さくても<strong>手数料率は高め</strong>に設定されるケースがあります。</p>
+<p><strong>手数料の計算例（10万円の請求書）：</strong></p>
+<p>| 手数料率 | 手数料額 | 受取金額 |
+|--------|--------|--------|
+| 5% | 5,000円 | 95,000円 |
+| 10% | 10,000円 | 90,000円 |
+| 15% | 15,000円 | 85,000円 |
+| 20% | 20,000円 | 80,000円 |</p>
+<p>10万円で手数料10%の場合、手取りは9万円。支払いが1ヶ月後であれば、実質的な年換算金利は120%（10%×12ヶ月）と非常に高いことに注意が必要です。</p>
+<h3>少額ファクタリングの手数料を安くする方法</h3>
+<ol>
+<li><strong>売掛先が大手企業・上場企業の請求書を使う</strong>：リスクが低いため手数料が下がる</li>
+<li><strong>3社間ファクタリングを選ぶ</strong>：手数料1〜9%と低いが取引先への通知が必要</li>
+<li><strong>継続利用で実績を積む</strong>：ペイトナー等は利用実績に応じて手数料が下がるケース</li>
+<li><strong>複数社に見積もりを取る</strong>：相見積もりで最安値を見つける</li>
+</ol>
+<hr>
+<h2>少額ファクタリングが向いている場面</h2>
+<h3>フリーランス・個人事業主の典型的な少額活用ケース</h3>
+<p><strong>ケース1：月末の家賃・生活費が不足</strong></p>
+<pre><code>状況：請求書15万円の入金が来月末
+今月末の家賃・光熱費：12万円が不足
+→ ペイトナーで15万円を現金化（手数料10%→受取13.5万円）
+→ 家賃・光熱費12万円を支払い
+</code></pre>
+<p><strong>ケース2：急な仕事の受注で材料費が必要</strong></p>
+<pre><code>状況：新規案件を受注したが前払いの材料費が必要
+必要な材料費：8万円
+既存請求書：20万円あり
+→ QuQuMoで20万円を現金化（手数料5%→受取19万円）
+→ 材料費8万円を支払い、残りを運転資金に
+</code></pre>
+<p><strong>ケース3：税金の分割払い資金</strong></p>
+<pre><code>状況：確定申告で所得税35万円の納付が必要
+手持ち資金：20万円
+→ ラボルで25万円の請求書を現金化（手数料10%→受取22.5万円）
+→ 残り15万円と合わせて税金を完納
+</code></pre>
+<hr>
+<h2>おすすめ少額ファクタリング会社</h2>
+<h3>個人事業主で少額（1万〜50万円）に最適</h3>
+<h4>1位：ペイトナーファクタリング</h4>
+<p>| 項目 | 内容 |
+|-----|------|
+| <strong>最低金額</strong> | 1万円〜 |
+| <strong>手数料</strong> | 一律10% |
+| <strong>入金スピード</strong> | 最短10分 |
+| <strong>初回上限</strong> | 25万円（実績で増額） |
+| <strong>対象</strong> | 個人事業主・フリーランス専用 |</p>
+<p><strong>少額向けのポイント：</strong> 1万円からの超少額対応。手数料が一律10%で、どんな金額でも計算が簡単。最短10分という業界最速の入金スピードは少額のスピード重視ニーズにぴったり。</p>
+<h4>2位：ラボル</h4>
+<p>| 項目 | 内容 |
+|-----|------|
+| <strong>最低金額</strong> | 1万円〜 |
+| <strong>手数料</strong> | 一律10% |
+| <strong>入金スピード</strong> | 最短30分 |
+| <strong>特徴</strong> | 24時間365日対応 |
+| <strong>対象</strong> | 個人事業主・フリーランス専用 |</p>
+<p><strong>少額向けのポイント：</strong> 1万円〜の少額対応。24時間365日・土日祝日も入金可能。開業直後でも利用可能で、実績のないフリーランスの少額ニーズに対応。</p>
+<h4>3位：FREENANCE</h4>
+<p>| 項目 | 内容 |
+|-----|------|
+| <strong>最低金額</strong> | 1万円〜 |
+| <strong>手数料</strong> | 3%〜10% |
+| <strong>入金スピード</strong> | 最短即日 |
+| <strong>特徴</strong> | GMO運営・保険付き |
+| <strong>対象</strong> | 個人事業主・フリーランス専用 |</p>
+<p><strong>少額向けのポイント：</strong> 手数料3%〜と一律10%より安くなる可能性がある。GMO運営の信頼性が高く、少額でも安心して利用できる。</p>
+<h3>法人・個人事業主で10万円以上に最適</h3>
+<h4>4位：QuQuMo</h4>
+<p>| 項目 | 内容 |
+|-----|------|
+| <strong>最低金額</strong> | 制限なし（事実上数万円〜） |
+| <strong>手数料</strong> | 1%〜14.8% |
+| <strong>入金スピード</strong> | 最短2時間 |
+| <strong>書類</strong> | 2点のみ |
+| <strong>対象</strong> | 法人・個人 |</p>
+<p><strong>少額向けのポイント：</strong> 手数料1%〜と業界最安。少額でもコストを抑えたい場合に最適。</p>
+<h4>5位：ベストファクター</h4>
+<p>| 項目 | 内容 |
+|-----|------|
+| <strong>最低金額</strong> | 10万円〜 |
+| <strong>手数料</strong> | 2%〜20% |
+| <strong>入金スピード</strong> | 最短即日 |
+| <strong>審査通過率</strong> | 92.25% |
+| <strong>対象</strong> | 法人・個人 |</p>
+<p><strong>少額向けのポイント：</strong> 10万円から対応。審査通過率92.25%で、少額でも審査落ちのリスクが低い。</p>
+<hr>
+<h2>まとめ</h2>
+<p>少額ファクタリング（10万円以下）は、個人事業主・フリーランス特化型のサービスで対応可能です。1万円から対応するサービスも複数存在します。</p>
+<p><strong>少額ファクタリングを選ぶポイント：</strong></p>
+<ul>
+<li>1万円〜少額：<strong>ペイトナー</strong>か<strong>ラボル</strong>（一律10%、シンプル）</li>
+<li>コストを抑えたい：<strong>QuQuMo</strong>（手数料1%〜）か<strong>FREENANCE</strong>（3%〜）</li>
+<li>土日・深夜急ぎ：<strong>ラボル</strong>（24時間365日対応）</li>
+</ul>
+<p>少額だからこそ「手数料の割高感」に注意。支払いが迫っている緊急ケースに限定して、計画的に活用することをおすすめします。</p>
+<hr>
+<h2>よくある質問（FAQ）</h2>
+<p><strong>Q. 5万円の請求書でもファクタリングできますか？</strong>
+A. ペイトナー・ラボル・FREENANCEは1万円から対応しており、5万円の請求書でも利用可能です。ただし手数料が10%かかるため、手取りは4.5万円となります。</p>
+<p><strong>Q. 少額ファクタリングで手数料が安いのはどこですか？</strong>
+A. QuQuMoは手数料1%〜と業界最安水準です。ただし最低金額の制限がないため少額でも申し込めますが、少額は手数料率が高めに設定されるケースがあります。FREENANCEも手数料3%〜と比較的低水準です。</p>
+<p><strong>Q. 複数の少額請求書をまとめてファクタリングできますか？</strong>
+A. 複数の請求書をまとめて申し込む「一括買取」に対応しているサービスもあります（ビートレーディング・アクセルファクター等）。ただし、個人事業主向けのシンプルなサービス（ペイトナー・ラボル）は1請求書ごとの申込が基本です。</p>
+<p><strong>Q. 少額の注文書ファクタリングはできますか？</strong>
+A. ビートレーディングは注文書ファクタリングに対応していますが、少額（10万円未満）では申し込みが難しいケースがあります。少額の注文書については、完成後に請求書を発行してからファクタリングする方が現実的です。</p>
+<hr>
+<h2>関連記事</h2>
+<p>この記事を読んだ方は、以下の記事もよく読まれています。</p>
+<ul>
+<li><a href="/articles/article-factoring-toha/">ファクタリングとは？仕組みをわかりやすく解説</a></li>
+<li><a href="/articles/article-factoring-tesuryo/">ファクタリング手数料の相場と安い会社12選</a></li>
+<li><a href="/articles/article-factoring-tesuryo-yasui/">手数料が安いファクタリング会社ランキング</a></li>
+<li><a href="/articles/article-factoring-shinsa/">ファクタリングの審査基準と通過率を高めるコツ</a></li>
+<li><a href="/articles/article-factoring-kojin-jigyonushi/">個人事業主向けファクタリングおすすめ15選</a></li>
+</ul>
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L10",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリング少額・10万円から使えるサービス完全比較【20","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリング少額・10万円から使えるサービス完全比較【2026年最新】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリング少額・10万円から使えるサービス完全比較【2026年最新】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 少額, ファクタリング 10万円, ファクタリング 小口"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14","$L15"]}],"$L16","$L17","$L18"]}]
+:HL["/images/logo.png","image"]
+12:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+13:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+14:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-factoring-tesuryo-yasui",{"href":"/articles/article-factoring-tesuryo-yasui","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 手数料 安い, ファクタリング 手数料 相場"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"手数料が安いファクタリング会社ランキング【2026年最新】相場と選び方"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-clinic-kaigyou",{"href":"/articles/article-factoring-clinic-kaigyou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"クリニック 開業資金 ファクタリング, 医療 ファクタリング 開業"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"クリニック開業資金にファクタリングは使える？医療業界の資金調達完全解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-faq",{"href":"/articles/article-factoring-faq","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング よくある質問, ファクタリング 疑問, ファクタリング 初心者"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングのよくある質問30選｜初心者の疑問を完全解消"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]]}]]}]
+15:["$","div",null,{"className":"mt-8 text-center","children":["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]}]
+16:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L10",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L10",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]]}]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]]}]}]
+17:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ファクタリング少額・10万円から使えるサービス完全比較【2026年最新】\",\"item\":\"https://corp-factoring.com/articles/article-factoring-10man\"}]}"}}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリング少額・10万円から使えるサービス完全比較【2026年最新】\",\"description\":\"ファクタリング少額・10万円から使えるサービス完全比較【2026年最新】。ファクタリング 少額, ファクタリング 10万円, ファクタリング 小口について詳しく解説します。\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-10man\"}}"}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+c:[["$","title","0",{"children":"ファクタリング少額・10万円から使えるサービス完全比較【2026年最新】｜ファクタリング比較ナビ｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"ファクタリング少額・10万円から使えるサービス完全比較【2026年最新】。ファクタリング 少額, ファクタリング 10万円, ファクタリング 小口について詳しく解説します。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-factoring-10man/"}],["$","meta","5",{"property":"og:title","content":"ファクタリング少額・10万円から使えるサービス完全比較【2026年最新】｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"ファクタリング少額・10万円から使えるサービス完全比較【2026年最新】。ファクタリング 少額, ファクタリング 10万円, ファクタリング 小口について詳しく解説します。"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","10",{"name":"twitter:description","content":"手数料・審査・入金スピードを徹底比較。最適なファクタリング会社が見つかります。"}]]
