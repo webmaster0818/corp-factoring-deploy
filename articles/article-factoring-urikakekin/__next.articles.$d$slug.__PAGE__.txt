@@ -1,0 +1,113 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
+e:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/images/articles/factoring-article.jpg","image"]
+:HL["/images/logo.png","image"]
+4:T1bfd,<p>「売掛金って何？」「ファクタリングで使える売掛金とそうでないものの違いは？」——ファクタリングを初めて検討する方がまず躓くのが「売掛金」という概念です。</p>
+<p>この記事では、<strong>売掛金の基本知識からファクタリングでの活用方法</strong>まで、図表を使いながらわかりやすく解説します。</p>
+<hr>
+<h2>売掛金とは何か？基礎から理解する</h2>
+<h3>売掛金の定義</h3>
+<p>売掛金とは、**商品やサービスを提供したが、まだ代金を受け取っていない状態の債権（お金を受け取る権利）**のことです。</p>
+<pre><code>【売掛金が発生するフロー】
+1. 商品・サービスを提供
+2. 請求書を発行（支払期日：翌月末など）
+3. 支払期日まで「売掛金」として計上
+4. 入金完了 → 売掛金が消える
+</code></pre>
+<h3>売掛金・未収金・売掛債権の違い</h3>
+<p>| 用語 | 意味 | 発生シーン |
+|------|------|----------|
+| <strong>売掛金</strong> | 営業活動で発生した未収の代金 | 本業の取引 |
+| <strong>未収金</strong> | 営業外で発生した未収の代金 | 固定資産の売却など |
+| <strong>売掛債権</strong> | 売掛金＋受取手形の総称 | 両方を含む |</p>
+<p>ファクタリングで扱うのは主に「売掛金」と「受取手形」です。</p>
+<hr>
+<h2>ファクタリングで現金化できる売掛金の条件</h2>
+<h3>条件1：実在する取引から生じた売掛金であること</h3>
+<p>架空の売掛金や水増し請求書は利用できません。取引基本契約書・発注書・納品書などで裏付けができることが必要です。</p>
+<h3>条件2：支払期日が未到来であること</h3>
+<p>既に支払期日が過ぎた売掛金（過年度売掛金）は通常対象外です。<a href="/articles/article-factoring-shinsa/">ファクタリングの審査基準</a>では支払期日も重要な判断材料となります。</p>
+<h3>条件3：二重譲渡されていないこと</h3>
+<p>同じ売掛金を複数のファクタリング会社に売ることは「二重譲渡」に当たり、詐欺罪になる可能性があります。<a href="/articles/article-factoring-saiken-touki/">債権譲渡登記</a>でこれを防ぐ仕組みもあります。</p>
+<h3>条件4：売掛先が存在し、支払い能力があること</h3>
+<p>売掛先の倒産リスクが高い場合は審査が通りにくくなります。<a href="/articles/article-factoring-urikakesaki-tousan/">売掛先が倒産した場合の対処法</a>についても確認しておきましょう。</p>
+<hr>
+<h2>売掛金の種類とファクタリング適合性</h2>
+<p>| 売掛金の種類 | ファクタリング適合性 | 備考 |
+|------------|-----------------|------|
+| 一般的な商取引の売掛金 | ◎ | 最も一般的 |
+| 医療機関の診療報酬 | ○ | 医療ファクタリングとして特化型あり |
+| 建設業の出来高 | △ | 元請け次第 |
+| 受取手形 | ○ | でんさいも可 |
+| 補助金・助成金 | × | 対象外が多い |
+| 個人間取引 | × | 事業性が必要 |</p>
+<p><a href="/articles/article-factoring-iryou/">医療業界のファクタリング</a>や<a href="/articles/article-factoring-kensetsu/">建設業のファクタリング</a>についてはそれぞれ専門記事を参照ください。</p>
+<hr>
+<h2>売掛金の会計処理と仕訳</h2>
+<h3>売掛金が発生したとき</h3>
+<pre><code>（借方）売掛金 1,000,000円 ／ （貸方）売上高 1,000,000円
+</code></pre>
+<h3>ファクタリングで売却したとき</h3>
+<p>売掛金100万円を手数料5%（5万円）でファクタリングした場合：</p>
+<pre><code>（借方）現金・普通預金 950,000円
+（借方）売上債権売却損   50,000円
+       ／（貸方）売掛金 1,000,000円
+</code></pre>
+<p>詳しい仕訳方法は<a href="/articles/article-factoring-kanjokamoku/">ファクタリングの勘定科目・仕訳方法</a>で解説しています。</p>
+<hr>
+<h2>売掛金の現金化スピードと手数料の関係</h2>
+<pre><code>【手数料に影響する要因】
+・売掛先の信用力（高いほど手数料が低い）
+・支払期日までの日数（短いほど手数料が低い）
+・売掛金の金額（大きいほど手数料が低い傾向）
+・ファクタリングの種類（3社間＜2社間）
+</code></pre>
+<p>| パターン | 目安手数料 | 入金まで |
+|---------|----------|--------|
+| 大手上場企業の売掛金・3社間 | 1〜3% | 3〜7日 |
+| 中堅企業の売掛金・2社間 | 5〜10% | 最短即日 |
+| 中小企業の売掛金・2社間 | 10〜20% | 最短即日 |</p>
+<hr>
+<h2>売掛金管理のポイント</h2>
+<h3>売掛金台帳の整備</h3>
+<p>ファクタリングを活用するためにも、**売掛金台帳（取引先別の管理表）**を常に最新状態に保つことが重要です。</p>
+<pre><code>売掛金台帳に記録すべき項目：
+□ 取引先名
+□ 請求日
+□ 請求金額
+□ 支払期日
+□ 入金確認日・金額
+□ 残高
+</code></pre>
+<h3>売掛金回収サイクルの把握</h3>
+<p><strong>回収サイクル（日数）＝ 売掛金残高 ÷ 売上高 × 365日</strong></p>
+<p>この数値が長いほど資金繰りが苦しくなる傾向にあります。<a href="/articles/article-factoring-shikinguri/">資金繰り改善</a>の第一歩は、この数値を把握することです。</p>
+<hr>
+<h2>まとめ</h2>
+<p>売掛金はファクタリングの核となる概念です。売掛金が発生する仕組み、現金化できる条件、会計処理を理解することで、ファクタリングをより効果的に活用できます。<a href="/articles/article-factoring-hajimete/">ファクタリング入門ガイド</a>も合わせてご確認ください。</p>
+<hr>
+<h2>よくある質問（FAQ）</h2>
+<p><strong>Q: 売掛金とは何ですか？簡単に説明してください。</strong>
+A: 商品やサービスを提供したが、まだ代金を受け取っていない「将来受け取れる権利（お金）」のことです。</p>
+<p><strong>Q: 売掛金はどのくらいの期間で現金化できますか？</strong>
+A: ファクタリングを使えば最短即日で現金化できます。3社間なら3〜7日、2社間なら即日〜翌日が目安です。</p>
+<p><strong>Q: 売掛金が10万円以下でも現金化できますか？</strong>
+A: 少額対応のファクタリング会社を選べば可能です。1〜10万円程度から対応している会社もあります。</p>
+<p><strong>Q: 売掛先に内緒で売掛金を現金化できますか？</strong>
+A: 2社間ファクタリングであれば、売掛先への通知なしに現金化できます。</p>
+<p><strong>Q: 売掛金を現金化すると決算書に影響しますか？</strong>
+A: 売掛金が減少し、現金が増えるため貸借対照表に影響しますが、借入のように負債が増えることはありません。</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングの「売掛金」とは？仕組み・種類・管理方法をわか","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングの「売掛金」とは？仕組み・種類・管理方法をわかりやすく解説【2026年】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングの「売掛金」とは？仕組み・種類・管理方法をわかりやすく解説【2026年】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 売掛金 とは, 売掛金 現金化"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2gIH1YfCdFjS78hj-Ixdi"}
+5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-urikakesaki-tousan",{"href":"/articles/article-factoring-urikakesaki-tousan","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 売掛先 倒産, ノンリコース ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング後に売掛先が倒産したら？リスクと対処法を徹底解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-seikyusho-genkinkan",{"href":"/articles/article-seikyusho-genkinkan","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"請求書 現金化 / 売掛金 現金化"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"請求書を現金化する方法3選｜最短10分で売掛金を即日資金化【2026年最新】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-sagi",{"href":"/articles/article-factoring-sagi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 詐欺, ファクタリング 詐欺 見分け方, ファクタリング 悪質業者"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング詐欺の手口と見分け方｜悪質業者を避ける完全ガイド"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]]}]]}]
+8:["$","div",null,{"className":"mt-8 text-center","children":["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]}]
+9:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]]}]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]]}]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ファクタリングの「売掛金」とは？仕組み・種類・管理方法をわかりやすく解説【2026年】\",\"item\":\"https://corp-factoring.com/articles/article-factoring-urikakekin\"}]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングの「売掛金」とは？仕組み・種類・管理方法をわかりやすく解説【2026年】\",\"description\":\"ファクタリングの「売掛金」とは？仕組み・種類・管理方法をわかりやすく解説【2026年】。ファクタリング 売掛金 とは, 売掛金 現金化について詳しく解説します。\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-urikakekin\"}}"}}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true}]
+d:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null
