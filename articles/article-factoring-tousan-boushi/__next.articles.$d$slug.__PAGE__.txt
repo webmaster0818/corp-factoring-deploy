@@ -1,0 +1,194 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
+e:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/images/articles/factoring-article.jpg","image"]
+:HL["/images/logo.png","image"]
+4:T271c,<p>「売上は伸びているのに、なぜか資金が回らない」「決算は黒字だが、明日の支払いが厳しい」——こうした「黒字倒産」は、毎年数千社が経験しています。実は、<strong>倒産企業の約半数は黒字倒産</strong>と言われており、最大の原因は「売掛金の入金タイミングと支払いタイミングのズレ」です。</p>
+<p>ファクタリングはこの問題を解決し、倒産リスクを大幅に下げる手段として注目されています。</p>
+<hr>
+<h2>黒字倒産とは?なぜ起きるのか?</h2>
+<h3>定義</h3>
+<p>売上・利益は黒字なのに、手元資金が枯渇して支払不能になる状態。</p>
+<h3>よくある原因</h3>
+<h4>1. 売掛金回収サイトの長さ</h4>
+<p>売掛金回収まで30日〜90日 vs 仕入れ・人件費は即時支払い</p>
+<h4>2. 急な大口受注</h4>
+<p>大口案件で在庫・人件費が先行支出。入金前に資金ショート</p>
+<h4>3. 取引先の支払遅延</h4>
+<p>売掛先からの入金が遅れる(支払先送り)</p>
+<h4>4. 季節変動</h4>
+<p>売上が偏り、低調期に資金繰り悪化</p>
+<h4>5. 設備投資の負担</h4>
+<p>新規投資直後の運転資金不足</p>
+<p>これらすべてが「資金繰り表」の見落としから発生します。</p>
+<hr>
+<h2>ファクタリングが倒産防止に有効な理由</h2>
+<h3>1. 売掛金を即日資金化</h3>
+<p>30〜90日待つはずの売掛金を、当日〜翌日に現金化。</p>
+<h3>2. <a href="/articles/article-factoring-vs-ginkou/">銀行融資より早い</a></h3>
+<p>銀行は審査1ヶ月、ファクタリングは即日。緊急時の差は決定的。</p>
+<h3>3. 担保・保証人不要</h3>
+<p><a href="/articles/article-factoring-tanpo/">担保ゼロ</a>・<a href="/articles/article-factoring-keiei-hoshou/">経営者保証ゼロ</a>で利用可能。</p>
+<h3>4. 赤字決算・税金滞納でも利用可能</h3>
+<p>銀行融資が通らないケースでも、売掛先信用力があれば利用可能。</p>
+<h3>5. 信用情報に影響しない</h3>
+<p><a href="/articles/article-factoring-shinyou-jouhou/">信用情報に載らない</a>ため、その後の銀行融資への影響なし。</p>
+<hr>
+<h2>倒産企業の典型的な資金ショートパターン</h2>
+<h3>パターン1:給与日に資金ショート</h3>
+<p>売掛金入金は月末、給与支払いは25日。15日の手元資金で給与が払えない。</p>
+<p>→ <strong>解決策</strong>:給与支払い前に売掛金をファクタリング</p>
+<h3>パターン2:仕入先からの支払催促</h3>
+<p>仕入先への支払期日が近づいたが、売掛金回収はまだ先。</p>
+<p>→ <strong>解決策</strong>:仕入先支払い分のファクタリング</p>
+<h3>パターン3:税金・社保支払いで枯渇</h3>
+<p>法人税・消費税・社会保険料の納付期限で資金枯渇。</p>
+<p>→ <strong>解決策</strong>:納付直前のファクタリングで一時資金確保</p>
+<h3>パターン4:急な売掛先倒産</h3>
+<p>売掛先が倒産で売掛金未回収。連鎖倒産リスク。</p>
+<p>→ <strong>解決策</strong>:<a href="/articles/article-factoring-urikakesaki-tousan/">売掛先倒産時のファクタリング対応</a></p>
+<hr>
+<h2>倒産防止のための資金繰り表とファクタリング活用</h2>
+<h3>資金繰り表の基本</h3>
+<ol>
+<li><strong>現金収入</strong>:売掛金入金、ファクタリング入金</li>
+<li><strong>現金支出</strong>:仕入、給与、家賃、税金、借入返済</li>
+<li><strong>月末残高</strong>:収入-支出+前月残高</li>
+</ol>
+<h3>ファクタリング活用ポイント</h3>
+<h4>月末残高が3ヶ月先にマイナスになる場合</h4>
+<p>→ 1〜2ヶ月先の売掛金をファクタリング、資金繰り正常化</p>
+<h4>月末残高が2週間先にマイナスになる場合</h4>
+<p>→ 緊急で<a href="/articles/article-factoring-sokujitsu/">即日ファクタリング</a></p>
+<h4>1週間先にマイナスになる場合</h4>
+<p>→ 直ちにファクタリング業者複数社に相談、最速で実行</p>
+<p><a href="/articles/article-shikin-gurihyou/">資金繰り表の作り方</a>も参照してください。</p>
+<hr>
+<h2>倒産防止に活用すべきファクタリング種別</h2>
+<h3>即日ファクタリング(緊急時)</h3>
+<ul>
+<li>当日〜翌営業日入金</li>
+<li>手数料やや高め</li>
+<li>大手・優良業者を選択</li>
+</ul>
+<h3>2社間ファクタリング(通常運転資金)</h3>
+<ul>
+<li>売掛先非通知で利用可</li>
+<li>手数料8〜18%</li>
+<li>取引先関係維持</li>
+</ul>
+<h3>3社間ファクタリング(計画的)</h3>
+<ul>
+<li>売掛先承諾あり</li>
+<li>手数料1〜9%(低コスト)</li>
+<li>継続利用に最適</li>
+</ul>
+<h3>将来債権ファクタリング(中長期)</h3>
+<ul>
+<li>6ヶ月〜1年先の売掛金資金化</li>
+<li>大口資金確保</li>
+<li><a href="/articles/article-factoring-shourai-saiken/">詳しくはこちら</a></li>
+</ul>
+<hr>
+<h2>倒産リスク別ファクタリング戦略</h2>
+<h3>レベル1:資金繰り余裕あり</h3>
+<ul>
+<li>定期的な資金繰り確認</li>
+<li>ファクタリング業者の事前リサーチ</li>
+<li><a href="/articles/article-factoring-osusume/">優良業者</a>とのコネクション維持</li>
+</ul>
+<h3>レベル2:資金繰り注意</h3>
+<ul>
+<li>月次でファクタリング検討</li>
+<li>補助金・助成金の併用検討</li>
+<li>売掛金回収サイトの短縮交渉</li>
+</ul>
+<h3>レベル3:資金繰り危険</h3>
+<ul>
+<li>即日ファクタリングの活用</li>
+<li>経費削減策の実行</li>
+<li>銀行へのリスケジューリング相談</li>
+</ul>
+<h3>レベル4:倒産危機</h3>
+<ul>
+<li>緊急で複数社にファクタリング相談</li>
+<li>中小企業再生支援協議会への相談</li>
+<li>弁護士同席の事業再生計画</li>
+</ul>
+<hr>
+<h2>倒産防止のための資金調達手段比較</h2>
+<p>| 手段 | スピード | 担保保証 | 信用情報 | 緊急時適性 |
+|------|---------|---------|---------|-----------|
+| ファクタリング | 即日 | 不要 | 影響なし | ◎ |
+| 銀行融資 | 1ヶ月 | 必要 | 影響あり | × |
+| ビジネスローン | 数日 | 不要 | 影響あり | △ |
+| 日本政策金融公庫 | 1ヶ月 | 一部 | 影響あり | × |
+| 補助金 | 数ヶ月 | 不要 | 影響なし | × |</p>
+<p>緊急倒産防止には<strong>ファクタリングが圧倒的優位</strong>です。</p>
+<hr>
+<h2>ファクタリングを倒産防止に使う際の注意点</h2>
+<h3>1. 手数料を「保険料」と捉える</h3>
+<p>ファクタリング手数料は高めですが、倒産すれば全てを失います。手数料を「倒産回避コスト」と捉えれば合理的。</p>
+<h3>2. 短期的解決と中長期改善を両立</h3>
+<p>ファクタリングは応急処置。中長期では:</p>
+<ul>
+<li>売掛金回収サイト短縮交渉</li>
+<li>不採算事業の見直し</li>
+<li>コスト構造改革
+を並行で実施。</li>
+</ul>
+<h3>3. 連続利用しすぎない</h3>
+<p><a href="/articles/article-factoring-keizoku-riyou/">継続利用のリスク</a>を理解し、本質的な経営改善を優先。</p>
+<h3>4. 複数社の見積もり</h3>
+<p>1社で即決せず、3社以上で相見積もり。</p>
+<h3>5. 違法業者を避ける</h3>
+<p>緊急時こそ<a href="/articles/article-factoring-ihou-gyousha/">違法業者</a>に手を出しがち。冷静な判断を。</p>
+<hr>
+<h2>倒産防止に成功した事例</h2>
+<h3>事例1:建設業A社(年商3億円)</h3>
+<p>状況:大口受注で運転資金不足、月末給与日危機
+対応:売掛金1500万円を2社間ファクタリング、手数料120万円
+結果:倒産回避、3ヶ月で経営正常化</p>
+<h3>事例2:IT受託B社(年商8000万円)</h3>
+<p>状況:大手取引先の支払い遅延で連鎖倒産リスク
+対応:将来債権ファクタリングで500万円調達
+結果:倒産回避、他取引先で売上補填</p>
+<h3>事例3:運送業C社(年商1.5億円)</h3>
+<p>状況:燃料費高騰で資金ショート、税金滞納寸前
+対応:<a href="/articles/article-factoring-2sha-3sha/">3社間ファクタリング</a>で月次500万円調達
+結果:倒産回避、半年で財務正常化</p>
+<hr>
+<h2>まとめ</h2>
+<ul>
+<li>黒字倒産は「資金タイミングのズレ」が主因</li>
+<li>ファクタリングは即日資金化で倒産防止に最適</li>
+<li><a href="/articles/article-factoring-vs-ginkou/">銀行融資</a>が間に合わないケースの最後の砦</li>
+<li>手数料は「倒産回避コスト」として合理的</li>
+<li>中長期では経営改善も並行で実施</li>
+</ul>
+<p>倒産リスクを感じたら、迷わずファクタリングを検討してください。</p>
+<hr>
+<h2>よくある質問(FAQ)</h2>
+<p><strong>Q: 倒産しそうな会社でもファクタリング使える?</strong>
+A: 自社の財務状況より、売掛先の信用力次第。売掛先が大手・上場企業なら利用可能なケース多数。</p>
+<p><strong>Q: 倒産しても返金不要?</strong>
+A: ノンリコース契約なら、利用者倒産時もファクタリング会社への返金義務なし。</p>
+<p><strong>Q: 倒産防止のファクタリングは銀行に知られる?</strong>
+A: 信用情報には載りません。決算書を精査されない限り、銀行は気づきません。</p>
+<p><strong>Q: 取引先が倒産しそうな場合、その売掛金もファクタリング可能?</strong>
+A: 売掛先の信用力次第で困難な場合あり。早めに優良業者に相談を。</p>
+<p><strong>Q: 倒産確実な状況でファクタリング利用は詐欺?</strong>
+A: 「自社の倒産を確実に知っていながら、それを隠して契約」は詐欺罪リスク。経営状況の正直な開示が前提です。</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングで倒産防止｜黒字倒産を回避する資金繰り戦略【2","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングで倒産防止｜黒字倒産を回避する資金繰り戦略【2026年】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングで倒産防止｜黒字倒産を回避する資金繰り戦略【2026年】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 倒産防止, ファクタリング 黒字倒産, 倒産回避 ファクタリング"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ABd6qUt6YuCMT79-PPSvW"}
+5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-ai-shinsa",{"href":"/articles/article-factoring-ai-shinsa","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"AI ファクタリング, AIファクタリング 審査"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"AIファクタリングとは？AI審査の仕組みと最短数分で資金調達できる最新サービス【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-2sha-3sha",{"href":"/articles/article-factoring-2sha-3sha","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"2社間ファクタリング, 3社間ファクタリング 違い"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【図解】2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を徹底比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-akaji",{"href":"/articles/article-factoring-akaji","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 赤字決算, 赤字 ファクタリング 審査"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"赤字決算でもファクタリングは使える？審査通過のポイントと注意点【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]]}]]}]
+8:["$","div",null,{"className":"mt-8 text-center","children":["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]}]
+9:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]]}]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]]}]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ファクタリングで倒産防止｜黒字倒産を回避する資金繰り戦略【2026年】\",\"item\":\"https://corp-factoring.com/articles/article-factoring-tousan-boushi\"}]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングで倒産防止｜黒字倒産を回避する資金繰り戦略【2026年】\",\"description\":\"ファクタリングで倒産防止｜黒字倒産を回避する資金繰り戦略【2026年】。ファクタリング 倒産防止, ファクタリング 黒字倒産, 倒産回避 ファクタリングについて詳しく解説します。\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-tousan-boushi\"}}"}}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true}]
+d:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null
