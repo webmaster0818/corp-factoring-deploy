@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0ybvjkuftw1j4.js"],"default"]
+3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0ybvjkuftw1j4.js"],"default"]
+5:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0ybvjkuftw1j4.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0ybvjkuftw1j4.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0ybvjkuftw1j4.js"],"MetadataBoundary"]
+d:I[68027,[],"default",1]
+:HL["/_next/static/chunks/0qw1cnar898z3.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-houjinzei",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-houjinzei","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0qw1cnar898z3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0h3yp.j7smyx9.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0qw1cnar898z3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"cwPxemHXf3Gw-SOzLTGSf"}
+e:[]
+8:"$We"
+f:I[70119,["/_next/static/chunks/0h3yp.j7smyx9.js"],"Header"]
+10:I[22016,["/_next/static/chunks/0h3yp.j7smyx9.js"],""]
+:HL["/images/articles/factoring-article.jpg","image"]
+11:T13f6,<p>ファクタリングを利用すると、売却損(手数料)が発生します。これは法人税の計算上、損金算入が可能なのか? 節税効果はあるのか? 本記事では法人税法上の取扱いと、節税戦略における位置づけを解説します。</p>
+<hr>
+<h2>ファクタリング売却損の損金算入</h2>
+<p><strong>結論: 全額損金算入可能</strong></p>
+<p><strong>法人税法上の取扱い:</strong></p>
+<ul>
+<li>売却損(手数料相当)は『売上債権売却損』として営業外費用に計上</li>
+<li>計上時期: ファクタリング契約が成立した事業年度</li>
+<li>損金算入: 全額が認められる(申告調整不要)</li>
+</ul>
+<p><strong>根拠:</strong></p>
+<ul>
+<li>法人税法 第22条第3項(損金算入の原則)</li>
+<li>売掛金売却は『資産売却損』として明確に損金性あり</li>
+</ul>
+<h2>売却損の計上時期と税効果</h2>
+<p><strong>事業年度末前のファクタリング利用:</strong></p>
+<ul>
+<li>当該事業年度の損金として処理</li>
+<li>課税所得を圧縮 → 法人税額を減らせる</li>
+</ul>
+<p><strong>例(法人税率 30% 仮定):</strong></p>
+<ul>
+<li>売掛金 1,000 万円を 950 万円で売却(手数料 50 万円)</li>
+<li>損金 50 万円</li>
+<li>節税効果: 50 万円 × 30% = 15 万円</li>
+</ul>
+<p><strong>期末タイミングでのファクタリング戦略:</strong></p>
+<ul>
+<li>利益が出ている事業年度に意図的にファクタリングを利用</li>
+<li>損金を計上することで法人税圧縮</li>
+</ul>
+<h2>税効果会計上の処理</h2>
+<p><strong>短期的影響:</strong></p>
+<ul>
+<li>売掛金が減少 → 売上債権回転率が下がる(見た目悪化)</li>
+<li>営業外費用増加 → 営業利益への直接影響なし</li>
+<li>当期純利益は減少 → 内部留保が減る</li>
+</ul>
+<p><strong>長期的影響:</strong></p>
+<ul>
+<li>流動比率 / 当座比率は改善(現金化されるため)</li>
+<li>ROE / ROA は短期的に低下するが、資金流動性が高まる</li>
+</ul>
+<h2>ファクタリング vs 銀行融資の税効果比較</h2>
+<p>| 項目 | ファクタリング | 銀行融資 |
+|---|---|---|
+| 損金算入 | 売却損(手数料) | 支払利息 |
+| 計上タイミング | 売却時一括 | 支払時都度 |
+| 売掛金の影響 | 減少 | 変化なし |
+| 負債の影響 | 増加なし | 増加 |
+| 信用情報 | 影響なし | 借入金記録 |</p>
+<p><strong>節税効果の総和:</strong></p>
+<ul>
+<li>ファクタリング: 売却損(短期一括) × 法人税率</li>
+<li>銀行融資: 支払利息(長期分散) × 法人税率</li>
+</ul>
+<p>どちらも実質的な節税額は同程度。違いは『時期』と『財務指標への影響』。</p>
+<h2>法人税申告書への記載方法</h2>
+<p><strong>勘定科目:</strong></p>
+<ul>
+<li>『売上債権売却損』(損益計算書の営業外費用)</li>
+<li>または『手数料』(経常費用扱い)</li>
+</ul>
+<p><strong>法人税申告書:</strong></p>
+<ul>
+<li>別表4: 加算減算不要(全額損金算入)</li>
+<li>別表14: 売却損計上の根拠資料保管</li>
+</ul>
+<p><strong>注意点:</strong></p>
+<ul>
+<li>契約書のコピーを必ず保管(税務調査時の証憑)</li>
+<li>売掛先からの請求書原本も保管</li>
+<li>仕訳の根拠資料は7年間保存</li>
+</ul>
+<hr>
+<h2>よくある質問</h2>
+<p><strong>Q: ファクタリング売却損は本当に全額損金になる？</strong>
+A: 原則として全額損金算入可能です。法人税法上の資産売却損として明確に位置づけられています。</p>
+<p><strong>Q: 売却損を計上できる事業年度は？</strong>
+A: ファクタリング契約が成立した事業年度です。実際の入金日ではなく契約日で判定。</p>
+<p><strong>Q: 税務調査で損金性が否認されるリスクは？</strong>
+A: 正規のファクタリング契約であれば原則否認されません。ただし違法業者との取引や、実体のない取引は否認リスクあり。</p>
+<p><strong>Q: ファクタリング業者への支払いは消費税対象？</strong>
+A: 非課税取引のため消費税は発生しません。</p>
+<p><strong>Q: 売却損が大きすぎると税務署から問合せが入る？</strong>
+A: 業界水準を大きく超える手数料(20%以上)で大規模な取引の場合、確認の連絡があることはあります。契約書類を準備しておくこと。</p>
+<p><strong>Q: 法人税の損金算入と所得税の経費計上は同じ？</strong>
+A: 個人事業主は『売上原価』または『販管費』として経費計上可能。法人税の損金算入と経済効果は同じ。</p>
+<hr>
+<h2>関連記事</h2>
+<ul>
+<li><a href="/articles/article-factoring-shouhizei">ファクタリング 消費税</a></li>
+<li><a href="/articles/article-factoring-kanjokamoku">ファクタリング 勘定科目</a></li>
+<li><a href="/articles/article-factoring-kessansho">ファクタリング 決算書</a></li>
+</ul>
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L10",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングと法人税の関係｜損金算入の可否と節税効果","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングと法人税の関係｜損金算入の可否と節税効果","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングと法人税の関係｜損金算入の可否と節税効果"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 法人税"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14","$L15"]}],"$L16","$L17","$L18","$L19"]}]
+:HL["/images/logo.png","image"]
+12:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+13:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+14:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-akaji-yuushi",{"href":"/articles/article-akaji-yuushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"赤字 融資"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"赤字でも融資は受けられる？個人事業主が審査に通る5つの方法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-2sha-3sha",{"href":"/articles/article-factoring-2sha-3sha","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"2社間ファクタリング, 3社間ファクタリング 違い"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【図解】2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を徹底比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-fukusu",{"href":"/articles/article-factoring-fukusu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 複数申し込み, ファクタリング 複数社, ファクタリング 同時申込み"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングは複数社に同時申込みできる？注意点と活用法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]]}]]}]
+15:["$","div",null,{"className":"mt-8 text-center","children":["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]}]
+16:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L10",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L10",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]]}]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]]}]}]
+17:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ファクタリングと法人税の関係｜損金算入の可否と節税効果\",\"item\":\"https://corp-factoring.com/articles/article-factoring-houjinzei\"}]}"}}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングと法人税の関係｜損金算入の可否と節税効果\",\"description\":\"ファクタリングと法人税の関係｜損金算入の可否と節税効果。ファクタリング 法人税について詳しく解説します。\",\"datePublished\":\"2026-06-05T12:29:10.770Z\",\"dateModified\":\"2026-06-05T12:29:10.770Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-houjinzei\"}}"}}]
+1a:T773,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ファクタリング売却損は本当に全額損金になる？","acceptedAnswer":{"@type":"Answer","text":"原則として全額損金算入可能です。法人税法上の資産売却損として明確に位置づけられています。"}},{"@type":"Question","name":"売却損を計上できる事業年度は？","acceptedAnswer":{"@type":"Answer","text":"ファクタリング契約が成立した事業年度です。実際の入金日ではなく契約日で判定。"}},{"@type":"Question","name":"税務調査で損金性が否認されるリスクは？","acceptedAnswer":{"@type":"Answer","text":"正規のファクタリング契約であれば原則否認されません。ただし違法業者との取引や、実体のない取引は否認リスクあり。"}},{"@type":"Question","name":"ファクタリング業者への支払いは消費税対象？","acceptedAnswer":{"@type":"Answer","text":"非課税取引のため消費税は発生しません。"}},{"@type":"Question","name":"売却損が大きすぎると税務署から問合せが入る？","acceptedAnswer":{"@type":"Answer","text":"業界水準を大きく超える手数料(20%以上)で大規模な取引の場合、確認の連絡があることはあります。契約書類を準備しておくこと。"}},{"@type":"Question","name":"法人税の損金算入と所得税の経費計上は同じ？","acceptedAnswer":{"@type":"Answer","text":"個人事業主は『売上原価』または『販管費』として経費計上可能。法人税の損金算入と経済効果は同じ。 --- - [ファクタリング 消費税](/articles/article-factoring-shouhizei) - [ファクタリング 勘定科目](/articles/article-factoring-kanjokamoku) - [ファクタリング 決算書](/articles/article-factoring-kessansho)"}}]}19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1a"}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+c:[["$","title","0",{"children":"ファクタリングと法人税の関係｜損金算入の可否と節税効果｜ファクタリング比較ナビ｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"ファクタリングと法人税の関係｜損金算入の可否と節税効果。ファクタリング 法人税について詳しく解説します。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-factoring-houjinzei/"}],["$","meta","5",{"property":"og:title","content":"ファクタリングと法人税の関係｜損金算入の可否と節税効果｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"ファクタリングと法人税の関係｜損金算入の可否と節税効果。ファクタリング 法人税について詳しく解説します。"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","10",{"name":"twitter:description","content":"手数料・審査・入金スピードを徹底比較。最適なファクタリング会社が見つかります。"}]]
