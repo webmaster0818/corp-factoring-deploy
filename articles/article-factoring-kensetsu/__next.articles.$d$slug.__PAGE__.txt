@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/0h3yp.j7smyx9.js"],"Header"]
+3:I[22016,["/_next/static/chunks/0h3yp.j7smyx9.js"],""]
+14:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0ybvjkuftw1j4.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+:HL["/images/articles/gyoushu-article.jpg","image"]
+:HL["/images/logo.png","image"]
+4:T2c69,<p>「工事は受注できたのに、入金が3ヶ月先で資金が回らない」</p>
+<p>建設業の資金繰りの悩みは、他の業種とは比べものになりません。工期が長い・下請け構造が深い・出来高払いで入金が分散される——こうした建設業特有の構造が、慢性的な資金不足を生み出しています。</p>
+<p>この記事では、建設業に特化したファクタリングの活用法と、建設業におすすめのファクタリング会社5社を具体的に解説します。</p>
+<hr>
+<h2>建設業の資金繰りが厳しい3つの理由</h2>
+<h3>理由1: 工期が長く、入金サイトが60〜120日</h3>
+<p>建設業では、工事の着手から完了まで数ヶ月〜数年かかるのが当たり前です。しかも、完了後の入金まで60〜120日というケースも珍しくありません。</p>
+<p><strong>具体例:</strong></p>
+<ul>
+<li>4月: 工事着手（材料費・人件費の支払い開始）</li>
+<li>7月: 工事完了</li>
+<li>8月: 請求書発行</li>
+<li>10月: 入金（着手から6ヶ月後）</li>
+</ul>
+<p>この6ヶ月間、材料費・外注費・人件費を自社で立て替え続けなければなりません。</p>
+<h3>理由2: 下請け構造で支払いが先行する</h3>
+<p>建設業は「元請け→1次下請け→2次下請け→3次下請け」という多層構造になっています。下請け業者は、元請けからの入金を待たずに、自社の職人への給与や材料費を支払う必要があります。</p>
+<p>元請けの入金が遅れれば、そのしわ寄せは下請け全体に波及します。資金力のない中小建設会社ほど、この構造の影響を大きく受けます。</p>
+<h3>理由3: 出来高払いで入金が分散される</h3>
+<p>大型工事では「出来高払い」（工事の進捗に応じて分割で支払い）が一般的です。例えば、総額1,000万円の工事で、着手時30%・中間30%・完了時40%という支払いスケジュールの場合、入金のタイミングが3回に分散されます。</p>
+<p>一方、材料費や外注費は工事の進行に合わせて毎月発生するため、入金と支出のタイミングにずれが生じます。</p>
+<hr>
+<h2>建設業でファクタリングを活用するメリット</h2>
+<h3>メリット1: 工事代金を即日現金化できる</h3>
+<p>元請けからの入金を待たずに、請求書（売掛金）をファクタリング会社に売却して即日現金化できます。材料費の支払いや外注費の決済に充てることで、資金ショートを防げます。</p>
+<h3>メリット2: 赤字決算でも利用できる</h3>
+<p>建設業は大型案件の有無で年度ごとの損益が大きく変動します。赤字決算の年でも、売掛先（元請け）が信用力のある企業であれば、ファクタリングの審査に通ります。銀行融資と違い、自社の決算内容ではなく売掛先の支払い能力が審査の中心です。</p>
+<h3>メリット3: 信用情報に影響しない</h3>
+<p>ファクタリングは借入ではないため、信用情報に記録されません。「来年は銀行融資で設備投資をしたい」という場合でも、ファクタリングの利用が融資審査に影響することはありません。</p>
+<h3>メリット4: 注文書ファクタリングで受注段階から資金化</h3>
+<p>通常のファクタリングは「請求書」が対象ですが、建設業向けの「注文書ファクタリング」なら、<strong>工事の受注段階（納品前）で資金化</strong>が可能です。着手金の確保や材料の先行調達に活用できます。</p>
+<hr>
+<h2>建設業におすすめのファクタリング会社5選</h2>
+<h3>1. ビートレーディング</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 手数料 | 2社間 4%〜 / 3社間 2%〜 |
+| 入金スピード | 最短2時間 |
+| 買取上限 | 上限なし（7億円の実績あり） |
+| 建設業の実績 | 多数あり |</p>
+<p><strong>建設業におすすめの理由:</strong> 累計91,000社の利用実績があり、建設業の取引構造を熟知しています。高額案件にも対応可能で、数千万円規模の工事代金のファクタリングにも実績があります。注文書ファクタリングにも対応しています。</p>
+<h3>2. 日本中小企業金融サポート機構</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 手数料 | 1.5〜10% |
+| 入金スピード | 最短3時間 |
+| 運営 | 一般社団法人（非営利） |</p>
+<p><strong>建設業におすすめの理由:</strong> 手数料上限10%が明示されているため、コスト計算がしやすいです。非営利の一般社団法人が運営しており、利益追求ではなく中小企業支援が目的。建設業の資金繰り相談にも対応しています。</p>
+<h3>3. トップマネジメント</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 手数料 | 2社間 3.5〜12.5% / 3社間 0.5〜3.5% |
+| 入金スピード | 最短即日 |
+| 注文書ファクタリング | 対応 |</p>
+<p><strong>建設業におすすめの理由:</strong> 注文書ファクタリングに対応しており、工事受注段階で資金化が可能です。3社間の手数料0.5%〜は業界最安水準で、元請けの理解が得られる場合はコストを大幅に抑えられます。</p>
+<h3>4. アクセルファクター</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 手数料 | 2〜20% |
+| 入金スピード | 最短即日 |
+| 審査通過率 | 93%以上 |</p>
+<p><strong>建設業におすすめの理由:</strong> 審査通過率93%以上と業界トップクラス。赤字決算や税金滞納があっても利用できるケースが多く、資金繰りが厳しい建設会社の強い味方です。</p>
+<h3>5. PAYTODAY</h3>
+<p>| 項目 | 内容 |
+|------|------|
+| 手数料 | 1〜9.5% |
+| 入金スピード | 最短30分 |
+| 手数料上限 | 9.5%明示 |</p>
+<p><strong>建設業におすすめの理由:</strong> 手数料上限9.5%が明示されており、コスト管理がしやすいです。AI審査で最短30分入金のため、急な支払いにも対応できます。</p>
+<hr>
+<h2>建設業でファクタリングを利用する際の注意点</h2>
+<h3>注意点1: 工事前受金との違いを理解する</h3>
+<p>工事前受金（着手金）は、発注者から前もって支払われる代金です。ファクタリングは、すでに発生している売掛金（完了した工事の未入金分）を売却するものです。混同しないようにしましょう。</p>
+<p>ただし、注文書ファクタリングを利用すれば、工事着手前でも資金化が可能です。この場合は注文書（発注書）が必要になります。</p>
+<h3>注意点2: 出来高部分のファクタリング</h3>
+<p>出来高払いの場合、すでに完了した工程の出来高部分をファクタリングできるかどうかは、ファクタリング会社によって異なります。出来高証明書や工事進行基準の書類が追加で必要になることがあります。事前に確認してください。</p>
+<h3>注意点3: 元請けとの関係</h3>
+<p>2社間ファクタリングなら元請けに知られることはありませんが、3社間ファクタリングでは元請けの承諾が必要です。元請けとの信頼関係が十分に構築されている場合は3社間も検討できますが、新規の元請けとの取引では2社間を選ぶのが無難です。</p>
+<h3>注意点4: 建設業法との関係</h3>
+<p>ファクタリング自体は建設業法に抵触しません。ただし、下請代金の支払いに関しては「建設業法第24条の6」で、元請けは下請けに対し適正な期間内に代金を支払う義務があります。ファクタリングの利用は、あくまで自社の資金繰り対策であり、下請けへの支払い遅延の理由にはなりません。</p>
+<hr>
+<h2>建設業のファクタリング活用事例</h2>
+<h3>事例1: 公共工事の入金待ちを乗り切った土木会社</h3>
+<p><strong>状況:</strong> 地方の土木会社（従業員15名）。市の道路工事を受注（請負金額3,000万円）。工期6ヶ月、入金は完工後60日。材料費と外注費で毎月300万円の支出が発生。</p>
+<p><strong>課題:</strong> 手元資金500万円では3ヶ月目で資金ショートする見込み。</p>
+<p><strong>ファクタリング活用:</strong> 出来高払いで確定した1,000万円分の売掛金を2社間ファクタリング（手数料8%）で現金化。手取り920万円で3〜6ヶ月の支出をカバー。</p>
+<p><strong>結果:</strong> 工事を無事完了し、入金後にファクタリングのコストを回収。翌年からは銀行融資も併用して資金繰りを安定化。</p>
+<h3>事例2: 元請けの入金遅れに対応した内装会社</h3>
+<p><strong>状況:</strong> 内装工事の専門会社（従業員8名）。元請けからの入金が予定より30日遅延し、職人への給与支払いが困難に。</p>
+<p><strong>ファクタリング活用:</strong> 別の元請け向け売掛金200万円を即日ファクタリング（手数料12%）。手取り176万円で給与を支払い。</p>
+<p><strong>結果:</strong> 従業員の離職を防ぎ、遅延していた元請けからの入金後に資金繰りが正常化。</p>
+<hr>
+<h2>まとめ</h2>
+<p>建設業とファクタリングの相性は非常に良いです。長い入金サイト・下請け構造・出来高払いという建設業特有の課題を、ファクタリングで解決できます。</p>
+<p><strong>建設業のファクタリング選びのポイント:</strong></p>
+<ul>
+<li>高額対応が可能な会社を選ぶ（ビートレーディング、日本中小企業金融サポート機構）</li>
+<li>注文書ファクタリング対応なら受注段階で資金化可能（トップマネジメント）</li>
+<li>手数料上限が明示されている会社が安心（PAYTODAY、日本中小企業金融サポート機構）</li>
+</ul>
+<p>まずは複数社に無料見積もりを依頼し、手数料と対応スピードを比較してみてください。ファクタリング会社の<a href="/articles/article-factoring-osusume/">おすすめランキング</a>、<a href="/articles/article-factoring-sokujitsu/">即日入金対応の会社</a>、<a href="/articles/article-factoring-tesuryo/">手数料の比較</a>もあわせてご確認ください。</p>
+<hr>
+<p><em>この記事は2026年4月時点の情報に基づいています。各サービスの最新情報は公式サイトでご確認ください。</em></p>
+<hr>
+<blockquote>
+<p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
+</blockquote>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/gyoushu","className":"hover:text-gray-700 transition","children":"業種別ファクタリング"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["【2026年最新】建設業向けファクタリングおすすめ5選｜工事","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/gyoushu-article.jpg","alt":"【2026年最新】建設業向けファクタリングおすすめ5選｜工事代金の資金繰りを改善","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【2026年最新】建設業向けファクタリングおすすめ5選｜工事代金の資金繰りを改善"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"建設業 ファクタリング, 工事代金 ファクタリング"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La","$Lb",false]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pgHf1V_ICA1l1wBQe8PUU"}
+5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-seizou",{"href":"/articles/article-factoring-seizou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"製造業 ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】製造業向けファクタリング活用ガイド｜材料費・外注費の資金繰りを改善"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-unsou",{"href":"/articles/article-factoring-unsou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"運送業 ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】運送業向けファクタリングおすすめ5選｜燃料費高騰時代の資金繰り改善術"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-butsuryuu",{"href":"/articles/article-factoring-butsuryuu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 物流 倉庫"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"物流・倉庫業向けファクタリング｜運送費・倉庫料の売掛金資金化"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-iryou",{"href":"/articles/article-factoring-iryou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"医療ファクタリング, 診療報酬ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】医療・介護向けファクタリング（診療報酬ファクタリング）完全ガイド"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kaigo",{"href":"/articles/article-factoring-kaigo","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"介護 ファクタリング, 介護報酬 ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"介護報酬ファクタリングおすすめ5選｜介護事業所の資金繰り改善ガイド"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-clinic-kaigyou",{"href":"/articles/article-factoring-clinic-kaigyou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$Le","$Lf","$L10"]}]]}]]}]
+8:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/gyoushu","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["業種別ファクタリング","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+9:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],"$L11","$L12"]}]}],"$L13"]}]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"業種別ファクタリング\",\"item\":\"https://corp-factoring.com/topics/gyoushu\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"【2026年最新】建設業向けファクタリングおすすめ5選｜工事代金の資金繰りを改善\",\"item\":\"https://corp-factoring.com/articles/article-factoring-kensetsu\"}]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"【2026年最新】建設業向けファクタリングおすすめ5選｜工事代金の資金繰りを改善\",\"description\":\"【2026年最新】建設業向けファクタリングおすすめ5選｜工事代金の資金繰りを改善。建設業 ファクタリング, 工事代金 ファクタリングについて詳しく解説します。\",\"datePublished\":\"2026-04-17T04:20:06.130Z\",\"dateModified\":\"2026-04-17T11:03:30.496Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-kensetsu\"}}"}}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/0h3yp.j7smyx9.js","async":true}]
+d:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+e:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"クリニック 開業資金 ファクタリング, 医療 ファクタリング 開業"}]
+f:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"クリニック開業資金にファクタリングは使える？医療業界の資金調達完全解説【2026年】"}]
+10:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+11:["$","span",null,{"className":"text-gray-700","children":"|"}]
+12:["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
+13:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+16:null

@@ -1,0 +1,224 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/0h3yp.j7smyx9.js"],"Header"]
+3:I[22016,["/_next/static/chunks/0h3yp.j7smyx9.js"],""]
+15:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0ybvjkuftw1j4.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+:HL["/images/articles/factoring-article.jpg","image"]
+:HL["/images/logo.png","image"]
+4:T29e8,<p>「リバースファクタリングって普通のファクタリングと逆?」「サプライチェーンファイナンス(SCF)とは?」——大手企業の購買・調達担当者なら一度は聞いたことがある言葉です。リバースファクタリングは、大企業が主導で仕入先(サプライヤー)の早期資金化を支援する仕組み。</p>
+<p>この記事では、リバースファクタリングの仕組み、サプライチェーンファイナンスとの関係、メリット・デメリットを解説します。</p>
+<hr>
+<h2>リバースファクタリングとは?</h2>
+<h3>定義</h3>
+<p><strong>購買企業(支払側=大手企業)が主導</strong>して、仕入先(売掛側=中小企業)の売掛金を早期資金化させる仕組み。</p>
+<h3>通常のファクタリングとの違い</h3>
+<p>| 項目 | 通常ファクタリング | リバースファクタリング |
+|------|----------------|--------------------|
+| 主導 | 売掛側(中小企業) | 購買側(大手企業) |
+| 契約相手 | ファクタリング会社 | 銀行が中心 |
+| 与信判断 | 売掛先の信用 | 購買企業自身の信用 |
+| 手数料 | 2〜18% | 1〜3%(極めて低い) |
+| 対象 | 個別売掛金 | 全仕入先・全取引 |
+| 主目的 | 売掛側の資金化 | 購買側の取引維持・支払サイト調整 |</p>
+<hr>
+<h2>サプライチェーンファイナンス(SCF)とは?</h2>
+<h3>定義</h3>
+<p>購買企業の信用力を活かして、サプライチェーン全体の資金繰りを最適化する金融サービスの総称。</p>
+<h3>SCFの主要要素</h3>
+<ol>
+<li><strong>リバースファクタリング</strong>:仕入先の早期資金化</li>
+<li><strong>ダイナミックディスカウンティング</strong>:早期支払いで割引</li>
+<li><strong>インベントリーファイナンス</strong>:在庫担保融資</li>
+<li><strong>PO(Purchase Order)ファイナンス</strong>:注文書段階での資金化</li>
+</ol>
+<h3>規模</h3>
+<p>世界のSCF市場は2024年に約2.5兆ドル(約375兆円)。年率15%成長予測。</p>
+<p>リバースファクタリングはSCFの最大カテゴリ(約70%)。</p>
+<hr>
+<h2>リバースファクタリングの仕組み(詳細)</h2>
+<h3>基本フロー</h3>
+<pre><code>購買企業(大手) → 仕入先(中小) :商品・サービス発注
+仕入先 → 購買企業:商品・サービス提供+請求書発行
+仕入先 → 銀行/ファクタリング会社:請求書譲渡(リバースFT)
+銀行 → 仕入先:即時入金(購買企業の信用で)
+購買企業 → 銀行:通常の支払期日に支払い(60〜120日後)
+</code></pre>
+<h3>重要ポイント</h3>
+<ul>
+<li>銀行は<strong>購買企業(大手)の信用</strong>で資金提供</li>
+<li>仕入先は<strong>仕入先自身の信用力に関係なく</strong>資金化可能</li>
+<li>仕入先の手数料は通常2〜3%(極めて低い)</li>
+</ul>
+<hr>
+<h2>メリット(購買企業側)</h2>
+<h3>1. 仕入先の安定化</h3>
+<p>仕入先が資金繰り倒産する事業継続リスクを回避。</p>
+<h3>2. 仕入価格の改善</h3>
+<p>仕入先の資金繰りが改善されるため、価格交渉力UP。</p>
+<h3>3. 支払サイトの維持</h3>
+<p>通常通り60〜120日サイトで支払い可能。仕入先は早期資金化済み。</p>
+<h3>4. 取引関係の強化</h3>
+<p>仕入先からの信頼向上、優先サプライヤー化。</p>
+<h3>5. ESG・CSR向上</h3>
+<p>中小サプライヤーの資金繰り支援はESG評価項目に含まれる。</p>
+<h3>6. 印紙税ゼロ</h3>
+<p>手形不要のため、印紙税負担なし。</p>
+<hr>
+<h2>メリット(仕入先側)</h2>
+<h3>1. 圧倒的に低い手数料</h3>
+<p>通常のファクタリング(8〜18%) vs リバースファクタリング(1〜3%)。</p>
+<h3>2. 即時資金化</h3>
+<p>銀行融資より圧倒的に早い。</p>
+<h3>3. 自社の与信不問</h3>
+<p>購買企業の信用で資金化可能。新興企業・赤字決算でもOK。</p>
+<h3>4. 銀行融資枠を温存</h3>
+<p>自社の銀行融資枠を消費しない。</p>
+<h3>5. 継続的安定資金繰り</h3>
+<p>購買企業との取引継続中は半永久的に利用可。</p>
+<p><a href="/articles/article-factoring-vs-ginkou/">銀行融資との比較</a>も参照。</p>
+<hr>
+<h2>デメリット・注意点</h2>
+<h3>購買企業側</h3>
+<ul>
+<li>システム導入コスト</li>
+<li>法務・経理体制整備</li>
+<li>銀行との交渉コスト</li>
+</ul>
+<h3>仕入先側</h3>
+<ul>
+<li>大手取引先がリバースファクタリング導入しているケースのみ利用可</li>
+<li>個別の判断ではなく全社一律スキーム</li>
+<li>早期資金化を希望すると手数料負担(購買企業からはタダではない)</li>
+</ul>
+<h3>共通リスク</h3>
+<ul>
+<li>購買企業の信用悪化 → スキーム機能停止</li>
+<li>銀行との関係悪化</li>
+<li>海外子会社含む統一運用の困難</li>
+</ul>
+<hr>
+<h2>一括ファクタリングとの違い</h2>
+<p>リバースファクタリングと<a href="/articles/article-factoring-ikkatsu-kobetsu/">一括ファクタリング</a>は類似概念ですが、以下の違いがあります。</p>
+<p>| 項目 | 一括ファクタリング | リバースファクタリング |
+|------|----------------|--------------------|
+| 起源 | 日本(1990年代) | 欧米(2000年代以降) |
+| 主目的 | 手形代替 | サプライチェーン強化 |
+| 対象 | 主に日本国内 | グローバル |
+| プラットフォーム | 銀行各社独自 | 国際標準・SaaS型 |
+| デジタル化度 | 中 | 高 |</p>
+<p>一括ファクタリングはリバースファクタリングの一形態とも言えます。</p>
+<hr>
+<h2>日本でのリバースファクタリング普及状況</h2>
+<h3>大手企業の導入例</h3>
+<ul>
+<li>トヨタ自動車:サプライヤー向けSCFプラットフォーム導入</li>
+<li>日立製作所:グローバルSCF展開</li>
+<li>三菱商事:海外仕入先向けリバースFT</li>
+<li>楽天:プラットフォーム事業者向け早期資金化</li>
+<li>パナソニック:中小サプライヤー支援</li>
+</ul>
+<h3>課題</h3>
+<ul>
+<li>中小企業の利用周知不足</li>
+<li>システム連携の負担</li>
+<li>大手企業内の経理改革遅れ</li>
+</ul>
+<p>→ 2026年以降、デジタル化加速で普及拡大予測。</p>
+<hr>
+<h2>グローバルSCFプラットフォーム</h2>
+<h3>主要プレイヤー</h3>
+<p>| 名称 | 国 | 特徴 |
+|-----|-----|-----|
+| Taulia | 米国 | 中堅企業中心 |
+| C2FO | 米国 | ダイナミックディスカウンティング |
+| Greensill Capital(破綻) | 英国 | 過去最大手、2021年破綻 |
+| Demica | 英国 | 銀行向けSCFプラットフォーム |
+| Tradeshift | 米国 | デジタル請求書 |</p>
+<h3>日本国内プラットフォーム</h3>
+<ul>
+<li>三菱UFJファクター:銀行系最大手</li>
+<li>みずほファクター:同上</li>
+<li>SMBCモビット系:中小向け</li>
+<li>OLTA法人向けプラン:中堅向け</li>
+</ul>
+<hr>
+<h2>リバースファクタリング導入のための要件(仕入先側)</h2>
+<h3>1. 大手取引先がスキーム導入済み</h3>
+<p>これがない限り利用不可。</p>
+<h3>2. 取引基本契約書の整備</h3>
+<p>スキーム適用要件として書面整備が必要。</p>
+<h3>3. 経理・会計システムの対応</h3>
+<p>電子請求書連携など。</p>
+<h3>4. 銀行口座開設</h3>
+<p>スキーム指定銀行に口座が必要な場合あり。</p>
+<h3>5. 過去の取引実績</h3>
+<p>通常、6ヶ月以上の継続取引が前提。</p>
+<hr>
+<h2>中小企業がリバースファクタリングを活用するには?</h2>
+<h3>ステップ1:取引先大手企業に確認</h3>
+<p>購買担当者・経理に「リバースファクタリング(または一括ファクタリング)を導入していますか?」と質問。</p>
+<h3>ステップ2:スキーム説明会への参加</h3>
+<p>大手取引先がスキームを案内する説明会に積極参加。</p>
+<h3>ステップ3:銀行との手続き</h3>
+<p>指定銀行に口座開設・契約締結。</p>
+<h3>ステップ4:初回利用</h3>
+<p>小口取引から開始し、運用に慣れる。</p>
+<h3>ステップ5:継続利用と最適化</h3>
+<p>資金繰り表と連携し、最適タイミングで早期資金化。</p>
+<hr>
+<h2>既存ファクタリングとの併用戦略</h2>
+<h3>パターン1:大手取引先=リバースファクタリング、中小取引先=個別ファクタリング</h3>
+<ul>
+<li>大手:低手数料のリバースFTで安定資金化</li>
+<li>中小:必要時のみ<a href="/articles/article-factoring-osusume/">個別ファクタリング</a>で対応</li>
+</ul>
+<h3>パターン2:緊急時バックアップ</h3>
+<ul>
+<li>通常時:リバースファクタリング</li>
+<li>緊急時:即日対応の個別ファクタリング</li>
+</ul>
+<h3>パターン3:多重資金繰り</h3>
+<ul>
+<li>売上の80%:リバースファクタリング</li>
+<li>売上の20%:<a href="/articles/article-factoring-2sha-3sha/">2社間ファクタリング</a></li>
+</ul>
+<hr>
+<h2>まとめ</h2>
+<ul>
+<li>リバースファクタリング:購買企業主導の仕入先早期資金化スキーム</li>
+<li>手数料1〜3%と圧倒的に低い</li>
+<li>サプライチェーンファイナンス(SCF)の中核</li>
+<li>大手取引先のスキーム導入が前提</li>
+<li>中小企業は積極的に大手取引先と連携を</li>
+</ul>
+<p>リバースファクタリングは、大手と取引する中小企業にとって最有力の資金調達手段の一つです。</p>
+<hr>
+<h2>よくある質問(FAQ)</h2>
+<p><strong>Q: リバースファクタリングは違法ではない?</strong>
+A: 完全に合法。むしろ大手企業のCSR・ESG取組として推奨されています。</p>
+<p><strong>Q: 中小企業から導入を提案できる?</strong>
+A: 困難ですが、業界団体経由で大手企業に働きかけることは可能です。</p>
+<p><strong>Q: 個人事業主は利用できる?</strong>
+A: 通常は法人のみ対象。個人事業主は<a href="/articles/article-factoring-kojin-jigyonushi/">通常のファクタリング</a>を利用。</p>
+<p><strong>Q: 海外取引先のリバースファクタリングは?</strong>
+A: 国際SCFプラットフォーム経由で可能。詳しくは<a href="/articles/article-factoring-kokusai/">国際ファクタリング</a>を参照。</p>
+<p><strong>Q: リバースファクタリング利用は信用情報に影響?</strong>
+A: 信用情報には載りません。仕入先・購買企業ともに通常の取引扱い。</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["リバースファクタリングとは？サプライチェーンファイナンスの仕","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"リバースファクタリングとは？サプライチェーンファイナンスの仕組み【2026年】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"リバースファクタリングとは？サプライチェーンファイナンスの仕組み【2026年】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"リバースファクタリング, サプライチェーンファイナンス, SCF"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La","$Lb","$Lc"]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pgHf1V_ICA1l1wBQe8PUU"}
+5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-chuumonsho",{"href":"/articles/article-factoring-chuumonsho","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 注文書, 注文書 資金化, 注文書 ファクタリング 仕組み"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"注文書ファクタリングとは？仕組み・手数料・対応会社を徹底解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-shourai-saiken",{"href":"/articles/article-factoring-shourai-saiken","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 将来債権, 将来債権 ファクタリング 仕組み"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"将来債権ファクタリングとは？仕組み・法的根拠・対応会社を解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-non-recourse",{"href":"/articles/article-factoring-non-recourse","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング ノンリコース, ファクタリング リコース, ファクタリング 償還請求権"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ノンリコース/リコースの違いとは？ファクタリングの償還請求権を徹底解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-shoufuri",{"href":"/articles/article-factoring-shoufuri","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 償還請求権, ノンリコース"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの償還請求権とは？ウィズリコース・ノンリコースの違いをわかりやすく解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kokusai",{"href":"/articles/article-factoring-kokusai","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"国際ファクタリング, 輸出ファクタリング, 国際ファクタリング 仕組み"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"国際ファクタリングとは？仕組み・利用法・対応会社【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-toha",{"href":"/articles/article-factoring-toha","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$Lf","$L10","$L11"]}]]}]]}]
+8:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/kiso","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["基礎知識・審査・法律","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+9:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],"$L12","$L13"]}]}],"$L14"]}]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"基礎知識・審査・法律\",\"item\":\"https://corp-factoring.com/topics/kiso\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"リバースファクタリングとは？サプライチェーンファイナンスの仕組み【2026年】\",\"item\":\"https://corp-factoring.com/articles/article-factoring-reverse\"}]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"リバースファクタリングとは？サプライチェーンファイナンスの仕組み【2026年】\",\"description\":\"リバースファクタリングとは？サプライチェーンファイナンスの仕組み【2026年】。リバースファクタリング, サプライチェーンファイナンス, SCFについて詳しく解説します。\",\"datePublished\":\"2026-05-21T08:45:34.855Z\",\"dateModified\":\"2026-05-21T08:45:34.871Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-reverse\"}}"}}]
+c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"リバースファクタリングは違法ではない?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"完全に合法。むしろ大手企業のCSR・ESG取組として推奨されています。\"}},{\"@type\":\"Question\",\"name\":\"中小企業から導入を提案できる?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"困難ですが、業界団体経由で大手企業に働きかけることは可能です。\"}},{\"@type\":\"Question\",\"name\":\"個人事業主は利用できる?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"通常は法人のみ対象。個人事業主は[通常のファクタリング](/articles/article-factoring-kojin-jigyonushi/)を利用。\"}},{\"@type\":\"Question\",\"name\":\"海外取引先のリバースファクタリングは?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"国際SCFプラットフォーム経由で可能。詳しくは[国際ファクタリング](/articles/article-factoring-kokusai/)を参照。\"}},{\"@type\":\"Question\",\"name\":\"リバースファクタリング利用は信用情報に影響?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"信用情報には載りません。仕入先・購買企業ともに通常の取引扱い。\"}}]}"}}]
+d:["$","script","script-0",{"src":"/_next/static/chunks/0h3yp.j7smyx9.js","async":true}]
+e:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+f:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリングとは"}]
+10:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【図解でわかる】ファクタリングとは？仕組み・手数料・メリットデメリットを初心者向けに完全解説"}]
+11:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+12:["$","span",null,{"className":"text-gray-700","children":"|"}]
+13:["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
+14:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+17:null

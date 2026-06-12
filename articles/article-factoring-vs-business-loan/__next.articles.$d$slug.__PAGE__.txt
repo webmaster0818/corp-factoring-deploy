@@ -1,0 +1,118 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/0h3yp.j7smyx9.js"],"Header"]
+3:I[22016,["/_next/static/chunks/0h3yp.j7smyx9.js"],""]
+16:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0ybvjkuftw1j4.js"],"OutletBoundary"]
+17:"$Sreact.suspense"
+:HL["/images/articles/kojin-jigyonushi.jpg","image"]
+:HL["/images/logo.png","image"]
+4:T1363,<p>資金調達の選択肢として、ファクタリングとビジネスローンは似て非なる二つの方法です。両者の本質的違いは『売却 vs 貸付』にあり、適切な選択は事業状況によって変わります。本記事で両者を徹底比較し、選択基準を解説します。</p>
+<hr>
+<h2>本質的な違い: 売却 vs 貸付</h2>
+<p><strong>ファクタリング:</strong></p>
+<ul>
+<li>売掛金を業者に売却する『売却契約』</li>
+<li>返済義務なし、債務にならない</li>
+<li>売掛金の所有権が業者に移転</li>
+</ul>
+<p><strong>ビジネスローン:</strong></p>
+<ul>
+<li>業者から事業者への『貸付契約』</li>
+<li>返済義務あり、債務として記録</li>
+<li>利息支払いが発生</li>
+</ul>
+<p><strong>会計上の影響:</strong></p>
+<ul>
+<li>ファクタリング: 売掛金減少 + 現金増加 + 売却損計上(BS 上の負債増加なし)</li>
+<li>ビジネスローン: 現金増加 + 借入金として負債計上</li>
+</ul>
+<h2>審査基準の違い</h2>
+<p>| 観点 | ファクタリング | ビジネスローン |
+|---|---|---|
+| 主な審査対象 | 売掛先の信用力 | 申込者の信用力 |
+| 申込者の業歴 | 1 年未満も可 | 通常 1〜2 年以上 |
+| 売上規模 | 売掛金次第 | 一定以上必要 |
+| 信用情報 | 影響なし | 大きく影響 |
+| 担保 / 保証人 | 不要 | 必要な場合あり |
+| 個人事業主 | 対応 | 一部対応 |</p>
+<h2>入金スピードの比較</h2>
+<p>| 観点 | ファクタリング | ビジネスローン |
+|---|---|---|
+| 申込から入金 | 最短 60 分 | 2〜7 日 |
+| 即日入金 | 可能 | 困難(一部対応) |
+| 必要書類 | 4〜6 点 | 5〜10 点 |
+| 審査時間 | 数時間〜半日 | 1〜3 日 |</p>
+<p><strong>結論:</strong> スピード重視ならファクタリング。</p>
+<h2>コストの比較</h2>
+<p><strong>ファクタリングの手数料:</strong></p>
+<ul>
+<li>2 社間: 5〜20%</li>
+<li>3 社間: 2〜9%</li>
+<li>1 回限りの売却損</li>
+</ul>
+<p><strong>ビジネスローンの利息:</strong></p>
+<ul>
+<li>年率 3〜18% (年利)</li>
+<li>返済期間中継続的に支払い</li>
+</ul>
+<p><strong>実質コスト比較例(100 万円調達):</strong></p>
+<ul>
+<li>ファクタリング: 手数料 10 万円(売却損)</li>
+<li>ビジネスローン(1 年返済、年率 15%): 利息合計 約 8 万円
+→ 短期(1 年以内)ならファクタリング、長期ならビジネスローンが有利</li>
+</ul>
+<h2>選択基準: どちらを選ぶべきか</h2>
+<p><strong>ファクタリングを選ぶべき場合:</strong></p>
+<ol>
+<li><strong>緊急の資金が必要(即日入金)</strong></li>
+<li><strong>売上は十分あるが信用情報に不安</strong></li>
+<li><strong>負債を増やしたくない</strong></li>
+<li><strong>個人事業主・小規模法人</strong></li>
+<li><strong>税効果(損金算入)を即時に得たい</strong></li>
+</ol>
+<p><strong>ビジネスローンを選ぶべき場合:</strong></p>
+<ol>
+<li><strong>長期の運転資金が必要</strong></li>
+<li><strong>売掛金が少なく、信用情報が良好</strong></li>
+<li><strong>大口資金(数千万円〜)が必要</strong></li>
+<li><strong>計画的な返済が可能</strong></li>
+<li><strong>利息の損金算入を活用したい</strong></li>
+</ol>
+<hr>
+<h2>よくある質問</h2>
+<p><strong>Q: ファクタリングとビジネスローンを両方使える？</strong>
+A: 可能。それぞれ異なる資金調達方法で、併用に法的問題なし。</p>
+<p><strong>Q: どちらが審査ハードル低い？</strong>
+A: ファクタリング。売掛先の信用力が中心の審査で、申込者の信用情報は影響しない。</p>
+<p><strong>Q: コスト的にはどちらが安い？</strong>
+A: 短期 (1 年未満) ならファクタリングが安い場合あり。長期(1 年超)はビジネスローンが安いことが多い。</p>
+<p><strong>Q: ビジネスローンの返済が困難でもファクタリングできる？</strong>
+A: 可能。ビジネスローンの返済状況に関係なく、売掛金があればファクタリング可能。</p>
+<p><strong>Q: どちらが信用情報に影響する？</strong>
+A: ビジネスローンが影響する。ファクタリングは信用情報に記録されない。</p>
+<p><strong>Q: 緊急時はファクタリング、計画的調達はビジネスローン？</strong>
+A: 概ねその通り。ただし事業状況・売掛金有無・信用情報の状態により変わる。</p>
+<hr>
+<h2>関連記事</h2>
+<ul>
+<li><a href="/articles/article-factoring-vs-ginkou">ファクタリング 銀行融資 違い</a></li>
+<li><a href="/articles/article-factoring-vs-tegata">ファクタリング 手形割引 違い</a></li>
+<li><a href="/articles/article-factoring-shinyou-jouhou">ファクタリング 信用情報 載らない</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/hikaku","className":"hover:text-gray-700 transition","children":"比較・おすすめ"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングとビジネスローンの違い｜どちらを選ぶべきか徹底","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"ファクタリングとビジネスローンの違い｜どちらを選ぶべきか徹底比較","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングとビジネスローンの違い｜どちらを選ぶべきか徹底比較"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング ビジネスローン 違い"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La","$Lb","$Lc"]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pgHf1V_ICA1l1wBQe8PUU"}
+5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.8]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",2,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.7]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",1,"%〜",14.8,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":[["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}],["$","span",null,{"className":"text-xs font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded","children":["★ ",4.6]}]]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ",0.5,"%〜",12,"% ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
+7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-vs-ginkou",{"href":"/articles/article-factoring-vs-ginkou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 銀行融資 違い, ファクタリング 融資 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングと銀行融資の違いを徹底比較｜どちらを選ぶべきか判断基準まとめ【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-vs-yuushi",{"href":"/articles/article-factoring-vs-yuushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 銀行融資 違い, ファクタリング 融資 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングと銀行融資の違い｜どっちが得？状況別の使い分けガイド"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-vs-abl",{"href":"/articles/article-factoring-vs-abl","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング ABL 違い, ABL 資産担保融資 とは"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングとABLの違いを徹底比較｜どちらが自社に合うか判断ガイド【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-vs-densai",{"href":"/articles/article-factoring-vs-densai","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング でんさい 違い, 電子記録債権 ファクタリング 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングとでんさいの違いを徹底比較｜どちらが企業に向いているか【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-vs-tegata",{"href":"/articles/article-factoring-vs-tegata","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 手形割引 違い, 手形割引 ファクタリング 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングと手形割引の違いを徹底比較｜どちらを選ぶべきか【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-vs-genkinka",{"href":"/articles/article-factoring-vs-genkinka","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$Lf","$L10","$L11"]}]]}]]}]
+8:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/hikaku","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["比較・おすすめ","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+9:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人向けファクタリングサービスを徹底比較。手数料・審査・入金スピードを元に、あなたに最適な1社を見つけるお手伝いをします。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#about","className":"text-gray-400 hover:text-white transition","children":"運営情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"ご不明な点やご質問がございましたら、お気軽にお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],["$","span",null,{"className":"text-gray-700","children":"|"}],["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}],"$L12","$L13"]}]}],"$L14"]}]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"比較・おすすめ\",\"item\":\"https://corp-factoring.com/topics/hikaku\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ファクタリングとビジネスローンの違い｜どちらを選ぶべきか徹底比較\",\"item\":\"https://corp-factoring.com/articles/article-factoring-vs-business-loan\"}]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングとビジネスローンの違い｜どちらを選ぶべきか徹底比較\",\"description\":\"ファクタリングとビジネスローンの違い｜どちらを選ぶべきか徹底比較。ファクタリング ビジネスローン 違いについて詳しく解説します。\",\"datePublished\":\"2026-06-05T12:29:10.771Z\",\"dateModified\":\"2026-06-05T12:29:10.771Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-vs-business-loan\"}}"}}]
+15:T703,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ファクタリングとビジネスローンを両方使える？","acceptedAnswer":{"@type":"Answer","text":"可能。それぞれ異なる資金調達方法で、併用に法的問題なし。"}},{"@type":"Question","name":"どちらが審査ハードル低い？","acceptedAnswer":{"@type":"Answer","text":"ファクタリング。売掛先の信用力が中心の審査で、申込者の信用情報は影響しない。"}},{"@type":"Question","name":"コスト的にはどちらが安い？","acceptedAnswer":{"@type":"Answer","text":"短期 (1 年未満) ならファクタリングが安い場合あり。長期(1 年超)はビジネスローンが安いことが多い。"}},{"@type":"Question","name":"ビジネスローンの返済が困難でもファクタリングできる？","acceptedAnswer":{"@type":"Answer","text":"可能。ビジネスローンの返済状況に関係なく、売掛金があればファクタリング可能。"}},{"@type":"Question","name":"どちらが信用情報に影響する？","acceptedAnswer":{"@type":"Answer","text":"ビジネスローンが影響する。ファクタリングは信用情報に記録されない。"}},{"@type":"Question","name":"緊急時はファクタリング、計画的調達はビジネスローン？","acceptedAnswer":{"@type":"Answer","text":"概ねその通り。ただし事業状況・売掛金有無・信用情報の状態により変わる。 --- - [ファクタリング 銀行融資 違い](/articles/article-factoring-vs-ginkou) - [ファクタリング 手形割引 違い](/articles/article-factoring-vs-tegata) - [ファクタリング 信用情報 載らない](/articles/article-factoring-shinyou-jouhou)"}}]}c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$15"}}]
+d:["$","script","script-0",{"src":"/_next/static/chunks/0h3yp.j7smyx9.js","async":true}]
+e:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
+f:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング クレジットカード現金化 違い"}]
+10:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングとクレジットカード現金化の違い｜違法現金化との明確な線引き"}]
+11:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+12:["$","span",null,{"className":"text-gray-700","children":"|"}]
+13:["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
+14:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+18:null
