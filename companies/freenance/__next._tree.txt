@@ -1,3 +1,3 @@
 :HL["/_next/static/chunks/0~fd2c2kvi.a9.css","style"]
 :HL["/images/logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"companies","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"freenance","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"5KXPVk0vW1Wm4ILcngkiu"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"companies","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"freenance","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"NmLCunPiSLFHmV_R2s1lT"}
