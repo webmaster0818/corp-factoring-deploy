@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/1072wnb.100vu.css","style"]
+:HL["/_next/static/chunks/0vq~nvg_c-ws1.css","style"]
 :HL["/images/articles/kojin-jigyonushi.jpg","image"]
 :HL["/images/logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"article-business-loan-kojin","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"WK4hutVljOvlIFOBNnVI1"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"article-business-loan-kojin","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"HZrZwvH167YyhiytV6t64"}
