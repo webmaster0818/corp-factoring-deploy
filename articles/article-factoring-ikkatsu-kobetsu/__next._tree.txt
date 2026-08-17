@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0bke8a1_kjl~g.css","style"]
+:HL["/_next/static/chunks/0ghw5bse42llv.css","style"]
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"article-factoring-ikkatsu-kobetsu","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"IrJ1scmn1lv6-YjczsDOV"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"article-factoring-ikkatsu-kobetsu","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"kxE8GDGQJWxKMWaN1q_PK"}
