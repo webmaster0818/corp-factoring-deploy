@@ -5,7 +5,7 @@
 17:"$Sreact.suspense"
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo.png","image"]
-4:T3d1c,<p>「ファクタリングって聞いたことはあるけど、結局何なの？」</p>
+4:T41d1,<p>「ファクタリングって聞いたことはあるけど、結局何なの？」</p>
 <p>ファクタリングは、<strong>手持ちの請求書を売って、入金日を待たずに現金を受け取れるサービス</strong>です。借金ではないので、信用情報にも影響しません。</p>
 <p>この記事では、ファクタリングの仕組み・手数料・メリット・デメリットを<strong>図解と具体的な金額例で、初めての方にもわかりやすく</strong>解説します。</p>
 <hr>
@@ -40,13 +40,36 @@
 <li>あなたがファクタリング会社に送金</li>
 </ol>
 <p><strong>ポイント:</strong> 売掛先（A社）にはファクタリング利用を知らされない。取引関係に影響なし。</p>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 8〜18% |
-| スピード | 最短即日 |
-| 売掛先への通知 | なし |
-| メリット | バレない・早い |
-| デメリット | 手数料が高い |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>8〜18%</td>
+</tr>
+<tr>
+<td>スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>売掛先への通知</td>
+<td>なし</td>
+</tr>
+<tr>
+<td>メリット</td>
+<td>バレない・早い</td>
+</tr>
+<tr>
+<td>デメリット</td>
+<td>手数料が高い</td>
+</tr>
+</tbody>
+</table>
 <h3>3社間ファクタリング（手数料が安い）</h3>
 <p><strong>登場人物:</strong> あなた ＋ ファクタリング会社 ＋ 売掛先（3者）</p>
 <p><strong>流れ:</strong></p>
@@ -58,28 +81,85 @@
 <li>入金日に売掛先がファクタリング会社に直接支払い</li>
 </ol>
 <p><strong>ポイント:</strong> 売掛先の承諾が必要なため、ファクタリング利用が取引先に知られる。</p>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2〜9% |
-| スピード | 数日〜1週間 |
-| 売掛先への通知 | あり |
-| メリット | 手数料が安い |
-| デメリット | 取引先に知られる・時間がかかる |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2〜9%</td>
+</tr>
+<tr>
+<td>スピード</td>
+<td>数日〜1週間</td>
+</tr>
+<tr>
+<td>売掛先への通知</td>
+<td>あり</td>
+</tr>
+<tr>
+<td>メリット</td>
+<td>手数料が安い</td>
+</tr>
+<tr>
+<td>デメリット</td>
+<td>取引先に知られる・時間がかかる</td>
+</tr>
+</tbody>
+</table>
 <h3>どちらを選ぶべき？</h3>
-<p>| あなたの状況 | おすすめ |
-|------------|---------|
-| 取引先にバレたくない | 2社間 |
-| できるだけ手数料を抑えたい | 3社間 |
-| 今日中に現金が必要 | 2社間 |
-| 取引先が大企業で理解がある | 3社間 |</p>
+<table>
+<thead>
+<tr>
+<th>あなたの状況</th>
+<th>おすすめ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>取引先にバレたくない</td>
+<td>2社間</td>
+</tr>
+<tr>
+<td>できるだけ手数料を抑えたい</td>
+<td>3社間</td>
+</tr>
+<tr>
+<td>今日中に現金が必要</td>
+<td>2社間</td>
+</tr>
+<tr>
+<td>取引先が大企業で理解がある</td>
+<td>3社間</td>
+</tr>
+</tbody>
+</table>
 <p><strong>迷ったら2社間を選ぶ方が無難です。</strong> 取引先との関係を保ちながら資金調達できます。</p>
 <hr>
 <h2>ファクタリングの手数料</h2>
 <h3>手数料の相場</h3>
-<p>| 形態 | 手数料相場 |
-|------|----------|
-| 2社間 | 8〜18% |
-| 3社間 | 2〜9% |</p>
+<table>
+<thead>
+<tr>
+<th>形態</th>
+<th>手数料相場</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2社間</td>
+<td>8〜18%</td>
+</tr>
+<tr>
+<td>3社間</td>
+<td>2〜9%</td>
+</tr>
+</tbody>
+</table>
 <h3>手数料が決まる要素</h3>
 <ol>
 <li><strong>売掛先の信用力:</strong> 大企業・上場企業なら低い</li>
@@ -90,11 +170,36 @@
 </ol>
 <h3>手数料の具体例</h3>
 <p><strong>100万円の請求書の場合:</strong></p>
-<p>| パターン | 手数料率 | 手数料 | 手取り |
-|---------|---------|--------|--------|
-| 2社間・初回・中小企業宛て | 15% | 15万円 | 85万円 |
-| 2社間・2回目・上場企業宛て | 8% | 8万円 | 92万円 |
-| 3社間・大企業宛て | 3% | 3万円 | 97万円 |</p>
+<table>
+<thead>
+<tr>
+<th>パターン</th>
+<th>手数料率</th>
+<th>手数料</th>
+<th>手取り</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2社間・初回・中小企業宛て</td>
+<td>15%</td>
+<td>15万円</td>
+<td>85万円</td>
+</tr>
+<tr>
+<td>2社間・2回目・上場企業宛て</td>
+<td>8%</td>
+<td>8万円</td>
+<td>92万円</td>
+</tr>
+<tr>
+<td>3社間・大企業宛て</td>
+<td>3%</td>
+<td>3万円</td>
+<td>97万円</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>ファクタリングの5つのメリット</h2>
 <h3>1. 最短即日で現金化できる</h3>
@@ -140,14 +245,47 @@
 <p>契約完了後、指定口座に振込。最短即日。</p>
 <hr>
 <h2>ファクタリングの種類一覧</h2>
-<p>| 種類 | 内容 | 対象 |
-|------|------|------|
-| <strong>買取型</strong> | 売掛金を売却して現金化 | 一般企業・個人事業主 |
-| <strong>保証型</strong> | 売掛金の未回収リスクを保証 | 取引先の与信管理 |
-| <strong>診療報酬ファクタリング</strong> | 診療報酬債権を現金化 | 医療機関 |
-| <strong>介護報酬ファクタリング</strong> | 介護報酬債権を現金化 | 介護施設 |
-| <strong>注文書ファクタリング</strong> | 受注段階で現金化（納品前） | 建設業等 |
-| <strong>国際ファクタリング</strong> | 海外取引の売掛金を現金化 | 貿易業 |</p>
+<table>
+<thead>
+<tr>
+<th>種類</th>
+<th>内容</th>
+<th>対象</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>買取型</strong></td>
+<td>売掛金を売却して現金化</td>
+<td>一般企業・個人事業主</td>
+</tr>
+<tr>
+<td><strong>保証型</strong></td>
+<td>売掛金の未回収リスクを保証</td>
+<td>取引先の与信管理</td>
+</tr>
+<tr>
+<td><strong>診療報酬ファクタリング</strong></td>
+<td>診療報酬債権を現金化</td>
+<td>医療機関</td>
+</tr>
+<tr>
+<td><strong>介護報酬ファクタリング</strong></td>
+<td>介護報酬債権を現金化</td>
+<td>介護施設</td>
+</tr>
+<tr>
+<td><strong>注文書ファクタリング</strong></td>
+<td>受注段階で現金化（納品前）</td>
+<td>建設業等</td>
+</tr>
+<tr>
+<td><strong>国際ファクタリング</strong></td>
+<td>海外取引の売掛金を現金化</td>
+<td>貿易業</td>
+</tr>
+</tbody>
+</table>
 <p>本記事で主に解説しているのは<strong>買取型ファクタリング</strong>です。最も一般的で、個人事業主やフリーランスが利用するのはほぼこのタイプです。</p>
 <hr>
 <h2>ファクタリングを使うべき人・使わない方がいい人</h2>
@@ -168,13 +306,54 @@
 </ul>
 <hr>
 <h2>おすすめのファクタリング会社TOP5</h2>
-<p>| 順位 | サービス | 手数料 | 最短入金 | 特徴 |
-|------|---------|--------|---------|------|
-| 1 | ビートレーディング | 2%〜 | 2時間 | 累計91,000社の実績No.1 |
-| 2 | QuQuMo | 1%〜 | 2時間 | 手数料最安・書類2点のみ |
-| 3 | ペイトナー | 10%固定 | 即日 | 1万円〜・個人宛て対応 |
-| 4 | ラボル | 10%固定 | 30分 | 24時間365日入金対応 |
-| 5 | 日本中小企業金融サポート機構 | 1.5〜10% | 3時間 | 非営利で安心・上限明示 |</p>
+<table>
+<thead>
+<tr>
+<th>順位</th>
+<th>サービス</th>
+<th>手数料</th>
+<th>最短入金</th>
+<th>特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>ビートレーディング</td>
+<td>2%〜</td>
+<td>2時間</td>
+<td>累計91,000社の実績No.1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>QuQuMo</td>
+<td>1%〜</td>
+<td>2時間</td>
+<td>手数料最安・書類2点のみ</td>
+</tr>
+<tr>
+<td>3</td>
+<td>ペイトナー</td>
+<td>10%固定</td>
+<td>即日</td>
+<td>1万円〜・個人宛て対応</td>
+</tr>
+<tr>
+<td>4</td>
+<td>ラボル</td>
+<td>10%固定</td>
+<td>30分</td>
+<td>24時間365日入金対応</td>
+</tr>
+<tr>
+<td>5</td>
+<td>日本中小企業金融サポート機構</td>
+<td>1.5〜10%</td>
+<td>3時間</td>
+<td>非営利で安心・上限明示</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>よくある質問</h2>
 <h3>Q. ファクタリングと借金の違いは？</h3>
@@ -215,7 +394,7 @@
 <blockquote>
 <p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
 </blockquote>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["【図解でわかる】ファクタリングとは？仕組み・手数料・メリット","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"【図解でわかる】ファクタリングとは？仕組み・手数料・メリットデメリットを初心者向けに完全解説","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【図解でわかる】ファクタリングとは？仕組み・手数料・メリットデメリットを初心者向けに完全解説"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリングとは"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sjYMfYV6eCgRTWxyE9Hpe"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["【図解でわかる】ファクタリングとは？仕組み・手数料・メリット","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"【図解でわかる】ファクタリングとは？仕組み・手数料・メリットデメリットを初心者向けに完全解説","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【図解でわかる】ファクタリングとは？仕組み・手数料・メリットデメリットを初心者向けに完全解説"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリングとは"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gyxC-q0-FfdF7_CHUutPw"}
 5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社ページでは、公式サイトで確認した手数料・入金スピード・会社概要（確認日つき）と、口コミの出典をまとめています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","support-kinyu",{"children":["$","$L3",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":["日本中小企業金融サポート機構","の口コミ・評判・手数料 →"]}]}],["$","li","freenance",{"children":["$","$L3",null,{"href":"/companies/freenance/","className":"text-blue-600 hover:underline","children":["FREENANCE","の口コミ・評判・手数料 →"]}]}]]}]]}]
 6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","freenance",{"href":"/companies/freenance","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"FREENANCE"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","3%〜10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","minna-factoring",{"href":"/companies/minna-factoring","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"みんなのファクタリング"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","3%〜15%"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","jtc",{"href":"/companies/jtc","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"JTC"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1.2%〜10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]

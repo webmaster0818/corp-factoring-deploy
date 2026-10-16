@@ -5,20 +5,57 @@
 17:"$Sreact.suspense"
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo.png","image"]
-4:T3546,<p>「ファクタリングを使いたいけど、来店する時間がない」「営業担当者に会うのが億劫だ」——そんな方に最適なのがオンラインファクタリングです。</p>
+4:T3c3f,<p>「ファクタリングを使いたいけど、来店する時間がない」「営業担当者に会うのが億劫だ」——そんな方に最適なのがオンラインファクタリングです。</p>
 <p>スマートフォンやパソコンから申込み、書類もアップロード、契約も電子署名でWEB完結。来店不要で最短2時間の入金が実現できます。この記事では、オンラインファクタリングのメリット・デメリットと、おすすめ7社を徹底比較します。</p>
 <hr>
 <h2>オンラインファクタリングとは？</h2>
 <h3>来店型ファクタリングとの違い</h3>
-<p>| 比較項目 | オンラインファクタリング | 来店型ファクタリング |
-|---------|---------------------|------------------|
-| 申込方法 | WEBフォーム・スマホ | 対面・電話 |
-| 書類提出 | ファイルアップロード | 郵送・FAX・持参 |
-| 契約方式 | 電子契約（クラウドサイン等） | 紙の契約書・押印 |
-| 入金スピード | 最短30分〜2時間 | 最短即日〜翌日 |
-| 手数料 | やや安い傾向 | やや高い傾向 |
-| 相談のしやすさ | チャット・メール中心 | 対面で詳しく相談可能 |
-| 対応時間 | 24時間受付可能な場合も | 営業時間内 |</p>
+<table>
+<thead>
+<tr>
+<th>比較項目</th>
+<th>オンラインファクタリング</th>
+<th>来店型ファクタリング</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>申込方法</td>
+<td>WEBフォーム・スマホ</td>
+<td>対面・電話</td>
+</tr>
+<tr>
+<td>書類提出</td>
+<td>ファイルアップロード</td>
+<td>郵送・FAX・持参</td>
+</tr>
+<tr>
+<td>契約方式</td>
+<td>電子契約（クラウドサイン等）</td>
+<td>紙の契約書・押印</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短30分〜2時間</td>
+<td>最短即日〜翌日</td>
+</tr>
+<tr>
+<td>手数料</td>
+<td>やや安い傾向</td>
+<td>やや高い傾向</td>
+</tr>
+<tr>
+<td>相談のしやすさ</td>
+<td>チャット・メール中心</td>
+<td>対面で詳しく相談可能</td>
+</tr>
+<tr>
+<td>対応時間</td>
+<td>24時間受付可能な場合も</td>
+<td>営業時間内</td>
+</tr>
+</tbody>
+</table>
 <h3>オンライン化が可能な理由</h3>
 <p>かつて「審査には対面が必要」とされていたファクタリングがオンライン完結できるようになった背景には：</p>
 <ol>
@@ -56,67 +93,228 @@
 <hr>
 <h2>オンラインファクタリングおすすめ7社</h2>
 <h3>1位：QuQuMo（最高のコストパフォーマンス）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 1%〜（上限非公表） |
-| 入金スピード | <strong>最短2時間</strong> |
-| 必要書類 | 請求書・通帳の<strong>2点のみ</strong> |
-| 完結形式 | <strong>完全オンライン</strong> |
-| 対応金額 | 上限なし |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>1%〜（上限非公表）</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td><strong>最短2時間</strong></td>
+</tr>
+<tr>
+<td>必要書類</td>
+<td>請求書・通帳の<strong>2点のみ</strong></td>
+</tr>
+<tr>
+<td>完結形式</td>
+<td><strong>完全オンライン</strong></td>
+</tr>
+<tr>
+<td>対応金額</td>
+<td>上限なし</td>
+</tr>
+</tbody>
+</table>
 <p><strong>おすすめ理由：</strong> 必要書類が請求書と通帳の2点のみというシンプルさが魅力。完全オンラインで最短2時間入金。手数料1%〜と低水準。追加書類を求められる可能性が少なく、最もシンプルなオンライン申込が可能です。</p>
 <h3>2位：PayToday（最速クラスのAI審査）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 1〜9.5%（上限明示） |
-| 入金スピード | <strong>最短30分</strong> |
-| 審査 | AI自動審査 |
-| 24時間受付 | OK |
-| 対応金額 | 10万円〜上限なし |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>1〜9.5%（上限明示）</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td><strong>最短30分</strong></td>
+</tr>
+<tr>
+<td>審査</td>
+<td>AI自動審査</td>
+</tr>
+<tr>
+<td>24時間受付</td>
+<td>OK</td>
+</tr>
+<tr>
+<td>対応金額</td>
+<td>10万円〜上限なし</td>
+</tr>
+</tbody>
+</table>
 <p><strong>おすすめ理由：</strong> AI審査で最短30分入金。24時間365日申込受付。手数料上限9.5%が保証されており、コスト計算が容易です。</p>
 <h3>3位：アクセルファクター（高い審査通過率）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間1〜12%／3社間0.5〜10.5% |
-| 入金スピード | 最短即日 |
-| 審査通過率 | 93%以上 |
-| 完結形式 | オンライン完結 |
-| 個人事業主 | OK |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>審査通過率</td>
+<td>93%以上</td>
+</tr>
+<tr>
+<td>完結形式</td>
+<td>オンライン完結</td>
+</tr>
+<tr>
+<td>個人事業主</td>
+<td>OK</td>
+</tr>
+</tbody>
+</table>
 <p><strong>おすすめ理由：</strong> 審査通過率93%以上。業界最低水準の手数料は3社間0.5%〜（2社間1%〜）。来店不要のオンライン完結で最短即日入金。</p>
 <h3>4位：ペイトナー（フリーランス向け）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 一律10% |
-| 入金スピード | <strong>最短即日</strong> |
-| 受付 | 24時間 |
-| 対応金額 | 1万円〜300万円（初回50万円） |
-| 特徴 | 個人事業主・フリーランス特化 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>一律10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td><strong>最短即日</strong></td>
+</tr>
+<tr>
+<td>受付</td>
+<td>24時間</td>
+</tr>
+<tr>
+<td>対応金額</td>
+<td>1万円〜300万円（初回50万円）</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>個人事業主・フリーランス特化</td>
+</tr>
+</tbody>
+</table>
 <p><strong>おすすめ理由：</strong> 審査後最短即日で入金。1万円から対応の超少額OK。フリーランス・個人事業主に特化した審査で開業直後でも利用可能。</p>
 <h3>5位：ラボル（開業直後でも利用可能）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 一律10% |
-| 入金スピード | 最短30分 |
-| 特徴 | <strong>開業直後・個人間取引OK</strong> |
-| 受付 | 24時間 |
-| 対応金額 | 1万円〜（上限は審査で個別設定） |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>一律10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短30分</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td><strong>開業直後・個人間取引OK</strong></td>
+</tr>
+<tr>
+<td>受付</td>
+<td>24時間</td>
+</tr>
+<tr>
+<td>対応金額</td>
+<td>1万円〜（上限は審査で個別設定）</td>
+</tr>
+</tbody>
+</table>
 <p><strong>おすすめ理由：</strong> 開業直後、業歴なし、個人間取引など、通常審査が困難なケースにも対応。オンライン完結で24時間申込可能。</p>
 <h3>6位：ビートレーディング（大手・高額対応）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間：4〜12%、3社間：2〜9% |
-| 入金スピード | 最短2時間 |
-| 対応金額 | 上限なし（最大7億円実績） |
-| 特徴 | 実績91,000社超 |
-| 完結形式 | オンライン・対面両対応 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間：4〜12%、3社間：2〜9%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td>対応金額</td>
+<td>上限なし（最大7億円実績）</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>実績91,000社超</td>
+</tr>
+<tr>
+<td>完結形式</td>
+<td>オンライン・対面両対応</td>
+</tr>
+</tbody>
+</table>
 <p><strong>おすすめ理由：</strong> 業界最大手のオンライン対応。高額案件もオンラインで対応可能。実績豊富で安心感が高い。</p>
 <h3>7位：みんなのファクタリング（シンプル手続き）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 3〜15% |
-| 入金スピード | 最短2時間 |
-| 完結形式 | オンライン完結 |
-| 個人事業主 | OK |
-| 特徴 | 柔軟な審査 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>3〜15%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td>完結形式</td>
+<td>オンライン完結</td>
+</tr>
+<tr>
+<td>個人事業主</td>
+<td>OK</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>柔軟な審査</td>
+</tr>
+</tbody>
+</table>
 <p><strong>おすすめ理由：</strong> シンプルなオンライン手続きで中小企業・個人事業主に対応。柔軟な審査で審査落ちが不安な方にも。</p>
 <hr>
 <h2>オンラインファクタリングの申込手順</h2>
@@ -153,15 +351,76 @@
 </ul>
 <hr>
 <h2>オンラインファクタリングの比較表</h2>
-<p>| 会社 | 手数料 | 最短入金 | 必要書類 | 個人事業主 | 金額下限 |
-|------|--------|---------|---------|-----------|---------|
-| QuQuMo | 1%〜 | 2時間 | 2点 | OK | なし |
-| PayToday | 1%〜9.5% | 30分 | 2〜3点 | OK | 10万円 |
-| アクセルファクター | 2社間1〜12%／3社間0.5〜10.5% | 即日 | 3点 | OK | 30万円 |
-| ペイトナー | 10%固定 | 即日 | 2点 | OK | 1万円 |
-| ラボル | 10%固定 | 30分 | 2点 | OK | 1万円 |
-| ビートレーディング | 2%〜 | 2時間 | 3〜4点 | OK | なし |
-| みんなのファクタリング | 3%〜 | 2時間 | 3点 | OK | なし |</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>手数料</th>
+<th>最短入金</th>
+<th>必要書類</th>
+<th>個人事業主</th>
+<th>金額下限</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>QuQuMo</td>
+<td>1%〜</td>
+<td>2時間</td>
+<td>2点</td>
+<td>OK</td>
+<td>なし</td>
+</tr>
+<tr>
+<td>PayToday</td>
+<td>1%〜9.5%</td>
+<td>30分</td>
+<td>2〜3点</td>
+<td>OK</td>
+<td>10万円</td>
+</tr>
+<tr>
+<td>アクセルファクター</td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+<td>即日</td>
+<td>3点</td>
+<td>OK</td>
+<td>30万円</td>
+</tr>
+<tr>
+<td>ペイトナー</td>
+<td>10%固定</td>
+<td>即日</td>
+<td>2点</td>
+<td>OK</td>
+<td>1万円</td>
+</tr>
+<tr>
+<td>ラボル</td>
+<td>10%固定</td>
+<td>30分</td>
+<td>2点</td>
+<td>OK</td>
+<td>1万円</td>
+</tr>
+<tr>
+<td>ビートレーディング</td>
+<td>2%〜</td>
+<td>2時間</td>
+<td>3〜4点</td>
+<td>OK</td>
+<td>なし</td>
+</tr>
+<tr>
+<td>みんなのファクタリング</td>
+<td>3%〜</td>
+<td>2時間</td>
+<td>3点</td>
+<td>OK</td>
+<td>なし</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>まとめ</h2>
 <p>オンラインファクタリングは、速さ・コスト・利便性のすべてで来店型を上回るケースが多くなっています。</p>
@@ -201,7 +460,7 @@
 <li><a href="/articles/article-factoring-tesuryo/">ファクタリング手数料の相場と安い会社12選</a></li>
 <li><a href="/articles/article-factoring-keiyaku/">ファクタリングの契約の流れと注意点</a></li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/hikaku","className":"hover:text-gray-700 transition","children":"比較・おすすめ"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["オンラインファクタリングおすすめ7選｜来店不要・WEB完結で","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"オンラインファクタリングおすすめ7選｜来店不要・WEB完結で即日入金","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"オンラインファクタリングおすすめ7選｜来店不要・WEB完結で即日入金"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"オンラインファクタリング おすすめ, WEB完結 ファクタリング"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sjYMfYV6eCgRTWxyE9Hpe"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/hikaku","className":"hover:text-gray-700 transition","children":"比較・おすすめ"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["オンラインファクタリングおすすめ7選｜来店不要・WEB完結で","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"オンラインファクタリングおすすめ7選｜来店不要・WEB完結で即日入金","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"オンラインファクタリングおすすめ7選｜来店不要・WEB完結で即日入金"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"オンラインファクタリング おすすめ, WEB完結 ファクタリング"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gyxC-q0-FfdF7_CHUutPw"}
 5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社ページでは、公式サイトで確認した手数料・入金スピード・会社概要（確認日つき）と、口コミの出典をまとめています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","accel-factor",{"children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":["アクセルファクター","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","paytoday",{"children":["$","$L3",null,{"href":"/companies/paytoday/","className":"text-blue-600 hover:underline","children":["PayToday","の口コミ・評判・手数料 →"]}]}],["$","li","minna-factoring",{"children":["$","$L3",null,{"href":"/companies/minna-factoring/","className":"text-blue-600 hover:underline","children":["みんなのファクタリング","の口コミ・評判・手数料 →"]}]}]]}]]}]
 6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","yen-today",{"href":"/companies/yen-today","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"¥Today（エントゥデイ）"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短30分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ebank",{"href":"/companies/ebank","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"いーばんく（アクシアプラス）"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","4%〜（上限は要問い合わせ）"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","invoice-factor",{"href":"/companies/invoice-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"インボイスファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","0.5%〜（上限は要問い合わせ）"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]

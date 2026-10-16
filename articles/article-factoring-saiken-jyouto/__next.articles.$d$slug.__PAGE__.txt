@@ -5,7 +5,7 @@
 17:"$Sreact.suspense"
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo.png","image"]
-4:T2985,<p>「債権譲渡登記って何？費用はかかるの？」</p>
+4:T2af7,<p>「債権譲渡登記って何？費用はかかるの？」</p>
 <p>ファクタリングの見積もりを取ったら「債権譲渡登記が必要です」と言われた——そんな経験はありませんか。聞き慣れない言葉に戸惑うかもしれませんが、仕組みを理解すれば難しくありません。</p>
 <p>この記事では、債権譲渡登記の仕組み・費用・必要になるケースと不要なケースを解説し、登記なしで利用できるファクタリング会社もご紹介します。</p>
 <hr>
@@ -23,12 +23,32 @@
 <hr>
 <h2>債権譲渡登記の費用</h2>
 <p>債権譲渡登記にかかる費用は、主に以下の3つです。</p>
-<p>| 費目 | 金額の目安 |
-|------|----------|
-| <strong>登録免許税</strong> | 1件につき7,500円（債権個数5,000個以下の場合） |
-| <strong>司法書士報酬</strong> | 30,000〜50,000円 |
-| <strong>登記事項証明書</strong> | 500円程度 |
-| <strong>合計</strong> | 約40,000〜60,000円 |</p>
+<table>
+<thead>
+<tr>
+<th>費目</th>
+<th>金額の目安</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>登録免許税</strong></td>
+<td>1件につき7,500円（債権個数5,000個以下の場合）</td>
+</tr>
+<tr>
+<td><strong>司法書士報酬</strong></td>
+<td>30,000〜50,000円</td>
+</tr>
+<tr>
+<td><strong>登記事項証明書</strong></td>
+<td>500円程度</td>
+</tr>
+<tr>
+<td><strong>合計</strong></td>
+<td>約40,000〜60,000円</td>
+</tr>
+</tbody>
+</table>
 <h3>費用負担は誰がする？</h3>
 <p><strong>原則として利用者（あなた）の負担</strong>です。ファクタリング会社が負担するケースはほとんどありません。</p>
 <p>つまり、手数料10%のファクタリングに加えて登記費用が4〜6万円かかるということです。100万円のファクタリングで手数料10万円＋登記費用5万円なら、実質的なコストは15万円（15%）になります。</p>
@@ -53,13 +73,48 @@
 <hr>
 <h2>登記なしで利用できるファクタリング会社</h2>
 <p>債権譲渡登記なしで利用できる主なファクタリング会社は以下のとおりです。</p>
-<p>| サービス | 手数料 | 登記 | 特徴 |
-|---------|--------|------|------|
-| <strong>ペイトナー</strong> | 10%固定 | 不要 | 個人事業主向け。最短即日入金 |
-| <strong>ラボル</strong> | 10%固定 | 不要 | 24時間365日対応 |
-| <strong>QuQuMo</strong> | 1%〜 | 不要 | オンライン完結。登記費用ゼロ |
-| <strong>OLTA</strong> | 2〜9% | 不要 | 手数料以外のコストなし |
-| <strong>PAYTODAY</strong> | 1〜9.5% | 不要 | AI審査で最短30分 |</p>
+<table>
+<thead>
+<tr>
+<th>サービス</th>
+<th>手数料</th>
+<th>登記</th>
+<th>特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ペイトナー</strong></td>
+<td>10%固定</td>
+<td>不要</td>
+<td>個人事業主向け。最短即日入金</td>
+</tr>
+<tr>
+<td><strong>ラボル</strong></td>
+<td>10%固定</td>
+<td>不要</td>
+<td>24時間365日対応</td>
+</tr>
+<tr>
+<td><strong>QuQuMo</strong></td>
+<td>1%〜</td>
+<td>不要</td>
+<td>オンライン完結。登記費用ゼロ</td>
+</tr>
+<tr>
+<td><strong>OLTA</strong></td>
+<td>2〜9%</td>
+<td>不要</td>
+<td>手数料以外のコストなし</td>
+</tr>
+<tr>
+<td><strong>PAYTODAY</strong></td>
+<td>1〜9.5%</td>
+<td>不要</td>
+<td>AI審査で最短30分</td>
+</tr>
+</tbody>
+</table>
 <p>これらの会社は、登記の代わりに独自のリスク管理手法（AI審査・取引データ分析等）で二重譲渡リスクを管理しています。</p>
 <hr>
 <h2>債権譲渡登記のメリット・デメリット</h2>
@@ -103,7 +158,7 @@
 <blockquote>
 <p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
 </blockquote>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングの債権譲渡登記とは？必要な場合と不要な場合を解","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングの債権譲渡登記とは？必要な場合と不要な場合を解説","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングの債権譲渡登記とは？必要な場合と不要な場合を解説"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 債権譲渡登記, 債権譲渡登記"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sjYMfYV6eCgRTWxyE9Hpe"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングの債権譲渡登記とは？必要な場合と不要な場合を解","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングの債権譲渡登記とは？必要な場合と不要な場合を解説","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングの債権譲渡登記とは？必要な場合と不要な場合を解説"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 債権譲渡登記, 債権譲渡登記"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gyxC-q0-FfdF7_CHUutPw"}
 5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社ページでは、公式サイトで確認した手数料・入金スピード・会社概要（確認日つき）と、口コミの出典をまとめています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}]]}]]}]
 6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","mentor-capital",{"href":"/companies/mentor-capital","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"メンターキャピタル"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ennavi",{"href":"/companies/ennavi","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"えんナビ"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","5%〜20%"," ／ ","最短1日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","freenance",{"href":"/companies/freenance","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"FREENANCE"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","3%〜10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]

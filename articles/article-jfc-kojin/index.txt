@@ -6,14 +6,14 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-jfc-kojin",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-jfc-kojin","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-jfc-kojin",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-jfc-kojin","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/kojin-jigyonushi.jpg","image"]
-11:T3d96,<p>「日本政策金融公庫って個人事業主でも借りられるの？」</p>
+11:T4641,<p>「日本政策金融公庫って個人事業主でも借りられるの？」</p>
 <p><strong>はい、借りられます。</strong> しかも、民間の銀行融資やビジネスローンと比べて**圧倒的に低金利（年0.3%〜3%）**で、<strong>無担保・無保証人</strong>で利用できる制度もあります。</p>
 <p>日本政策金融公庫は、<strong><a href="/articles/article-kojin-shikin-chotatsu/">個人事業主の資金調達</a>で最初に検討すべき金融機関</strong>です。</p>
 <p>この記事では、日本政策金融公庫の融資制度・審査基準・必要書類・申込手順を、<strong>開業ステージ別にわかりやすく解説</strong>します。</p>
@@ -21,26 +21,85 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <h2>日本政策金融公庫とは？</h2>
 <p>日本政策金融公庫（略称: 日本公庫・JFC）は、<strong>政府が100%出資する政策金融機関</strong>です。民間金融機関では対応が難しい創業者や中小企業・個人事業主への融資を専門に行っています。</p>
 <p><strong>民間銀行との違い:</strong></p>
-<p>| 項目 | 日本政策金融公庫 | 民間銀行 |
-|------|--------------|--------|
-| 金利 | 年0.3〜3.0% | 年1〜4% |
-| 審査の難易度 | 中（創業者に寛容） | 高（実績重視） |
-| 担保・保証人 | 原則不要の制度あり | 必要な場合が多い |
-| 審査期間 | 2〜3週間 | 2〜4週間 |
-| 開業前の融資 | 可能 | ほぼ不可能 |
-| 赤字への対応 | 柔軟 | 厳しい |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>日本政策金融公庫</th>
+<th>民間銀行</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>金利</td>
+<td>年0.3〜3.0%</td>
+<td>年1〜4%</td>
+</tr>
+<tr>
+<td>審査の難易度</td>
+<td>中（創業者に寛容）</td>
+<td>高（実績重視）</td>
+</tr>
+<tr>
+<td>担保・保証人</td>
+<td>原則不要の制度あり</td>
+<td>必要な場合が多い</td>
+</tr>
+<tr>
+<td>審査期間</td>
+<td>2〜3週間</td>
+<td>2〜4週間</td>
+</tr>
+<tr>
+<td>開業前の融資</td>
+<td>可能</td>
+<td>ほぼ不可能</td>
+</tr>
+<tr>
+<td>赤字への対応</td>
+<td>柔軟</td>
+<td>厳しい</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>個人事業主が使える融資制度一覧</h2>
 <h3>1. 新規開業・スタートアップ支援資金【開業前〜7年以内】</h3>
 <p>2024年に旧「新創業融資制度」から移行した新制度。開業前でも利用可能。</p>
-<p>| 項目 | 内容 |
-|------|------|
-| 対象 | 新たに事業を始める方、または開業後おおむね7年以内の方 |
-| 融資限度額 | <strong>7,200万円</strong>（うち運転資金4,800万円） |
-| 金利 | 基準利率（年0.3%〜3.0%程度） |
-| 返済期間 | 設備資金20年以内 / 運転資金10年以内 |
-| 担保・保証人 | <strong>原則不要</strong> |
-| 自己資金要件 | <strong>撤廃（2024年〜）</strong> ただし、あった方が審査に有利 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>対象</td>
+<td>新たに事業を始める方、または開業後おおむね7年以内の方</td>
+</tr>
+<tr>
+<td>融資限度額</td>
+<td><strong>7,200万円</strong>（うち運転資金4,800万円）</td>
+</tr>
+<tr>
+<td>金利</td>
+<td>基準利率（年0.3%〜3.0%程度）</td>
+</tr>
+<tr>
+<td>返済期間</td>
+<td>設備資金20年以内 / 運転資金10年以内</td>
+</tr>
+<tr>
+<td>担保・保証人</td>
+<td><strong>原則不要</strong></td>
+</tr>
+<tr>
+<td>自己資金要件</td>
+<td><strong>撤廃（2024年〜）</strong> ただし、あった方が審査に有利</td>
+</tr>
+</tbody>
+</table>
 <p><strong>2024年の制度改正ポイント:</strong></p>
 <ul>
 <li>自己資金要件が撤廃（以前は1/10以上必要だった）</li>
@@ -49,22 +108,68 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </ul>
 <h3>2. 一般貸付【業歴を問わず】</h3>
 <p>最も基本的な融資制度。業歴や業種を問わず幅広く利用可能。</p>
-<p>| 項目 | 内容 |
-|------|------|
-| 対象 | ほとんどの業種の事業者 |
-| 融資限度額 | <strong>4,800万円</strong>（運転資金・設備資金） |
-| 金利 | 基準利率 |
-| 返済期間 | 設備資金10年以内 / 運転資金7年以内 |
-| 担保・保証人 | 応相談 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>対象</td>
+<td>ほとんどの業種の事業者</td>
+</tr>
+<tr>
+<td>融資限度額</td>
+<td><strong>4,800万円</strong>（運転資金・設備資金）</td>
+</tr>
+<tr>
+<td>金利</td>
+<td>基準利率</td>
+</tr>
+<tr>
+<td>返済期間</td>
+<td>設備資金10年以内 / 運転資金7年以内</td>
+</tr>
+<tr>
+<td>担保・保証人</td>
+<td>応相談</td>
+</tr>
+</tbody>
+</table>
 <h3>3. マル経融資（小規模事業者経営改善資金）</h3>
 <p>商工会議所・商工会の推薦を受けて利用する特別融資。</p>
-<p>| 項目 | 内容 |
-|------|------|
-| 対象 | 商工会議所の経営指導を受けている小規模事業者 |
-| 融資限度額 | <strong>2,000万円</strong> |
-| 金利 | <strong>特別利率（基準利率より低い）</strong> |
-| 担保・保証人 | <strong>不要</strong> |
-| 条件 | 業歴1年以上、商工会議所の推薦が必要 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>対象</td>
+<td>商工会議所の経営指導を受けている小規模事業者</td>
+</tr>
+<tr>
+<td>融資限度額</td>
+<td><strong>2,000万円</strong></td>
+</tr>
+<tr>
+<td>金利</td>
+<td><strong>特別利率（基準利率より低い）</strong></td>
+</tr>
+<tr>
+<td>担保・保証人</td>
+<td><strong>不要</strong></td>
+</tr>
+<tr>
+<td>条件</td>
+<td>業歴1年以上、商工会議所の推薦が必要</td>
+</tr>
+</tbody>
+</table>
 <p><strong>メリット:</strong> 金利が最も低い。無担保・無保証人。
 <strong>デメリット:</strong> 商工会議所の推薦が必要（3〜6ヶ月の経営指導を受ける必要あり）。</p>
 <hr>
@@ -120,7 +225,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <li>税金の滞納</li>
 <li>公共料金の未払い</li>
 </ul>
-<p><strong>対策:</strong> 事前にCIC（https://www.cic.co.jp）で自分の信用情報を確認しておきましょう（手数料500円〜1,000円）。</p>
+<p><strong>対策:</strong> 事前にCIC（<a href="https://www.cic.co.jp%EF%BC%89%E3%81%A7%E8%87%AA%E5%88%86%E3%81%AE%E4%BF%A1%E7%94%A8%E6%83%85%E5%A0%B1%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%EF%BC%88%E6%89%8B%E6%95%B0%E6%96%99500%E5%86%86%E3%80%9C1,000%E5%86%86%EF%BC%89%E3%80%82">https://www.cic.co.jp）で自分の信用情報を確認しておきましょう（手数料500円〜1,000円）。</a></p>
 <h3>4. 事業経験</h3>
 <p>融資を受ける業種での経験があると有利です。例えば、飲食店を開業する場合、飲食業界での勤務経験が3年以上あると審査評価が高くなります。</p>
 <h3>5. 資金の使い道の妥当性</h3>
@@ -128,25 +233,25 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>必要書類チェックリスト</h2>
 <h3>全員共通</h3>
-<ul>
-<li>[ ] 借入申込書（日本公庫の所定様式）</li>
-<li>[ ] 本人確認書類（運転免許証・マイナンバーカード）</li>
-<li>[ ] 通帳コピー（直近6ヶ月〜1年分）</li>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> 借入申込書（日本公庫の所定様式）</li>
+<li class="task-list-item"><input type="checkbox" disabled> 本人確認書類（運転免許証・マイナンバーカード）</li>
+<li class="task-list-item"><input type="checkbox" disabled> 通帳コピー（直近6ヶ月〜1年分）</li>
 </ul>
 <h3>新規開業の場合</h3>
-<ul>
-<li>[ ] 創業計画書（日本公庫HPからダウンロード可能）</li>
-<li>[ ] 事業計画書（売上・経費・利益の見通し）</li>
-<li>[ ] 自己資金を確認できる書類</li>
-<li>[ ] 設備投資の見積書（設備資金の場合）</li>
-<li>[ ] 事業関連の資格証明書（あれば）</li>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> 創業計画書（日本公庫HPからダウンロード可能）</li>
+<li class="task-list-item"><input type="checkbox" disabled> 事業計画書（売上・経費・利益の見通し）</li>
+<li class="task-list-item"><input type="checkbox" disabled> 自己資金を確認できる書類</li>
+<li class="task-list-item"><input type="checkbox" disabled> 設備投資の見積書（設備資金の場合）</li>
+<li class="task-list-item"><input type="checkbox" disabled> 事業関連の資格証明書（あれば）</li>
 </ul>
 <h3>開業後の場合</h3>
-<ul>
-<li>[ ] 確定申告書（直近2〜3期分）</li>
-<li>[ ] 企業概要書（日本公庫の所定様式）</li>
-<li>[ ] 決算書（あれば）</li>
-<li>[ ] 試算表（直近のもの）</li>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> 確定申告書（直近2〜3期分）</li>
+<li class="task-list-item"><input type="checkbox" disabled> 企業概要書（日本公庫の所定様式）</li>
+<li class="task-list-item"><input type="checkbox" disabled> 決算書（あれば）</li>
+<li class="task-list-item"><input type="checkbox" disabled> 試算表（直近のもの）</li>
 </ul>
 <hr>
 <h2>申込から入金までの流れ（5ステップ）</h2>
@@ -174,14 +279,40 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p><strong>合計所要期間: 申込から入金まで約3〜4週間</strong></p>
 <hr>
 <h2>審査に落ちる主な理由と対策</h2>
-<p>| 理由 | 対策 |
-|------|------|
-| 事業計画書が曖昧 | 数字の根拠を具体的に記載 |
-| 自己資金が少ない | 最低でも融資額の1/10を貯める |
-| 信用情報に問題あり | 事前にCICで確認・延滞を解消 |
-| 税金を滞納している | 分割納付で解消してから申込 |
-| 資金使途が不明確 | 見積書を添付して具体的に説明 |
-| 事業経験がない | 関連業務の経験・スキルをアピール |</p>
+<table>
+<thead>
+<tr>
+<th>理由</th>
+<th>対策</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>事業計画書が曖昧</td>
+<td>数字の根拠を具体的に記載</td>
+</tr>
+<tr>
+<td>自己資金が少ない</td>
+<td>最低でも融資額の1/10を貯める</td>
+</tr>
+<tr>
+<td>信用情報に問題あり</td>
+<td>事前にCICで確認・延滞を解消</td>
+</tr>
+<tr>
+<td>税金を滞納している</td>
+<td>分割納付で解消してから申込</td>
+</tr>
+<tr>
+<td>資金使途が不明確</td>
+<td>見積書を添付して具体的に説明</td>
+</tr>
+<tr>
+<td>事業経験がない</td>
+<td>関連業務の経験・スキルをアピール</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>審査に落ちた場合の代替策</h2>
 <h3>1. 6ヶ月後に再申請</h3>
@@ -190,11 +321,36 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>地域密着型で、個人事業主への融資に積極的。日本公庫より審査が柔軟な場合もあります。</p>
 <h3>3. <a href="/articles/article-factoring-kojin-jigyonushi/">ファクタリング</a>で当面の資金を確保</h3>
 <p>融資審査を待つ間の「つなぎ資金」としてファクタリングが有効です。</p>
-<p>| サービス | 手数料 | 入金スピード | 特徴 |
-|---------|--------|------------|------|
-| ペイトナー | 10%固定 | 最短即日 | 信用情報に影響なし |
-| QuQuMo | 1%〜 | 最短2時間 | 手数料最安 |
-| ビートレーディング | 2%〜 | 最短2時間 | 累計91,000社実績 |</p>
+<table>
+<thead>
+<tr>
+<th>サービス</th>
+<th>手数料</th>
+<th>入金スピード</th>
+<th>特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ペイトナー</td>
+<td>10%固定</td>
+<td>最短即日</td>
+<td>信用情報に影響なし</td>
+</tr>
+<tr>
+<td>QuQuMo</td>
+<td>1%〜</td>
+<td>最短2時間</td>
+<td>手数料最安</td>
+</tr>
+<tr>
+<td>ビートレーディング</td>
+<td>2%〜</td>
+<td>最短2時間</td>
+<td>累計91,000社実績</td>
+</tr>
+</tbody>
+</table>
 <p><strong>ファクタリングは信用情報に影響しないため、日本公庫の再申請に悪影響を与えません。</strong></p>
 <h3>4. 補助金・助成金を活用</h3>
 <p>返済不要の資金調達。小規模事業者持続化補助金（最大250万円）などが利用可能です。</p>
@@ -233,7 +389,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </ol>
 <p><strong>急ぎの資金が必要な場合は、ファクタリング（最短即日）で当面を凌ぎながら、並行して日本公庫の融資を進めるのが最も賢い戦略です。</strong></p>
 <hr>
-<p><em>この記事は2026年4月時点の情報に基づいています。融資制度・金利は変更される場合がありますので、最新情報は日本政策金融公庫の公式サイト（https://www.jfc.go.jp/）でご確認ください。</em></p>
+<p><em>この記事は2026年4月時点の情報に基づいています。融資制度・金利は変更される場合がありますので、最新情報は日本政策金融公庫の公式サイト（<a href="https://www.jfc.go.jp/%EF%BC%89%E3%81%A7%E3%81%94%E7%A2%BA%E8%AA%8D%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82">https://www.jfc.go.jp/）でご確認ください。</a></em></p>
 <hr>
 <h2>関連記事</h2>
 <p>この記事を読んだ方は、以下の記事もよく読まれています。</p>

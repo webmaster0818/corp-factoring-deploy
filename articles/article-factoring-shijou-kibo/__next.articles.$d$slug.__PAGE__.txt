@@ -5,29 +5,95 @@
 17:"$Sreact.suspense"
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo.png","image"]
-4:T1d75,<p>「ファクタリング市場はどのくらいの規模？」「今後も成長するの？」——ファクタリングを事業として検討する方や、投資・ビジネス戦略に活用したい方に向けて、最新の市場データを解説します。</p>
+4:T21fb,<p>「ファクタリング市場はどのくらいの規模？」「今後も成長するの？」——ファクタリングを事業として検討する方や、投資・ビジネス戦略に活用したい方に向けて、最新の市場データを解説します。</p>
 <hr>
 <h2>日本のファクタリング市場規模（2026年）</h2>
 <h3>現状の市場規模</h3>
 <p>日本のファクタリング市場は、2026年時点で推計<strong>約3〜4兆円規模</strong>とされています。</p>
-<p>| 年 | 推計市場規模 | 前年比成長率 |
-|---|-----------|-----------|
-| 2020年 | 約1.5兆円 | — |
-| 2021年 | 約1.8兆円 | +20% |
-| 2022年 | 約2.3兆円 | +28% |
-| 2023年 | 約2.8兆円 | +22% |
-| 2024年 | 約3.2兆円 | +14% |
-| 2025年 | 約3.7兆円 | +16% |
-| 2026年（推計） | 約4.2兆円 | +14% |</p>
+<table>
+<thead>
+<tr>
+<th>年</th>
+<th>推計市場規模</th>
+<th>前年比成長率</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2020年</td>
+<td>約1.5兆円</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2021年</td>
+<td>約1.8兆円</td>
+<td>+20%</td>
+</tr>
+<tr>
+<td>2022年</td>
+<td>約2.3兆円</td>
+<td>+28%</td>
+</tr>
+<tr>
+<td>2023年</td>
+<td>約2.8兆円</td>
+<td>+22%</td>
+</tr>
+<tr>
+<td>2024年</td>
+<td>約3.2兆円</td>
+<td>+14%</td>
+</tr>
+<tr>
+<td>2025年</td>
+<td>約3.7兆円</td>
+<td>+16%</td>
+</tr>
+<tr>
+<td>2026年（推計）</td>
+<td>約4.2兆円</td>
+<td>+14%</td>
+</tr>
+</tbody>
+</table>
 <p>※各種調査会社レポート・業界推計値をもとにした推計値</p>
 <h3>世界のファクタリング市場との比較</h3>
-<p>| 地域 | 市場規模（2025年推計） | 特徴 |
-|-----|----------------|-----|
-| <strong>世界全体</strong> | 約6,000億ドル（約90兆円） | 欧州が約50%を占める |
-| <strong>欧州</strong> | 約3,000億ドル | 歴史が長く成熟市場 |
-| <strong>アジア太平洋</strong> | 約1,200億ドル | 最も高成長 |
-| <strong>日本</strong> | 約280億ドル | アジア太平洋の約23% |
-| <strong>中国</strong> | 約400億ドル | 急成長中 |</p>
+<table>
+<thead>
+<tr>
+<th>地域</th>
+<th>市場規模（2025年推計）</th>
+<th>特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>世界全体</strong></td>
+<td>約6,000億ドル（約90兆円）</td>
+<td>欧州が約50%を占める</td>
+</tr>
+<tr>
+<td><strong>欧州</strong></td>
+<td>約3,000億ドル</td>
+<td>歴史が長く成熟市場</td>
+</tr>
+<tr>
+<td><strong>アジア太平洋</strong></td>
+<td>約1,200億ドル</td>
+<td>最も高成長</td>
+</tr>
+<tr>
+<td><strong>日本</strong></td>
+<td>約280億ドル</td>
+<td>アジア太平洋の約23%</td>
+</tr>
+<tr>
+<td><strong>中国</strong></td>
+<td>約400億ドル</td>
+<td>急成長中</td>
+</tr>
+</tbody>
+</table>
 <p>日本は世界的に見ても<strong>成長余地が大きい市場</strong>とされています。</p>
 <hr>
 <h2>市場成長を牽引する要因</h2>
@@ -50,29 +116,117 @@
 <hr>
 <h2>プレイヤー別の市場構成</h2>
 <h3>事業者数の推移</h3>
-<p>| カテゴリ | 2020年 | 2023年 | 2026年（推計） |
-|--------|-------|-------|------------|
-| 大手・中堅ファクタリング会社 | 約50社 | 約80社 | 約100社 |
-| 中小・スタートアップ系 | 約100社 | 約200社 | 約300社 |
-| 銀行系・信用金庫系 | 約30社 | 約40社 | 約50社 |
-| 合計 | 約180社 | 約320社 | 約450社 |</p>
+<table>
+<thead>
+<tr>
+<th>カテゴリ</th>
+<th>2020年</th>
+<th>2023年</th>
+<th>2026年（推計）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>大手・中堅ファクタリング会社</td>
+<td>約50社</td>
+<td>約80社</td>
+<td>約100社</td>
+</tr>
+<tr>
+<td>中小・スタートアップ系</td>
+<td>約100社</td>
+<td>約200社</td>
+<td>約300社</td>
+</tr>
+<tr>
+<td>銀行系・信用金庫系</td>
+<td>約30社</td>
+<td>約40社</td>
+<td>約50社</td>
+</tr>
+<tr>
+<td>合計</td>
+<td>約180社</td>
+<td>約320社</td>
+<td>約450社</td>
+</tr>
+</tbody>
+</table>
 <h3>主要プレイヤーの特徴</h3>
-<p>| プレイヤータイプ | シェア（推計） | 強み |
-|------------|------------|-----|
-| 独立系・専門会社 | 約60% | スピード・柔軟性 |
-| フィンテック系 | 約25% | AI審査・オンライン |
-| 銀行系 | 約15% | 低手数料・安心感 |</p>
+<table>
+<thead>
+<tr>
+<th>プレイヤータイプ</th>
+<th>シェア（推計）</th>
+<th>強み</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>独立系・専門会社</td>
+<td>約60%</td>
+<td>スピード・柔軟性</td>
+</tr>
+<tr>
+<td>フィンテック系</td>
+<td>約25%</td>
+<td>AI審査・オンライン</td>
+</tr>
+<tr>
+<td>銀行系</td>
+<td>約15%</td>
+<td>低手数料・安心感</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>業種別の市場動向</h2>
-<p>| 業種 | ファクタリング普及度 | 成長トレンド |
-|-----|---------------|----------|
-| 建設業 | 高い | 横ばい〜緩やか成長 |
-| 医療・介護 | 高い | 堅調成長 |
-| 製造業 | 中程度 | 緩やか成長 |
-| IT・システム開発 | 中程度 | 急成長 |
-| 運送・物流 | 中程度 | 急成長 |
-| 飲食・小売 | 低い | 成長中 |
-| フリーランス | 低い→高い | 最も急成長 |</p>
+<table>
+<thead>
+<tr>
+<th>業種</th>
+<th>ファクタリング普及度</th>
+<th>成長トレンド</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>建設業</td>
+<td>高い</td>
+<td>横ばい〜緩やか成長</td>
+</tr>
+<tr>
+<td>医療・介護</td>
+<td>高い</td>
+<td>堅調成長</td>
+</tr>
+<tr>
+<td>製造業</td>
+<td>中程度</td>
+<td>緩やか成長</td>
+</tr>
+<tr>
+<td>IT・システム開発</td>
+<td>中程度</td>
+<td>急成長</td>
+</tr>
+<tr>
+<td>運送・物流</td>
+<td>中程度</td>
+<td>急成長</td>
+</tr>
+<tr>
+<td>飲食・小売</td>
+<td>低い</td>
+<td>成長中</td>
+</tr>
+<tr>
+<td>フリーランス</td>
+<td>低い→高い</td>
+<td>最も急成長</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>2030年に向けた市場予測</h2>
 <h3>楽観シナリオ（年率15%成長の場合）</h3>
@@ -86,12 +240,32 @@
 <h3>基本シナリオ（年率10%成長の場合）</h3>
 <p>2030年の日本のファクタリング市場規模：<strong>約6兆円</strong></p>
 <h3>課題・リスク要因</h3>
-<p>| リスク | 内容 |
-|-------|-----|
-| 規制強化 | 偽装ファクタリング対策として業界規制が入る可能性 |
-| 競合激化 | 参入業者増加による手数料の下落圧力 |
-| 景気後退 | 売掛先の信用リスク上昇 |
-| AI代替 | 審査コスト削減競争の激化 |</p>
+<table>
+<thead>
+<tr>
+<th>リスク</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>規制強化</td>
+<td>偽装ファクタリング対策として業界規制が入る可能性</td>
+</tr>
+<tr>
+<td>競合激化</td>
+<td>参入業者増加による手数料の下落圧力</td>
+</tr>
+<tr>
+<td>景気後退</td>
+<td>売掛先の信用リスク上昇</td>
+</tr>
+<tr>
+<td>AI代替</td>
+<td>審査コスト削減競争の激化</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>まとめ</h2>
 <p>日本のファクタリング市場は2026年に4兆円規模に達し、今後も年率10〜15%の成長が続くと予測されています。<a href="/articles/article-factoring-ai-shinsa/">AI審査の進化</a>や<a href="/articles/article-factoring-cloud/">クラウド化</a>により、より多くの中小企業・個人事業主が利用しやすくなっています。<a href="/articles/article-factoring-osusume/">ファクタリングのおすすめ会社</a>も最新情報を確認しながら選んでください。</p>
@@ -107,7 +281,7 @@ A: 偽装ファクタリングや給与ファクタリングへの規制強化�
 A: フリーランス人口の増加とともに急成長しており、2026年は個人事業主向けファクタリングが市場全体の15〜20%を占めると推計されます。</p>
 <p><strong>Q: ファクタリング手数料は今後下がりますか？</strong>
 A: AI活用による審査コスト低下や競合激化により、平均手数料は緩やかに低下する傾向にあります。</p>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリング市場規模2026年版｜成長率・トレンド・将来予","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリング市場規模2026年版｜成長率・トレンド・将来予測を徹底分析","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリング市場規模2026年版｜成長率・トレンド・将来予測を徹底分析"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 市場規模 2026, ファクタリング 市場 成長"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],false,"$L5","$L6",false,"$L7","$L8"]}],"$L9","$La","$Lb","$Lc"]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sjYMfYV6eCgRTWxyE9Hpe"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリング市場規模2026年版｜成長率・トレンド・将来予","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリング市場規模2026年版｜成長率・トレンド・将来予測を徹底分析","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリング市場規模2026年版｜成長率・トレンド・将来予測を徹底分析"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 市場規模 2026, ファクタリング 市場 成長"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],false,"$L5","$L6",false,"$L7","$L8"]}],"$L9","$La","$Lb","$Lc"]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gyxC-q0-FfdF7_CHUutPw"}
 5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","no1",{"href":"/companies/no1","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"株式会社No.1"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","0.5%〜15%"," ／ ","最短30分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","safe-trust",{"href":"/companies/safe-trust","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"セーフトラスト"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ace-trust",{"href":"/companies/ace-trust","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"エーストラスト"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜15%"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
 7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-toha",{"href":"/articles/article-factoring-toha","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリングとは"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【図解でわかる】ファクタリングとは？仕組み・手数料・メリットデメリットを初心者向けに完全解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-merit-demerit",{"href":"/articles/article-factoring-merit-demerit","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング メリット デメリット"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングのメリット・デメリット完全ガイド｜使うべき人・やめるべき人を徹底解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-hajimete",{"href":"/articles/article-factoring-hajimete","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 初めて, ファクタリング 初回, ファクタリング 使い方"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング初めての方向け完全ガイド｜初回利用の手順・注意点・おすすめ会社【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-faq",{"href":"/articles/article-factoring-faq","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング よくある質問, ファクタリング 疑問, ファクタリング 初心者"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングのよくある質問30選｜初心者の疑問を完全解消"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-urikakekin",{"href":"/articles/article-factoring-urikakekin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 売掛金 とは, 売掛金 現金化"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの「売掛金」とは？仕組み・種類・管理方法をわかりやすく解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-seikou-jirei",{"href":"/articles/article-factoring-seikou-jirei","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$Lf","$L10","$L11"]}]]}]]}]

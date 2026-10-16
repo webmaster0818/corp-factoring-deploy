@@ -5,18 +5,38 @@
 17:"$Sreact.suspense"
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo.png","image"]
-4:T2f3a,<p>「1,000万円を超える工事代金を早期資金化したい」「数億円規模の売掛金をファクタリングできる会社があるか知りたい」——大口ファクタリングを検討する企業からのこうした相談は多く寄せられています。</p>
+4:T337b,<p>「1,000万円を超える工事代金を早期資金化したい」「数億円規模の売掛金をファクタリングできる会社があるか知りたい」——大口ファクタリングを検討する企業からのこうした相談は多く寄せられています。</p>
 <p>ファクタリング会社によって「上限なし」と表記していても、実質的に対応できる上限額は大きく異なります。この記事では、1,000万円以上の大口ファクタリングに対応する会社の特徴と選び方を解説します。</p>
 <hr>
 <h2>大口ファクタリングとは</h2>
 <h3>一般的な上限金額の実態</h3>
 <p>「上限なし」を謳っているファクタリング会社でも、実際に対応できる金額は会社の資本力によって異なります。</p>
-<p>| 会社の規模 | 実質的な対応上限の目安 |
-|----------|--------------------|
-| 大手・老舗（業歴10年以上） | 数億円〜制限なし |
-| 中堅 | 5,000万円〜1億円程度 |
-| 中小 | 1,000万円〜5,000万円程度 |
-| スタートアップ | 500万円〜1,000万円程度 |</p>
+<table>
+<thead>
+<tr>
+<th>会社の規模</th>
+<th>実質的な対応上限の目安</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>大手・老舗（業歴10年以上）</td>
+<td>数億円〜制限なし</td>
+</tr>
+<tr>
+<td>中堅</td>
+<td>5,000万円〜1億円程度</td>
+</tr>
+<tr>
+<td>中小</td>
+<td>1,000万円〜5,000万円程度</td>
+</tr>
+<tr>
+<td>スタートアップ</td>
+<td>500万円〜1,000万円程度</td>
+</tr>
+</tbody>
+</table>
 <p>大口ファクタリングに対応するためには、ファクタリング会社自身に十分な資金力と信用力が必要です。</p>
 <h3>大口ファクタリングが必要になる場面</h3>
 <ul>
@@ -30,13 +50,36 @@
 <h2>大口ファクタリングの3つの特徴</h2>
 <h3>特徴1：手数料率が低くなる</h3>
 <p>大口案件では、金額が大きくなるほど手数料率が低くなる傾向があります。</p>
-<p>| 金額 | 一般的な手数料率（2社間） |
-|------|----------------------|
-| 100万円 | 5〜12% |
-| 500万円 | 4〜10% |
-| 1,000万円 | 3〜8% |
-| 3,000万円以上 | 2〜6% |
-| 1億円以上 | 1〜4% |</p>
+<table>
+<thead>
+<tr>
+<th>金額</th>
+<th>一般的な手数料率（2社間）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>100万円</td>
+<td>5〜12%</td>
+</tr>
+<tr>
+<td>500万円</td>
+<td>4〜10%</td>
+</tr>
+<tr>
+<td>1,000万円</td>
+<td>3〜8%</td>
+</tr>
+<tr>
+<td>3,000万円以上</td>
+<td>2〜6%</td>
+</tr>
+<tr>
+<td>1億円以上</td>
+<td>1〜4%</td>
+</tr>
+</tbody>
+</table>
 <p><strong>例：1,000万円の売掛金を手数料5%でファクタリングすると、手取りは950万円。手数料は50万円。</strong></p>
 <h3>特徴2：3社間ファクタリングが有効</h3>
 <p>大口案件では、3社間ファクタリングを選ぶことで手数料を大幅に下げられます。</p>
@@ -56,43 +99,135 @@
 <hr>
 <h2>大口ファクタリングおすすめ会社</h2>
 <h3>1位：ビートレーディング（7億円の実績）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間：4〜12% / 3社間：2〜9% |
-| 入金スピード | 最短2時間〜 |
-| 対応上限 | <strong>上限なし（7億円の実績あり）</strong> |
-| 実績 | 累計取引91,000社以上 |
-| 特徴 | 全国5拠点で高額案件対応 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間：4〜12% / 3社間：2〜9%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間〜</td>
+</tr>
+<tr>
+<td>対応上限</td>
+<td><strong>上限なし（7億円の実績あり）</strong></td>
+</tr>
+<tr>
+<td>実績</td>
+<td>累計取引91,000社以上</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>全国5拠点で高額案件対応</td>
+</tr>
+</tbody>
+</table>
 <p><strong>大口おすすめ理由：</strong> 単一取引で7億円という実績は業界随一。累計買取額1,824億円の圧倒的な資金力。大型案件でも即日対応の実績があります。全国5拠点で対面サポートも可能。</p>
 <p><strong>こんな案件に：</strong> 建設業の大型公共工事、製造業の大型受注、ITシステムの大型開発案件</p>
 <h3>2位：トップマネジメント（最大3億円）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間：3.5〜12.5% / 3社間：0.5〜3.5% |
-| 入金スピード | 最短即日 |
-| 対応上限 | <strong>3億円まで</strong> |
-| 業歴 | <strong>13年</strong> |
-| 3社間 | <strong>対応（手数料0.5%〜）</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間：3.5〜12.5% / 3社間：0.5〜3.5%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>対応上限</td>
+<td><strong>3億円まで</strong></td>
+</tr>
+<tr>
+<td>業歴</td>
+<td><strong>13年</strong></td>
+</tr>
+<tr>
+<td>3社間</td>
+<td><strong>対応（手数料0.5%〜）</strong></td>
+</tr>
+</tbody>
+</table>
 <p><strong>大口おすすめ理由：</strong> 3社間ファクタリングの手数料0.5%〜は業界最安水準。1億円を手数料1%でファクタリングできれば手数料はわずか100万円。業歴13年の信頼性と高額対応の実績があります。</p>
 <p><strong>こんな案件に：</strong> 長期取引先への大口請求、3社間で手数料を抑えたい場合</p>
 <h3>3位：日本中小企業金融サポート機構（上限なし・非営利運営）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 1.5〜10% |
-| 入金スピード | 最短3時間 |
-| 対応上限 | 上限なし |
-| 運営 | 非営利団体（一般社団法人） |
-| 特徴 | 経営革新等支援機関認定 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>1.5〜10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短3時間</td>
+</tr>
+<tr>
+<td>対応上限</td>
+<td>上限なし</td>
+</tr>
+<tr>
+<td>運営</td>
+<td>非営利団体（一般社団法人）</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>経営革新等支援機関認定</td>
+</tr>
+</tbody>
+</table>
 <p><strong>大口おすすめ理由：</strong> 非営利団体として中小企業を支援する姿勢から、高額案件でも誠実な対応が期待できます。手数料上限10%が保証されており、大口でも手数料が青天井になる心配がありません。</p>
 <p><strong>こんな案件に：</strong> 信頼できる非営利機関を利用したい中小企業、手数料上限を確保したい案件</p>
 <h3>4位：PMG（最大2億円）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 1〜10% |
-| 入金スピード | 最短2時間 |
-| 対応上限 | <strong>2億円（応相談）</strong> |
-| 審査時間 | 30分 |
-| 特徴 | スピードとコストのバランス |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>1〜10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td>対応上限</td>
+<td><strong>2億円（応相談）</strong></td>
+</tr>
+<tr>
+<td>審査時間</td>
+<td>30分</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>スピードとコストのバランス</td>
+</tr>
+</tbody>
+</table>
 <p><strong>大口おすすめ理由：</strong> 2億円まで対応、審査30分というスピードが特徴。大口でも即日対応が可能なケースが多い。手数料1%〜と低水準。</p>
 <p><strong>こんな案件に：</strong> 大口でもスピードを優先したい場合、コスト重視の中堅企業</p>
 <hr>
@@ -110,11 +245,36 @@
 </ul>
 <h3>ポイント3：3社間で手数料を下げる</h3>
 <p>売掛先との関係が良好なら、3社間ファクタリングを積極的に検討してください。1,000万円を超える案件では、2社間と3社間の手数料差だけで数十万円〜数百万円の差が生じます。</p>
-<p>| 金額 | 2社間（7%） | 3社間（2%） | 差額 |
-|------|------------|------------|------|
-| 1,000万円 | 70万円 | 20万円 | <strong>50万円</strong> |
-| 3,000万円 | 210万円 | 60万円 | <strong>150万円</strong> |
-| 1億円 | 700万円 | 200万円 | <strong>500万円</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>金額</th>
+<th>2社間（7%）</th>
+<th>3社間（2%）</th>
+<th>差額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1,000万円</td>
+<td>70万円</td>
+<td>20万円</td>
+<td><strong>50万円</strong></td>
+</tr>
+<tr>
+<td>3,000万円</td>
+<td>210万円</td>
+<td>60万円</td>
+<td><strong>150万円</strong></td>
+</tr>
+<tr>
+<td>1億円</td>
+<td>700万円</td>
+<td>200万円</td>
+<td><strong>500万円</strong></td>
+</tr>
+</tbody>
+</table>
 <h3>ポイント4：複数社に見積もりを依頼する</h3>
 <p>大口案件こそ複数社への見積もり依頼が効果的です。同じ案件でも会社によって提示手数料が2〜3%異なることがあり、1,000万円の案件では20〜30万円の差になります。</p>
 <hr>
@@ -158,7 +318,7 @@
 <li><a href="/articles/article-factoring-tesuryo/">ファクタリング手数料の相場と安い会社12選</a></li>
 <li><a href="/articles/article-factoring-shinsa/">ファクタリングの審査基準と通過率を高めるコツ</a></li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["大口ファクタリング｜1,000万円以上の高額買取に対応するお","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"大口ファクタリング｜1,000万円以上の高額買取に対応するおすすめ会社","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"大口ファクタリング｜1,000万円以上の高額買取に対応するおすすめ会社"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"大口 ファクタリング 1000万以上, 高額 ファクタリング"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sjYMfYV6eCgRTWxyE9Hpe"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["大口ファクタリング｜1,000万円以上の高額買取に対応するお","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"大口ファクタリング｜1,000万円以上の高額買取に対応するおすすめ会社","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"大口ファクタリング｜1,000万円以上の高額買取に対応するおすすめ会社"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"大口 ファクタリング 1000万以上, 高額 ファクタリング"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gyxC-q0-FfdF7_CHUutPw"}
 5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社ページでは、公式サイトで確認した手数料・入金スピード・会社概要（確認日つき）と、口コミの出典をまとめています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","pmg",{"children":["$","$L3",null,{"href":"/companies/pmg/","className":"text-blue-600 hover:underline","children":["PMG","の口コミ・評判・手数料 →"]}]}],["$","li","support-kinyu",{"children":["$","$L3",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":["日本中小企業金融サポート機構","の口コミ・評判・手数料 →"]}]}],["$","li","top-management",{"children":["$","$L3",null,{"href":"/companies/top-management/","className":"text-blue-600 hover:underline","children":["トップマネジメント","の口コミ・評判・手数料 →"]}]}]]}]]}]
 6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","ace-trust",{"href":"/companies/ace-trust","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"エーストラスト"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜15%"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","factor-plan",{"href":"/companies/factor-plan","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ファクタープラン"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","try",{"href":"/companies/try","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ファクタリングのTRY"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","3%〜（上限は要問い合わせ）"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]

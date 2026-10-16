@@ -5,18 +5,43 @@
 18:"$Sreact.suspense"
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo.png","image"]
-4:T40b1,<p>「ファクタリングの手数料、本当はいくらかかるの？」</p>
+4:T4a65,<p>「ファクタリングの手数料、本当はいくらかかるの？」</p>
 <p>多くのファクタリング会社は「手数料1%〜」と下限だけを表示しています。しかし、<strong>実際に適用される手数料は5〜15%程度になることがほとんど</strong>です。</p>
 <p>この記事では、ファクタリング手数料の<strong>本当の相場</strong>と、<strong>手数料が安い会社12社の実質コスト比較</strong>を徹底解説。「100万円の請求書でいくら手元に残るか」のシミュレーション付きで、あなたが支払う本当のコストが一目でわかります。</p>
 <hr>
 <h2>ファクタリング手数料の相場【2026年最新】</h2>
 <h3>2社間と3社間の手数料比較</h3>
-<p>| | 2社間ファクタリング | 3社間ファクタリング |
-|--|------------------|------------------|
-| <strong>手数料相場</strong> | <strong>8%〜18%</strong> | <strong>2%〜9%</strong> |
-| <strong>売掛先への通知</strong> | なし | あり（承諾必要） |
-| <strong>入金スピード</strong> | 最短即日 | 数日〜1週間 |
-| <strong>おすすめの人</strong> | バレたくない・急ぎ | コスト重視 |</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>2社間ファクタリング</th>
+<th>3社間ファクタリング</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料相場</strong></td>
+<td><strong>8%〜18%</strong></td>
+<td><strong>2%〜9%</strong></td>
+</tr>
+<tr>
+<td><strong>売掛先への通知</strong></td>
+<td>なし</td>
+<td>あり（承諾必要）</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短即日</td>
+<td>数日〜1週間</td>
+</tr>
+<tr>
+<td><strong>おすすめの人</strong></td>
+<td>バレたくない・急ぎ</td>
+<td>コスト重視</td>
+</tr>
+</tbody>
+</table>
 <p><strong>重要:</strong> 「手数料1%〜」の表記は3社間ファクタリングの最低ライン。2社間で初回利用の場合、<strong>実際は10〜15%程度</strong>が一般的です。2社間と3社間の違いは<a href="/articles/article-factoring-toha/">ファクタリングとは？仕組み完全解説</a>で詳しく解説しています。</p>
 <h3>手数料が決まる3つの要素</h3>
 <p><strong>1. 売掛先の信用力</strong>
@@ -36,124 +61,439 @@
 <hr>
 <h2>100万円シミュレーション：各社でいくら手元に残る？</h2>
 <p><strong>前提:</strong> 100万円の請求書を2社間ファクタリングで売却した場合</p>
-<p>| サービス | 手数料率 | 手数料額 | <strong>手元に残る額</strong> |
-|---------|---------|---------|---------------|
-| QuQuMo | 1%〜（実質5〜10%） | 5〜10万円 | <strong>90〜95万円</strong> |
-| ビートレーディング | 4%〜（実質5〜12%） | 5〜12万円 | <strong>88〜95万円</strong> |
-| 日本中小企業金融サポート | 1.5〜10% | 1.5〜10万円 | <strong>90〜98.5万円</strong> |
-| OLTA | 2〜9% | 2〜9万円 | <strong>91〜98万円</strong> |
-| PAYTODAY | 1〜9.5% | 1〜9.5万円 | <strong>90.5〜99万円</strong> |
-| アクセルファクター | 2社間1〜12%／3社間0.5〜10.5% | 1〜12万円（2社間） | <strong>88〜99万円</strong>（2社間） |
-| ベストファクター | 2〜20% | 2〜20万円 | <strong>80〜98万円</strong> |
-| ペイトナー | 10%固定 | 10万円 | <strong>90万円</strong> |
-| ラボル | 10%固定 | 10万円 | <strong>90万円</strong> |
-| みんなのファクタリング | 10% | 10万円 | <strong>90万円</strong> |
-| トップマネジメント | 3.5〜12.5% | 3.5〜12.5万円 | <strong>87.5〜96.5万円</strong> |
-| 事業資金エージェント | 1.5%〜 | 1.5万円〜 | <strong>98.5万円〜</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>サービス</th>
+<th>手数料率</th>
+<th>手数料額</th>
+<th><strong>手元に残る額</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>QuQuMo</td>
+<td>1%〜（実質5〜10%）</td>
+<td>5〜10万円</td>
+<td><strong>90〜95万円</strong></td>
+</tr>
+<tr>
+<td>ビートレーディング</td>
+<td>4%〜（実質5〜12%）</td>
+<td>5〜12万円</td>
+<td><strong>88〜95万円</strong></td>
+</tr>
+<tr>
+<td>日本中小企業金融サポート</td>
+<td>1.5〜10%</td>
+<td>1.5〜10万円</td>
+<td><strong>90〜98.5万円</strong></td>
+</tr>
+<tr>
+<td>OLTA</td>
+<td>2〜9%</td>
+<td>2〜9万円</td>
+<td><strong>91〜98万円</strong></td>
+</tr>
+<tr>
+<td>PAYTODAY</td>
+<td>1〜9.5%</td>
+<td>1〜9.5万円</td>
+<td><strong>90.5〜99万円</strong></td>
+</tr>
+<tr>
+<td>アクセルファクター</td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+<td>1〜12万円（2社間）</td>
+<td><strong>88〜99万円</strong>（2社間）</td>
+</tr>
+<tr>
+<td>ベストファクター</td>
+<td>2〜20%</td>
+<td>2〜20万円</td>
+<td><strong>80〜98万円</strong></td>
+</tr>
+<tr>
+<td>ペイトナー</td>
+<td>10%固定</td>
+<td>10万円</td>
+<td><strong>90万円</strong></td>
+</tr>
+<tr>
+<td>ラボル</td>
+<td>10%固定</td>
+<td>10万円</td>
+<td><strong>90万円</strong></td>
+</tr>
+<tr>
+<td>みんなのファクタリング</td>
+<td>10%</td>
+<td>10万円</td>
+<td><strong>90万円</strong></td>
+</tr>
+<tr>
+<td>トップマネジメント</td>
+<td>3.5〜12.5%</td>
+<td>3.5〜12.5万円</td>
+<td><strong>87.5〜96.5万円</strong></td>
+</tr>
+<tr>
+<td>事業資金エージェント</td>
+<td>1.5%〜</td>
+<td>1.5万円〜</td>
+<td><strong>98.5万円〜</strong></td>
+</tr>
+</tbody>
+</table>
 <p><strong>注意:</strong> 下限手数料が適用されるのは、売掛先の信用力が高く、金額が大きく、利用実績がある場合に限られます。<strong>初回・少額・2社間の場合は上限に近い手数料になることが一般的です。</strong></p>
 <hr>
 <h2>手数料が安いファクタリング会社12選</h2>
 <h3>手数料最安クラス（下限1%台）</h3>
 <h4>1. QuQuMo（ククモ） — 手数料1%〜</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>1%〜</strong> |
-| 対応 | 2社間のみ |
-| 入金スピード | 最短2時間 |
-| 必要書類 | 請求書・通帳の2点 |
-| 買取上限 | なし |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>1%〜</strong></td>
+</tr>
+<tr>
+<td>対応</td>
+<td>2社間のみ</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td>必要書類</td>
+<td>請求書・通帳の2点</td>
+</tr>
+<tr>
+<td>買取上限</td>
+<td>なし</td>
+</tr>
+</tbody>
+</table>
 <p>2社間ファクタリングで1%〜は業界最安。オンライン完結で人件費を削減しているため低手数料を実現。大口案件ほど有利。</p>
 <h4>2. 日本中小企業金融サポート機構 — 手数料1.5%〜10%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>1.5%〜10%</strong> |
-| 対応 | 2社間・3社間 |
-| 入金スピード | 最短3時間 |
-| 買取上限 | なし |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>1.5%〜10%</strong></td>
+</tr>
+<tr>
+<td>対応</td>
+<td>2社間・3社間</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短3時間</td>
+</tr>
+<tr>
+<td>買取上限</td>
+<td>なし</td>
+</tr>
+</tbody>
+</table>
 <p><strong>手数料の上限が10%と明示されている安心感。</strong> 非営利の一般社団法人運営で、利益追求ではなく中小企業支援が目的。上限明示は業界でも珍しい。</p>
 <h4>3. 事業資金エージェント — 手数料1.5%〜</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>1.5%〜</strong> |
-| 対応 | 2社間・3社間 |
-| 入金スピード | 最短3時間 |
-| 買取上限 | 最大2億円 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>1.5%〜</strong></td>
+</tr>
+<tr>
+<td>対応</td>
+<td>2社間・3社間</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短3時間</td>
+</tr>
+<tr>
+<td>買取上限</td>
+<td>最大2億円</td>
+</tr>
+</tbody>
+</table>
 <p>3社間なら1.5%〜の超低手数料。500万円以下は来店不要。大口案件にも対応。</p>
 <h4>4. PAYTODAY — 手数料1%〜9.5%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>1%〜9.5%</strong> |
-| 対応 | 2社間 |
-| 入金スピード | 最短30分 |
-| 買取上限 | 上限なし |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>1%〜9.5%</strong></td>
+</tr>
+<tr>
+<td>対応</td>
+<td>2社間</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短30分</td>
+</tr>
+<tr>
+<td>買取上限</td>
+<td>上限なし</td>
+</tr>
+</tbody>
+</table>
 <p><strong>手数料上限9.5%が明示されている＋最短30分入金。</strong> スピードとコストのバランスが最も優れたサービスの一つ。AI審査で効率化。</p>
 <h3>手数料低〜中水準（2%〜）</h3>
 <h4>5. OLTA（オルタ） — 手数料2%〜9%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>2%〜9%</strong> |
-| 対応 | 2社間 |
-| 入金スピード | 最短即日 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>2%〜9%</strong></td>
+</tr>
+<tr>
+<td>対応</td>
+<td>2社間</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+</tbody>
+</table>
 <p>事務手数料ゼロ。手数料以外の隠れコストが一切ない。クラウド会計ソフト連携で手続き簡略化。</p>
 <h4>6. ビートレーディング — 手数料2%〜12%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>2社間 4%〜 / 3社間 2%〜</strong> |
-| 対応 | 2社間・3社間 |
-| 入金スピード | 最短2時間 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>2社間 4%〜 / 3社間 2%〜</strong></td>
+</tr>
+<tr>
+<td>対応</td>
+<td>2社間・3社間</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+</tbody>
+</table>
 <p>累計91,000社の実績。書類2点のみ。利用実績を積むと手数料が下がりやすい。</p>
 <h4>7. ベストファクター — 手数料2%〜20%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>2%〜20%</strong> |
-| 審査通過率 | 92.2% |
-| 入金スピード | 最短即日 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>2%〜20%</strong></td>
+</tr>
+<tr>
+<td>審査通過率</td>
+<td>92.2%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+</tbody>
+</table>
 <p>審査通過率92.2%。手数料の幅は広いが、審査に通りやすいのが魅力。</p>
 <h4>8. アクセルファクター — 手数料2社間1〜12%／3社間0.5〜10.5%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間1〜12%／3社間0.5〜10.5% |
-| 審査通過率 | 93%以上 |
-| 入金スピード | 最短即日 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+</tr>
+<tr>
+<td>審査通過率</td>
+<td>93%以上</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+</tbody>
+</table>
 <p>審査通過率93%以上。赤字・税金滞納でも利用可能なケースあり。</p>
 <h4>9. トップマネジメント — 手数料0.5%〜12.5%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>2社間 3.5%〜12.5% / 3社間 0.5%〜3.5%</strong> |
-| 入金スピード | 最短即日 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>2社間 3.5%〜12.5% / 3社間 0.5%〜3.5%</strong></td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+</tbody>
+</table>
 <p><strong>3社間の手数料0.5%〜は業界最安。</strong> 売掛先の了承が得られる場合は最もコストを抑えられる選択肢。</p>
 <h3>固定手数料（明朗会計）</h3>
 <h4>10. ペイトナー — 手数料10%固定</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>一律10%</strong> |
-| 入金スピード | 最短即日 |
-| 最低額 | 1万円〜 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>一律10%</strong></td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>最低額</td>
+<td>1万円〜</td>
+</tr>
+</tbody>
+</table>
 <p><strong>事前に手数料が確定する安心感。</strong> 10%は2社間の相場内。最短即日入金で個人宛て請求書も対応。</p>
 <h4>11. ラボル — 手数料10%固定</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>一律10%</strong> |
-| 入金スピード | 最短30分 |
-| 土日祝対応 | 24時間365日 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>一律10%</strong></td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短30分</td>
+</tr>
+<tr>
+<td>土日祝対応</td>
+<td>24時間365日</td>
+</tr>
+</tbody>
+</table>
 <p>10%固定で計算しやすい。土日祝も入金対応は業界唯一。</p>
 <h4>12. みんなのファクタリング — 手数料10%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>10%</strong> |
-| 入金スピード | 最短60分 |
-| 土日祝対応 | 対応 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>10%</strong></td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短60分</td>
+</tr>
+<tr>
+<td>土日祝対応</td>
+<td>対応</td>
+</tr>
+</tbody>
+</table>
 <p>AI審査で土日祝も対応。1万円から少額利用可能。</p>
 <hr>
 <h2>手数料以外の「隠れコスト」に要注意</h2>
 <p>手数料だけを比較しても、実際の支払い総額はわかりません。以下の隠れコストにも注目してください。</p>
-<p>| 隠れコスト | 内容 | 相場 |
-|-----------|------|------|
-| <strong>事務手数料</strong> | 契約書作成・審査費用 | 0〜数万円 |
-| <strong>債権譲渡登記費用</strong> | 登記が必要な場合 | 5〜10万円 |
-| <strong>印紙税</strong> | 契約書に貼る印紙 | 200〜数千円 |
-| <strong>出張費・交通費</strong> | 対面契約の場合 | 実費 |
-| <strong>振込手数料</strong> | 入金時の手数料 | 数百円 |</p>
+<table>
+<thead>
+<tr>
+<th>隠れコスト</th>
+<th>内容</th>
+<th>相場</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>事務手数料</strong></td>
+<td>契約書作成・審査費用</td>
+<td>0〜数万円</td>
+</tr>
+<tr>
+<td><strong>債権譲渡登記費用</strong></td>
+<td>登記が必要な場合</td>
+<td>5〜10万円</td>
+</tr>
+<tr>
+<td><strong>印紙税</strong></td>
+<td>契約書に貼る印紙</td>
+<td>200〜数千円</td>
+</tr>
+<tr>
+<td><strong>出張費・交通費</strong></td>
+<td>対面契約の場合</td>
+<td>実費</td>
+</tr>
+<tr>
+<td><strong>振込手数料</strong></td>
+<td>入金時の手数料</td>
+<td>数百円</td>
+</tr>
+</tbody>
+</table>
 <p><strong>隠れコストがない会社:</strong></p>
 <ul>
 <li>OLTA: 「手数料以外の費用は一切不要」と明言</li>
@@ -184,10 +524,30 @@
 → 100万円 × (1 - 0.10) = <strong>90万円</strong>が手取り</p>
 <h3>確定申告での勘定科目</h3>
 <p>ファクタリング手数料は**「売上債権売却損」**として経費計上します。</p>
-<p>| 借方 | 金額 | 貸方 | 金額 |
-|------|------|------|------|
-| 普通預金 | 90万円 | 売掛金 | 100万円 |
-| 売上債権売却損 | 10万円 | | |</p>
+<table>
+<thead>
+<tr>
+<th>借方</th>
+<th>金額</th>
+<th>貸方</th>
+<th>金額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>普通預金</td>
+<td>90万円</td>
+<td>売掛金</td>
+<td>100万円</td>
+</tr>
+<tr>
+<td>売上債権売却損</td>
+<td>10万円</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h3>消費税の扱い</h3>
 <p>ファクタリング手数料は<strong>非課税</strong>です。消費税はかかりません（金銭債権の譲渡に該当するため）。</p>
 <hr>
@@ -248,7 +608,7 @@
 <blockquote>
 <p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
 </blockquote>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["【2026年最新】ファクタリング手数料の相場と安い会社12選","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"【2026年最新】ファクタリング手数料の相場と安い会社12選｜100万円でいくら手元に残る？シミュレーション付き","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【2026年最新】ファクタリング手数料の相場と安い会社12選｜100万円でいくら手元に残る？シミュレーション付き"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 手数料"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7","$L8","$L9","$La"]}],"$Lb","$Lc","$Ld",false]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sjYMfYV6eCgRTWxyE9Hpe"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["【2026年最新】ファクタリング手数料の相場と安い会社12選","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"【2026年最新】ファクタリング手数料の相場と安い会社12選｜100万円でいくら手元に残る？シミュレーション付き","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【2026年最新】ファクタリング手数料の相場と安い会社12選｜100万円でいくら手元に残る？シミュレーション付き"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 手数料"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7","$L8","$L9","$La"]}],"$Lb","$Lc","$Ld",false]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gyxC-q0-FfdF7_CHUutPw"}
 5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社ページでは、公式サイトで確認した手数料・入金スピード・会社概要（確認日つき）と、口コミの出典をまとめています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","accel-factor",{"children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":["アクセルファクター","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","support-kinyu",{"children":["$","$L3",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":["日本中小企業金融サポート機構","の口コミ・評判・手数料 →"]}]}],["$","li","top-management",{"children":["$","$L3",null,{"href":"/companies/top-management/","className":"text-blue-600 hover:underline","children":["トップマネジメント","の口コミ・評判・手数料 →"]}]}],["$","li","minna-factoring",{"children":["$","$L3",null,{"href":"/companies/minna-factoring/","className":"text-blue-600 hover:underline","children":["みんなのファクタリング","の口コミ・評判・手数料 →"]}]}]]}]]}]
 6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","safe-trust",{"href":"/companies/safe-trust","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"セーフトラスト"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ace-trust",{"href":"/companies/ace-trust","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"エーストラスト"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜15%"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","factor-plan",{"href":"/companies/factor-plan","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ファクタープラン"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]

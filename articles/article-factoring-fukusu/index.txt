@@ -6,14 +6,14 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-fukusu",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-fukusu","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-fukusu",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-fukusu","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/factoring-article.jpg","image"]
-11:T22fd,<p>「ファクタリングは複数社に同時に申し込んでいいの？」「同時申込みはバレる？」</p>
+11:T24d6,<p>「ファクタリングは複数社に同時に申し込んでいいの？」「同時申込みはバレる？」</p>
 <p>結論から言うと、<strong>ファクタリングの複数社同時申込みは問題なく、むしろ推奨される方法です。</strong></p>
 <p>ローンや融資と違い、ファクタリングは「債権の売却」であるため、複数社に申込んでも信用情報に影響しません。この記事では、複数申込みの方法・メリット・注意点を解説します。</p>
 <hr>
@@ -34,11 +34,32 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <h3>メリット1: 手数料を最安値にできる</h3>
 <p>同じ請求書でも、会社によって提示する手数料は大きく異なります。</p>
 <p><strong>例: 100万円の請求書の場合</strong></p>
-<p>| 会社 | 手数料率 | 手取り額 |
-|------|---------|---------|
-| A社 | 15% | 85万円 |
-| B社 | 10% | 90万円 |
-| C社 | 7% | 93万円 |</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>手数料率</th>
+<th>手取り額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A社</td>
+<td>15%</td>
+<td>85万円</td>
+</tr>
+<tr>
+<td>B社</td>
+<td>10%</td>
+<td>90万円</td>
+</tr>
+<tr>
+<td>C社</td>
+<td>7%</td>
+<td>93万円</td>
+</tr>
+</tbody>
+</table>
 <p>3社に申込むだけで、8万円もの差が生まれます。複数社に申込まなければこの差はわかりません。</p>
 <h3>メリット2: 審査が通らない場合のリスクヘッジ</h3>
 <p>1社に絞り込んで申込んで審査落ちした場合、再度別の会社に申込む時間的ロスが発生します。複数社に同時申込みすれば、1社が落ちても他社が通ることがあります。</p>
@@ -55,11 +76,28 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </ul>
 <h3>Step 2: 3〜5社に同時申込みする</h3>
 <p><strong>おすすめの申込み先の組み合わせ例:</strong></p>
-<p>| 目的 | おすすめ会社 |
-|------|------------|
-| 手数料最安値候補 | QuQuMo（1%〜）、PAYTODAY（1〜9.5%）|
-| 実績・安心感 | ビートレーディング、日本中小企業金融サポート機構 |
-| 速度重視 | ペイトナー（最短即日）、ラボル |</p>
+<table>
+<thead>
+<tr>
+<th>目的</th>
+<th>おすすめ会社</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料最安値候補</td>
+<td>QuQuMo（1%〜）、PAYTODAY（1〜9.5%）</td>
+</tr>
+<tr>
+<td>実績・安心感</td>
+<td>ビートレーディング、日本中小企業金融サポート機構</td>
+</tr>
+<tr>
+<td>速度重視</td>
+<td>ペイトナー（最短即日）、ラボル</td>
+</tr>
+</tbody>
+</table>
 <h3>Step 3: 見積もりを比較して最安値を選ぶ</h3>
 <p>各社の見積もりが出たら比較します。手数料だけでなく：</p>
 <ul>
@@ -83,13 +121,48 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>複数申込みに適したサービス一覧</h2>
 <p>見積もり比較のために申込む主要サービスを紹介します。</p>
-<p>| サービス名 | 手数料 | 審査スピード | 特徴 |
-|-----------|--------|------------|------|
-| QuQuMo | 1%〜 | 最短2時間 | 業界最安水準 |
-| ビートレーディング | 2%〜 | 最短2時間 | 累計実績No.1 |
-| OLTA | 2〜9% | 最短即日 | オンライン完結 |
-| PAYTODAY | 1〜9.5% | 最短30分 | AI審査 |
-| アクセルファクター | 2社間1〜12%／3社間0.5〜10.5% | 最短即日 | 通過率93% |</p>
+<table>
+<thead>
+<tr>
+<th>サービス名</th>
+<th>手数料</th>
+<th>審査スピード</th>
+<th>特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>QuQuMo</td>
+<td>1%〜</td>
+<td>最短2時間</td>
+<td>業界最安水準</td>
+</tr>
+<tr>
+<td>ビートレーディング</td>
+<td>2%〜</td>
+<td>最短2時間</td>
+<td>累計実績No.1</td>
+</tr>
+<tr>
+<td>OLTA</td>
+<td>2〜9%</td>
+<td>最短即日</td>
+<td>オンライン完結</td>
+</tr>
+<tr>
+<td>PAYTODAY</td>
+<td>1〜9.5%</td>
+<td>最短30分</td>
+<td>AI審査</td>
+</tr>
+<tr>
+<td>アクセルファクター</td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+<td>最短即日</td>
+<td>通過率93%</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>よくある質問</h2>
 <p><strong>Q. 複数社に申込んでもバレませんか？</strong>

@@ -6,25 +6,50 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-tesuryo",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-tesuryo","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-tesuryo",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-tesuryo","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/factoring-article.jpg","image"]
-11:T40b1,<p>「ファクタリングの手数料、本当はいくらかかるの？」</p>
+11:T4a65,<p>「ファクタリングの手数料、本当はいくらかかるの？」</p>
 <p>多くのファクタリング会社は「手数料1%〜」と下限だけを表示しています。しかし、<strong>実際に適用される手数料は5〜15%程度になることがほとんど</strong>です。</p>
 <p>この記事では、ファクタリング手数料の<strong>本当の相場</strong>と、<strong>手数料が安い会社12社の実質コスト比較</strong>を徹底解説。「100万円の請求書でいくら手元に残るか」のシミュレーション付きで、あなたが支払う本当のコストが一目でわかります。</p>
 <hr>
 <h2>ファクタリング手数料の相場【2026年最新】</h2>
 <h3>2社間と3社間の手数料比較</h3>
-<p>| | 2社間ファクタリング | 3社間ファクタリング |
-|--|------------------|------------------|
-| <strong>手数料相場</strong> | <strong>8%〜18%</strong> | <strong>2%〜9%</strong> |
-| <strong>売掛先への通知</strong> | なし | あり（承諾必要） |
-| <strong>入金スピード</strong> | 最短即日 | 数日〜1週間 |
-| <strong>おすすめの人</strong> | バレたくない・急ぎ | コスト重視 |</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>2社間ファクタリング</th>
+<th>3社間ファクタリング</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料相場</strong></td>
+<td><strong>8%〜18%</strong></td>
+<td><strong>2%〜9%</strong></td>
+</tr>
+<tr>
+<td><strong>売掛先への通知</strong></td>
+<td>なし</td>
+<td>あり（承諾必要）</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短即日</td>
+<td>数日〜1週間</td>
+</tr>
+<tr>
+<td><strong>おすすめの人</strong></td>
+<td>バレたくない・急ぎ</td>
+<td>コスト重視</td>
+</tr>
+</tbody>
+</table>
 <p><strong>重要:</strong> 「手数料1%〜」の表記は3社間ファクタリングの最低ライン。2社間で初回利用の場合、<strong>実際は10〜15%程度</strong>が一般的です。2社間と3社間の違いは<a href="/articles/article-factoring-toha/">ファクタリングとは？仕組み完全解説</a>で詳しく解説しています。</p>
 <h3>手数料が決まる3つの要素</h3>
 <p><strong>1. 売掛先の信用力</strong>
@@ -44,124 +69,439 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>100万円シミュレーション：各社でいくら手元に残る？</h2>
 <p><strong>前提:</strong> 100万円の請求書を2社間ファクタリングで売却した場合</p>
-<p>| サービス | 手数料率 | 手数料額 | <strong>手元に残る額</strong> |
-|---------|---------|---------|---------------|
-| QuQuMo | 1%〜（実質5〜10%） | 5〜10万円 | <strong>90〜95万円</strong> |
-| ビートレーディング | 4%〜（実質5〜12%） | 5〜12万円 | <strong>88〜95万円</strong> |
-| 日本中小企業金融サポート | 1.5〜10% | 1.5〜10万円 | <strong>90〜98.5万円</strong> |
-| OLTA | 2〜9% | 2〜9万円 | <strong>91〜98万円</strong> |
-| PAYTODAY | 1〜9.5% | 1〜9.5万円 | <strong>90.5〜99万円</strong> |
-| アクセルファクター | 2社間1〜12%／3社間0.5〜10.5% | 1〜12万円（2社間） | <strong>88〜99万円</strong>（2社間） |
-| ベストファクター | 2〜20% | 2〜20万円 | <strong>80〜98万円</strong> |
-| ペイトナー | 10%固定 | 10万円 | <strong>90万円</strong> |
-| ラボル | 10%固定 | 10万円 | <strong>90万円</strong> |
-| みんなのファクタリング | 10% | 10万円 | <strong>90万円</strong> |
-| トップマネジメント | 3.5〜12.5% | 3.5〜12.5万円 | <strong>87.5〜96.5万円</strong> |
-| 事業資金エージェント | 1.5%〜 | 1.5万円〜 | <strong>98.5万円〜</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>サービス</th>
+<th>手数料率</th>
+<th>手数料額</th>
+<th><strong>手元に残る額</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>QuQuMo</td>
+<td>1%〜（実質5〜10%）</td>
+<td>5〜10万円</td>
+<td><strong>90〜95万円</strong></td>
+</tr>
+<tr>
+<td>ビートレーディング</td>
+<td>4%〜（実質5〜12%）</td>
+<td>5〜12万円</td>
+<td><strong>88〜95万円</strong></td>
+</tr>
+<tr>
+<td>日本中小企業金融サポート</td>
+<td>1.5〜10%</td>
+<td>1.5〜10万円</td>
+<td><strong>90〜98.5万円</strong></td>
+</tr>
+<tr>
+<td>OLTA</td>
+<td>2〜9%</td>
+<td>2〜9万円</td>
+<td><strong>91〜98万円</strong></td>
+</tr>
+<tr>
+<td>PAYTODAY</td>
+<td>1〜9.5%</td>
+<td>1〜9.5万円</td>
+<td><strong>90.5〜99万円</strong></td>
+</tr>
+<tr>
+<td>アクセルファクター</td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+<td>1〜12万円（2社間）</td>
+<td><strong>88〜99万円</strong>（2社間）</td>
+</tr>
+<tr>
+<td>ベストファクター</td>
+<td>2〜20%</td>
+<td>2〜20万円</td>
+<td><strong>80〜98万円</strong></td>
+</tr>
+<tr>
+<td>ペイトナー</td>
+<td>10%固定</td>
+<td>10万円</td>
+<td><strong>90万円</strong></td>
+</tr>
+<tr>
+<td>ラボル</td>
+<td>10%固定</td>
+<td>10万円</td>
+<td><strong>90万円</strong></td>
+</tr>
+<tr>
+<td>みんなのファクタリング</td>
+<td>10%</td>
+<td>10万円</td>
+<td><strong>90万円</strong></td>
+</tr>
+<tr>
+<td>トップマネジメント</td>
+<td>3.5〜12.5%</td>
+<td>3.5〜12.5万円</td>
+<td><strong>87.5〜96.5万円</strong></td>
+</tr>
+<tr>
+<td>事業資金エージェント</td>
+<td>1.5%〜</td>
+<td>1.5万円〜</td>
+<td><strong>98.5万円〜</strong></td>
+</tr>
+</tbody>
+</table>
 <p><strong>注意:</strong> 下限手数料が適用されるのは、売掛先の信用力が高く、金額が大きく、利用実績がある場合に限られます。<strong>初回・少額・2社間の場合は上限に近い手数料になることが一般的です。</strong></p>
 <hr>
 <h2>手数料が安いファクタリング会社12選</h2>
 <h3>手数料最安クラス（下限1%台）</h3>
 <h4>1. QuQuMo（ククモ） — 手数料1%〜</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>1%〜</strong> |
-| 対応 | 2社間のみ |
-| 入金スピード | 最短2時間 |
-| 必要書類 | 請求書・通帳の2点 |
-| 買取上限 | なし |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>1%〜</strong></td>
+</tr>
+<tr>
+<td>対応</td>
+<td>2社間のみ</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td>必要書類</td>
+<td>請求書・通帳の2点</td>
+</tr>
+<tr>
+<td>買取上限</td>
+<td>なし</td>
+</tr>
+</tbody>
+</table>
 <p>2社間ファクタリングで1%〜は業界最安。オンライン完結で人件費を削減しているため低手数料を実現。大口案件ほど有利。</p>
 <h4>2. 日本中小企業金融サポート機構 — 手数料1.5%〜10%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>1.5%〜10%</strong> |
-| 対応 | 2社間・3社間 |
-| 入金スピード | 最短3時間 |
-| 買取上限 | なし |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>1.5%〜10%</strong></td>
+</tr>
+<tr>
+<td>対応</td>
+<td>2社間・3社間</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短3時間</td>
+</tr>
+<tr>
+<td>買取上限</td>
+<td>なし</td>
+</tr>
+</tbody>
+</table>
 <p><strong>手数料の上限が10%と明示されている安心感。</strong> 非営利の一般社団法人運営で、利益追求ではなく中小企業支援が目的。上限明示は業界でも珍しい。</p>
 <h4>3. 事業資金エージェント — 手数料1.5%〜</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>1.5%〜</strong> |
-| 対応 | 2社間・3社間 |
-| 入金スピード | 最短3時間 |
-| 買取上限 | 最大2億円 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>1.5%〜</strong></td>
+</tr>
+<tr>
+<td>対応</td>
+<td>2社間・3社間</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短3時間</td>
+</tr>
+<tr>
+<td>買取上限</td>
+<td>最大2億円</td>
+</tr>
+</tbody>
+</table>
 <p>3社間なら1.5%〜の超低手数料。500万円以下は来店不要。大口案件にも対応。</p>
 <h4>4. PAYTODAY — 手数料1%〜9.5%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>1%〜9.5%</strong> |
-| 対応 | 2社間 |
-| 入金スピード | 最短30分 |
-| 買取上限 | 上限なし |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>1%〜9.5%</strong></td>
+</tr>
+<tr>
+<td>対応</td>
+<td>2社間</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短30分</td>
+</tr>
+<tr>
+<td>買取上限</td>
+<td>上限なし</td>
+</tr>
+</tbody>
+</table>
 <p><strong>手数料上限9.5%が明示されている＋最短30分入金。</strong> スピードとコストのバランスが最も優れたサービスの一つ。AI審査で効率化。</p>
 <h3>手数料低〜中水準（2%〜）</h3>
 <h4>5. OLTA（オルタ） — 手数料2%〜9%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>2%〜9%</strong> |
-| 対応 | 2社間 |
-| 入金スピード | 最短即日 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>2%〜9%</strong></td>
+</tr>
+<tr>
+<td>対応</td>
+<td>2社間</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+</tbody>
+</table>
 <p>事務手数料ゼロ。手数料以外の隠れコストが一切ない。クラウド会計ソフト連携で手続き簡略化。</p>
 <h4>6. ビートレーディング — 手数料2%〜12%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>2社間 4%〜 / 3社間 2%〜</strong> |
-| 対応 | 2社間・3社間 |
-| 入金スピード | 最短2時間 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>2社間 4%〜 / 3社間 2%〜</strong></td>
+</tr>
+<tr>
+<td>対応</td>
+<td>2社間・3社間</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+</tbody>
+</table>
 <p>累計91,000社の実績。書類2点のみ。利用実績を積むと手数料が下がりやすい。</p>
 <h4>7. ベストファクター — 手数料2%〜20%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>2%〜20%</strong> |
-| 審査通過率 | 92.2% |
-| 入金スピード | 最短即日 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>2%〜20%</strong></td>
+</tr>
+<tr>
+<td>審査通過率</td>
+<td>92.2%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+</tbody>
+</table>
 <p>審査通過率92.2%。手数料の幅は広いが、審査に通りやすいのが魅力。</p>
 <h4>8. アクセルファクター — 手数料2社間1〜12%／3社間0.5〜10.5%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間1〜12%／3社間0.5〜10.5% |
-| 審査通過率 | 93%以上 |
-| 入金スピード | 最短即日 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+</tr>
+<tr>
+<td>審査通過率</td>
+<td>93%以上</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+</tbody>
+</table>
 <p>審査通過率93%以上。赤字・税金滞納でも利用可能なケースあり。</p>
 <h4>9. トップマネジメント — 手数料0.5%〜12.5%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>2社間 3.5%〜12.5% / 3社間 0.5%〜3.5%</strong> |
-| 入金スピード | 最短即日 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>2社間 3.5%〜12.5% / 3社間 0.5%〜3.5%</strong></td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+</tbody>
+</table>
 <p><strong>3社間の手数料0.5%〜は業界最安。</strong> 売掛先の了承が得られる場合は最もコストを抑えられる選択肢。</p>
 <h3>固定手数料（明朗会計）</h3>
 <h4>10. ペイトナー — 手数料10%固定</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>一律10%</strong> |
-| 入金スピード | 最短即日 |
-| 最低額 | 1万円〜 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>一律10%</strong></td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>最低額</td>
+<td>1万円〜</td>
+</tr>
+</tbody>
+</table>
 <p><strong>事前に手数料が確定する安心感。</strong> 10%は2社間の相場内。最短即日入金で個人宛て請求書も対応。</p>
 <h4>11. ラボル — 手数料10%固定</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>一律10%</strong> |
-| 入金スピード | 最短30分 |
-| 土日祝対応 | 24時間365日 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>一律10%</strong></td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短30分</td>
+</tr>
+<tr>
+<td>土日祝対応</td>
+<td>24時間365日</td>
+</tr>
+</tbody>
+</table>
 <p>10%固定で計算しやすい。土日祝も入金対応は業界唯一。</p>
 <h4>12. みんなのファクタリング — 手数料10%</h4>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | <strong>10%</strong> |
-| 入金スピード | 最短60分 |
-| 土日祝対応 | 対応 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td><strong>10%</strong></td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短60分</td>
+</tr>
+<tr>
+<td>土日祝対応</td>
+<td>対応</td>
+</tr>
+</tbody>
+</table>
 <p>AI審査で土日祝も対応。1万円から少額利用可能。</p>
 <hr>
 <h2>手数料以外の「隠れコスト」に要注意</h2>
 <p>手数料だけを比較しても、実際の支払い総額はわかりません。以下の隠れコストにも注目してください。</p>
-<p>| 隠れコスト | 内容 | 相場 |
-|-----------|------|------|
-| <strong>事務手数料</strong> | 契約書作成・審査費用 | 0〜数万円 |
-| <strong>債権譲渡登記費用</strong> | 登記が必要な場合 | 5〜10万円 |
-| <strong>印紙税</strong> | 契約書に貼る印紙 | 200〜数千円 |
-| <strong>出張費・交通費</strong> | 対面契約の場合 | 実費 |
-| <strong>振込手数料</strong> | 入金時の手数料 | 数百円 |</p>
+<table>
+<thead>
+<tr>
+<th>隠れコスト</th>
+<th>内容</th>
+<th>相場</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>事務手数料</strong></td>
+<td>契約書作成・審査費用</td>
+<td>0〜数万円</td>
+</tr>
+<tr>
+<td><strong>債権譲渡登記費用</strong></td>
+<td>登記が必要な場合</td>
+<td>5〜10万円</td>
+</tr>
+<tr>
+<td><strong>印紙税</strong></td>
+<td>契約書に貼る印紙</td>
+<td>200〜数千円</td>
+</tr>
+<tr>
+<td><strong>出張費・交通費</strong></td>
+<td>対面契約の場合</td>
+<td>実費</td>
+</tr>
+<tr>
+<td><strong>振込手数料</strong></td>
+<td>入金時の手数料</td>
+<td>数百円</td>
+</tr>
+</tbody>
+</table>
 <p><strong>隠れコストがない会社:</strong></p>
 <ul>
 <li>OLTA: 「手数料以外の費用は一切不要」と明言</li>
@@ -192,10 +532,30 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 → 100万円 × (1 - 0.10) = <strong>90万円</strong>が手取り</p>
 <h3>確定申告での勘定科目</h3>
 <p>ファクタリング手数料は**「売上債権売却損」**として経費計上します。</p>
-<p>| 借方 | 金額 | 貸方 | 金額 |
-|------|------|------|------|
-| 普通預金 | 90万円 | 売掛金 | 100万円 |
-| 売上債権売却損 | 10万円 | | |</p>
+<table>
+<thead>
+<tr>
+<th>借方</th>
+<th>金額</th>
+<th>貸方</th>
+<th>金額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>普通預金</td>
+<td>90万円</td>
+<td>売掛金</td>
+<td>100万円</td>
+</tr>
+<tr>
+<td>売上債権売却損</td>
+<td>10万円</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h3>消費税の扱い</h3>
 <p>ファクタリング手数料は<strong>非課税</strong>です。消費税はかかりません（金銭債権の譲渡に該当するため）。</p>
 <hr>

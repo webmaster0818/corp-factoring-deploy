@@ -6,25 +6,46 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-kojin-sokujitsu",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-kojin-sokujitsu","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-kojin-sokujitsu",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-kojin-sokujitsu","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/kojin-jigyonushi.jpg","image"]
-11:T350f,<p>「今日中に入金が必要なのに、銀行は間に合わない」「取引先への支払いが明日なのに、請求書の入金は来月末…」——個人事業主やフリーランスなら、このような緊急の資金不足に直面した経験があるかもしれません。</p>
+11:T3a92,<p>「今日中に入金が必要なのに、銀行は間に合わない」「取引先への支払いが明日なのに、請求書の入金は来月末…」——個人事業主やフリーランスなら、このような緊急の資金不足に直面した経験があるかもしれません。</p>
 <p>実は、<strong>個人事業主でも最短即日で請求書を現金化できる</strong>手段があります。それがファクタリングです。2026年現在、フリーランス特化のファクタリングサービスが充実しており、スマホ一つで申し込みから即日入金まで完結できるようになっています。</p>
 <p>この記事では、個人事業主が即日入金を実現するためのファクタリング活用法を徹底解説します。</p>
 <hr>
 <h2>個人事業主が即日ファクタリングを必要とする場面</h2>
 <h3>緊急の資金ニーズ3パターン</h3>
 <p>個人事業主が「今日中に現金が必要」となる状況は、大きく以下の3パターンに分類されます。</p>
-<p>| パターン | 具体例 | 必要金額目安 |
-|--------|--------|------------|
-| <strong>支払い期日の到来</strong> | 仕入れ代金・外注費・家賃 | 10万〜100万円 |
-| <strong>急な受注対応</strong> | 材料費・設備レンタル | 30万〜500万円 |
-| <strong>税金・社会保険料</strong> | 所得税・消費税の納付 | 10万〜300万円 |</p>
+<table>
+<thead>
+<tr>
+<th>パターン</th>
+<th>具体例</th>
+<th>必要金額目安</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>支払い期日の到来</strong></td>
+<td>仕入れ代金・外注費・家賃</td>
+<td>10万〜100万円</td>
+</tr>
+<tr>
+<td><strong>急な受注対応</strong></td>
+<td>材料費・設備レンタル</td>
+<td>30万〜500万円</td>
+</tr>
+<tr>
+<td><strong>税金・社会保険料</strong></td>
+<td>所得税・消費税の納付</td>
+<td>10万〜300万円</td>
+</tr>
+</tbody>
+</table>
 <p>これらすべてのケースで、銀行融資（審査2〜4週間）は間に合いません。ビジネスローンでも審査に1〜3日かかることが多く、今日中の入金には対応できないことがあります。</p>
 <h3>なぜ個人事業主は資金繰りに困りやすいのか</h3>
 <p>個人事業主・フリーランスが資金繰りに悩む構造的な理由があります。</p>
@@ -53,62 +74,197 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </code></pre>
 <p>取引先への通知が不要なため、取引関係を維持しながら即日資金化できます。</p>
 <h3>即日入金の条件</h3>
-<p>| 条件 | 内容 |
-|-----|------|
-| <strong>申込時間</strong> | 平日営業時間内（午前中申込推奨） |
-| <strong>書類準備</strong> | 請求書・本人確認書類・通帳の3点 |
-| <strong>審査通過</strong> | 売掛先（取引先）の信用力が基準 |
-| <strong>振込銀行</strong> | 同一銀行間の方が速い場合あり |</p>
+<table>
+<thead>
+<tr>
+<th>条件</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>申込時間</strong></td>
+<td>平日営業時間内（午前中申込推奨）</td>
+</tr>
+<tr>
+<td><strong>書類準備</strong></td>
+<td>請求書・本人確認書類・通帳の3点</td>
+</tr>
+<tr>
+<td><strong>審査通過</strong></td>
+<td>売掛先（取引先）の信用力が基準</td>
+</tr>
+<tr>
+<td><strong>振込銀行</strong></td>
+<td>同一銀行間の方が速い場合あり</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>個人事業主が即日対応で選ぶべきファクタリング会社5選</h2>
 <h3>1位：ペイトナーファクタリング</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 一律10% |
-| <strong>入金スピード</strong> | <strong>最短即日</strong> |
-| <strong>最低利用額</strong> | 1万円〜 |
-| <strong>必要書類</strong> | 請求書・本人確認書類 |
-| <strong>個人事業主対応</strong> | ○ |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>一律10%</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td><strong>最短即日</strong></td>
+</tr>
+<tr>
+<td><strong>最低利用額</strong></td>
+<td>1万円〜</td>
+</tr>
+<tr>
+<td><strong>必要書類</strong></td>
+<td>請求書・本人確認書類</td>
+</tr>
+<tr>
+<td><strong>個人事業主対応</strong></td>
+<td>○</td>
+</tr>
+</tbody>
+</table>
 <p>個人事業主・フリーランス向けに特化したサービスで、審査後最短即日の入金に対応。手数料が一律10%と分かりやすく、初回は50万円まで利用可能で実績に応じて上限が引き上げられます。法人口座不要で、個人の銀行口座へ直接振込。</p>
 <p><strong>こんな人におすすめ：</strong> 少額を今すぐ現金化したい、手数料を明確にしたい</p>
 <h3>2位：QuQuMo（ククモ）</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 1%〜（上限非公表） |
-| <strong>入金スピード</strong> | 最短2時間 |
-| <strong>最低利用額</strong> | 制限なし |
-| <strong>必要書類</strong> | 請求書・通帳の2点 |
-| <strong>個人事業主対応</strong> | ○ |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>1%〜（上限非公表）</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td><strong>最低利用額</strong></td>
+<td>制限なし</td>
+</tr>
+<tr>
+<td><strong>必要書類</strong></td>
+<td>請求書・通帳の2点</td>
+</tr>
+<tr>
+<td><strong>個人事業主対応</strong></td>
+<td>○</td>
+</tr>
+</tbody>
+</table>
 <p>必要書類2点のみのシンプルな手続きで、最短2時間入金。手数料1%〜と業界最安水準を誇り、コストを抑えたい方に最適。オンライン完結でスマホから申込可能。</p>
 <p><strong>こんな人におすすめ：</strong> 手数料を抑えながら即日対応したい</p>
 <h3>3位：ラボル（labol）</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 一律10% |
-| <strong>入金スピード</strong> | 最短30分 |
-| <strong>最低利用額</strong> | 1万円〜 |
-| <strong>必要書類</strong> | 請求書・本人確認書類・通帳 |
-| <strong>個人事業主対応</strong> | ○（開業直後OK） |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>一律10%</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短30分</td>
+</tr>
+<tr>
+<td><strong>最低利用額</strong></td>
+<td>1万円〜</td>
+</tr>
+<tr>
+<td><strong>必要書類</strong></td>
+<td>請求書・本人確認書類・通帳</td>
+</tr>
+<tr>
+<td><strong>個人事業主対応</strong></td>
+<td>○（開業直後OK）</td>
+</tr>
+</tbody>
+</table>
 <p>24時間365日対応で、土日祝日も即日入金が可能。開業直後でも利用できる数少ないサービスで、個人間取引の請求書にも対応。深夜に急な資金不足が発生した場合にも心強い。</p>
 <p><strong>こんな人におすすめ：</strong> 土日祝も含めて今すぐ対応してほしい、開業直後</p>
 <h3>4位：PayToday（ペイトゥデイ）</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 1%〜9.5% |
-| <strong>入金スピード</strong> | 最短30分 |
-| <strong>最低利用額</strong> | 10万円〜 |
-| <strong>必要書類</strong> | 請求書・通帳 |
-| <strong>個人事業主対応</strong> | ○ |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>1%〜9.5%</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短30分</td>
+</tr>
+<tr>
+<td><strong>最低利用額</strong></td>
+<td>10万円〜</td>
+</tr>
+<tr>
+<td><strong>必要書類</strong></td>
+<td>請求書・通帳</td>
+</tr>
+<tr>
+<td><strong>個人事業主対応</strong></td>
+<td>○</td>
+</tr>
+</tbody>
+</table>
 <p>AI審査を採用し24時間365日対応。手数料上限が9.5%と明示されているため、コスト計算がしやすい。最短30分入金で即日対応可能。10万円以上の案件に最適。</p>
 <p><strong>こんな人におすすめ：</strong> ある程度の金額を低手数料で即日現金化したい</p>
 <h3>5位：FREENANCE（フリーナンス）</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 3%〜10% |
-| <strong>入金スピード</strong> | 最短即日 |
-| <strong>最低利用額</strong> | 1万円〜 |
-| <strong>必要書類</strong> | 請求書・身分証明書 |
-| <strong>個人事業主対応</strong> | ○ |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>3%〜10%</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td><strong>最低利用額</strong></td>
+<td>1万円〜</td>
+</tr>
+<tr>
+<td><strong>必要書類</strong></td>
+<td>請求書・身分証明書</td>
+</tr>
+<tr>
+<td><strong>個人事業主対応</strong></td>
+<td>○</td>
+</tr>
+</tbody>
+</table>
 <p>GMOクリエイターズネットワーク運営の信頼性の高いサービス。損害賠償保険が付帯しており、クリエイター・デザイナー・ITフリーランスに特に人気。手数料3%〜10%でコストパフォーマンスも良好。</p>
 <p><strong>こんな人におすすめ：</strong> クリエイター・IT系フリーランスで信頼性を重視</p>
 <hr>
@@ -116,17 +272,34 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <h3>最速で審査を通過させる書類準備</h3>
 <p>即日入金を実現するには、書類の不備をゼロにすることが最重要です。</p>
 <p><strong>必須書類チェックリスト：</strong></p>
-<ul>
-<li>[ ] 請求書（発行済みで、金額・支払期日・振込先が明記）</li>
-<li>[ ] 本人確認書類（運転免許証またはマイナンバーカード）</li>
-<li>[ ] 直近3ヶ月の銀行通帳（表紙・見開き・取引明細ページ）</li>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> 請求書（発行済みで、金額・支払期日・振込先が明記）</li>
+<li class="task-list-item"><input type="checkbox" disabled> 本人確認書類（運転免許証またはマイナンバーカード）</li>
+<li class="task-list-item"><input type="checkbox" disabled> 直近3ヶ月の銀行通帳（表紙・見開き・取引明細ページ）</li>
 </ul>
 <p><strong>よくある書類不備と対策：</strong></p>
-<p>| 不備内容 | 対策 |
-|--------|------|
-| 請求書に支払期日がない | 必ず支払期日を記載する |
-| 通帳がネットバンクのみ | 取引明細をPDFでダウンロード |
-| 身分証の有効期限切れ | 事前に更新を済ませる |</p>
+<table>
+<thead>
+<tr>
+<th>不備内容</th>
+<th>対策</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>請求書に支払期日がない</td>
+<td>必ず支払期日を記載する</td>
+</tr>
+<tr>
+<td>通帳がネットバンクのみ</td>
+<td>取引明細をPDFでダウンロード</td>
+</tr>
+<tr>
+<td>身分証の有効期限切れ</td>
+<td>事前に更新を済ませる</td>
+</tr>
+</tbody>
+</table>
 <h3>申込のベストタイミング</h3>
 <p>当日中の振込を確実にするには、<strong>午前中に申し込む</strong>ことが鉄則です。</p>
 <ul>

@@ -6,14 +6,14 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-kaigyo-shikin",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-kaigyo-shikin","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-kaigyo-shikin",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-kaigyo-shikin","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/kojin-jigyonushi.jpg","image"]
-11:T3b7c,<p>「個人事業主として独立したいけど、開業資金はいくら用意すればいいの？」</p>
+11:T42f6,<p>「個人事業主として独立したいけど、開業資金はいくら用意すればいいの？」</p>
 <p>これから事業を始める方にとって、最初のハードルが「お金」の問題です。業種によって必要な金額は大きく異なり、<strong>IT系なら50万円以下で始められる一方、飲食店は500万〜1,000万円以上かかる</strong>ケースも珍しくありません。</p>
 <p>この記事では、業種別の開業資金の目安、自己資金の準備割合、そして活用できる5つの資金調達方法を網羅的に解説します。</p>
 <hr>
@@ -21,86 +21,286 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>開業資金は大きく分けて**「設備資金」と「運転資金」**の2つに分類されます。</p>
 <h3>設備資金（初期投資）</h3>
 <p>事業開始前に一度だけ必要になるお金です。</p>
-<p>| 項目 | 具体例 |
-|------|--------|
-| 物件取得費 | 敷金・礼金・保証金・仲介手数料 |
-| 内装・外装工事費 | 店舗の改装、看板設置 |
-| 設備・機器 | パソコン、業務用機器、車両 |
-| 什器・備品 | デスク、椅子、棚、レジ |
-| 開業届関連費用 | 行政手続き、許認可取得費 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>具体例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>物件取得費</td>
+<td>敷金・礼金・保証金・仲介手数料</td>
+</tr>
+<tr>
+<td>内装・外装工事費</td>
+<td>店舗の改装、看板設置</td>
+</tr>
+<tr>
+<td>設備・機器</td>
+<td>パソコン、業務用機器、車両</td>
+</tr>
+<tr>
+<td>什器・備品</td>
+<td>デスク、椅子、棚、レジ</td>
+</tr>
+<tr>
+<td>開業届関連費用</td>
+<td>行政手続き、許認可取得費</td>
+</tr>
+</tbody>
+</table>
 <h3>運転資金（ランニングコスト）</h3>
 <p>事業を継続するために毎月かかるお金です。<strong>最低3〜6か月分を確保することが推奨</strong>されています。</p>
-<p>| 項目 | 具体例 |
-|------|--------|
-| 家賃 | 事務所・店舗の賃料 |
-| 人件費 | アルバイト・外注費 |
-| 仕入れ費 | 材料費、商品仕入れ |
-| 広告宣伝費 | チラシ、Web広告、SNS運用 |
-| 水道光熱費・通信費 | 電気・ガス・インターネット |
-| 保険料 | 事業用保険、社会保険 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>具体例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>家賃</td>
+<td>事務所・店舗の賃料</td>
+</tr>
+<tr>
+<td>人件費</td>
+<td>アルバイト・外注費</td>
+</tr>
+<tr>
+<td>仕入れ費</td>
+<td>材料費、商品仕入れ</td>
+</tr>
+<tr>
+<td>広告宣伝費</td>
+<td>チラシ、Web広告、SNS運用</td>
+</tr>
+<tr>
+<td>水道光熱費・通信費</td>
+<td>電気・ガス・インターネット</td>
+</tr>
+<tr>
+<td>保険料</td>
+<td>事業用保険、社会保険</td>
+</tr>
+</tbody>
+</table>
 <p>開業資金を考える際は、設備資金だけでなく、<strong>売上が安定するまでの運転資金を含めて計画する</strong>ことが重要です。</p>
 <hr>
 <h2>業種別の開業資金目安</h2>
 <p>日本政策金融公庫の「2025年度新規開業実態調査」によると、開業費用の中央値は約580万円です。ただし、業種によって大きな差があります。</p>
 <h3>飲食業</h3>
-<p>| 項目 | 金額目安 |
-|------|---------|
-| 物件取得費（保証金含む） | 100〜300万円 |
-| 内装工事費 | 200〜500万円 |
-| 厨房設備 | 100〜300万円 |
-| 什器・備品 | 30〜100万円 |
-| 運転資金（3か月分） | 100〜300万円 |
-| <strong>合計</strong> | <strong>530〜1,500万円</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>金額目安</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>物件取得費（保証金含む）</td>
+<td>100〜300万円</td>
+</tr>
+<tr>
+<td>内装工事費</td>
+<td>200〜500万円</td>
+</tr>
+<tr>
+<td>厨房設備</td>
+<td>100〜300万円</td>
+</tr>
+<tr>
+<td>什器・備品</td>
+<td>30〜100万円</td>
+</tr>
+<tr>
+<td>運転資金（3か月分）</td>
+<td>100〜300万円</td>
+</tr>
+<tr>
+<td><strong>合計</strong></td>
+<td><strong>530〜1,500万円</strong></td>
+</tr>
+</tbody>
+</table>
 <p>飲食業は最も開業資金が高くなりやすい業種です。<strong>居抜き物件を活用すれば内装工事費を大幅に削減</strong>できるため、300〜500万円で開業するケースもあります。</p>
 <h3>IT・Web系（フリーランス含む）</h3>
-<p>| 項目 | 金額目安 |
-|------|---------|
-| パソコン・周辺機器 | 15〜40万円 |
-| ソフトウェア・ツール | 5〜20万円（年額） |
-| Webサイト制作 | 0〜30万円 |
-| 広告・営業費 | 5〜20万円 |
-| 運転資金（3か月分） | 30〜100万円 |
-| <strong>合計</strong> | <strong>55〜210万円</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>金額目安</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>パソコン・周辺機器</td>
+<td>15〜40万円</td>
+</tr>
+<tr>
+<td>ソフトウェア・ツール</td>
+<td>5〜20万円（年額）</td>
+</tr>
+<tr>
+<td>Webサイト制作</td>
+<td>0〜30万円</td>
+</tr>
+<tr>
+<td>広告・営業費</td>
+<td>5〜20万円</td>
+</tr>
+<tr>
+<td>運転資金（3か月分）</td>
+<td>30〜100万円</td>
+</tr>
+<tr>
+<td><strong>合計</strong></td>
+<td><strong>55〜210万円</strong></td>
+</tr>
+</tbody>
+</table>
 <p>IT系は店舗が不要で在庫も持たないため、<strong>最も少ない資金で開業できる業種</strong>です。自宅を事業所にすれば、50万円以下での開業も現実的です。</p>
 <h3>美容業（美容室・エステ・ネイル）</h3>
-<p>| 項目 | 金額目安 |
-|------|---------|
-| 物件取得費 | 80〜200万円 |
-| 内装工事費 | 150〜400万円 |
-| 美容機器・設備 | 100〜300万円 |
-| 材料費（初期） | 20〜50万円 |
-| 運転資金（3か月分） | 80〜200万円 |
-| <strong>合計</strong> | <strong>430〜1,150万円</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>金額目安</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>物件取得費</td>
+<td>80〜200万円</td>
+</tr>
+<tr>
+<td>内装工事費</td>
+<td>150〜400万円</td>
+</tr>
+<tr>
+<td>美容機器・設備</td>
+<td>100〜300万円</td>
+</tr>
+<tr>
+<td>材料費（初期）</td>
+<td>20〜50万円</td>
+</tr>
+<tr>
+<td>運転資金（3か月分）</td>
+<td>80〜200万円</td>
+</tr>
+<tr>
+<td><strong>合計</strong></td>
+<td><strong>430〜1,150万円</strong></td>
+</tr>
+</tbody>
+</table>
 <p>美容室は1席あたり約200〜300万円が目安です。ネイルサロンやまつエクサロンなど、小スペースで始められる業態なら200〜400万円に抑えられます。</p>
 <h3>小売業（ECショップ含む）</h3>
-<p>| 項目 | 金額目安 |
-|------|---------|
-| 物件取得費 | 80〜250万円（実店舗の場合） |
-| 内装・什器 | 50〜200万円 |
-| 初期仕入れ | 50〜300万円 |
-| ECサイト構築 | 0〜50万円 |
-| 運転資金（3か月分） | 80〜200万円 |
-| <strong>合計</strong> | <strong>260〜1,000万円</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>金額目安</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>物件取得費</td>
+<td>80〜250万円（実店舗の場合）</td>
+</tr>
+<tr>
+<td>内装・什器</td>
+<td>50〜200万円</td>
+</tr>
+<tr>
+<td>初期仕入れ</td>
+<td>50〜300万円</td>
+</tr>
+<tr>
+<td>ECサイト構築</td>
+<td>0〜50万円</td>
+</tr>
+<tr>
+<td>運転資金（3か月分）</td>
+<td>80〜200万円</td>
+</tr>
+<tr>
+<td><strong>合計</strong></td>
+<td><strong>260〜1,000万円</strong></td>
+</tr>
+</tbody>
+</table>
 <p>実店舗を構えるかECのみで始めるかで大きく変わります。<strong>EC専業であれば100万円以下での開業も可能</strong>です。</p>
 <h3>建設業・職人系</h3>
-<p>| 項目 | 金額目安 |
-|------|---------|
-| 工具・機材 | 50〜200万円 |
-| 車両 | 100〜300万円 |
-| 事務所 | 0〜50万円（自宅兼用可） |
-| 保険・許認可 | 20〜50万円 |
-| 運転資金（3か月分） | 100〜300万円 |
-| <strong>合計</strong> | <strong>270〜900万円</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>金額目安</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>工具・機材</td>
+<td>50〜200万円</td>
+</tr>
+<tr>
+<td>車両</td>
+<td>100〜300万円</td>
+</tr>
+<tr>
+<td>事務所</td>
+<td>0〜50万円（自宅兼用可）</td>
+</tr>
+<tr>
+<td>保険・許認可</td>
+<td>20〜50万円</td>
+</tr>
+<tr>
+<td>運転資金（3か月分）</td>
+<td>100〜300万円</td>
+</tr>
+<tr>
+<td><strong>合計</strong></td>
+<td><strong>270〜900万円</strong></td>
+</tr>
+</tbody>
+</table>
 <p>建設業は許認可取得に一定の自己資金が求められるケースがあります。また、工事完了から入金まで2〜3か月かかることが多いため、<strong>運転資金を多めに確保する必要があります</strong>。</p>
 <hr>
 <h2>自己資金はどのくらい必要？</h2>
 <h3>一般的な目安：開業資金の3割以上</h3>
 <p><a href="/articles/article-sogyo-yushi/">日本政策金融公庫の創業融資</a>を利用する場合、<strong>自己資金は開業資金の3割以上が目安</strong>とされています。制度上は「10分の1以上」が要件ですが、実際の審査では3割程度あると通りやすくなります。</p>
-<p>| 開業資金 | 最低ライン（10%） | 推奨ライン（30%） |
-|---------|-----------------|-----------------|
-| 300万円 | 30万円 | 90万円 |
-| 500万円 | 50万円 | 150万円 |
-| 1,000万円 | 100万円 | 300万円 |</p>
+<table>
+<thead>
+<tr>
+<th>開業資金</th>
+<th>最低ライン（10%）</th>
+<th>推奨ライン（30%）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>300万円</td>
+<td>30万円</td>
+<td>90万円</td>
+</tr>
+<tr>
+<td>500万円</td>
+<td>50万円</td>
+<td>150万円</td>
+</tr>
+<tr>
+<td>1,000万円</td>
+<td>100万円</td>
+<td>300万円</td>
+</tr>
+</tbody>
+</table>
 <h3>自己資金の作り方</h3>
 <ol>
 <li><strong>コツコツ貯金:</strong> 毎月定額を事業用口座に積み立てる（融資審査で計画性が評価される）</li>
@@ -114,25 +314,73 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <h2>開業資金の調達方法5選</h2>
 <h3>1. 日本政策金融公庫の創業融資</h3>
 <p><strong>最もおすすめの資金調達方法です。</strong></p>
-<p>| 項目 | 内容 |
-|------|------|
-| 融資限度額 | 最大7,200万円（うち運転資金4,800万円） |
-| 金利 | 年1.0〜3.0%程度 |
-| 返済期間 | 設備資金20年以内、運転資金10年以内 |
-| 担保・保証人 | 原則不要 |
-| 審査期間 | 約2〜3週間 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>融資限度額</td>
+<td>最大7,200万円（うち運転資金4,800万円）</td>
+</tr>
+<tr>
+<td>金利</td>
+<td>年1.0〜3.0%程度</td>
+</tr>
+<tr>
+<td>返済期間</td>
+<td>設備資金20年以内、運転資金10年以内</td>
+</tr>
+<tr>
+<td>担保・保証人</td>
+<td>原則不要</td>
+</tr>
+<tr>
+<td>審査期間</td>
+<td>約2〜3週間</td>
+</tr>
+</tbody>
+</table>
 <p>個人事業主の開業で最も利用されている融資制度です。民間の銀行融資と比べて金利が低く、担保・保証人が不要な点が最大のメリット。詳しくは<a href="/articles/article-jfc-kojin/">日本政策金融公庫の個人事業主向け融資ガイド</a>をご覧ください。</p>
 <h3>2. 制度融資（自治体の融資制度）</h3>
 <p>自治体・金融機関・信用保証協会の3者が連携する融資制度です。自治体が利子補給を行うため、**実質金利が非常に低い（0.5〜2.0%程度）**のが特徴です。</p>
 <p>ただし、申請から入金まで1〜2か月かかるため、スケジュールに余裕を持って申し込む必要があります。<a href="/articles/article-seido-yuushi/">制度融資の詳細はこちら</a>で解説しています。</p>
 <h3>3. 補助金・助成金</h3>
 <p>返済不要の資金として、補助金・助成金の活用も検討しましょう。</p>
-<p>| 補助金名 | 対象 | 補助額 |
-|---------|------|--------|
-| 小規模事業者持続化補助金 | 小規模事業者 | 最大200万円 |
-| IT導入補助金 | IT活用する事業者 | 最大450万円 |
-| ものづくり補助金 | 製造業等 | 最大1,250万円 |
-| 創業支援等事業者補助金 | 創業者 | 自治体により異なる |</p>
+<table>
+<thead>
+<tr>
+<th>補助金名</th>
+<th>対象</th>
+<th>補助額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>小規模事業者持続化補助金</td>
+<td>小規模事業者</td>
+<td>最大200万円</td>
+</tr>
+<tr>
+<td>IT導入補助金</td>
+<td>IT活用する事業者</td>
+<td>最大450万円</td>
+</tr>
+<tr>
+<td>ものづくり補助金</td>
+<td>製造業等</td>
+<td>最大1,250万円</td>
+</tr>
+<tr>
+<td>創業支援等事業者補助金</td>
+<td>創業者</td>
+<td>自治体により異なる</td>
+</tr>
+</tbody>
+</table>
 <p>補助金は後払いが基本（先に自己負担→後から補助金支給）のため、一時的な立替資金が必要です。詳しくは<a href="/articles/article-kojin-hojokin/">個人事業主向け補助金ガイド</a>をご確認ください。</p>
 <h3>4. クラウドファンディング</h3>
 <p>近年注目されている資金調達方法です。**商品やサービスを先行販売する形で資金を集める「購入型」**が主流です。</p>
@@ -180,13 +428,42 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>まとめ</h2>
 <p>個人事業主の開業資金は、業種によって50万円〜1,000万円以上と大きな幅があります。重要なのは、<strong>自分の業種に合った現実的な資金計画を立てること</strong>です。</p>
-<p>| 業種 | 開業資金の目安 | 自己資金の推奨額 |
-|------|-------------|---------------|
-| IT・Web系 | 55〜210万円 | 17〜63万円 |
-| 小売業（EC） | 100〜300万円 | 30〜90万円 |
-| 美容業 | 430〜1,150万円 | 129〜345万円 |
-| 飲食業 | 530〜1,500万円 | 159〜450万円 |
-| 建設業 | 270〜900万円 | 81〜270万円 |</p>
+<table>
+<thead>
+<tr>
+<th>業種</th>
+<th>開業資金の目安</th>
+<th>自己資金の推奨額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>IT・Web系</td>
+<td>55〜210万円</td>
+<td>17〜63万円</td>
+</tr>
+<tr>
+<td>小売業（EC）</td>
+<td>100〜300万円</td>
+<td>30〜90万円</td>
+</tr>
+<tr>
+<td>美容業</td>
+<td>430〜1,150万円</td>
+<td>129〜345万円</td>
+</tr>
+<tr>
+<td>飲食業</td>
+<td>530〜1,500万円</td>
+<td>159〜450万円</td>
+</tr>
+<tr>
+<td>建設業</td>
+<td>270〜900万円</td>
+<td>81〜270万円</td>
+</tr>
+</tbody>
+</table>
 <p><strong>資金調達は「日本政策金融公庫の創業融資」を軸に、制度融資や補助金を組み合わせる</strong>のが王道です。まずは<a href="/articles/article-kojin-shikin-chotatsu/">資金調達方法10選</a>で全体像を把握し、自分に合った方法を選んでください。</p>
 <hr>
 <h2>関連記事</h2>

@@ -6,28 +6,61 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-kokusai",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-kokusai","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-kokusai",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-kokusai","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/factoring-article.jpg","image"]
-11:T2817,<p>「海外取引の売掛金を早期回収したい」「与信不安のある海外バイヤーに対応したい」——国際取引が増えるグローバル時代、国際ファクタリングは海外取引のリスクヘッジ・資金繰り改善手段として注目を集めています。</p>
+11:T2b00,<p>「海外取引の売掛金を早期回収したい」「与信不安のある海外バイヤーに対応したい」——国際取引が増えるグローバル時代、国際ファクタリングは海外取引のリスクヘッジ・資金繰り改善手段として注目を集めています。</p>
 <p>この記事では、国際ファクタリングの仕組み、種類、メリット・デメリット、対応会社まで解説します。</p>
 <hr>
 <h2>国際ファクタリングとは?</h2>
 <h3>定義</h3>
 <p>輸出取引における<strong>海外バイヤー(輸入者)向けの売掛金</strong>を、ファクタリング会社が買い取るサービス。</p>
 <h3>国内ファクタリングとの違い</h3>
-<p>| 項目 | 国内ファクタリング | 国際ファクタリング |
-|------|----------------|----------------|
-| 取引対象 | 国内売掛金 | 海外売掛金 |
-| 通貨 | 円 | 外貨(USD、EUR等) |
-| 与信評価 | 国内信用情報 | 海外信用情報 |
-| 関与機関 | 1社 | 輸出側+輸入側の2社協働 |
-| 対象企業 | 中小〜大手 | 主に大手・中堅 |
-| 手数料 | 2〜18% | 1〜5%(銀行系) |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>国内ファクタリング</th>
+<th>国際ファクタリング</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>取引対象</td>
+<td>国内売掛金</td>
+<td>海外売掛金</td>
+</tr>
+<tr>
+<td>通貨</td>
+<td>円</td>
+<td>外貨(USD、EUR等)</td>
+</tr>
+<tr>
+<td>与信評価</td>
+<td>国内信用情報</td>
+<td>海外信用情報</td>
+</tr>
+<tr>
+<td>関与機関</td>
+<td>1社</td>
+<td>輸出側+輸入側の2社協働</td>
+</tr>
+<tr>
+<td>対象企業</td>
+<td>中小〜大手</td>
+<td>主に大手・中堅</td>
+</tr>
+<tr>
+<td>手数料</td>
+<td>2〜18%</td>
+<td>1〜5%(銀行系)</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>国際ファクタリングの主要な種類</h2>
 <h3>1. 2当事者制(2-Factor System)</h3>
@@ -120,19 +153,59 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>主要な国際ファクタリング業者</h2>
 <h3>銀行系</h3>
-<p>| 業者 | 特徴 |
-|-----|------|
-| 三菱UFJファクター | 大手最大手、世界主要国対応 |
-| みずほファクター | 銀行系、海外子会社経由対応 |
-| SMBC国際ファクタリング | 三井住友グループ、東南アジア強い |
-| りそなファクタリング | 中堅輸出企業向け |</p>
+<table>
+<thead>
+<tr>
+<th>業者</th>
+<th>特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>三菱UFJファクター</td>
+<td>大手最大手、世界主要国対応</td>
+</tr>
+<tr>
+<td>みずほファクター</td>
+<td>銀行系、海外子会社経由対応</td>
+</tr>
+<tr>
+<td>SMBC国際ファクタリング</td>
+<td>三井住友グループ、東南アジア強い</td>
+</tr>
+<tr>
+<td>りそなファクタリング</td>
+<td>中堅輸出企業向け</td>
+</tr>
+</tbody>
+</table>
 <h3>独立系</h3>
-<p>| 業者 | 特徴 |
-|-----|------|
-| Tokio Marine HCC | グローバル展開 |
-| Atradius | オランダ系、ヨーロッパ強い |
-| Coface | フランス系、世界中対応 |
-| Euler Hermes | ドイツ系、保険+ファクタリング |</p>
+<table>
+<thead>
+<tr>
+<th>業者</th>
+<th>特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tokio Marine HCC</td>
+<td>グローバル展開</td>
+</tr>
+<tr>
+<td>Atradius</td>
+<td>オランダ系、ヨーロッパ強い</td>
+</tr>
+<tr>
+<td>Coface</td>
+<td>フランス系、世界中対応</td>
+</tr>
+<tr>
+<td>Euler Hermes</td>
+<td>ドイツ系、保険+ファクタリング</td>
+</tr>
+</tbody>
+</table>
 <h3>FCI(Factors Chain International)加盟業者</h3>
 <ul>
 <li>世界60ヶ国以上のファクタリング会社ネットワーク</li>
@@ -157,15 +230,52 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>両Factor間で精算、輸出者には差額分を追加入金(該当時)。</p>
 <hr>
 <h2>国際ファクタリング vs L/C(信用状)</h2>
-<p>| 項目 | 国際ファクタリング | L/C(信用状) |
-|------|----------------|-----------|
-| 主導 | 輸出者 | 輸入者 |
-| 与信リスク | ファクタリング会社が負担 | 銀行が保証 |
-| 手続き | 比較的簡便 | 厳格な書類審査 |
-| 手数料/料金 | 1〜10% | 銀行手数料0.1〜0.5% |
-| 資金化スピード | 即時〜数日 | 書類処理後数日 |
-| 為替リスク | ヘッジ可能 | 別途対応必要 |
-| 用途 | 継続取引向け | 単発・大口取引向け |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>国際ファクタリング</th>
+<th>L/C(信用状)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>主導</td>
+<td>輸出者</td>
+<td>輸入者</td>
+</tr>
+<tr>
+<td>与信リスク</td>
+<td>ファクタリング会社が負担</td>
+<td>銀行が保証</td>
+</tr>
+<tr>
+<td>手続き</td>
+<td>比較的簡便</td>
+<td>厳格な書類審査</td>
+</tr>
+<tr>
+<td>手数料/料金</td>
+<td>1〜10%</td>
+<td>銀行手数料0.1〜0.5%</td>
+</tr>
+<tr>
+<td>資金化スピード</td>
+<td>即時〜数日</td>
+<td>書類処理後数日</td>
+</tr>
+<tr>
+<td>為替リスク</td>
+<td>ヘッジ可能</td>
+<td>別途対応必要</td>
+</tr>
+<tr>
+<td>用途</td>
+<td>継続取引向け</td>
+<td>単発・大口取引向け</td>
+</tr>
+</tbody>
+</table>
 <p>L/Cと国際ファクタリングは併用も可能です。</p>
 <hr>
 <h2>為替リスクヘッジとの組み合わせ</h2>

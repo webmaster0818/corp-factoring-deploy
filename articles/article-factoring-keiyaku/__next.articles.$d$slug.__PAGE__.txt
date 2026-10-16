@@ -5,22 +5,54 @@
 16:"$Sreact.suspense"
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo.png","image"]
-4:T2f3c,<p>「契約書にハンコを押す前に、何を確認すればいいの？」</p>
+4:T32f0,<p>「契約書にハンコを押す前に、何を確認すればいいの？」</p>
 <p>ファクタリングは貸金業のような登録制度がないため、契約内容は業者ごとに大きく異なります。中には、実質的な闇金と変わらない条件を契約書に盛り込む悪質業者も存在します。</p>
 <p>この記事では、ファクタリング契約書で<strong>必ず確認すべき8つのチェックポイント</strong>と、<strong>悪質業者の契約書に共通する特徴</strong>を具体的に解説します。契約前のチェックリストとしてお使いください。</p>
 <hr>
 <h2>ファクタリング契約書の基本構造</h2>
 <p>まず、正規のファクタリング契約書に記載されるべき基本事項を確認します。</p>
-<p>| 項目 | 内容 |
-|------|------|
-| 契約当事者 | 利用者・ファクタリング会社（・売掛先）の名称・住所 |
-| 契約の種類 | 債権譲渡契約であること |
-| 対象債権 | 売掛先名・請求金額・入金期日 |
-| 買取金額 | 手数料を差し引いた入金額 |
-| 手数料率 | パーセンテージと金額の両方 |
-| 支払条件 | 入金日・振込先 |
-| 契約期間 | 個別契約か継続契約か |
-| 解約条件 | 途中解約の可否と違約金 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>契約当事者</td>
+<td>利用者・ファクタリング会社（・売掛先）の名称・住所</td>
+</tr>
+<tr>
+<td>契約の種類</td>
+<td>債権譲渡契約であること</td>
+</tr>
+<tr>
+<td>対象債権</td>
+<td>売掛先名・請求金額・入金期日</td>
+</tr>
+<tr>
+<td>買取金額</td>
+<td>手数料を差し引いた入金額</td>
+</tr>
+<tr>
+<td>手数料率</td>
+<td>パーセンテージと金額の両方</td>
+</tr>
+<tr>
+<td>支払条件</td>
+<td>入金日・振込先</td>
+</tr>
+<tr>
+<td>契約期間</td>
+<td>個別契約か継続契約か</td>
+</tr>
+<tr>
+<td>解約条件</td>
+<td>途中解約の可否と違約金</td>
+</tr>
+</tbody>
+</table>
 <p>これらが記載されていない契約書は、そもそも不備がある可能性が高いです。</p>
 <hr>
 <h2>契約書で確認すべき8つのチェックポイント</h2>
@@ -106,28 +138,53 @@
 <hr>
 <h2>契約前チェックリスト</h2>
 <p>以下のチェックリストを契約前に確認してください。</p>
-<ul>
-<li>[ ] 契約書が書面（またはPDF）で交付されるか</li>
-<li>[ ] 「償還請求権なし（ノンリコース）」と明記されているか</li>
-<li>[ ] 手数料率と金額が具体的に記載されているか</li>
-<li>[ ] 追加費用（事務手数料・登記費用等）の有無と金額が明示されているか</li>
-<li>[ ] 債権譲渡通知の条件が記載されているか</li>
-<li>[ ] 遅延損害金の利率が法外でないか（年20%以下）</li>
-<li>[ ] 解約・キャンセル条件が明記されているか</li>
-<li>[ ] 担保・保証人が不要であるか</li>
-<li>[ ] 分割払いの記載がないか</li>
-<li>[ ] 会社の所在地・代表者名・連絡先が明記されているか</li>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> 契約書が書面（またはPDF）で交付されるか</li>
+<li class="task-list-item"><input type="checkbox" disabled> 「償還請求権なし（ノンリコース）」と明記されているか</li>
+<li class="task-list-item"><input type="checkbox" disabled> 手数料率と金額が具体的に記載されているか</li>
+<li class="task-list-item"><input type="checkbox" disabled> 追加費用（事務手数料・登記費用等）の有無と金額が明示されているか</li>
+<li class="task-list-item"><input type="checkbox" disabled> 債権譲渡通知の条件が記載されているか</li>
+<li class="task-list-item"><input type="checkbox" disabled> 遅延損害金の利率が法外でないか（年20%以下）</li>
+<li class="task-list-item"><input type="checkbox" disabled> 解約・キャンセル条件が明記されているか</li>
+<li class="task-list-item"><input type="checkbox" disabled> 担保・保証人が不要であるか</li>
+<li class="task-list-item"><input type="checkbox" disabled> 分割払いの記載がないか</li>
+<li class="task-list-item"><input type="checkbox" disabled> 会社の所在地・代表者名・連絡先が明記されているか</li>
 </ul>
 <p><strong>8項目以上チェックがつけば安心です。</strong> 5項目以下の場合は、別のファクタリング会社を検討してください。</p>
 <hr>
 <h2>契約書でトラブルが起きた場合の相談先</h2>
 <p>万が一、ファクタリング契約でトラブルが発生した場合は、以下の窓口に相談できます。</p>
-<p>| 相談先 | 対応内容 | 費用 |
-|--------|---------|------|
-| 金融庁 金融サービス利用者相談室 | 金融トラブル全般 | 無料 |
-| 消費生活センター（188） | 消費者トラブル全般 | 無料 |
-| 法テラス | 法的トラブルの情報提供 | 無料（初回相談） |
-| 弁護士（債権回収専門） | 具体的な法的対応 | 有料 |</p>
+<table>
+<thead>
+<tr>
+<th>相談先</th>
+<th>対応内容</th>
+<th>費用</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>金融庁 金融サービス利用者相談室</td>
+<td>金融トラブル全般</td>
+<td>無料</td>
+</tr>
+<tr>
+<td>消費生活センター（188）</td>
+<td>消費者トラブル全般</td>
+<td>無料</td>
+</tr>
+<tr>
+<td>法テラス</td>
+<td>法的トラブルの情報提供</td>
+<td>無料（初回相談）</td>
+</tr>
+<tr>
+<td>弁護士（債権回収専門）</td>
+<td>具体的な法的対応</td>
+<td>有料</td>
+</tr>
+</tbody>
+</table>
 <p>特にファクタリングを装った闇金被害の場合は、警察への相談も検討してください。</p>
 <hr>
 <h2>まとめ</h2>
@@ -145,7 +202,7 @@
 <blockquote>
 <p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
 </blockquote>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリング契約書の注意点8選｜悪質業者を見抜くチェックリ","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリング契約書の注意点8選｜悪質業者を見抜くチェックリスト","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリング契約書の注意点8選｜悪質業者を見抜くチェックリスト"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 契約, ファクタリング 契約書"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],false,"$L5","$L6",false,"$L7","$L8"]}],"$L9","$La","$Lb",false]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sjYMfYV6eCgRTWxyE9Hpe"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリング契約書の注意点8選｜悪質業者を見抜くチェックリ","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリング契約書の注意点8選｜悪質業者を見抜くチェックリスト","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリング契約書の注意点8選｜悪質業者を見抜くチェックリスト"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 契約, ファクタリング 契約書"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],false,"$L5","$L6",false,"$L7","$L8"]}],"$L9","$La","$Lb",false]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gyxC-q0-FfdF7_CHUutPw"}
 5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","6.4%〜9.7%"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜（上限は要問い合わせ）"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜12%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
 7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-mooshikomi-nagare",{"href":"/articles/article-factoring-mooshikomi-nagare","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 申し込み 流れ"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング申し込みの流れを完全ガイド｜5ステップで入金まで"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-hitsuyou-shorui",{"href":"/articles/article-factoring-hitsuyou-shorui","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 必要書類"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの必要書類を完全解説｜業者別の準備リストと提出方法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-seikyusho-nomi",{"href":"/articles/article-factoring-seikyusho-nomi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 請求書のみ, ファクタリング 必要書類 少ない"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング請求書のみで申込OK！書類最小限で即日資金化する方法【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kaiyaku",{"href":"/articles/article-factoring-kaiyaku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 解約 途中解約"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング契約の解約・途中解約は可能？違約金とリスクを解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-nyuukin-jikan",{"href":"/articles/article-factoring-nyuukin-jikan","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 入金 時間 何時"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの入金時間を業者別に解説｜何時申込で当日入金可能？"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-sokujitsu",{"href":"/articles/article-factoring-sokujitsu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$Le","$Lf","$L10"]}]]}]]}]

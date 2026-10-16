@@ -6,14 +6,14 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-unsou",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-unsou","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-unsou",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-unsou","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/gyoushu-article.jpg","image"]
-11:T364e,<p>「荷主からの入金は2か月後なのに、燃料費は毎週かかる…」</p>
+11:T3a46,<p>「荷主からの入金は2か月後なのに、燃料費は毎週かかる…」</p>
 <p>運送業界は慢性的な資金繰りの課題を抱えています。燃料費の高騰、荷主の長い支払いサイト、車両の維持・修繕費など、<strong>支出が先行しやすい構造</strong>が原因です。</p>
 <p>こうした課題を解決するのが<strong>ファクタリング</strong>です。売掛金を最短即日で現金化できるため、入金を待たずに燃料費や人件費を支払えます。</p>
 <p>この記事では、運送業の資金繰りの課題、運送業に適したファクタリング会社5社、そして具体的な活用事例を解説します。</p>
@@ -21,13 +21,42 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <h2>運送業が抱える資金繰りの3大課題</h2>
 <h3>課題1: 燃料費の高騰と即時支払い</h3>
 <p>2024年以降、軽油価格は1リットルあたり140〜160円台で推移しており、**売上に占める燃料費の割合は30〜40%**に達しています。燃料費は給油のたびに即時支払いが必要なのに対し、運送料の入金は1〜2か月後。この「入金と出金のタイムラグ」が資金繰りを圧迫します。</p>
-<p>| 項目 | 支払いタイミング | 入金タイミング |
-|------|--------------|-------------|
-| 燃料費 | 給油時（即時〜週払い） | - |
-| ドライバー人件費 | 毎月25日〜月末 | - |
-| 車両リース・ローン | 毎月（固定日） | - |
-| 高速道路料金 | ETC利用後（翌月） | - |
-| <strong>運送料（売上）</strong> | - | <strong>月末締め翌月末〜翌々月末払い</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>支払いタイミング</th>
+<th>入金タイミング</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>燃料費</td>
+<td>給油時（即時〜週払い）</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ドライバー人件費</td>
+<td>毎月25日〜月末</td>
+<td>-</td>
+</tr>
+<tr>
+<td>車両リース・ローン</td>
+<td>毎月（固定日）</td>
+<td>-</td>
+</tr>
+<tr>
+<td>高速道路料金</td>
+<td>ETC利用後（翌月）</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>運送料（売上）</strong></td>
+<td>-</td>
+<td><strong>月末締め翌月末〜翌々月末払い</strong></td>
+</tr>
+</tbody>
+</table>
 <h3>課題2: 荷主の支払いサイトが長い</h3>
 <p>運送業では、荷主（取引先）の支払いサイトが**30〜60日（月末締め翌月末払い〜翌々月末払い）**が一般的です。特に大手メーカーや物流会社が荷主の場合、支払いサイトはさらに長くなる傾向があります。</p>
 <h3>課題3: 車両の維持・修繕費が突発的に発生する</h3>
@@ -44,49 +73,164 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>運送業向けファクタリング会社おすすめ5選</h2>
 <h3>1. ビートレーディング</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2〜12% |
-| 入金スピード | 最短2時間 |
-| 買取可能額 | 制限なし |
-| 対応形態 | 2社間・3社間 |
-| 運送業の実績 | 多数あり |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2〜12%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td>買取可能額</td>
+<td>制限なし</td>
+</tr>
+<tr>
+<td>対応形態</td>
+<td>2社間・3社間</td>
+</tr>
+<tr>
+<td>運送業の実績</td>
+<td>多数あり</td>
+</tr>
+</tbody>
+</table>
 <p>累計取引額は1,300億円を超える業界大手です。運送業の利用実績も豊富で、<strong>初回から手数料を抑えられる</strong>との口コミが多いです。オンラインで完結するため、忙しいドライバー経営者にも適しています。</p>
 <h3>2. 日本中小企業金融サポート機構</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 1.5〜10% |
-| 入金スピード | 最短即日 |
-| 買取可能額 | 制限なし |
-| 対応形態 | 2社間・3社間 |
-| 特徴 | 一般社団法人が運営 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>1.5〜10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>買取可能額</td>
+<td>制限なし</td>
+</tr>
+<tr>
+<td>対応形態</td>
+<td>2社間・3社間</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>一般社団法人が運営</td>
+</tr>
+</tbody>
+</table>
 <p>一般社団法人が運営する非営利型のファクタリングサービスです。<strong>営利目的でないため手数料が低め</strong>に設定されており、運送業の小規模事業者にも利用しやすいです。</p>
 <h3>3. OLTA（オルタ）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2〜9% |
-| 入金スピード | 最短即日 |
-| 買取可能額 | 制限なし |
-| 対応形態 | 2社間のみ |
-| 特徴 | AI審査でスピーディー |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2〜9%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>買取可能額</td>
+<td>制限なし</td>
+</tr>
+<tr>
+<td>対応形態</td>
+<td>2社間のみ</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>AI審査でスピーディー</td>
+</tr>
+</tbody>
+</table>
 <p>クラウドファクタリングのパイオニアで、<strong>AI審査による迅速な対応</strong>が特徴です。請求書をアップロードするだけで見積もりが出るため、初めてファクタリングを利用する方にもハードルが低いです。</p>
 <h3>4. アクセルファクター</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間1〜12%／3社間0.5〜10.5% |
-| 入金スピード | 最短即日 |
-| 買取可能額 | 30万〜1億円 |
-| 対応形態 | 2社間・3社間 |
-| 特徴 | 少額から利用可能 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>買取可能額</td>
+<td>30万〜1億円</td>
+</tr>
+<tr>
+<td>対応形態</td>
+<td>2社間・3社間</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>少額から利用可能</td>
+</tr>
+</tbody>
+</table>
 <p><strong>30万円からの少額利用に対応</strong>しているのが特徴です。小口の運送料請求書でも買い取ってもらえるため、個人事業主のトラックドライバーにも適しています。</p>
 <h3>5. ベストファクター</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2〜20% |
-| 入金スピード | 最短即日 |
-| 買取可能額 | 30万〜1億円 |
-| 対応形態 | 2社間・3社間 |
-| 特徴 | 財務コンサルティング付き |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2〜20%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>買取可能額</td>
+<td>30万〜1億円</td>
+</tr>
+<tr>
+<td>対応形態</td>
+<td>2社間・3社間</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>財務コンサルティング付き</td>
+</tr>
+</tbody>
+</table>
 <p>ファクタリングに加えて<strong>財務コンサルティングを無料で提供</strong>しています。資金繰り改善のアドバイスを受けながらファクタリングを活用したい運送業者に向いています。</p>
 <hr>
 <h2>運送業のファクタリング活用事例</h2>

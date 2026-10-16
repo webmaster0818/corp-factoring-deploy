@@ -5,20 +5,49 @@
 16:"$Sreact.suspense"
 :HL["/images/articles/kojin-jigyonushi.jpg","image"]
 :HL["/images/logo.png","image"]
-4:T3164,<p>「来月の支払い、足りるかな…？」</p>
+4:T360b,<p>「来月の支払い、足りるかな…？」</p>
 <p>この不安を解消するのが<strong>資金繰り表</strong>です。個人事業主であっても、お金の流れを「見える化」するだけで、資金ショートのリスクを事前に察知し、適切な対策を打てるようになります。</p>
 <p>この記事では、資金繰り表の基本、Excelで簡単に作れる5ステップ、そして資金繰りを改善するポイントを解説します。</p>
 <hr>
 <h2>資金繰り表とは？</h2>
 <p>資金繰り表とは、<strong>一定期間の現金の入出金を予測・管理するための表</strong>です。損益計算書が「利益」を管理するのに対し、資金繰り表は「現金（キャッシュ）」を管理します。</p>
 <h3>損益計算書との違い</h3>
-<p>| 項目 | 損益計算書 | 資金繰り表 |
-|------|---------|----------|
-| 管理対象 | 利益（売上−経費） | 現金（入金−出金） |
-| 計上タイミング | 発生主義（取引発生時） | 現金主義（入出金時） |
-| 減価償却費 | 経費に含む | 含まない（現金流出なし） |
-| 掛取引 | 売上計上済みでも未入金あり | 実際の入金タイミングで記録 |
-| 目的 | 経営成績の把握 | 資金ショートの防止 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>損益計算書</th>
+<th>資金繰り表</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>管理対象</td>
+<td>利益（売上−経費）</td>
+<td>現金（入金−出金）</td>
+</tr>
+<tr>
+<td>計上タイミング</td>
+<td>発生主義（取引発生時）</td>
+<td>現金主義（入出金時）</td>
+</tr>
+<tr>
+<td>減価償却費</td>
+<td>経費に含む</td>
+<td>含まない（現金流出なし）</td>
+</tr>
+<tr>
+<td>掛取引</td>
+<td>売上計上済みでも未入金あり</td>
+<td>実際の入金タイミングで記録</td>
+</tr>
+<tr>
+<td>目的</td>
+<td>経営成績の把握</td>
+<td>資金ショートの防止</td>
+</tr>
+</tbody>
+</table>
 <p><strong>重要:</strong> 利益が出ていても現金が足りなくなる「黒字倒産」は、資金繰り表がない個人事業主に起こりがちです。売上が増えるほど仕入れ・外注費も増え、入金よりも出金が先行する構造になりやすいからです。</p>
 <hr>
 <h2>資金繰り表を作る5ステップ</h2>
@@ -76,24 +105,114 @@
 <p><strong>翌月繰越残高がマイナスになる月があれば要注意です。</strong> そのままでは資金ショートするため、事前に対策を講じる必要があります。</p>
 <hr>
 <h2>資金繰り表の記入例（IT系フリーランスの場合）</h2>
-<p>| 項目 | 4月 | 5月 | 6月 |
-|------|-----|-----|-----|
-| <strong>前月繰越残高</strong> | 120万円 | 95万円 | 70万円 |
-| <strong>【収入の部】</strong> | | | |
-| 売掛金回収（A社） | 50万円 | 50万円 | 50万円 |
-| 売掛金回収（B社） | 30万円 | 30万円 | 30万円 |
-| その他収入 | 0万円 | 5万円 | 0万円 |
-| <strong>収入合計</strong> | <strong>80万円</strong> | <strong>85万円</strong> | <strong>80万円</strong> |
-| <strong>【支出の部】</strong> | | | |
-| 外注費 | 30万円 | 30万円 | 30万円 |
-| 家賃 | 8万円 | 8万円 | 8万円 |
-| 通信費・ツール | 3万円 | 3万円 | 3万円 |
-| 生活費（事業主貸） | 40万円 | 40万円 | 40万円 |
-| 税金・保険料 | 10万円 | 10万円 | 10万円 |
-| その他 | 14万円 | 19万円 | 5万円 |
-| <strong>支出合計</strong> | <strong>105万円</strong> | <strong>110万円</strong> | <strong>96万円</strong> |
-| <strong>収支差額</strong> | <strong>-25万円</strong> | <strong>-25万円</strong> | <strong>-16万円</strong> |
-| <strong>翌月繰越残高</strong> | <strong>95万円</strong> | <strong>70万円</strong> | <strong>54万円</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>4月</th>
+<th>5月</th>
+<th>6月</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>前月繰越残高</strong></td>
+<td>120万円</td>
+<td>95万円</td>
+<td>70万円</td>
+</tr>
+<tr>
+<td><strong>【収入の部】</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>売掛金回収（A社）</td>
+<td>50万円</td>
+<td>50万円</td>
+<td>50万円</td>
+</tr>
+<tr>
+<td>売掛金回収（B社）</td>
+<td>30万円</td>
+<td>30万円</td>
+<td>30万円</td>
+</tr>
+<tr>
+<td>その他収入</td>
+<td>0万円</td>
+<td>5万円</td>
+<td>0万円</td>
+</tr>
+<tr>
+<td><strong>収入合計</strong></td>
+<td><strong>80万円</strong></td>
+<td><strong>85万円</strong></td>
+<td><strong>80万円</strong></td>
+</tr>
+<tr>
+<td><strong>【支出の部】</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>外注費</td>
+<td>30万円</td>
+<td>30万円</td>
+<td>30万円</td>
+</tr>
+<tr>
+<td>家賃</td>
+<td>8万円</td>
+<td>8万円</td>
+<td>8万円</td>
+</tr>
+<tr>
+<td>通信費・ツール</td>
+<td>3万円</td>
+<td>3万円</td>
+<td>3万円</td>
+</tr>
+<tr>
+<td>生活費（事業主貸）</td>
+<td>40万円</td>
+<td>40万円</td>
+<td>40万円</td>
+</tr>
+<tr>
+<td>税金・保険料</td>
+<td>10万円</td>
+<td>10万円</td>
+<td>10万円</td>
+</tr>
+<tr>
+<td>その他</td>
+<td>14万円</td>
+<td>19万円</td>
+<td>5万円</td>
+</tr>
+<tr>
+<td><strong>支出合計</strong></td>
+<td><strong>105万円</strong></td>
+<td><strong>110万円</strong></td>
+<td><strong>96万円</strong></td>
+</tr>
+<tr>
+<td><strong>収支差額</strong></td>
+<td><strong>-25万円</strong></td>
+<td><strong>-25万円</strong></td>
+<td><strong>-16万円</strong></td>
+</tr>
+<tr>
+<td><strong>翌月繰越残高</strong></td>
+<td><strong>95万円</strong></td>
+<td><strong>70万円</strong></td>
+<td><strong>54万円</strong></td>
+</tr>
+</tbody>
+</table>
 <p>この例では、毎月25万円前後の赤字が続いており、<strong>7〜8月頃に資金ショートするリスク</strong>があることがわかります。早い段階で新規案件の獲得や、支出の見直しが必要です。</p>
 <hr>
 <h2>資金繰り表を活用した改善ポイント5つ</h2>
@@ -108,12 +227,37 @@
 <p>仕入れ先や外注先への支払いを、可能な範囲で後ろ倒しにします。ただし、<strong>取引先との関係を悪化させない範囲で</strong>行うことが重要です。</p>
 <h3>3. 固定費を削減する</h3>
 <p>毎月の固定費を見直すだけで、資金繰りは大幅に改善します。</p>
-<p>| 見直し項目 | 具体的なアクション | 月間削減額の目安 |
-|-----------|----------------|---------------|
-| 家賃 | コワーキングスペース活用、移転 | 3〜10万円 |
-| 通信費 | プランの見直し、格安SIM | 0.5〜2万円 |
-| サブスクリプション | 不要サービスの解約 | 1〜5万円 |
-| 保険料 | 補償内容の見直し | 0.5〜2万円 |</p>
+<table>
+<thead>
+<tr>
+<th>見直し項目</th>
+<th>具体的なアクション</th>
+<th>月間削減額の目安</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>家賃</td>
+<td>コワーキングスペース活用、移転</td>
+<td>3〜10万円</td>
+</tr>
+<tr>
+<td>通信費</td>
+<td>プランの見直し、格安SIM</td>
+<td>0.5〜2万円</td>
+</tr>
+<tr>
+<td>サブスクリプション</td>
+<td>不要サービスの解約</td>
+<td>1〜5万円</td>
+</tr>
+<tr>
+<td>保険料</td>
+<td>補償内容の見直し</td>
+<td>0.5〜2万円</td>
+</tr>
+</tbody>
+</table>
 <h3>4. 繁忙期・閑散期に備える</h3>
 <p>季節変動がある業種では、<strong>繁忙期の利益を閑散期の資金に回す</strong>計画を立てましょう。資金繰り表で年間の波を可視化することで、「いつ、いくら準備しておくべきか」が明確になります。</p>
 <h3>5. 資金ショートの「3か月前」に動く</h3>
@@ -129,13 +273,42 @@
 <hr>
 <h2>資金繰りが厳しくなったときの対処法</h2>
 <p>資金繰り表でマイナスが見えたときの対処法を、優先度順に紹介します。</p>
-<p>| 優先度 | 対処法 | 特徴 |
-|--------|-------|------|
-| 1 | 入金サイトの短縮交渉 | コストゼロ、関係次第 |
-| 2 | 固定費の削減 | 即効性あり |
-| 3 | 融資の申し込み | 低金利だが時間がかかる |
-| 4 | ファクタリングの利用 | 即日可能、手数料あり |
-| 5 | ビジネスローン | 即日可能、高金利 |</p>
+<table>
+<thead>
+<tr>
+<th>優先度</th>
+<th>対処法</th>
+<th>特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>入金サイトの短縮交渉</td>
+<td>コストゼロ、関係次第</td>
+</tr>
+<tr>
+<td>2</td>
+<td>固定費の削減</td>
+<td>即効性あり</td>
+</tr>
+<tr>
+<td>3</td>
+<td>融資の申し込み</td>
+<td>低金利だが時間がかかる</td>
+</tr>
+<tr>
+<td>4</td>
+<td>ファクタリングの利用</td>
+<td>即日可能、手数料あり</td>
+</tr>
+<tr>
+<td>5</td>
+<td>ビジネスローン</td>
+<td>即日可能、高金利</td>
+</tr>
+</tbody>
+</table>
 <p>フリーランスの資金繰り改善については<a href="/articles/article-freelance-shikin/">フリーランスの資金繰りガイド</a>で詳しく解説しています。</p>
 <hr>
 <h2>まとめ</h2>
@@ -169,7 +342,7 @@
 <blockquote>
 <p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
 </blockquote>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kojin","className":"hover:text-gray-700 transition","children":"個人事業主・フリーランス"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["【テンプレート付き】資金繰り表の作り方｜個人事業主でも簡単に","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"【テンプレート付き】資金繰り表の作り方｜個人事業主でも簡単にできる5ステップ","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【テンプレート付き】資金繰り表の作り方｜個人事業主でも簡単にできる5ステップ"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"資金繰り表 作り方"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],false,"$L5","$L6",false,"$L7","$L8"]}],"$L9","$La","$Lb",false]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sjYMfYV6eCgRTWxyE9Hpe"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kojin","className":"hover:text-gray-700 transition","children":"個人事業主・フリーランス"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["【テンプレート付き】資金繰り表の作り方｜個人事業主でも簡単に","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"【テンプレート付き】資金繰り表の作り方｜個人事業主でも簡単にできる5ステップ","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【テンプレート付き】資金繰り表の作り方｜個人事業主でも簡単にできる5ステップ"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"資金繰り表 作り方"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],false,"$L5","$L6",false,"$L7","$L8"]}],"$L9","$La","$Lb",false]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gyxC-q0-FfdF7_CHUutPw"}
 5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","labol",{"href":"/companies/labol","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ラボル"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","10%〜10%"," ／ ","最短30分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","paytoday",{"href":"/companies/paytoday","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"PayToday"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜9.5%"," ／ ","最短30分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","support-kinyu",{"href":"/companies/support-kinyu","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"日本中小企業金融サポート機構"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1.5%〜10%"," ／ ","最短3時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
 7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-kojin-hojokin",{"href":"/articles/article-kojin-hojokin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"個人事業主 補助金"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】個人事業主が使える補助金・助成金15選｜返済不要の資金調達を完全ガイド"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-kojin-shikin-chotatsu",{"href":"/articles/article-kojin-shikin-chotatsu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"個人事業主 資金調達"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年完全版】個人事業主の資金調達方法10選｜状況別フローチャートで最適な方法が見つかる"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-freelance-shikin",{"href":"/articles/article-freelance-shikin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"フリーランス 資金繰り / 個人事業主 資金繰り / フリーランス 支払いサイト"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】フリーランスの資金繰り改善ガイド｜支払いサイトが長い時の5つの対策"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kojin-jigyonushi",{"href":"/articles/article-factoring-kojin-jigyonushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】個人事業主向けファクタリングおすすめ15選｜手数料・即日対応・少額OKを徹底比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kojin-osusume",{"href":"/articles/article-factoring-kojin-osusume","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"個人事業主 ファクタリング おすすめ, フリーランス ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"個人事業主向けファクタリングおすすめ8選【2026年】フリーランスも対応"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kojin-sokujitsu",{"href":"/articles/article-factoring-kojin-sokujitsu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$Le","$Lf","$L10"]}]]}]]}]

@@ -5,7 +5,7 @@
 17:"$Sreact.suspense"
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo.png","image"]
-4:T2582,<p>「まだ発生していない売掛金を資金化できるって本当?」——2020年の改正民法施行以降、注目を集めている「将来債権ファクタリング」。継続的な取引がある企業にとって、新たな資金調達手段として有力な選択肢になっています。</p>
+4:T2754,<p>「まだ発生していない売掛金を資金化できるって本当?」——2020年の改正民法施行以降、注目を集めている「将来債権ファクタリング」。継続的な取引がある企業にとって、新たな資金調達手段として有力な選択肢になっています。</p>
 <p>この記事では、将来債権ファクタリングの仕組み、法的根拠、利用シーン、リスクについて徹底解説します。</p>
 <hr>
 <h2>将来債権とは?</h2>
@@ -65,25 +65,95 @@
 <p>複数の業者に同じ将来債権を譲渡してしまう<a href="/articles/article-factoring-nijuujouto/">二重譲渡</a>は犯罪行為です。必ず1社のみと契約してください。</p>
 <hr>
 <h2>将来債権ファクタリングが向く業種</h2>
-<p>| 業種 | 適合度 | 理由 |
-|------|-------|------|
-| <strong>SaaS・サブスク事業</strong> | ◎ | 月額継続収入が安定 |
-| <strong>保守・メンテナンス業</strong> | ◎ | 長期契約が多い |
-| <strong>顧問業(士業)</strong> | ◯ | 毎月の顧問料が継続 |
-| <strong>コンサルティング業</strong> | ◯ | 長期プロジェクトが多い |
-| <strong>EC・小売業</strong> | △ | 月次変動が大きい |
-| <strong>建設業</strong> | △ | プロジェクトベースで変動 |
-| <strong>新規事業</strong> | × | 実績がないため不適 |</p>
+<table>
+<thead>
+<tr>
+<th>業種</th>
+<th>適合度</th>
+<th>理由</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>SaaS・サブスク事業</strong></td>
+<td>◎</td>
+<td>月額継続収入が安定</td>
+</tr>
+<tr>
+<td><strong>保守・メンテナンス業</strong></td>
+<td>◎</td>
+<td>長期契約が多い</td>
+</tr>
+<tr>
+<td><strong>顧問業(士業)</strong></td>
+<td>◯</td>
+<td>毎月の顧問料が継続</td>
+</tr>
+<tr>
+<td><strong>コンサルティング業</strong></td>
+<td>◯</td>
+<td>長期プロジェクトが多い</td>
+</tr>
+<tr>
+<td><strong>EC・小売業</strong></td>
+<td>△</td>
+<td>月次変動が大きい</td>
+</tr>
+<tr>
+<td><strong>建設業</strong></td>
+<td>△</td>
+<td>プロジェクトベースで変動</td>
+</tr>
+<tr>
+<td><strong>新規事業</strong></td>
+<td>×</td>
+<td>実績がないため不適</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>通常のファクタリングとの違い</h2>
-<p>| 項目 | 通常ファクタリング | 将来債権ファクタリング |
-|------|----------------|---------------------|
-| 対象債権 | 発生済み売掛金 | 未発生の売掛金 |
-| 必要書類 | 請求書・通帳 | 契約書・通帳・受注書 |
-| 資金化額 | 単発の売掛金額 | 6ヶ月〜1年分 |
-| 手数料 | 2〜18% | 15〜30% |
-| 審査 | 売掛先信用重視 | 利用者継続実績重視 |
-| 対応会社数 | 多い | 少ない |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>通常ファクタリング</th>
+<th>将来債権ファクタリング</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>対象債権</td>
+<td>発生済み売掛金</td>
+<td>未発生の売掛金</td>
+</tr>
+<tr>
+<td>必要書類</td>
+<td>請求書・通帳</td>
+<td>契約書・通帳・受注書</td>
+</tr>
+<tr>
+<td>資金化額</td>
+<td>単発の売掛金額</td>
+<td>6ヶ月〜1年分</td>
+</tr>
+<tr>
+<td>手数料</td>
+<td>2〜18%</td>
+<td>15〜30%</td>
+</tr>
+<tr>
+<td>審査</td>
+<td>売掛先信用重視</td>
+<td>利用者継続実績重視</td>
+</tr>
+<tr>
+<td>対応会社数</td>
+<td>多い</td>
+<td>少ない</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>利用時の流れ(申込から入金まで)</h2>
 <h3>ステップ1:相談・見積もり</h3>
@@ -147,7 +217,7 @@ A: 一部の業者で対応しています。詳しくは<a href="/articles/arti
 A: 受けられますが、債権譲渡登記がある場合、銀行が警戒する可能性があります。</p>
 <p><strong>Q: 中途解約はできる?</strong>
 A: 原則できません。契約期間中は譲渡分の売掛金がファクタリング会社に流れます。途中で契約解除したい場合は買戻しが必要なケースが多いです。</p>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["将来債権ファクタリングとは？仕組み・法的根拠・対応会社を解説","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"将来債権ファクタリングとは？仕組み・法的根拠・対応会社を解説【2026年】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"将来債権ファクタリングとは？仕組み・法的根拠・対応会社を解説【2026年】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 将来債権, 将来債権 ファクタリング 仕組み"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],false,"$L5","$L6",false,"$L7","$L8"]}],"$L9","$La","$Lb","$Lc"]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sjYMfYV6eCgRTWxyE9Hpe"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["将来債権ファクタリングとは？仕組み・法的根拠・対応会社を解説","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"将来債権ファクタリングとは？仕組み・法的根拠・対応会社を解説【2026年】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"将来債権ファクタリングとは？仕組み・法的根拠・対応会社を解説【2026年】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 将来債権, 将来債権 ファクタリング 仕組み"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],false,"$L5","$L6",false,"$L7","$L8"]}],"$L9","$La","$Lb","$Lc"]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gyxC-q0-FfdF7_CHUutPw"}
 5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","yen-today",{"href":"/companies/yen-today","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"¥Today（エントゥデイ）"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短30分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ebank",{"href":"/companies/ebank","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"いーばんく（アクシアプラス）"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","4%〜（上限は要問い合わせ）"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","invoice-factor",{"href":"/companies/invoice-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"インボイスファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","0.5%〜（上限は要問い合わせ）"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 6:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]
 7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-chuumonsho",{"href":"/articles/article-factoring-chuumonsho","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 注文書, 注文書 資金化, 注文書 ファクタリング 仕組み"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"注文書ファクタリングとは？仕組み・手数料・対応会社を徹底解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-non-recourse",{"href":"/articles/article-factoring-non-recourse","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング ノンリコース, ファクタリング リコース, ファクタリング 償還請求権"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ノンリコース/リコースの違いとは？ファクタリングの償還請求権を徹底解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-shoufuri",{"href":"/articles/article-factoring-shoufuri","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 償還請求権, ノンリコース"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの償還請求権とは？ウィズリコース・ノンリコースの違いをわかりやすく解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-reverse",{"href":"/articles/article-factoring-reverse","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"リバースファクタリング, サプライチェーンファイナンス, SCF"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"リバースファクタリングとは？サプライチェーンファイナンスの仕組み【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kokusai",{"href":"/articles/article-factoring-kokusai","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"国際ファクタリング, 輸出ファクタリング, 国際ファクタリング 仕組み"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"国際ファクタリングとは？仕組み・利用法・対応会社【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-toha",{"href":"/articles/article-factoring-toha","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$Lf","$L10","$L11"]}]]}]]}]

@@ -5,19 +5,48 @@
 17:"$Sreact.suspense"
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo.png","image"]
-4:T2ac5,<p>「Amazonに出品しているけど、売上の入金まで2週間以上待たなければならない」「楽天市場の月次精算では仕入れ代金が先払いになってしまう」——EC・通販事業者が直面する資金繰り問題は、ビジネスが成長すればするほど深刻になります。</p>
+4:T2fec,<p>「Amazonに出品しているけど、売上の入金まで2週間以上待たなければならない」「楽天市場の月次精算では仕入れ代金が先払いになってしまう」——EC・通販事業者が直面する資金繰り問題は、ビジネスが成長すればするほど深刻になります。</p>
 <p>実は、<strong>EC・通販事業者にはファクタリングを活用できる仕組みが複数あります</strong>。Amazonや楽天市場からの売上精算を前倒しで回収する方法から、法人取引（BtoB EC）の請求書活用まで、EC事業者向けの資金調達方法を徹底解説します。</p>
 <hr>
 <h2>EC事業者の資金繰り課題</h2>
 <h3>ECプラットフォームの入金サイクル問題</h3>
 <p>主要ECプラットフォームの入金サイクル：</p>
-<p>| プラットフォーム | 入金サイクル | 最大遅延 |
-|-------------|-----------|--------|
-| Amazon（FBA）| 2週間毎（14日） | 14日 |
-| 楽天市場 | 月2回（15日・末日） | 〜45日 |
-| Yahoo!ショッピング | 月2回 | 〜45日 |
-| 自社EC（カード） | カード会社精算次第 | 30〜60日 |
-| 自社EC（銀行振込） | 注文後すぐ | ほぼなし |</p>
+<table>
+<thead>
+<tr>
+<th>プラットフォーム</th>
+<th>入金サイクル</th>
+<th>最大遅延</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Amazon（FBA）</td>
+<td>2週間毎（14日）</td>
+<td>14日</td>
+</tr>
+<tr>
+<td>楽天市場</td>
+<td>月2回（15日・末日）</td>
+<td>〜45日</td>
+</tr>
+<tr>
+<td>Yahoo!ショッピング</td>
+<td>月2回</td>
+<td>〜45日</td>
+</tr>
+<tr>
+<td>自社EC（カード）</td>
+<td>カード会社精算次第</td>
+<td>30〜60日</td>
+</tr>
+<tr>
+<td>自社EC（銀行振込）</td>
+<td>注文後すぐ</td>
+<td>ほぼなし</td>
+</tr>
+</tbody>
+</table>
 <p><strong>問題：</strong> 売上が伸びるほど「仕入れ代金の先行支払い」と「売上入金の遅延」のギャップが拡大します。</p>
 <h3>ECの資金繰りが悪化しやすい状況</h3>
 <p><strong>急成長期の資金不足（デスバレー）：</strong></p>
@@ -50,22 +79,68 @@
 </ul>
 <h3>方法3：Amazonの「売上前払いサービス」との比較</h3>
 <p>Amazonは「Amazon出品者向け融資」を提供しています。ファクタリングとの比較：</p>
-<p>| 比較項目 | Amazon融資 | ファクタリング |
-|--------|----------|------------|
-| <strong>金利・手数料</strong> | 非公開（融資形式） | 2%〜15% |
-| <strong>返済</strong> | 売上から自動引き落とし | 売掛先から回収 |
-| <strong>利用条件</strong> | Amazon招待制 | 請求書があれば可 |
-| <strong>スピード</strong> | 数日〜1週間 | 最短即日 |</p>
+<table>
+<thead>
+<tr>
+<th>比較項目</th>
+<th>Amazon融資</th>
+<th>ファクタリング</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>金利・手数料</strong></td>
+<td>非公開（融資形式）</td>
+<td>2%〜15%</td>
+</tr>
+<tr>
+<td><strong>返済</strong></td>
+<td>売上から自動引き落とし</td>
+<td>売掛先から回収</td>
+</tr>
+<tr>
+<td><strong>利用条件</strong></td>
+<td>Amazon招待制</td>
+<td>請求書があれば可</td>
+</tr>
+<tr>
+<td><strong>スピード</strong></td>
+<td>数日〜1週間</td>
+<td>最短即日</td>
+</tr>
+</tbody>
+</table>
 <p>招待制のAmazon融資を待てない場合や、楽天市場・Yahoo!等のマルチモール展開の場合はファクタリングが有効です。</p>
 <hr>
 <h2>EC事業者向けの新サービス：「EC売掛金ファクタリング」</h2>
 <p>2024〜2026年にかけて、EC特化型のファクタリング・資金調達サービスが登場しています。</p>
 <h3>ECプラットフォームと連携した資金調達サービス</h3>
-<p>| サービス | 特徴 | 手数料目安 |
-|--------|-----|---------|
-| GMOペイメントゲートウェイ系 | カード決済の即時入金 | 1〜3% |
-| Squareの翌日入金 | スモールビジネス向け | 〜1.75% |
-| Stripe Capital | Stripe連携の融資 | 売上の数% |</p>
+<table>
+<thead>
+<tr>
+<th>サービス</th>
+<th>特徴</th>
+<th>手数料目安</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GMOペイメントゲートウェイ系</td>
+<td>カード決済の即時入金</td>
+<td>1〜3%</td>
+</tr>
+<tr>
+<td>Squareの翌日入金</td>
+<td>スモールビジネス向け</td>
+<td>〜1.75%</td>
+</tr>
+<tr>
+<td>Stripe Capital</td>
+<td>Stripe連携の融資</td>
+<td>売上の数%</td>
+</tr>
+</tbody>
+</table>
 <p>これらはファクタリングではなく融資・早期入金サービスですが、同様の目的（売上の早期資金化）に使えます。</p>
 <hr>
 <h2>EC事業者向けファクタリング活用の実践例</h2>
@@ -95,51 +170,170 @@
 <hr>
 <h2>EC・通販事業者におすすめのファクタリング会社</h2>
 <h3>1位：ビートレーディング</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 2〜12% |
-| <strong>入金スピード</strong> | 最短2時間 |
-| <strong>対応金額</strong> | 上限なし |
-| <strong>EC対応</strong> | ○（モール精算書対応） |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>2〜12%</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td><strong>対応金額</strong></td>
+<td>上限なし</td>
+</tr>
+<tr>
+<td><strong>EC対応</strong></td>
+<td>○（モール精算書対応）</td>
+</tr>
+</tbody>
+</table>
 <p>楽天・Yahoo!等のモール精算書に対応実績あり。EC事業者の資金繰り相談も対応。</p>
 <h3>2位：QuQuMo</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 1%〜（上限非公表） |
-| <strong>入金スピード</strong> | 最短2時間 |
-| <strong>書類</strong> | 2点のみ |
-| <strong>EC対応</strong> | ○ |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>1%〜（上限非公表）</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td><strong>書類</strong></td>
+<td>2点のみ</td>
+</tr>
+<tr>
+<td><strong>EC対応</strong></td>
+<td>○</td>
+</tr>
+</tbody>
+</table>
 <p>手数料1%〜の業界最安水準。大手プラットフォームへの精算書は低手数料での利用を期待できる。書類最小限でEC事業者でも手軽に申し込み可能。</p>
 <h3>3位：アクセルファクター</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 2社間1〜12%／3社間0.5〜10.5% |
-| <strong>入金スピード</strong> | 最短即日 |
-| <strong>審査通過率</strong> | 93%以上 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td><strong>審査通過率</strong></td>
+<td>93%以上</td>
+</tr>
+</tbody>
+</table>
 <p>EC事業者の法人取引請求書・モール精算書に対応。審査通過率93%以上。</p>
 <h3>4位：PayToday</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 1%〜9.5% |
-| <strong>入金スピード</strong> | 最短30分 |
-| <strong>書類</strong> | 2点のみ |
-| <strong>24時間対応</strong> | ○ |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>1%〜9.5%</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短30分</td>
+</tr>
+<tr>
+<td><strong>書類</strong></td>
+<td>2点のみ</td>
+</tr>
+<tr>
+<td><strong>24時間対応</strong></td>
+<td>○</td>
+</tr>
+</tbody>
+</table>
 <p>24時間365日のAI審査。EC事業者の請求書を急ぎで現金化したい場合に有効。</p>
 <h3>5位：ベストファクター</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 2%〜20% |
-| <strong>入金スピード</strong> | 最短即日 |
-| <strong>最低金額</strong> | 10万円〜 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>2%〜20%</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td><strong>最低金額</strong></td>
+<td>10万円〜</td>
+</tr>
+</tbody>
+</table>
 <p>少額10万円から対応。小規模EC事業者でも利用可能。</p>
 <hr>
 <h2>EC事業者の成長段階別・資金調達の使い分け</h2>
-<p>| 成長段階 | 月商目安 | 最適な資金調達 |
-|--------|--------|------------|
-| 立ち上げ期 | 〜100万円 | クレジットカード・少額ローン |
-| 成長期 | 100〜500万円 | <strong>ファクタリング</strong>（仕入れ資金） |
-| 拡大期 | 500〜2,000万円 | ファクタリング＋銀行融資 |
-| 安定期 | 2,000万円〜 | 銀行融資（信用保証）・EC特化ファイナンス |</p>
+<table>
+<thead>
+<tr>
+<th>成長段階</th>
+<th>月商目安</th>
+<th>最適な資金調達</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>立ち上げ期</td>
+<td>〜100万円</td>
+<td>クレジットカード・少額ローン</td>
+</tr>
+<tr>
+<td>成長期</td>
+<td>100〜500万円</td>
+<td><strong>ファクタリング</strong>（仕入れ資金）</td>
+</tr>
+<tr>
+<td>拡大期</td>
+<td>500〜2,000万円</td>
+<td>ファクタリング＋銀行融資</td>
+</tr>
+<tr>
+<td>安定期</td>
+<td>2,000万円〜</td>
+<td>銀行融資（信用保証）・EC特化ファイナンス</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>まとめ</h2>
 <p>EC・通販事業者のファクタリングは、大手プラットフォーム（楽天・Yahoo!等）の月次精算書や法人取引の請求書を活用することで、資金繰りを大幅に改善できます。</p>
@@ -170,7 +364,7 @@ A. 在庫担保融資（在庫を担保にしたローン）はEC事業者向け
 <li><a href="/articles/article-factoring-tesuryo/">ファクタリング手数料の相場と安い会社12選</a></li>
 <li><a href="/articles/article-factoring-merit-demerit/">ファクタリングのメリット・デメリット完全解説</a></li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/gyoushu","className":"hover:text-gray-700 transition","children":"業種別ファクタリング"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["EC・通販事業者のファクタリング活用ガイド｜Amazonや楽","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"EC・通販事業者のファクタリング活用ガイド｜Amazonや楽天の売上を即日資金化【2026年】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"EC・通販事業者のファクタリング活用ガイド｜Amazonや楽天の売上を即日資金化【2026年】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"EC通販 ファクタリング, Amazon 売上 資金化, 楽天 資金繰り"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sjYMfYV6eCgRTWxyE9Hpe"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/gyoushu","className":"hover:text-gray-700 transition","children":"業種別ファクタリング"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["EC・通販事業者のファクタリング活用ガイド｜Amazonや楽","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"EC・通販事業者のファクタリング活用ガイド｜Amazonや楽天の売上を即日資金化【2026年】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"EC・通販事業者のファクタリング活用ガイド｜Amazonや楽天の売上を即日資金化【2026年】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"EC通販 ファクタリング, Amazon 売上 資金化, 楽天 資金繰り"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gyxC-q0-FfdF7_CHUutPw"}
 5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社ページでは、公式サイトで確認した手数料・入金スピード・会社概要（確認日つき）と、口コミの出典をまとめています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","accel-factor",{"children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":["アクセルファクター","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","paytoday",{"children":["$","$L3",null,{"href":"/companies/paytoday/","className":"text-blue-600 hover:underline","children":["PayToday","の口コミ・評判・手数料 →"]}]}]]}]]}]
 6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","paytoday",{"href":"/companies/paytoday","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"PayToday"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜9.5%"," ／ ","最短30分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","support-kinyu",{"href":"/companies/support-kinyu","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"日本中小企業金融サポート機構"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1.5%〜10%"," ／ ","最短3時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","mf-earlypayment",{"href":"/companies/mf-earlypayment","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"Money Forward 早期入金"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","0.5%〜10%"," ／ ","最短2営業日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]

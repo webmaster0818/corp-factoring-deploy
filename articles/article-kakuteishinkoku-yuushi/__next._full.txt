@@ -6,44 +6,115 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-kakuteishinkoku-yuushi",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-kakuteishinkoku-yuushi","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-kakuteishinkoku-yuushi",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-kakuteishinkoku-yuushi","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/kojin-jigyonushi.jpg","image"]
-11:T29c6,<p>「節税を頑張りすぎて融資が通らなかった」――こんな失敗談を聞いたことはありませんか？</p>
+11:T2d3e,<p>「節税を頑張りすぎて融資が通らなかった」――こんな失敗談を聞いたことはありませんか？</p>
 <p>個人事業主にとって確定申告は税金を抑えるための重要な手続きですが、<strong>融資審査では確定申告書が「成績表」として見られる</strong>ことを忘れてはいけません。税金を減らそうとして所得を低く申告すると、いざ融資を受けたいときに「返済能力が低い」と判断され、審査に落ちるリスクがあります。</p>
 <p>この記事では、融資審査で確定申告書のどこが見られるのか、赤字申告の影響、そして融資に強い申告のポイントを解説します。</p>
 <hr>
 <h2>融資審査で確定申告書のどこが見られる？</h2>
 <p>金融機関が融資審査で確認するのは、主に以下の項目です。</p>
 <h3>確定申告書B（第一表）のチェックポイント</h3>
-<p>| チェック項目 | 記載箇所 | 審査での見方 |
-|------------|---------|------------|
-| 事業所得 | 営業等（ア） | 本業の稼ぐ力を確認 |
-| 所得合計 | 所得金額の合計（⑫） | 返済能力の基準値 |
-| 課税される所得金額 | （㉖） | 実質的な利益を確認 |
-| 税額 | 所得税額 | 所得の妥当性を裏付け |</p>
+<table>
+<thead>
+<tr>
+<th>チェック項目</th>
+<th>記載箇所</th>
+<th>審査での見方</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>事業所得</td>
+<td>営業等（ア）</td>
+<td>本業の稼ぐ力を確認</td>
+</tr>
+<tr>
+<td>所得合計</td>
+<td>所得金額の合計（⑫）</td>
+<td>返済能力の基準値</td>
+</tr>
+<tr>
+<td>課税される所得金額</td>
+<td>（㉖）</td>
+<td>実質的な利益を確認</td>
+</tr>
+<tr>
+<td>税額</td>
+<td>所得税額</td>
+<td>所得の妥当性を裏付け</td>
+</tr>
+</tbody>
+</table>
 <h3>青色申告決算書のチェックポイント</h3>
-<p>| チェック項目 | 審査での見方 |
-|------------|------------|
-| 売上高 | 事業規模の確認、前年比の推移 |
-| 売上原価 | 粗利率の確認 |
-| 経費の内訳 | 不自然に高い経費がないか |
-| 青色申告特別控除 | 65万円控除＝複式簿記＝管理能力が高い |
-| 貸借対照表 | 資産・負債の状況 |</p>
+<table>
+<thead>
+<tr>
+<th>チェック項目</th>
+<th>審査での見方</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>売上高</td>
+<td>事業規模の確認、前年比の推移</td>
+</tr>
+<tr>
+<td>売上原価</td>
+<td>粗利率の確認</td>
+</tr>
+<tr>
+<td>経費の内訳</td>
+<td>不自然に高い経費がないか</td>
+</tr>
+<tr>
+<td>青色申告特別控除</td>
+<td>65万円控除＝複式簿記＝管理能力が高い</td>
+</tr>
+<tr>
+<td>貸借対照表</td>
+<td>資産・負債の状況</td>
+</tr>
+</tbody>
+</table>
 <p><strong>特に重要なのは「売上高」と「所得金額」の2つです。</strong> 売上が順調に伸びていて、所得がしっかり残っている申告書が最も審査に通りやすくなります。</p>
 <hr>
 <h2>節税しすぎると融資が通らない問題</h2>
 <h3>なぜ節税が融資のマイナスになるのか</h3>
 <p>節税の基本は「経費を増やして所得を減らす」ことです。しかし融資審査では、<strong>所得＝返済能力</strong>と判断されます。</p>
 <p><strong>具体例:</strong></p>
-<p>| パターン | 売上 | 経費 | 所得 | 融資審査の印象 |
-|---------|------|------|------|-------------|
-| 節税重視 | 800万円 | 700万円 | 100万円 | 返済能力が低い |
-| バランス型 | 800万円 | 500万円 | 300万円 | 返済余力がある |</p>
+<table>
+<thead>
+<tr>
+<th>パターン</th>
+<th>売上</th>
+<th>経費</th>
+<th>所得</th>
+<th>融資審査の印象</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>節税重視</td>
+<td>800万円</td>
+<td>700万円</td>
+<td>100万円</td>
+<td>返済能力が低い</td>
+</tr>
+<tr>
+<td>バランス型</td>
+<td>800万円</td>
+<td>500万円</td>
+<td>300万円</td>
+<td>返済余力がある</td>
+</tr>
+</tbody>
+</table>
 <p>パターンAの場合、「年間100万円の所得では毎月の返済が厳しい」と判断され、融資額が減額されるか、審査に落ちる可能性が高くなります。</p>
 <h3>経費の水増しは絶対NG</h3>
 <p>融資のために経費を減らすのではなく、<strong>そもそも経費の水増しをしない</strong>ことが大前提です。税務調査で経費の否認が発覚すると、修正申告が必要になり、融資の信頼性も一気に失われます。</p>
@@ -51,13 +122,36 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <h2>赤字申告が融資に与える影響</h2>
 <h3>赤字＝即アウトではない</h3>
 <p>赤字申告だからといって、必ず融資に落ちるわけではありません。重要なのは<strong>赤字の原因と今後の見通し</strong>です。</p>
-<p>| 赤字の種類 | 融資への影響 |
-|-----------|-----------|
-| 開業初年度の赤字 | 比較的寛容に見られる |
-| 設備投資による一時的な赤字 | 理由の説明ができれば許容範囲 |
-| 減価償却費による帳簿上の赤字 | 実質キャッシュフローがプラスなら問題なし |
-| 売上低迷による慢性的な赤字 | 審査で厳しく見られる |
-| 2期連続以上の赤字 | かなり厳しい |</p>
+<table>
+<thead>
+<tr>
+<th>赤字の種類</th>
+<th>融資への影響</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>開業初年度の赤字</td>
+<td>比較的寛容に見られる</td>
+</tr>
+<tr>
+<td>設備投資による一時的な赤字</td>
+<td>理由の説明ができれば許容範囲</td>
+</tr>
+<tr>
+<td>減価償却費による帳簿上の赤字</td>
+<td>実質キャッシュフローがプラスなら問題なし</td>
+</tr>
+<tr>
+<td>売上低迷による慢性的な赤字</td>
+<td>審査で厳しく見られる</td>
+</tr>
+<tr>
+<td>2期連続以上の赤字</td>
+<td>かなり厳しい</td>
+</tr>
+</tbody>
+</table>
 <p>特に注目すべきは「減価償却費」です。減価償却費は帳簿上の経費であり、<strong>実際にお金が出ていくわけではありません</strong>。したがって、「所得＋減価償却費」がプラスであれば、実質的なキャッシュフローは黒字と説明できます。</p>
 <p>赤字でも融資を受けたい方は、<a href="/articles/article-akaji-yuushi/">赤字でも融資は受けられる？5つの方法</a>もあわせてご覧ください。</p>
 <hr>
@@ -87,22 +181,65 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>確定申告書以外に融資で見られる書類</h2>
 <p>確定申告書だけでなく、以下の書類も審査対象です。</p>
-<p>| 書類 | 確認されるポイント |
-|------|-----------------|
-| 通帳（6か月〜1年分） | 売上の入金パターン、資金の流れ |
-| 借入の返済明細 | 既存の返済状況、延滞の有無 |
-| 事業計画書 | 将来の売上見込み、成長性 |
-| 見積書・契約書 | 受注の確実性 |
-| 資金繰り表 | 返済計画の妥当性 |</p>
+<table>
+<thead>
+<tr>
+<th>書類</th>
+<th>確認されるポイント</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>通帳（6か月〜1年分）</td>
+<td>売上の入金パターン、資金の流れ</td>
+</tr>
+<tr>
+<td>借入の返済明細</td>
+<td>既存の返済状況、延滞の有無</td>
+</tr>
+<tr>
+<td>事業計画書</td>
+<td>将来の売上見込み、成長性</td>
+</tr>
+<tr>
+<td>見積書・契約書</td>
+<td>受注の確実性</td>
+</tr>
+<tr>
+<td>資金繰り表</td>
+<td>返済計画の妥当性</td>
+</tr>
+</tbody>
+</table>
 <p>特に<strong>通帳の記録は確定申告書の裏付け</strong>となるため、日頃から事業用口座とプライベート口座を分けて管理することが重要です。</p>
 <hr>
 <h2>融資を見据えた申告スケジュール</h2>
-<p>| 時期 | やるべきこと |
-|------|-----------|
-| 4〜12月 | 毎月の帳簿を正確につける、経費は領収書を整理 |
-| 1月 | 年間の収支を集計、所得金額を確認 |
-| 2〜3月 | 確定申告書を提出（e-Taxで65万円控除） |
-| 申告後 | 融資申込の準備（申告書の控え・通帳を整備） |</p>
+<table>
+<thead>
+<tr>
+<th>時期</th>
+<th>やるべきこと</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4〜12月</td>
+<td>毎月の帳簿を正確につける、経費は領収書を整理</td>
+</tr>
+<tr>
+<td>1月</td>
+<td>年間の収支を集計、所得金額を確認</td>
+</tr>
+<tr>
+<td>2〜3月</td>
+<td>確定申告書を提出（e-Taxで65万円控除）</td>
+</tr>
+<tr>
+<td>申告後</td>
+<td>融資申込の準備（申告書の控え・通帳を整備）</td>
+</tr>
+</tbody>
+</table>
 <p><strong>融資を検討している年の確定申告は特に慎重に。</strong> 過度な節税をせず、返済能力を示せる所得水準を確保しましょう。</p>
 <hr>
 <h2>確定申告を税理士に依頼すべきか？</h2>

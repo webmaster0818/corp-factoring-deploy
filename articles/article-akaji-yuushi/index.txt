@@ -6,44 +6,110 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-akaji-yuushi",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-akaji-yuushi","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-akaji-yuushi",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-akaji-yuushi","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/kojin-jigyonushi.jpg","image"]
-11:T2de4,<p>「赤字決算だから融資は無理だろう…」と諦めていませんか？</p>
+11:T330b,<p>「赤字決算だから融資は無理だろう…」と諦めていませんか？</p>
 <p>確かに赤字は融資審査でマイナス要因になりますが、<strong>赤字＝絶対に借りられないわけではありません。</strong> 赤字の原因や種類、そして申し込む先を正しく選べば、個人事業主でも資金を調達できる方法はあります。</p>
 <p>この記事では、赤字でも融資を受けられる5つの方法と、赤字の種類による審査への影響の違い、そして赤字から脱却するための改善策を解説します。</p>
 <hr>
 <h2>赤字の種類によって融資のハードルは変わる</h2>
 <p>一口に「赤字」といっても、金融機関の見方は赤字の原因によって大きく異なります。</p>
 <h3>融資審査で比較的許容される赤字</h3>
-<p>| 赤字の種類 | 理由 | 審査での評価 |
-|-----------|------|-----------|
-| <strong>開業初年度の赤字</strong> | 初期投資が大きく、売上が立ち上がっていない | 事業計画が妥当であれば許容 |
-| <strong>設備投資による赤字</strong> | 機械・車両・内装工事など大きな投資を実施 | 投資効果の説明ができれば問題なし |
-| <strong>減価償却費による帳簿上の赤字</strong> | 実際のキャッシュアウトを伴わない経費 | キャッシュフローで黒字なら評価される |
-| <strong>一時的な外部要因による赤字</strong> | コロナ禍・災害・取引先倒産等 | 回復見込みがあれば考慮される |</p>
+<table>
+<thead>
+<tr>
+<th>赤字の種類</th>
+<th>理由</th>
+<th>審査での評価</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>開業初年度の赤字</strong></td>
+<td>初期投資が大きく、売上が立ち上がっていない</td>
+<td>事業計画が妥当であれば許容</td>
+</tr>
+<tr>
+<td><strong>設備投資による赤字</strong></td>
+<td>機械・車両・内装工事など大きな投資を実施</td>
+<td>投資効果の説明ができれば問題なし</td>
+</tr>
+<tr>
+<td><strong>減価償却費による帳簿上の赤字</strong></td>
+<td>実際のキャッシュアウトを伴わない経費</td>
+<td>キャッシュフローで黒字なら評価される</td>
+</tr>
+<tr>
+<td><strong>一時的な外部要因による赤字</strong></td>
+<td>コロナ禍・災害・取引先倒産等</td>
+<td>回復見込みがあれば考慮される</td>
+</tr>
+</tbody>
+</table>
 <h3>融資審査で厳しく見られる赤字</h3>
-<p>| 赤字の種類 | 理由 | 審査での評価 |
-|-----------|------|-----------|
-| <strong>売上低迷による慢性的な赤字</strong> | 事業モデルに問題がある可能性 | 改善計画がないと困難 |
-| <strong>2期連続以上の赤字</strong> | 回復の見込みが立ちにくい | かなり厳しい |
-| <strong>債務超過状態</strong> | 負債が資産を上回っている | ほぼ困難 |</p>
+<table>
+<thead>
+<tr>
+<th>赤字の種類</th>
+<th>理由</th>
+<th>審査での評価</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>売上低迷による慢性的な赤字</strong></td>
+<td>事業モデルに問題がある可能性</td>
+<td>改善計画がないと困難</td>
+</tr>
+<tr>
+<td><strong>2期連続以上の赤字</strong></td>
+<td>回復の見込みが立ちにくい</td>
+<td>かなり厳しい</td>
+</tr>
+<tr>
+<td><strong>債務超過状態</strong></td>
+<td>負債が資産を上回っている</td>
+<td>ほぼ困難</td>
+</tr>
+</tbody>
+</table>
 <p><strong>キーポイント:</strong> 融資審査では「なぜ赤字なのか」「今後改善する見込みはあるか」を具体的に説明できるかどうかが勝負の分かれ目です。</p>
 <hr>
 <h2>赤字でも融資を受けられる5つの方法</h2>
 <h3>方法1: 日本政策金融公庫のセーフティネット貸付</h3>
 <p><strong>おすすめ度：★★★★★</strong></p>
 <p>日本政策金融公庫は政府系金融機関であり、<strong>民間銀行と比べて赤字企業への融資に積極的</strong>です。</p>
-<p>| 項目 | 内容 |
-|------|------|
-| 融資限度額 | 4,800万円 |
-| 金利 | 年1.0〜2.5%程度 |
-| 返済期間 | 設備資金15年以内、運転資金8年以内 |
-| 据置期間 | 設備資金3年以内、運転資金3年以内 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>融資限度額</td>
+<td>4,800万円</td>
+</tr>
+<tr>
+<td>金利</td>
+<td>年1.0〜2.5%程度</td>
+</tr>
+<tr>
+<td>返済期間</td>
+<td>設備資金15年以内、運転資金8年以内</td>
+</tr>
+<tr>
+<td>据置期間</td>
+<td>設備資金3年以内、運転資金3年以内</td>
+</tr>
+</tbody>
+</table>
 <p>特に「経営環境変化対応資金（セーフティネット貸付）」は、売上が減少している事業者を対象としており、赤字であっても利用できる可能性があります。</p>
 <p><strong>審査に通るコツ:</strong></p>
 <ul>
@@ -55,33 +121,90 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <h3>方法2: 自治体の制度融資</h3>
 <p><strong>おすすめ度：★★★★☆</strong></p>
 <p><a href="/articles/article-seido-yuushi/">制度融資</a>は、自治体・金融機関・信用保証協会の3者が連携する融資制度です。自治体によっては赤字事業者向けの特別枠を設けているケースがあります。</p>
-<p>| メリット | デメリット |
-|---------|----------|
-| 低金利（0.5〜2.0%） | 審査に1〜2か月かかる |
-| 信用保証協会の保証付き | 保証料が必要 |
-| 自治体が利子補給してくれる場合あり | 必要書類が多い |</p>
+<table>
+<thead>
+<tr>
+<th>メリット</th>
+<th>デメリット</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>低金利（0.5〜2.0%）</td>
+<td>審査に1〜2か月かかる</td>
+</tr>
+<tr>
+<td>信用保証協会の保証付き</td>
+<td>保証料が必要</td>
+</tr>
+<tr>
+<td>自治体が利子補給してくれる場合あり</td>
+<td>必要書類が多い</td>
+</tr>
+</tbody>
+</table>
 <p><strong>ポイント:</strong> 各自治体の産業振興課や商工会議所に相談すると、赤字でも利用できる制度を紹介してもらえることがあります。</p>
 <h3>方法3: ファクタリング（売掛金の早期現金化）</h3>
 <p><strong>おすすめ度：★★★★☆</strong></p>
 <p>ファクタリングは融資ではなく<strong>売掛金の買取サービス</strong>です。審査で重視されるのは利用者の信用力ではなく、<strong>売掛先（取引先）の支払い能力</strong>です。</p>
-<p>| 項目 | 内容 |
-|------|------|
-| 調達可能額 | 売掛金の70〜95% |
-| 手数料 | 2社間：8〜18%、3社間：2〜9% |
-| 入金スピード | 最短即日 |
-| 赤字の影響 | ほぼなし（売掛先の信用力が重要） |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>調達可能額</td>
+<td>売掛金の70〜95%</td>
+</tr>
+<tr>
+<td>手数料</td>
+<td>2社間：8〜18%、3社間：2〜9%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>赤字の影響</td>
+<td>ほぼなし（売掛先の信用力が重要）</td>
+</tr>
+</tbody>
+</table>
 <p><strong>赤字でもファクタリングが使える理由:</strong></p>
 <p>ファクタリングは「借入」ではなく「売掛金の売却（債権譲渡）」です。したがって、利用者が赤字であっても、売掛先が信用力のある企業であれば問題なく利用できます。</p>
 <p>個人事業主のファクタリング利用については<a href="/articles/article-factoring-kojin-jigyonushi/">個人事業主向けファクタリングガイド</a>で詳しく解説しています。</p>
 <h3>方法4: ビジネスローン（ノンバンク）</h3>
 <p><strong>おすすめ度：★★★☆☆</strong></p>
 <p>消費者金融系のビジネスローンは、<strong>銀行融資と比べて審査基準が緩やか</strong>です。赤字でも借りられる可能性があります。</p>
-<p>| 項目 | 内容 |
-|------|------|
-| 融資限度額 | 50〜1,000万円 |
-| 金利 | 年5〜18% |
-| 審査期間 | 最短即日〜数日 |
-| 赤字の影響 | 融資額の減額はあるが利用可能なケースあり |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>融資限度額</td>
+<td>50〜1,000万円</td>
+</tr>
+<tr>
+<td>金利</td>
+<td>年5〜18%</td>
+</tr>
+<tr>
+<td>審査期間</td>
+<td>最短即日〜数日</td>
+</tr>
+<tr>
+<td>赤字の影響</td>
+<td>融資額の減額はあるが利用可能なケースあり</td>
+</tr>
+</tbody>
+</table>
 <p><strong>注意点:</strong></p>
 <ul>
 <li>金利が高いため長期借入には向かない</li>
@@ -91,12 +214,32 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <h3>方法5: 不動産担保ローン</h3>
 <p><strong>おすすめ度：★★★☆☆</strong></p>
 <p>自宅や事業用不動産を担保にすれば、赤字でも比較的大きな金額を借りられます。</p>
-<p>| 項目 | 内容 |
-|------|------|
-| 融資限度額 | 不動産評価額の60〜80% |
-| 金利 | 年3〜10% |
-| 返済期間 | 最長30年 |
-| 赤字の影響 | 担保があるため比較的緩やか |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>融資限度額</td>
+<td>不動産評価額の60〜80%</td>
+</tr>
+<tr>
+<td>金利</td>
+<td>年3〜10%</td>
+</tr>
+<tr>
+<td>返済期間</td>
+<td>最長30年</td>
+</tr>
+<tr>
+<td>赤字の影響</td>
+<td>担保があるため比較的緩やか</td>
+</tr>
+</tbody>
+</table>
 <p><strong>リスク:</strong> 返済が滞った場合、不動産を失う可能性があります。最終手段として検討してください。</p>
 <hr>
 <h2>赤字でも審査に通るための準備</h2>
@@ -109,11 +252,28 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </ul>
 <h3>2. 改善計画を具体的な数値で示す</h3>
 <p>「今後は頑張ります」ではなく、具体的な数字を示すことが重要です。</p>
-<p>| 項目 | 記載例 |
-|------|--------|
-| 売上見込み | 「新規取引先2社が確定しており、月売上30万円増加の見込み」 |
-| 経費削減 | 「事務所を移転し、月5万円の家賃削減を実施済み」 |
-| 黒字化時期 | 「2026年7月から月次黒字化の見込み」 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>記載例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>売上見込み</td>
+<td>「新規取引先2社が確定しており、月売上30万円増加の見込み」</td>
+</tr>
+<tr>
+<td>経費削減</td>
+<td>「事務所を移転し、月5万円の家賃削減を実施済み」</td>
+</tr>
+<tr>
+<td>黒字化時期</td>
+<td>「2026年7月から月次黒字化の見込み」</td>
+</tr>
+</tbody>
+</table>
 <h3>3. キャッシュフロー計算書を作成する</h3>
 <p>帳簿上は赤字でも、<strong>減価償却費を加算したキャッシュフローベースでは黒字</strong>というケースは少なくありません。</p>
 <p><strong>計算式:</strong>
@@ -139,13 +299,48 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>まとめ</h2>
 <p>赤字だからといって資金調達を諦める必要はありません。重要なのは、<strong>赤字の原因を理解し、適切な調達方法を選ぶこと</strong>です。</p>
-<p>| 方法 | 金利・手数料 | 赤字への対応 | スピード |
-|------|-----------|-----------|--------|
-| 日本政策金融公庫 | 1.0〜2.5% | 比較的寛容 | 2〜3週間 |
-| 制度融資 | 0.5〜2.0% | 自治体による | 1〜2か月 |
-| ファクタリング | 2〜18% | 赤字でも利用可 | 最短即日 |
-| ビジネスローン | 5〜18% | 審査基準が緩め | 最短即日 |
-| 不動産担保ローン | 3〜10% | 担保次第 | 1〜3週間 |</p>
+<table>
+<thead>
+<tr>
+<th>方法</th>
+<th>金利・手数料</th>
+<th>赤字への対応</th>
+<th>スピード</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>日本政策金融公庫</td>
+<td>1.0〜2.5%</td>
+<td>比較的寛容</td>
+<td>2〜3週間</td>
+</tr>
+<tr>
+<td>制度融資</td>
+<td>0.5〜2.0%</td>
+<td>自治体による</td>
+<td>1〜2か月</td>
+</tr>
+<tr>
+<td>ファクタリング</td>
+<td>2〜18%</td>
+<td>赤字でも利用可</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>ビジネスローン</td>
+<td>5〜18%</td>
+<td>審査基準が緩め</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>不動産担保ローン</td>
+<td>3〜10%</td>
+<td>担保次第</td>
+<td>1〜3週間</td>
+</tr>
+</tbody>
+</table>
 <p><strong>最優先で検討すべきは日本政策金融公庫</strong>です。金利が最も低く、赤字事業者への理解もあります。急ぎの場合はファクタリングやビジネスローンも選択肢に入れましょう。</p>
 <hr>
 <h2>関連記事</h2>

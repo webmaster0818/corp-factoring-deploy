@@ -6,25 +6,45 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-ooguchi",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-ooguchi","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-ooguchi",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-ooguchi","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/factoring-article.jpg","image"]
-11:T2f3a,<p>「1,000万円を超える工事代金を早期資金化したい」「数億円規模の売掛金をファクタリングできる会社があるか知りたい」——大口ファクタリングを検討する企業からのこうした相談は多く寄せられています。</p>
+11:T337b,<p>「1,000万円を超える工事代金を早期資金化したい」「数億円規模の売掛金をファクタリングできる会社があるか知りたい」——大口ファクタリングを検討する企業からのこうした相談は多く寄せられています。</p>
 <p>ファクタリング会社によって「上限なし」と表記していても、実質的に対応できる上限額は大きく異なります。この記事では、1,000万円以上の大口ファクタリングに対応する会社の特徴と選び方を解説します。</p>
 <hr>
 <h2>大口ファクタリングとは</h2>
 <h3>一般的な上限金額の実態</h3>
 <p>「上限なし」を謳っているファクタリング会社でも、実際に対応できる金額は会社の資本力によって異なります。</p>
-<p>| 会社の規模 | 実質的な対応上限の目安 |
-|----------|--------------------|
-| 大手・老舗（業歴10年以上） | 数億円〜制限なし |
-| 中堅 | 5,000万円〜1億円程度 |
-| 中小 | 1,000万円〜5,000万円程度 |
-| スタートアップ | 500万円〜1,000万円程度 |</p>
+<table>
+<thead>
+<tr>
+<th>会社の規模</th>
+<th>実質的な対応上限の目安</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>大手・老舗（業歴10年以上）</td>
+<td>数億円〜制限なし</td>
+</tr>
+<tr>
+<td>中堅</td>
+<td>5,000万円〜1億円程度</td>
+</tr>
+<tr>
+<td>中小</td>
+<td>1,000万円〜5,000万円程度</td>
+</tr>
+<tr>
+<td>スタートアップ</td>
+<td>500万円〜1,000万円程度</td>
+</tr>
+</tbody>
+</table>
 <p>大口ファクタリングに対応するためには、ファクタリング会社自身に十分な資金力と信用力が必要です。</p>
 <h3>大口ファクタリングが必要になる場面</h3>
 <ul>
@@ -38,13 +58,36 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <h2>大口ファクタリングの3つの特徴</h2>
 <h3>特徴1：手数料率が低くなる</h3>
 <p>大口案件では、金額が大きくなるほど手数料率が低くなる傾向があります。</p>
-<p>| 金額 | 一般的な手数料率（2社間） |
-|------|----------------------|
-| 100万円 | 5〜12% |
-| 500万円 | 4〜10% |
-| 1,000万円 | 3〜8% |
-| 3,000万円以上 | 2〜6% |
-| 1億円以上 | 1〜4% |</p>
+<table>
+<thead>
+<tr>
+<th>金額</th>
+<th>一般的な手数料率（2社間）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>100万円</td>
+<td>5〜12%</td>
+</tr>
+<tr>
+<td>500万円</td>
+<td>4〜10%</td>
+</tr>
+<tr>
+<td>1,000万円</td>
+<td>3〜8%</td>
+</tr>
+<tr>
+<td>3,000万円以上</td>
+<td>2〜6%</td>
+</tr>
+<tr>
+<td>1億円以上</td>
+<td>1〜4%</td>
+</tr>
+</tbody>
+</table>
 <p><strong>例：1,000万円の売掛金を手数料5%でファクタリングすると、手取りは950万円。手数料は50万円。</strong></p>
 <h3>特徴2：3社間ファクタリングが有効</h3>
 <p>大口案件では、3社間ファクタリングを選ぶことで手数料を大幅に下げられます。</p>
@@ -64,43 +107,135 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>大口ファクタリングおすすめ会社</h2>
 <h3>1位：ビートレーディング（7億円の実績）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間：4〜12% / 3社間：2〜9% |
-| 入金スピード | 最短2時間〜 |
-| 対応上限 | <strong>上限なし（7億円の実績あり）</strong> |
-| 実績 | 累計取引91,000社以上 |
-| 特徴 | 全国5拠点で高額案件対応 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間：4〜12% / 3社間：2〜9%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間〜</td>
+</tr>
+<tr>
+<td>対応上限</td>
+<td><strong>上限なし（7億円の実績あり）</strong></td>
+</tr>
+<tr>
+<td>実績</td>
+<td>累計取引91,000社以上</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>全国5拠点で高額案件対応</td>
+</tr>
+</tbody>
+</table>
 <p><strong>大口おすすめ理由：</strong> 単一取引で7億円という実績は業界随一。累計買取額1,824億円の圧倒的な資金力。大型案件でも即日対応の実績があります。全国5拠点で対面サポートも可能。</p>
 <p><strong>こんな案件に：</strong> 建設業の大型公共工事、製造業の大型受注、ITシステムの大型開発案件</p>
 <h3>2位：トップマネジメント（最大3億円）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間：3.5〜12.5% / 3社間：0.5〜3.5% |
-| 入金スピード | 最短即日 |
-| 対応上限 | <strong>3億円まで</strong> |
-| 業歴 | <strong>13年</strong> |
-| 3社間 | <strong>対応（手数料0.5%〜）</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間：3.5〜12.5% / 3社間：0.5〜3.5%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>対応上限</td>
+<td><strong>3億円まで</strong></td>
+</tr>
+<tr>
+<td>業歴</td>
+<td><strong>13年</strong></td>
+</tr>
+<tr>
+<td>3社間</td>
+<td><strong>対応（手数料0.5%〜）</strong></td>
+</tr>
+</tbody>
+</table>
 <p><strong>大口おすすめ理由：</strong> 3社間ファクタリングの手数料0.5%〜は業界最安水準。1億円を手数料1%でファクタリングできれば手数料はわずか100万円。業歴13年の信頼性と高額対応の実績があります。</p>
 <p><strong>こんな案件に：</strong> 長期取引先への大口請求、3社間で手数料を抑えたい場合</p>
 <h3>3位：日本中小企業金融サポート機構（上限なし・非営利運営）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 1.5〜10% |
-| 入金スピード | 最短3時間 |
-| 対応上限 | 上限なし |
-| 運営 | 非営利団体（一般社団法人） |
-| 特徴 | 経営革新等支援機関認定 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>1.5〜10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短3時間</td>
+</tr>
+<tr>
+<td>対応上限</td>
+<td>上限なし</td>
+</tr>
+<tr>
+<td>運営</td>
+<td>非営利団体（一般社団法人）</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>経営革新等支援機関認定</td>
+</tr>
+</tbody>
+</table>
 <p><strong>大口おすすめ理由：</strong> 非営利団体として中小企業を支援する姿勢から、高額案件でも誠実な対応が期待できます。手数料上限10%が保証されており、大口でも手数料が青天井になる心配がありません。</p>
 <p><strong>こんな案件に：</strong> 信頼できる非営利機関を利用したい中小企業、手数料上限を確保したい案件</p>
 <h3>4位：PMG（最大2億円）</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 1〜10% |
-| 入金スピード | 最短2時間 |
-| 対応上限 | <strong>2億円（応相談）</strong> |
-| 審査時間 | 30分 |
-| 特徴 | スピードとコストのバランス |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>1〜10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td>対応上限</td>
+<td><strong>2億円（応相談）</strong></td>
+</tr>
+<tr>
+<td>審査時間</td>
+<td>30分</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>スピードとコストのバランス</td>
+</tr>
+</tbody>
+</table>
 <p><strong>大口おすすめ理由：</strong> 2億円まで対応、審査30分というスピードが特徴。大口でも即日対応が可能なケースが多い。手数料1%〜と低水準。</p>
 <p><strong>こんな案件に：</strong> 大口でもスピードを優先したい場合、コスト重視の中堅企業</p>
 <hr>
@@ -118,11 +253,36 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </ul>
 <h3>ポイント3：3社間で手数料を下げる</h3>
 <p>売掛先との関係が良好なら、3社間ファクタリングを積極的に検討してください。1,000万円を超える案件では、2社間と3社間の手数料差だけで数十万円〜数百万円の差が生じます。</p>
-<p>| 金額 | 2社間（7%） | 3社間（2%） | 差額 |
-|------|------------|------------|------|
-| 1,000万円 | 70万円 | 20万円 | <strong>50万円</strong> |
-| 3,000万円 | 210万円 | 60万円 | <strong>150万円</strong> |
-| 1億円 | 700万円 | 200万円 | <strong>500万円</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>金額</th>
+<th>2社間（7%）</th>
+<th>3社間（2%）</th>
+<th>差額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1,000万円</td>
+<td>70万円</td>
+<td>20万円</td>
+<td><strong>50万円</strong></td>
+</tr>
+<tr>
+<td>3,000万円</td>
+<td>210万円</td>
+<td>60万円</td>
+<td><strong>150万円</strong></td>
+</tr>
+<tr>
+<td>1億円</td>
+<td>700万円</td>
+<td>200万円</td>
+<td><strong>500万円</strong></td>
+</tr>
+</tbody>
+</table>
 <h3>ポイント4：複数社に見積もりを依頼する</h3>
 <p>大口案件こそ複数社への見積もり依頼が効果的です。同じ案件でも会社によって提示手数料が2〜3%異なることがあり、1,000万円の案件では20〜30万円の差になります。</p>
 <hr>

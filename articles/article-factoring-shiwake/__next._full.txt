@@ -6,25 +6,50 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-shiwake",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-shiwake","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-shiwake",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-shiwake","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/factoring-article.jpg","image"]
-11:T32ee,<p>「ファクタリングを利用したけど、仕訳はどうすればいいの？」</p>
+11:T35f1,<p>「ファクタリングを利用したけど、仕訳はどうすればいいの？」</p>
 <p>ファクタリングは借入ではなく「債権の売却」です。そのため、通常の融資とは仕訳方法が異なります。間違った処理をすると、税務調査で指摘を受けたり、決算書の見栄えが悪くなったりする原因になります。</p>
 <p>この記事では、2社間・3社間それぞれの仕訳パターンを具体的な数字で示しながら、勘定科目・消費税・決算書への影響まで網羅的に解説します。</p>
 <hr>
 <h2>ファクタリングで使う勘定科目一覧</h2>
 <p>まず、ファクタリングの会計処理で登場する主な勘定科目を整理します。</p>
-<p>| 勘定科目 | 使用場面 | 区分 |
-|---------|---------|------|
-| <strong>売掛金</strong> | 売上発生時、ファクタリング申込時 | 資産（流動） |
-| <strong>未収入金（未収金）</strong> | 2社間でファクタリング会社からの入金待ち | 資産（流動） |
-| <strong>普通預金</strong> | ファクタリング代金の受取 | 資産（流動） |
-| <strong>売上債権売却損</strong> | 手数料の計上 | 費用（営業外） |</p>
+<table>
+<thead>
+<tr>
+<th>勘定科目</th>
+<th>使用場面</th>
+<th>区分</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>売掛金</strong></td>
+<td>売上発生時、ファクタリング申込時</td>
+<td>資産（流動）</td>
+</tr>
+<tr>
+<td><strong>未収入金（未収金）</strong></td>
+<td>2社間でファクタリング会社からの入金待ち</td>
+<td>資産（流動）</td>
+</tr>
+<tr>
+<td><strong>普通預金</strong></td>
+<td>ファクタリング代金の受取</td>
+<td>資産（流動）</td>
+</tr>
+<tr>
+<td><strong>売上債権売却損</strong></td>
+<td>手数料の計上</td>
+<td>費用（営業外）</td>
+</tr>
+</tbody>
+</table>
 <p>「売上債権売却損」は聞き慣れない科目かもしれませんが、ファクタリング手数料を計上する際の正式な勘定科目です。「支払手数料」で処理する方法もありますが、ファクタリングの性質（債権売却に伴う損失）を正確に反映するには「売上債権売却損」が適切です。</p>
 <hr>
 <h2>2社間ファクタリングの仕訳【3ステップ】</h2>
@@ -37,28 +62,93 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </ul>
 <h3>STEP1: 売上計上時（通常の売上仕訳）</h3>
 <p>まず、取引先に請求書を発行した時点で通常の売上仕訳を行います。</p>
-<p>| 借方 | 金額 | 貸方 | 金額 |
-|------|------|------|------|
-| 売掛金 | 1,000,000円 | 売上 | 1,000,000円 |</p>
+<table>
+<thead>
+<tr>
+<th>借方</th>
+<th>金額</th>
+<th>貸方</th>
+<th>金額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>売掛金</td>
+<td>1,000,000円</td>
+<td>売上</td>
+<td>1,000,000円</td>
+</tr>
+</tbody>
+</table>
 <p>この段階ではファクタリングに関する仕訳はありません。通常どおり売掛金を計上します。</p>
 <h3>STEP2: ファクタリング契約・入金時</h3>
 <p>ファクタリング会社と契約し、手数料を差し引いた金額が入金された時点で以下の仕訳を行います。</p>
-<p>| 借方 | 金額 | 貸方 | 金額 |
-|------|------|------|------|
-| 普通預金 | 900,000円 | 売掛金 | 1,000,000円 |
-| 売上債権売却損 | 100,000円 | | |</p>
+<table>
+<thead>
+<tr>
+<th>借方</th>
+<th>金額</th>
+<th>貸方</th>
+<th>金額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>普通預金</td>
+<td>900,000円</td>
+<td>売掛金</td>
+<td>1,000,000円</td>
+</tr>
+<tr>
+<td>売上債権売却損</td>
+<td>100,000円</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <p>売掛金100万円が消え、代わりに普通預金90万円と手数料（売上債権売却損）10万円が計上されます。</p>
 <h3>STEP3: 売掛先からの入金→ファクタリング会社へ送金時</h3>
 <p>2社間ファクタリングでは、入金期日に売掛先からあなたに入金があり、それをファクタリング会社に送金します。</p>
 <p><strong>売掛先から入金があった場合:</strong></p>
 <p>STEP2で売掛金はすでに消えているため、売掛先からの入金は「預り金」として処理します。</p>
-<p>| 借方 | 金額 | 貸方 | 金額 |
-|------|------|------|------|
-| 普通預金 | 1,000,000円 | 預り金 | 1,000,000円 |</p>
+<table>
+<thead>
+<tr>
+<th>借方</th>
+<th>金額</th>
+<th>貸方</th>
+<th>金額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>普通預金</td>
+<td>1,000,000円</td>
+<td>預り金</td>
+<td>1,000,000円</td>
+</tr>
+</tbody>
+</table>
 <p><strong>ファクタリング会社に送金した場合:</strong></p>
-<p>| 借方 | 金額 | 貸方 | 金額 |
-|------|------|------|------|
-| 預り金 | 1,000,000円 | 普通預金 | 1,000,000円 |</p>
+<table>
+<thead>
+<tr>
+<th>借方</th>
+<th>金額</th>
+<th>貸方</th>
+<th>金額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>預り金</td>
+<td>1,000,000円</td>
+<td>普通預金</td>
+<td>1,000,000円</td>
+</tr>
+</tbody>
+</table>
 <p>これで2社間ファクタリングの仕訳が完了します。</p>
 <hr>
 <h2>3社間ファクタリングの仕訳【2ステップ】</h2>
@@ -71,15 +161,50 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </ul>
 <h3>STEP1: 売上計上時</h3>
 <p>2社間と同じく、通常の売上仕訳を行います。</p>
-<p>| 借方 | 金額 | 貸方 | 金額 |
-|------|------|------|------|
-| 売掛金 | 1,000,000円 | 売上 | 1,000,000円 |</p>
+<table>
+<thead>
+<tr>
+<th>借方</th>
+<th>金額</th>
+<th>貸方</th>
+<th>金額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>売掛金</td>
+<td>1,000,000円</td>
+<td>売上</td>
+<td>1,000,000円</td>
+</tr>
+</tbody>
+</table>
 <h3>STEP2: ファクタリング契約・入金時</h3>
 <p>ファクタリング会社から入金された時点で以下の仕訳を行います。</p>
-<p>| 借方 | 金額 | 貸方 | 金額 |
-|------|------|------|------|
-| 普通預金 | 950,000円 | 売掛金 | 1,000,000円 |
-| 売上債権売却損 | 50,000円 | | |</p>
+<table>
+<thead>
+<tr>
+<th>借方</th>
+<th>金額</th>
+<th>貸方</th>
+<th>金額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>普通預金</td>
+<td>950,000円</td>
+<td>売掛金</td>
+<td>1,000,000円</td>
+</tr>
+<tr>
+<td>売上債権売却損</td>
+<td>50,000円</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <p>3社間では、売掛先がファクタリング会社に直接支払うため、STEP2で仕訳は完了です。あなたの帳簿上の操作はこれだけで済みます。</p>
 <hr>
 <h2>消費税の取り扱い：ファクタリング手数料は非課税</h2>

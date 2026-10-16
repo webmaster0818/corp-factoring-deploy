@@ -5,7 +5,7 @@
 17:"$Sreact.suspense"
 :HL["/images/articles/kojin-jigyonushi.jpg","image"]
 :HL["/images/logo.png","image"]
-4:T33d0,<p>「個人事業主でもファクタリングは使えますか？」</p>
+4:T3bd8,<p>「個人事業主でもファクタリングは使えますか？」</p>
 <p>これは最もよくある質問のひとつです。答えは「はい、使えます」。ただし、法人向けとは異なる審査基準や必要書類があるため、個人事業主に対応した会社を選ぶことが重要です。</p>
 <p>この記事では、個人事業主・フリーランスがファクタリングを利用する際のポイントと、2026年最新のおすすめ8社を詳しく解説します。</p>
 <hr>
@@ -15,13 +15,42 @@
 <p>2024年にフリーランス保護法（特定受託事業者に係る取引の適正化等に関する法律）が施行され、フリーランスへの発注企業には書面での取引条件明示が義務付けられました。これにより、個人事業主の売掛金（請求書）の信頼性が高まり、ファクタリングに活用しやすくなっています。</p>
 <h3>個人事業主の審査で重視されるポイント</h3>
 <p>個人事業主の場合、以下の点が特に重視されます：</p>
-<p>| 審査項目 | 重要度 | ポイント |
-|---------|--------|---------|
-| 売掛先の信用力 | ◎ | 企業顧客への請求書が必須 |
-| 請求書の実在性 | ◎ | 実際の取引の証明が必要 |
-| 個人の本人確認 | ○ | 身分証明書で確認 |
-| 通帳の入出金 | ○ | 定期的な売上の確認 |
-| 開業届・確定申告 | △ | 一部の会社で必要 |</p>
+<table>
+<thead>
+<tr>
+<th>審査項目</th>
+<th>重要度</th>
+<th>ポイント</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>売掛先の信用力</td>
+<td>◎</td>
+<td>企業顧客への請求書が必須</td>
+</tr>
+<tr>
+<td>請求書の実在性</td>
+<td>◎</td>
+<td>実際の取引の証明が必要</td>
+</tr>
+<tr>
+<td>個人の本人確認</td>
+<td>○</td>
+<td>身分証明書で確認</td>
+</tr>
+<tr>
+<td>通帳の入出金</td>
+<td>○</td>
+<td>定期的な売上の確認</td>
+</tr>
+<tr>
+<td>開業届・確定申告</td>
+<td>△</td>
+<td>一部の会社で必要</td>
+</tr>
+</tbody>
+</table>
 <p><strong>最も重要なのは「売掛先が企業（法人）かどうか」です。</strong> 個人クライアントへの請求書は、多くの会社で審査が困難です（ラボルは個人間取引に対応）。</p>
 <hr>
 <h2>個人事業主がファクタリングを利用する際の必要書類</h2>
@@ -49,93 +78,357 @@
 <hr>
 <h2>個人事業主向けファクタリングおすすめ8社</h2>
 <h3>1位：ペイトナー</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 一律10% |
-| 入金スピード | 最短即日 |
-| 最低金額 | 1万円 |
-| 最高金額 | 300万円（初回50万円） |
-| 特徴 | 個人事業主・フリーランス特化 |
-| 24時間対応 | OK |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>一律10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>最低金額</td>
+<td>1万円</td>
+</tr>
+<tr>
+<td>最高金額</td>
+<td>300万円（初回50万円）</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>個人事業主・フリーランス特化</td>
+</tr>
+<tr>
+<td>24時間対応</td>
+<td>OK</td>
+</tr>
+</tbody>
+</table>
 <p><strong>個人事業主おすすめ理由：</strong> フリーランス・個人事業主に特化したサービス設計。最短即日入金、手数料一律10%でコスト計算が明確。初めてのファクタリングに最適。</p>
 <h3>2位：ラボル</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 一律10% |
-| 入金スピード | 最短30分 |
-| 最低金額 | 1万円 |
-| 最高金額 | 審査で個別設定 |
-| 特徴 | <strong>個人間取引OK・開業直後OK</strong> |
-| 24時間対応 | OK |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>一律10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短30分</td>
+</tr>
+<tr>
+<td>最低金額</td>
+<td>1万円</td>
+</tr>
+<tr>
+<td>最高金額</td>
+<td>審査で個別設定</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td><strong>個人間取引OK・開業直後OK</strong></td>
+</tr>
+<tr>
+<td>24時間対応</td>
+<td>OK</td>
+</tr>
+</tbody>
+</table>
 <p><strong>個人事業主おすすめ理由：</strong> 個人クライアントへの請求書にも対応する珍しいサービス。開業直後でも利用可能。24時間365日申込受付で急な資金需要に対応。</p>
 <h3>3位：FREENANCE</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 3〜10% |
-| 入金スピード | 最短即日 |
-| 最低金額 | 1万円 |
-| 最高金額 | 1,000万円 |
-| 特徴 | <strong>GMO運営・損害賠償保険付き</strong> |
-| 必要書類 | 請求書・身分証の2点のみ |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>3〜10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>最低金額</td>
+<td>1万円</td>
+</tr>
+<tr>
+<td>最高金額</td>
+<td>1,000万円</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td><strong>GMO運営・損害賠償保険付き</strong></td>
+</tr>
+<tr>
+<td>必要書類</td>
+<td>請求書・身分証の2点のみ</td>
+</tr>
+</tbody>
+</table>
 <p><strong>個人事業主おすすめ理由：</strong> GMOクリエイターズネットワーク運営という信頼性が最大の強み。損害賠償保険が付帯するため、フリーランスとしての総合的な保護が受けられます。</p>
 <h3>4位：ベストファクター</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2〜20% |
-| 入金スピード | 最短即日 |
-| 最低金額 | 10万円 |
-| 最高金額 | 1億円 |
-| 審査通過率 | 92.25% |
-| 個人事業主 | OK |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2〜20%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>最低金額</td>
+<td>10万円</td>
+</tr>
+<tr>
+<td>最高金額</td>
+<td>1億円</td>
+</tr>
+<tr>
+<td>審査通過率</td>
+<td>92.25%</td>
+</tr>
+<tr>
+<td>個人事業主</td>
+<td>OK</td>
+</tr>
+</tbody>
+</table>
 <p><strong>個人事業主おすすめ理由：</strong> 10万円から対応で高い審査通過率（92.25%）。審査完了まで平均5分。個人事業主でも比較的高い審査通過率を誇ります。</p>
 <h3>5位：アクセルファクター</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間1〜12%／3社間0.5〜10.5% |
-| 入金スピード | 最短即日 |
-| 最低金額 | 30万円 |
-| 審査通過率 | 93%以上 |
-| 個人事業主 | OK |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>最低金額</td>
+<td>30万円</td>
+</tr>
+<tr>
+<td>審査通過率</td>
+<td>93%以上</td>
+</tr>
+<tr>
+<td>個人事業主</td>
+<td>OK</td>
+</tr>
+</tbody>
+</table>
 <p><strong>個人事業主おすすめ理由：</strong> 業界最低水準の手数料は3社間0.5%〜（2社間1%〜）と審査通過率93%以上。30万円以上の売掛金がある個人事業主には最もコスト効率が高い選択肢のひとつ。</p>
 <h3>6位：QuQuMo</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 1%〜（上限非公表） |
-| 入金スピード | 最短2時間 |
-| 最低金額 | なし |
-| 必要書類 | 請求書・通帳の2点のみ |
-| 個人事業主 | OK |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>1%〜（上限非公表）</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td>最低金額</td>
+<td>なし</td>
+</tr>
+<tr>
+<td>必要書類</td>
+<td>請求書・通帳の2点のみ</td>
+</tr>
+<tr>
+<td>個人事業主</td>
+<td>OK</td>
+</tr>
+</tbody>
+</table>
 <p><strong>個人事業主おすすめ理由：</strong> 必要書類2点のみのシンプルな申込。手数料1%〜と低水準で、50万円以上の中規模の売掛金を持つ個人事業主に適しています。</p>
 <h3>7位：みんなのファクタリング</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 3〜15% |
-| 入金スピード | 最短2時間 |
-| 最低金額 | なし |
-| 個人事業主 | OK |
-| 特徴 | 柔軟な審査姿勢 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>3〜15%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td>最低金額</td>
+<td>なし</td>
+</tr>
+<tr>
+<td>個人事業主</td>
+<td>OK</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>柔軟な審査姿勢</td>
+</tr>
+</tbody>
+</table>
 <p><strong>個人事業主おすすめ理由：</strong> 審査に柔軟性があり、他社で断られた個人事業主でも対応できるケースがあります。</p>
 <h3>8位：えんナビ</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 5〜20% |
-| 入金スピード | 最短1日 |
-| 最低金額 | 30万円 |
-| 最高金額 | 5,000万円 |
-| 24時間対応 | OK |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>5〜20%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短1日</td>
+</tr>
+<tr>
+<td>最低金額</td>
+<td>30万円</td>
+</tr>
+<tr>
+<td>最高金額</td>
+<td>5,000万円</td>
+</tr>
+<tr>
+<td>24時間対応</td>
+<td>OK</td>
+</tr>
+</tbody>
+</table>
 <p><strong>個人事業主おすすめ理由：</strong> 24時間対応で土日祝も申込可能。急ぎの資金調達に対応。※えんナビの公式サイトは「企業様」向けの表記で、個人事業主の利用可否は明示されていません。申込前に問い合わせで確認してください。</p>
 <hr>
 <h2>個人事業主向けファクタリング比較表</h2>
-<p>| 会社 | 最低金額 | 手数料 | 最短入金 | 個人間取引 | 開業直後 |
-|------|---------|--------|---------|-----------|---------|
-| ペイトナー | 1万円 | 10%固定 | 即日 | NG | OK |
-| ラボル | 1万円 | 10%固定 | 30分 | <strong>OK</strong> | <strong>OK</strong> |
-| FREENANCE | 1万円 | 3〜10% | 即日 | NG | OK |
-| ベストファクター | 10万円 | 2〜20% | 即日 | NG | OK |
-| アクセルファクター | 30万円 | 2社間1〜12%／3社間0.5〜10.5% | 即日 | NG | 要確認 |
-| QuQuMo | なし | 1%〜（上限非公表） | 2時間 | NG | 要確認 |
-| みんなのファクタリング | なし | 3〜15% | 2時間 | NG | OK |
-| えんナビ | 30万円 | 5〜20% | 1日 | NG | OK |</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>最低金額</th>
+<th>手数料</th>
+<th>最短入金</th>
+<th>個人間取引</th>
+<th>開業直後</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ペイトナー</td>
+<td>1万円</td>
+<td>10%固定</td>
+<td>即日</td>
+<td>NG</td>
+<td>OK</td>
+</tr>
+<tr>
+<td>ラボル</td>
+<td>1万円</td>
+<td>10%固定</td>
+<td>30分</td>
+<td><strong>OK</strong></td>
+<td><strong>OK</strong></td>
+</tr>
+<tr>
+<td>FREENANCE</td>
+<td>1万円</td>
+<td>3〜10%</td>
+<td>即日</td>
+<td>NG</td>
+<td>OK</td>
+</tr>
+<tr>
+<td>ベストファクター</td>
+<td>10万円</td>
+<td>2〜20%</td>
+<td>即日</td>
+<td>NG</td>
+<td>OK</td>
+</tr>
+<tr>
+<td>アクセルファクター</td>
+<td>30万円</td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+<td>即日</td>
+<td>NG</td>
+<td>要確認</td>
+</tr>
+<tr>
+<td>QuQuMo</td>
+<td>なし</td>
+<td>1%〜（上限非公表）</td>
+<td>2時間</td>
+<td>NG</td>
+<td>要確認</td>
+</tr>
+<tr>
+<td>みんなのファクタリング</td>
+<td>なし</td>
+<td>3〜15%</td>
+<td>2時間</td>
+<td>NG</td>
+<td>OK</td>
+</tr>
+<tr>
+<td>えんナビ</td>
+<td>30万円</td>
+<td>5〜20%</td>
+<td>1日</td>
+<td>NG</td>
+<td>OK</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>個人事業主がファクタリングで失敗しないための注意事項</h2>
 <h3>手数料コストを年利換算で考える</h3>
@@ -190,7 +483,7 @@
 <li><a href="/articles/article-factoring-sokujitsu/">即日ファクタリングおすすめ完全ガイド</a></li>
 <li><a href="/articles/article-factoring-kuchikomi/">ファクタリングの口コミ・評判まとめ</a></li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kojin","className":"hover:text-gray-700 transition","children":"個人事業主・フリーランス"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["個人事業主向けファクタリングおすすめ8選【2026年】フリー","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"個人事業主向けファクタリングおすすめ8選【2026年】フリーランスも対応","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"個人事業主向けファクタリングおすすめ8選【2026年】フリーランスも対応"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"個人事業主 ファクタリング おすすめ, フリーランス ファクタリング"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sjYMfYV6eCgRTWxyE9Hpe"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kojin","className":"hover:text-gray-700 transition","children":"個人事業主・フリーランス"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["個人事業主向けファクタリングおすすめ8選【2026年】フリー","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"個人事業主向けファクタリングおすすめ8選【2026年】フリーランスも対応","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"個人事業主向けファクタリングおすすめ8選【2026年】フリーランスも対応"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"個人事業主 ファクタリング おすすめ, フリーランス ファクタリング"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gyxC-q0-FfdF7_CHUutPw"}
 5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社ページでは、公式サイトで確認した手数料・入金スピード・会社概要（確認日つき）と、口コミの出典をまとめています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","accel-factor",{"children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":["アクセルファクター","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","ennavi",{"children":["$","$L3",null,{"href":"/companies/ennavi/","className":"text-blue-600 hover:underline","children":["えんナビ","の口コミ・評判・手数料 →"]}]}],["$","li","freenance",{"children":["$","$L3",null,{"href":"/companies/freenance/","className":"text-blue-600 hover:underline","children":["FREENANCE","の口コミ・評判・手数料 →"]}]}],["$","li","minna-factoring",{"children":["$","$L3",null,{"href":"/companies/minna-factoring/","className":"text-blue-600 hover:underline","children":["みんなのファクタリング","の口コミ・評判・手数料 →"]}]}]]}]]}]
 6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","yen-today",{"href":"/companies/yen-today","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"¥Today（エントゥデイ）"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短30分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ebank",{"href":"/companies/ebank","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"いーばんく（アクシアプラス）"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","4%〜（上限は要問い合わせ）"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","invoice-factor",{"href":"/companies/invoice-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"インボイスファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","0.5%〜（上限は要問い合わせ）"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"あなたに最適なファクタリング会社を見つけよう"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"30秒の簡単診断で、最適な業者がわかります"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断スタート →"}]]}]

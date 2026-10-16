@@ -6,26 +6,55 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-akaji",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-akaji","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-akaji",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-akaji","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/kojin-jigyonushi.jpg","image"]
-11:T2eba,<p>「決算が赤字だと銀行融資は絶望的」「ファクタリングも赤字だと使えないのでは？」——赤字決算に悩む中小企業・個人事業主の多くが、こういった誤解を抱えています。</p>
+11:T334a,<p>「決算が赤字だと銀行融資は絶望的」「ファクタリングも赤字だと使えないのでは？」——赤字決算に悩む中小企業・個人事業主の多くが、こういった誤解を抱えています。</p>
 <p>結論から言うと、<strong>赤字決算でもファクタリングは利用できます</strong>。むしろ、赤字で銀行融資が断られた企業がファクタリングで資金調達するケースは非常に多いです。その理由と、赤字企業が審査を通過するためのポイントを詳しく解説します。</p>
 <hr>
 <h2>赤字決算でもファクタリングが使える理由</h2>
 <h3>審査の仕組みが銀行融資と根本的に異なる</h3>
 <p>銀行融資とファクタリングでは、審査で見るポイントが全く違います。</p>
-<p>| 審査項目 | 銀行融資 | ファクタリング |
-|--------|--------|-------------|
-| <strong>申請者の信用力</strong> | 最重要 | 参考程度 |
-| <strong>決算書・赤字</strong> | 重大なマイナス要因 | 影響小さい |
-| <strong>自己資本比率</strong> | 重要 | ほぼ無関係 |
-| <strong>売掛先の信用力</strong> | 無関係 | <strong>最重要</strong> |
-| <strong>請求書の品質</strong> | 無関係 | 重要 |</p>
+<table>
+<thead>
+<tr>
+<th>審査項目</th>
+<th>銀行融資</th>
+<th>ファクタリング</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>申請者の信用力</strong></td>
+<td>最重要</td>
+<td>参考程度</td>
+</tr>
+<tr>
+<td><strong>決算書・赤字</strong></td>
+<td>重大なマイナス要因</td>
+<td>影響小さい</td>
+</tr>
+<tr>
+<td><strong>自己資本比率</strong></td>
+<td>重要</td>
+<td>ほぼ無関係</td>
+</tr>
+<tr>
+<td><strong>売掛先の信用力</strong></td>
+<td>無関係</td>
+<td><strong>最重要</strong></td>
+</tr>
+<tr>
+<td><strong>請求書の品質</strong></td>
+<td>無関係</td>
+<td>重要</td>
+</tr>
+</tbody>
+</table>
 <p>ファクタリングは「あなたの経営状態」ではなく「あなたの売掛先（取引先）の信用力」を中心に審査します。取引先が大手企業・上場企業であれば、あなたが赤字決算でも審査通過の可能性が高いのです。</p>
 <h3>赤字の原因によって審査の扱いが異なる</h3>
 <p>ファクタリング会社の審査担当者は、赤字の「原因」を重視します。</p>
@@ -45,13 +74,42 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <h2>赤字決算企業のファクタリング審査通過率</h2>
 <h3>データから見る赤字企業の審査通過率</h3>
 <p>主要ファクタリング会社の審査通過率（赤字企業を含む）：</p>
-<p>| 会社名 | 全体通過率 | 赤字企業への対応 |
-|------|----------|--------------|
-| アクセルファクター | <strong>93%以上</strong> | 赤字OK（条件あり） |
-| ベストファクター | <strong>92.25%</strong> | 赤字OK |
-| メンターキャピタル | <strong>90%超</strong> | 赤字・滞納OK |
-| ビートレーディング | 非公開（高水準） | 赤字OK |
-| 日本中小企業金融サポート機構 | 非公開 | 赤字OK |</p>
+<table>
+<thead>
+<tr>
+<th>会社名</th>
+<th>全体通過率</th>
+<th>赤字企業への対応</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>アクセルファクター</td>
+<td><strong>93%以上</strong></td>
+<td>赤字OK（条件あり）</td>
+</tr>
+<tr>
+<td>ベストファクター</td>
+<td><strong>92.25%</strong></td>
+<td>赤字OK</td>
+</tr>
+<tr>
+<td>メンターキャピタル</td>
+<td><strong>90%超</strong></td>
+<td>赤字・滞納OK</td>
+</tr>
+<tr>
+<td>ビートレーディング</td>
+<td>非公開（高水準）</td>
+<td>赤字OK</td>
+</tr>
+<tr>
+<td>日本中小企業金融サポート機構</td>
+<td>非公開</td>
+<td>赤字OK</td>
+</tr>
+</tbody>
+</table>
 <p>アクセルファクターの「審査通過率93%以上」には赤字企業も含まれており、取引先の信用力次第で通過できることを示しています。</p>
 <hr>
 <h2>赤字企業がファクタリング審査を通過するためのポイント</h2>
@@ -97,47 +155,156 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>赤字企業におすすめのファクタリング会社</h2>
 <h3>1位：アクセルファクター — 審査通過率93%超</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 2社間1〜12%／3社間0.5〜10.5% |
-| <strong>入金スピード</strong> | 最短即日 |
-| <strong>審査通過率</strong> | <strong>93%以上</strong> |
-| <strong>赤字企業対応</strong> | ○ |
-| <strong>最低金額</strong> | 30万円〜 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td><strong>審査通過率</strong></td>
+<td><strong>93%以上</strong></td>
+</tr>
+<tr>
+<td><strong>赤字企業対応</strong></td>
+<td>○</td>
+</tr>
+<tr>
+<td><strong>最低金額</strong></td>
+<td>30万円〜</td>
+</tr>
+</tbody>
+</table>
 <p>業界トップクラスの審査通過率93%以上を誇り、赤字企業にも積極的に対応。売掛先の信用力を中心に審査するため、赤字でも通過できるケースが多い。</p>
 <h3>2位：ベストファクター — 審査通過率92.25%</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 2%〜20% |
-| <strong>入金スピード</strong> | 最短即日 |
-| <strong>審査通過率</strong> | <strong>92.25%</strong> |
-| <strong>赤字企業対応</strong> | ○ |
-| <strong>最低金額</strong> | 10万円〜 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>2%〜20%</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td><strong>審査通過率</strong></td>
+<td><strong>92.25%</strong></td>
+</tr>
+<tr>
+<td><strong>赤字企業対応</strong></td>
+<td>○</td>
+</tr>
+<tr>
+<td><strong>最低金額</strong></td>
+<td>10万円〜</td>
+</tr>
+</tbody>
+</table>
 <p>少額10万円から対応。赤字決算・経営困難な企業の実績も多数。個人事業主の赤字案件にも対応。</p>
 <h3>3位：メンターキャピタル — 赤字・滞納OK</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 2%〜20% |
-| <strong>入金スピード</strong> | 最短即日 |
-| <strong>審査通過率</strong> | <strong>90%超</strong> |
-| <strong>赤字企業対応</strong> | ◎ |
-| <strong>特徴</strong> | 税金滞納OK |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>2%〜20%</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td><strong>審査通過率</strong></td>
+<td><strong>90%超</strong></td>
+</tr>
+<tr>
+<td><strong>赤字企業対応</strong></td>
+<td>◎</td>
+</tr>
+<tr>
+<td><strong>特徴</strong></td>
+<td>税金滞納OK</td>
+</tr>
+</tbody>
+</table>
 <p>赤字決算・税金滞納でも対応可能と明示している数少ないサービス。柔軟な審査で、他社で断られた案件でも対応実績がある。</p>
 <h3>4位：ビートレーディング — 業界最大手</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 2〜12%（2社間） |
-| <strong>入金スピード</strong> | 最短2時間 |
-| <strong>累計実績</strong> | 91,000社以上 |
-| <strong>赤字企業対応</strong> | ○ |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>2〜12%（2社間）</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td><strong>累計実績</strong></td>
+<td>91,000社以上</td>
+</tr>
+<tr>
+<td><strong>赤字企業対応</strong></td>
+<td>○</td>
+</tr>
+</tbody>
+</table>
 <p>累計91,000社以上の圧倒的な実績。赤字企業の対応実績も豊富で、担当者が状況に応じた提案をしてくれる。</p>
 <h3>5位：日本中小企業金融サポート機構 — 非営利・低手数料</h3>
-<p>| 項目 | 内容 |
-|-----|------|
-| <strong>手数料</strong> | 1.5%〜10% |
-| <strong>入金スピード</strong> | 最短3時間 |
-| <strong>運営</strong> | 非営利団体 |
-| <strong>赤字企業対応</strong> | ○ |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>手数料</strong></td>
+<td>1.5%〜10%</td>
+</tr>
+<tr>
+<td><strong>入金スピード</strong></td>
+<td>最短3時間</td>
+</tr>
+<tr>
+<td><strong>運営</strong></td>
+<td>非営利団体</td>
+</tr>
+<tr>
+<td><strong>赤字企業対応</strong></td>
+<td>○</td>
+</tr>
+</tbody>
+</table>
 <p>非営利団体の経営革新等支援機関として、赤字企業の支援に積極的。手数料1.5%〜10%と低水準。</p>
 <hr>
 <h2>赤字企業がファクタリングで注意すべきこと</h2>

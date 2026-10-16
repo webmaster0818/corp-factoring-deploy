@@ -6,25 +6,50 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/0zw.46.9_9n0n.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-kaigo",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-kaigo","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zw.46.9_9n0n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sjYMfYV6eCgRTWxyE9Hpe"}
+:HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-kaigo",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-kaigo","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0.qm91.zraqc8.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gyxC-q0-FfdF7_CHUutPw"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0.qm91.zraqc8.js"],""]
 :HL["/images/articles/factoring-article.jpg","image"]
-11:T2f0c,<p>「サービスを提供してから実際の入金まで2ヶ月もかかる」——これが介護事業所の資金繰りを難しくしている最大の原因です。</p>
+11:T330f,<p>「サービスを提供してから実際の入金まで2ヶ月もかかる」——これが介護事業所の資金繰りを難しくしている最大の原因です。</p>
 <p>介護報酬の入金サイクルは特殊で、国民健康保険団体連合会（国保連）を経由するため、通常の売掛金より長い2ヶ月のタイムラグが生じます。介護報酬ファクタリングは、この入金待ちを解消する有効な手段です。この記事では、介護事業所に特化したファクタリングの仕組みとおすすめ会社を解説します。</p>
 <hr>
 <h2>介護報酬の入金サイクルと資金繰りの問題</h2>
 <h3>介護報酬が入金されるまでの仕組み</h3>
 <p>介護事業所が介護サービスを提供してから、実際に介護報酬が入金されるまでのプロセス：</p>
-<p>| ステップ | 内容 | 時間 |
-|---------|------|------|
-| 1 | 介護サービスの提供 | 毎日 |
-| 2 | 月末に利用実績を国保連に請求 | 翌月10日まで |
-| 3 | 国保連が審査・支払処理 | 翌月〜翌々月 |
-| 4 | <strong>介護事業所に入金</strong> | <strong>サービス提供から約2ヶ月後</strong> |</p>
+<table>
+<thead>
+<tr>
+<th>ステップ</th>
+<th>内容</th>
+<th>時間</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>介護サービスの提供</td>
+<td>毎日</td>
+</tr>
+<tr>
+<td>2</td>
+<td>月末に利用実績を国保連に請求</td>
+<td>翌月10日まで</td>
+</tr>
+<tr>
+<td>3</td>
+<td>国保連が審査・支払処理</td>
+<td>翌月〜翌々月</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>介護事業所に入金</strong></td>
+<td><strong>サービス提供から約2ヶ月後</strong></td>
+</tr>
+</tbody>
+</table>
 <p><strong>例：1月のサービス提供分 → 2月10日に請求 → 3月末に入金（最大2ヶ月）</strong></p>
 <p>この2ヶ月の入金ラグが、人件費・運営費の先行支払いと相まって、慢性的な資金不足を引き起こします。</p>
 <h3>介護事業所の資金繰りが特に厳しい理由</h3>
@@ -45,12 +70,37 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p><strong>ファクタリング利用時：</strong>
 介護サービス提供 → 請求 → ファクタリング申込 → <strong>数日〜1週間で入金</strong> → 2ヶ月後に国保連からファクタリング会社に入金</p>
 <h3>診療報酬ファクタリングとの違い</h3>
-<p>| 比較項目 | 介護報酬ファクタリング | 診療報酬ファクタリング |
-|---------|-------------------|------------------|
-| 対象 | 介護事業所 | 医療機関（病院・クリニック）|
-| 請求先 | 国保連（介護給付費） | 支払基金・国保連（医療費） |
-| 手数料水準 | 2〜5%程度 | 1〜3%程度 |
-| 信用力 | 非常に高い（公的機関） | 非常に高い（公的機関） |</p>
+<table>
+<thead>
+<tr>
+<th>比較項目</th>
+<th>介護報酬ファクタリング</th>
+<th>診療報酬ファクタリング</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>対象</td>
+<td>介護事業所</td>
+<td>医療機関（病院・クリニック）</td>
+</tr>
+<tr>
+<td>請求先</td>
+<td>国保連（介護給付費）</td>
+<td>支払基金・国保連（医療費）</td>
+</tr>
+<tr>
+<td>手数料水準</td>
+<td>2〜5%程度</td>
+<td>1〜3%程度</td>
+</tr>
+<tr>
+<td>信用力</td>
+<td>非常に高い（公的機関）</td>
+<td>非常に高い（公的機関）</td>
+</tr>
+</tbody>
+</table>
 <p>どちらも公的機関への請求であるため、ファクタリング会社にとってリスクが低く、手数料は低水準になります。</p>
 <hr>
 <h2>介護事業所でファクタリングを活用するメリット</h2>
@@ -65,44 +115,144 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>介護報酬ファクタリングおすすめ5社</h2>
 <h3>1位：ビートレーディング</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間：4〜12% / 3社間：2〜9% |
-| 入金スピード | 最短2時間 |
-| 介護報酬対応 | あり |
-| 実績 | 累計取引91,000社以上 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間：4〜12% / 3社間：2〜9%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td>介護報酬対応</td>
+<td>あり</td>
+</tr>
+<tr>
+<td>実績</td>
+<td>累計取引91,000社以上</td>
+</tr>
+</tbody>
+</table>
 <p><strong>介護業おすすめ理由：</strong> 医療・介護業種の取引実績が豊富。介護報酬の仕組みを熟知したスタッフが対応。高額案件にも対応可能で、規模が大きい介護事業者にも適しています。</p>
 <h3>2位：日本中小企業金融サポート機構</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 1.5〜10% |
-| 入金スピード | 最短3時間 |
-| 運営 | 非営利団体（一般社団法人） |
-| 介護報酬対応 | あり |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>1.5〜10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短3時間</td>
+</tr>
+<tr>
+<td>運営</td>
+<td>非営利団体（一般社団法人）</td>
+</tr>
+<tr>
+<td>介護報酬対応</td>
+<td>あり</td>
+</tr>
+</tbody>
+</table>
 <p><strong>介護業おすすめ理由：</strong> 中小規模の介護事業所の経営支援に力を入れています。非営利団体としての信頼性と、手数料上限10%の保証が安心。介護報酬の請求仕組みを熟知した上での審査が期待できます。</p>
 <h3>3位：トップマネジメント</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間：3.5〜12.5% / 3社間：0.5〜3.5% |
-| 入金スピード | 最短即日 |
-| 介護報酬対応 | あり |
-| 特徴 | 3社間で低手数料 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間：3.5〜12.5% / 3社間：0.5〜3.5%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>介護報酬対応</td>
+<td>あり</td>
+</tr>
+<tr>
+<td>特徴</td>
+<td>3社間で低手数料</td>
+</tr>
+</tbody>
+</table>
 <p><strong>介護業おすすめ理由：</strong> 介護報酬は国保連が支払うため、3社間（国保連の承諾を得る形）でのファクタリングが可能なケースがあり、手数料を大幅に下げられます。13年の実績で介護業に詳しい。</p>
 <h3>4位：アクセルファクター</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 2社間1〜12%／3社間0.5〜10.5% |
-| 入金スピード | 最短即日 |
-| 審査通過率 | 93%以上 |
-| 介護報酬対応 | あり |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>2社間1〜12%／3社間0.5〜10.5%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短即日</td>
+</tr>
+<tr>
+<td>審査通過率</td>
+<td>93%以上</td>
+</tr>
+<tr>
+<td>介護報酬対応</td>
+<td>あり</td>
+</tr>
+</tbody>
+</table>
 <p><strong>介護業おすすめ理由：</strong> 介護報酬という高信用の売掛金に対して、業界最低水準の手数料での対応が期待できます。審査通過率93%で、開業間もない事業所や赤字事業所にも対応。</p>
 <h3>5位：PMG</h3>
-<p>| 項目 | 内容 |
-|------|------|
-| 手数料 | 1〜10% |
-| 入金スピード | 最短2時間 |
-| 最大金額 | 2億円 |
-| 審査時間 | 30分 |</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>1〜10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間</td>
+</tr>
+<tr>
+<td>最大金額</td>
+<td>2億円</td>
+</tr>
+<tr>
+<td>審査時間</td>
+<td>30分</td>
+</tr>
+</tbody>
+</table>
 <p><strong>介護業おすすめ理由：</strong> 介護報酬の安定した支払い実績を評価し、低手数料での対応が可能。2億円まで対応で、中規模以上の介護施設にも適しています。</p>
 <hr>
 <h2>介護報酬ファクタリングを利用する際の注意点</h2>
