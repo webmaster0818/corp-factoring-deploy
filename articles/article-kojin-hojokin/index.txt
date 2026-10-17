@@ -7,16 +7,16 @@
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
 :HL["/_next/static/chunks/0fp_i4sqgz1ip.css","style"]
-0:{"P":null,"c":["","articles","article-kojin-hojokin",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-kojin-hojokin","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/01i~yhuopvrnw.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gS2koXGHyHyiSYk0cw8En"}
+0:{"P":null,"c":["","articles","article-kojin-hojokin",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-kojin-hojokin","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/01i~yhuopvrnw.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fp_i4sqgz1ip.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"W63kUSNreqBpPZ0rDdjiq"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/01i~yhuopvrnw.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/01i~yhuopvrnw.js"],""]
 :HL["/images/articles/kojin-jigyonushi.jpg","image"]
-11:T49b4,<p>補助金・助成金は、個人事業主も利用できます。</p>
+11:T4925,<p>補助金・助成金は、個人事業主も利用できます。</p>
 <p><strong>補助金・助成金は、原則として返済が不要です。</strong></p>
-<p>2026年は、個人事業主が利用できる補助金・助成金が充実しています。小規模事業者持続化補助金（最大250万円）、IT導入補助金（最大450万円）、ものづくり補助金（最大1,250万円）など、制度を把握しているかどうかで、数十万〜数百万円の差が生じます。</p>
-<p>この記事では、個人事業主が<strong>申請できる補助金・助成金15選</strong>を、<strong>受給できる金額・申請の難易度・当サイトの評価</strong>とともに解説します。</p>
+<p>2026年は、個人事業主が利用できる補助金・助成金が充実しています。小規模事業者持続化補助金（最大250万円）、デジタル化・AI導入補助金（旧IT導入補助金・通常枠 最大450万円）、新事業進出・ものづくり商業サービス補助金など、制度を把握しているかどうかで、数十万〜数百万円の差が生じます。</p>
+<p>この記事では、個人事業主が<strong>申請できる補助金・助成金12選</strong>を、<strong>受給できる金額・申請の難易度・当サイトの評価</strong>とともに解説します。</p>
 <hr>
 <h2>補助金と助成金の違い</h2>
 <p>まず、「補助金」と「助成金」の違いを確認してください。</p>
@@ -58,7 +58,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </table>
 <p><strong>共通点:</strong> どちらも<strong>返済は不要</strong>です。ただし、**後払い（精算払い）**が基本です。</p>
 <hr>
-<h2>【補助金】個人事業主に適した8つの制度</h2>
+<h2>【補助金】個人事業主に適した5つの制度</h2>
 <h3>1. 小規模事業者持続化補助金【当サイトの推奨】</h3>
 <table>
 <thead>
@@ -112,19 +112,19 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <tbody>
 <tr>
 <td>補助上限額</td>
-<td><strong>最大450万円</strong></td>
+<td><strong>通常枠 最大450万円</strong>／インボイス枠（インボイス対応類型）最大350万円（ソフトウェア等）</td>
 </tr>
 <tr>
 <td>補助率</td>
-<td>1/2〜3/4</td>
+<td>通常枠 1/2以内・2/3以内／インボイス枠 3/4以内・4/5以内（50万円超の部分は2/3以内）</td>
 </tr>
 <tr>
 <td>対象</td>
-<td>中小企業・個人事業主</td>
+<td>中小企業・小規模事業者等</td>
 </tr>
 <tr>
 <td>使い道</td>
-<td>ITツール導入（会計ソフト・ECサイト・AI等）</td>
+<td>ITツール導入（会計・受発注・決済ソフト、ECサイト、予約システム等）</td>
 </tr>
 <tr>
 <td>申請難易度</td>
@@ -132,8 +132,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tr>
 </tbody>
 </table>
-<p><strong>会計ソフト、ECサイト構築、予約システム、AIツール</strong>などの導入費用が補助されます。2026年度からは「AI導入」枠が新設され、補助率が引き上げられています。</p>
-<h3>3. 中小企業新事業進出補助金</h3>
+<p><strong>会計ソフト、ECサイト構築、予約システム</strong>などの導入費用が補助されます。インボイス制度に対応した「会計」「受発注」「決済」の機能を持つソフトウェアやPC・レジ等を導入する場合は、インボイス枠（インボイス対応類型）を利用できます（出典：<a href="https://it-shien.smrj.go.jp/">デジタル化・AI導入補助金 公式サイト</a>・2026年10月17日確認）。</p>
+<h3>3. 新事業進出・ものづくり商業サービス補助金</h3>
 <table>
 <thead>
 <tr>
@@ -144,19 +144,19 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <tbody>
 <tr>
 <td>補助上限額</td>
-<td><strong>最大9,000万円</strong>（従業員数による）</td>
+<td>革新的新製品・サービス枠 <strong>最大2,500万円</strong>（賃上げ特例適用時 最大3,500万円）／新事業進出枠 <strong>最大7,000万円</strong>（同 最大9,000万円）。いずれも従業員数により異なる</td>
 </tr>
 <tr>
 <td>補助率</td>
-<td>1/2〜2/3</td>
+<td>1/2（小規模企業・小規模事業者、再生事業者は革新的新製品・サービス枠で2/3。地域別最低賃金引上げ特例による引上げあり）</td>
 </tr>
 <tr>
 <td>対象</td>
-<td>新規事業に進出する中小企業・個人事業主</td>
+<td>中小企業・個人事業主等</td>
 </tr>
 <tr>
 <td>使い道</td>
-<td>設備投資・システム構築等</td>
+<td>機械装置・システム構築費、建物費（新事業進出枠）等</td>
 </tr>
 <tr>
 <td>申請難易度</td>
@@ -164,40 +164,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tr>
 </tbody>
 </table>
-<p>2026年度から、ものづくり補助金と統合される予定の大型の補助金です。個人事業主（従業員20人以下）であれば、750万〜3,000万円が目安です。設備投資を伴う新規事業に適しています。</p>
-<h3>4. ものづくり補助金</h3>
-<table>
-<thead>
-<tr>
-<th>項目</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>補助上限額</td>
-<td><strong>最大1,250万円</strong></td>
-</tr>
-<tr>
-<td>補助率</td>
-<td>1/2〜2/3</td>
-</tr>
-<tr>
-<td>対象</td>
-<td>革新的な製品・サービス開発を行う事業者</td>
-</tr>
-<tr>
-<td>使い道</td>
-<td>設備投資・試作品開発・システム構築</td>
-</tr>
-<tr>
-<td>申請難易度</td>
-<td>★★★★☆</td>
-</tr>
-</tbody>
-</table>
-<p>製造業だけでなく、<strong>サービス業・IT業の個人事業主も対象です。</strong> 「革新的」な要素があれば、Webサービスの開発なども申請できます。2026年度から、中小企業新事業進出補助金と統合される予定です。</p>
-<h3>5. 事業承継・M&#x26;A補助金</h3>
+<p>ものづくり補助金（ものづくり・商業・サービス生産性向上促進補助金）と中小企業新事業進出補助金は、いずれも公募を終了しており、新規の受付は「新事業進出・ものづくり商業サービス補助金」で行われています。公式サイトでは、旧2制度とは異なる補助金として案内されています。第1回公募の応募締切は<strong>2026年10月30日（金）18時</strong>です。枠は「革新的新製品・サービス枠」「新事業進出枠」「グローバル枠」の3つで、補助上限額は従業員数・枠により異なります（出典：<a href="https://shinjigyou-monodukuri.smrj.go.jp/">新事業進出・ものづくり商業サービス補助金 公式サイト</a>・2026年10月17日確認）。</p>
+<h3>4. 事業承継・M&#x26;A補助金</h3>
 <table>
 <thead>
 <tr>
@@ -229,7 +197,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p>事業を引き継ぐ・譲り受ける個人事業主が対象です。</p>
-<h3>6. 各自治体の創業支援補助金</h3>
+<h3>5. 各自治体の創業支援補助金</h3>
 <table>
 <thead>
 <tr>
@@ -253,67 +221,9 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p>**お住まいの自治体名と「創業 補助金」**で検索してください。認知度が低いため競争率が低く、採択されやすい傾向があります。</p>
-<h3>7. 小規模事業者経営力向上補助金</h3>
-<table>
-<thead>
-<tr>
-<th>項目</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>補助上限額</td>
-<td><strong>最大200万円</strong></td>
-</tr>
-<tr>
-<td>補助率</td>
-<td>2/3</td>
-</tr>
-<tr>
-<td>対象</td>
-<td>小規模事業者</td>
-</tr>
-<tr>
-<td>使い道</td>
-<td>経営力向上に資する取り組み</td>
-</tr>
-<tr>
-<td>申請難易度</td>
-<td>★★★☆☆</td>
-</tr>
-</tbody>
-</table>
-<h3>8. インボイス対応補助金</h3>
-<table>
-<thead>
-<tr>
-<th>項目</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>補助上限額</td>
-<td><strong>最大350万円</strong></td>
-</tr>
-<tr>
-<td>対象</td>
-<td>インボイス制度に対応する小規模事業者</td>
-</tr>
-<tr>
-<td>使い道</td>
-<td>会計ソフト・レジ・システム導入等</td>
-</tr>
-<tr>
-<td>申請難易度</td>
-<td>★★☆☆☆</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h2>【助成金】個人事業主に適した5つの制度</h2>
-<h3>9. キャリアアップ助成金</h3>
+<h3>6. キャリアアップ助成金</h3>
 <table>
 <thead>
 <tr>
@@ -337,7 +247,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p>パート・アルバイトを正社員にした場合に受給できます。従業員を雇用している個人事業主は、確認をおすすめします。</p>
-<h3>10. 業務改善助成金</h3>
+<h3>7. 業務改善助成金</h3>
 <table>
 <thead>
 <tr>
@@ -365,7 +275,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p>最低賃金を引き上げ、生産性向上のための設備投資を行った場合に助成されます。助成率は最大9/10と高い水準です。</p>
-<h3>11. 雇用調整助成金</h3>
+<h3>8. 雇用調整助成金</h3>
 <table>
 <thead>
 <tr>
@@ -389,7 +299,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p>売上の減少時に従業員を休業させた場合、休業手当が助成されます。</p>
-<h3>12. 中小企業退職金共済制度（加入助成）</h3>
+<h3>9. 中小企業退職金共済制度（加入助成）</h3>
 <table>
 <thead>
 <tr>
@@ -413,7 +323,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p>従業員の退職金制度を整備すると、国から助成を受けられます。加入により受給できます。</p>
-<h3>13. 住居確保給付金（生活困窮者向け）</h3>
+<h3>10. 住居確保給付金（生活困窮者向け）</h3>
 <table>
 <thead>
 <tr>
@@ -443,9 +353,9 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>個人事業主で、収入が大幅に減少した場合に利用できます。家賃を自治体が代わりに支払う制度です。</p>
 <hr>
 <h2>【その他】減免・猶予の制度</h2>
-<h3>14. 国民健康保険料の減免</h3>
+<h3>11. 国民健康保険料の減免</h3>
 <p>収入が前年比で大幅に減少した場合、国民健康保険料の減額・免除を受けられる場合があります。お住まいの市区町村の窓口に相談してください。</p>
-<h3>15. 国民年金保険料の免除・猶予</h3>
+<h3>12. 国民年金保険料の免除・猶予</h3>
 <p>所得が一定以下の場合、国民年金保険料の全額免除・半額免除・猶予を受けられます。日本年金機構に申請できます。</p>
 <hr>
 <h2>補助金申請の5つのポイント</h2>
@@ -525,7 +435,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <td>標準</td>
 <td>デジタル化・AI導入補助金</td>
 <td>★★★☆☆</td>
-<td>最大450万円</td>
+<td>最大450万円（通常枠）</td>
 </tr>
 <tr>
 <td>標準</td>
@@ -535,15 +445,9 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tr>
 <tr>
 <td>やや難しい</td>
-<td>ものづくり補助金</td>
+<td>新事業進出・ものづくり商業サービス補助金</td>
 <td>★★★★☆</td>
-<td>最大1,250万円</td>
-</tr>
-<tr>
-<td>やや難しい</td>
-<td>中小企業新事業進出補助金</td>
-<td>★★★★☆</td>
-<td>最大9,000万円</td>
+<td>最大9,000万円（新事業進出枠・賃上げ特例適用時）</td>
 </tr>
 </tbody>
 </table>
@@ -569,7 +473,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p><strong>STEP3: 小規模事業者持続化補助金に申請する（初めての申請に適している）</strong>
 → 最大250万円、採択率は50〜60%です。最初の申請先として適しています。</p>
 <p><strong>STEP4: 事業内容に合う補助金に追加で申請する</strong>
-→ IT導入補助金、ものづくり補助金などがあります。</p>
+→ デジタル化・AI導入補助金（旧IT導入補助金）、新事業進出・ものづくり商業サービス補助金などがあります。</p>
 <p><strong>補助金の入金までの資金が不足する場合:</strong>
 → ファクタリング（最短即日で請求書を資金化）で資金をつなぐ方法が、最も早い手段です。</p>
 <hr>
@@ -588,15 +492,15 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <blockquote>
 <p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
 </blockquote>
-4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L10",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/kojin","className":"hover:text-gray-700 transition","children":"個人事業主・フリーランス"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["【2026年最新】個人事業主が利用できる補助金・助成金15選","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"【2026年最新】個人事業主が利用できる補助金・助成金15選｜返済不要の資金調達のガイド","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【2026年最新】個人事業主が利用できる補助金・助成金15選｜返済不要の資金調達のガイド"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"個人事業主 補助金"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],false,"$L12","$L13",false,"$L14","$L15"]}],"$L16","$L17","$L18",false]}]
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L10",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/kojin","className":"hover:text-gray-700 transition","children":"個人事業主・フリーランス"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["【2026年10月】個人事業主が利用できる補助金・助成金12","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"【2026年10月】個人事業主が利用できる補助金・助成金12選｜返済不要の資金調達のガイド","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【2026年10月】個人事業主が利用できる補助金・助成金12選｜返済不要の資金調達のガイド"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"個人事業主 補助金"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],false,"$L12","$L13",false,"$L14","$L15"]}],"$L16","$L17","$L18",false]}]
 :HL["/images/logo.png","image"]
 12:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","best-factor",{"href":"/companies/best-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ベストファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","2%〜20%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","pmg",{"href":"/companies/pmg","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"PMG"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜10%"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","paytner",{"href":"/companies/paytner","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ペイトナー"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","10%〜10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 13:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
 14:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-kojin-shikin-chotatsu",{"href":"/articles/article-kojin-shikin-chotatsu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"個人事業主 資金調達"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年版】個人事業主の資金調達方法10選｜状況別フローチャートで適した方法を確認"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-freelance-shikin",{"href":"/articles/article-freelance-shikin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"フリーランス 資金繰り / 個人事業主 資金繰り / フリーランス 支払いサイト"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】フリーランスの資金繰り改善ガイド｜支払いサイトが長い場合の5つの対策"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-shikin-gurihyou",{"href":"/articles/article-shikin-gurihyou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"資金繰り表 作り方"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【テンプレート付き】資金繰り表の作り方｜個人事業主でも作成できる5つのステップ"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-kojin-jigyonushi",{"href":"/articles/article-factoring-kojin-jigyonushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】個人事業主向けファクタリングおすすめ15選｜手数料・即日対応・少額対応を比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-kojin-osusume",{"href":"/articles/article-factoring-kojin-osusume","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"個人事業主 ファクタリング おすすめ, フリーランス ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"個人事業主向けファクタリングおすすめ8選【2026年】フリーランスも対応"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-kojin-sokujitsu",{"href":"/articles/article-factoring-kojin-sokujitsu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$L19","$L1a","$L1b"]}]]}]]}]
 15:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L10",null,{"href":"/topics/kojin","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["個人事業主・フリーランス","の記事一覧を見る →"]}],["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
 16:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L1c","$L1d","$L1e","$L1f"]}]}],"$L20"]}]}]
-17:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"個人事業主・フリーランス\",\"item\":\"https://corp-factoring.com/topics/kojin\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"【2026年最新】個人事業主が利用できる補助金・助成金15選｜返済不要の資金調達のガイド\",\"item\":\"https://corp-factoring.com/articles/article-kojin-hojokin\"}]}"}}]
-18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"【2026年最新】個人事業主が利用できる補助金・助成金15選｜返済不要の資金調達のガイド\",\"description\":\"【2026年最新】個人事業主が利用できる補助金・助成金15選｜返済不要の資金調達のガイドについて、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-16T14:52:44.945Z\",\"dateModified\":\"2026-10-16T17:59:18.646Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-kojin-hojokin\"}}"}}]
+17:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"個人事業主・フリーランス\",\"item\":\"https://corp-factoring.com/topics/kojin\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"【2026年10月】個人事業主が利用できる補助金・助成金12選｜返済不要の資金調達のガイド\",\"item\":\"https://corp-factoring.com/articles/article-kojin-hojokin\"}]}"}}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"【2026年10月】個人事業主が利用できる補助金・助成金12選｜返済不要の資金調達のガイド\",\"description\":\"【2026年10月】個人事業主が利用できる補助金・助成金12選｜返済不要の資金調達のガイドについて、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-16T14:52:44.945Z\",\"dateModified\":\"2026-10-17T00:01:51.043Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-kojin-hojokin\"}}"}}]
 19:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"個人事業主 ファクタリング 即日, フリーランス ファクタリング 即日"}]
 1a:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"個人事業主・フリーランスのファクタリング即日入金ガイド【2026年最新】"}]
 1b:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
@@ -608,4 +512,4 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 21:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"IconMark"]
 7:null
-c:[["$","title","0",{"children":"【2026年最新】個人事業主が利用できる補助金・助成金15選｜返済不要の資金調達のガイド｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"【2026年最新】個人事業主が利用できる補助金・助成金15選｜返済不要の資金調達のガイドについて、公式情報や公的資料をもとに解説しています。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-kojin-hojokin/"}],["$","meta","5",{"property":"og:title","content":"【2026年最新】個人事業主が利用できる補助金・助成金15選｜返済不要の資金調達のガイド｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"【2026年最新】個人事業主が利用できる補助金・助成金15選｜返済不要の資金調達のガイドについて、公式情報や公的資料をもとに解説しています。"}],["$","meta","7",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","14",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","15",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","16",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L21","17",{}]]
+c:[["$","title","0",{"children":"【2026年10月】個人事業主が利用できる補助金・助成金12選｜返済不要の資金調達のガイド｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"【2026年10月】個人事業主が利用できる補助金・助成金12選｜返済不要の資金調達のガイドについて、公式情報や公的資料をもとに解説しています。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-kojin-hojokin/"}],["$","meta","5",{"property":"og:title","content":"【2026年10月】個人事業主が利用できる補助金・助成金12選｜返済不要の資金調達のガイド｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"【2026年10月】個人事業主が利用できる補助金・助成金12選｜返済不要の資金調達のガイドについて、公式情報や公的資料をもとに解説しています。"}],["$","meta","7",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","14",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","15",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","16",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L21","17",{}]]
