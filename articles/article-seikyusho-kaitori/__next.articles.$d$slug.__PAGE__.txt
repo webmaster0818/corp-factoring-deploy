@@ -5,7 +5,7 @@
 18:"$Sreact.suspense"
 :HL["/images/seikyusho-kaitori-hero.png","image"]
 :HL["/images/logo.png","image"]
-4:T122df,<p>取引先に請求書を送付しても入金は2ヶ月後で、当月の給与や仕入れ代金の支払いに資金が不足するという状況は、多くの事業者が直面する課題です。</p>
+4:T124b8,<p>取引先に請求書を送付しても入金は2ヶ月後で、当月の給与や仕入れ代金の支払いに資金が不足するという状況は、多くの事業者が直面する課題です。</p>
 <p>中小企業やフリーランスにとって、<strong>売掛金の回収待ちによる資金繰りの悪化</strong>は深刻な問題です。銀行融資の審査には時間がかかるうえ、赤字・税金滞納がある場合は、申込自体を受け付けてもらえないこともあります。</p>
 <p>このような状況に最短即日で対応できるのが、**請求書買取サービス（ファクタリング）**です。手持ちの請求書を売却することで、入金予定日を待たずに資金を受け取れます。借入ではないため信用情報への影響もなく、審査に通りやすい点が主な特徴です。</p>
 <p>この記事では、<strong>請求書買取サービス20社を、手数料・入金スピード・審査通過率・対象者別に比較</strong>します。条件別の主なサービスや、選び方の7つのポイントも解説しますので、初めて利用する方もサービス選びの参考にしてください。</p>
@@ -215,7 +215,7 @@
 </ul>
 <p>手数料は固定10%とやや高めですが、すぐに資金が必要な状況では有力な選択肢です。利用回数を重ねると、上限額が上がる仕組みもあります。</p>
 <hr>
-<h4>2. ラボル（labol） — 最短30分・24時間365日入金</h4>
+<h4>2. ラボル（labol） — 最短30分・土日祝も審査と入金</h4>
 <table>
 <thead>
 <tr>
@@ -246,7 +246,7 @@
 </tr>
 <tr>
 <td>土日祝</td>
-<td><strong>◎（24時間365日の入金に対応）</strong></td>
+<td><strong>◎（土日祝も審査・入金。審査完了後の振込は24時間365日）</strong></td>
 </tr>
 <tr>
 <td>オンライン完結</td>
@@ -258,15 +258,15 @@
 </tr>
 </tbody>
 </table>
-<p>ラボルは、<strong>土日祝・深夜も含む24時間365日の入金に対応</strong>している点が特徴のサービスです。週末に急ぎで資金が必要になった場面で、利用しやすいサービスです。</p>
+<p>ラボルは、<strong>土日祝も審査と入金を行い、審査が完了すれば24時間365日振り込む</strong>点が特徴のサービスです。ただし、公式は「審査の実施は24時間365日行っているものではございません」「土日・祝日は平日の営業時間よりも対応が遅くなる場合がございます」としています（2026年10月19日確認）。週末に急ぎで資金が必要になった場面で、利用しやすいサービスです。</p>
 <p><strong>主な特長</strong></p>
 <ul>
-<li>土日祝日でも、最短30分で入金される</li>
+<li>土日祝日も審査・入金を行う（最短30分。土日祝は平日より対応が遅くなる場合あり）</li>
 <li>買取上限額は審査で利用者ごとに設定される（利用実績などにより増額）</li>
 <li>フリーランス向けの設計で、IT・デザイン・ライティングなどの案件に適している</li>
 <li>必要書類は、請求書と本人確認書類のみ</li>
 </ul>
-<p>夜間や週末の緊急の資金調達に対応できる点が、ラボルの主な特長です。月曜日に支払いがある場合に、土曜日に申し込んで対応することもできます。</p>
+<p>週末の緊急の資金調達に対応できる点が、ラボルの主な特長です。月曜日に支払いがある場合に、土曜日に申し込んで対応することもできます。</p>
 <hr>
 <h4>3. PAYTODAY — 最短30分・AI審査・低手数料</h4>
 <table>
@@ -611,9 +611,9 @@
 </ul>
 <p>IT系・クリエイター系のフリーランスにとって、賠償保険が付帯している点は大きな特長です。ファクタリングを利用しながら、リスク管理も行いたい方に適しています。</p>
 <hr>
-<h4>13. ラボル — フリーランス向け・24時間365日</h4>
+<h4>13. ラボル — フリーランス向け・土日祝も対応</h4>
 <p>（詳細は上記をご参照ください）</p>
-<p>フリーランスは、繁忙期や案件の発生時期が不規則なため、24時間365日対応しているラボルは利用しやすいサービスです。</p>
+<p>フリーランスは、繁忙期や案件の発生時期が不規則なため、土日祝も審査・入金を行うラボルは利用しやすいサービスです。</p>
 <hr>
 <h4>14. Mentor Capital（メンターキャピタル）— 個人事業主に対応・柔軟な審査</h4>
 <table>
@@ -1159,7 +1159,7 @@
 <td><strong>ラボル</strong></td>
 <td>最短30分</td>
 <td>10%固定</td>
-<td>土日祝も対応・24時間</td>
+<td>土日祝も対応・審査完了後の振込は24時間</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1173,7 +1173,7 @@
 <p><strong>選び方のポイント</strong></p>
 <ul>
 <li>平日の日中であれば → ペイトナーファクタリング（最短即日）</li>
-<li>土日・夜間であれば → ラボル（24時間対応）</li>
+<li>土日であれば → ラボル（土日祝も審査・入金）</li>
 <li>費用も抑えたい場合 → PAYTODAY（低い手数料で最短30分）</li>
 </ul>
 <h3>手数料を抑えたい場合の3社</h3>
@@ -1243,7 +1243,7 @@
 <td><strong>ラボル</strong></td>
 <td>1万円〜</td>
 <td>10%固定</td>
-<td>少額から・24時間対応</td>
+<td>少額から・土日祝も対応</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1328,7 +1328,7 @@
 <td>3</td>
 <td><strong>ラボル</strong></td>
 <td>10%固定</td>
-<td>24時間対応</td>
+<td>土日祝も審査・入金</td>
 <td>不規則な働き方に適している</td>
 </tr>
 </tbody>
@@ -1881,9 +1881,9 @@
 <td>審査後最短即日入金・1万円〜</td>
 </tr>
 <tr>
-<td><strong>土日・深夜に資金が必要</strong></td>
+<td><strong>土日に資金が必要</strong></td>
 <td>ラボル</td>
-<td>24時間365日の入金に対応</td>
+<td>土日祝も審査・入金（審査完了後の振込は24時間365日）</td>
 </tr>
 <tr>
 <td><strong>費用を最小限にしたい</strong></td>
@@ -1928,7 +1928,7 @@
 </tbody>
 </table>
 <p>まずは、<strong>2〜3社に同時に無料見積もりを依頼し、比較する</strong>ことをおすすめします。条件や金額によって手数料が大きく変わるため、複数社の条件を比較してから決定してください。</p>
-<p>すぐに資金が必要な場合は、ペイトナーファクタリング（最短即日）またはラボル（最短30分・24時間）への申込をご検討ください。</p>
+<p>すぐに資金が必要な場合は、ペイトナーファクタリング（最短即日）またはラボル（最短30分・土日祝も対応）への申込をご検討ください。</p>
 <hr>
 <p><em>この記事は2026年4月時点の情報に基づいています。各サービスの手数料・条件・キャンペーン等は変更される場合がありますので、最新情報は各公式サイトでご確認ください。</em></p>
 <hr>
@@ -1967,7 +1967,7 @@
 <blockquote>
 <p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
 </blockquote>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/hikaku","className":"hover:text-gray-700 transition","children":"比較・おすすめ"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["【2026年最新】請求書買取サービスおすすめ20選｜手数料・","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/seikyusho-kaitori-hero.png","alt":"【2026年最新】請求書買取サービスおすすめ20選｜手数料・入金スピード・審査通過率で比較","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【2026年最新】請求書買取サービスおすすめ20選｜手数料・入金スピード・審査通過率で比較"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"請求書買取 おすすめ, 請求書 買取, 請求書買取 サービス, 請求書 現金化"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"IDWrtTvhjH182gCkfsdnv"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/hikaku","className":"hover:text-gray-700 transition","children":"比較・おすすめ"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["【2026年最新】請求書買取サービスおすすめ20選｜手数料・","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/seikyusho-kaitori-hero.png","alt":"【2026年最新】請求書買取サービスおすすめ20選｜手数料・入金スピード・審査通過率で比較","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【2026年最新】請求書買取サービスおすすめ20選｜手数料・入金スピード・審査通過率で比較"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"請求書買取 おすすめ, 請求書 買取, 請求書買取 サービス, 請求書 現金化"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fPBqMX2-wYdOQffdJFKVi"}
 5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","accel-factor",{"children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":["アクセルファクター","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","support-kinyu",{"children":["$","$L3",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":["日本中小企業金融サポート機構","の口コミ・評判・手数料 →"]}]}],["$","li","top-management",{"children":["$","$L3",null,{"href":"/companies/top-management/","className":"text-blue-600 hover:underline","children":["トップマネジメント","の口コミ・評判・手数料 →"]}]}],["$","li","mentor-capital",{"children":["$","$L3",null,{"href":"/companies/mentor-capital/","className":"text-blue-600 hover:underline","children":["メンターキャピタル","の口コミ・評判・手数料 →"]}]}],["$","li","ennavi",{"children":["$","$L3",null,{"href":"/companies/ennavi/","className":"text-blue-600 hover:underline","children":["えんナビ","の口コミ・評判・手数料 →"]}]}],["$","li","freenance",{"children":["$","$L3",null,{"href":"/companies/freenance/","className":"text-blue-600 hover:underline","children":["FREENANCE","の口コミ・評判・手数料 →"]}]}]]}]]}]
 6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","best-factor",{"href":"/companies/best-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ベストファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","2%〜20%"," ／ ","最短6時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","pmg",{"href":"/companies/pmg","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"PMG"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","paytner",{"href":"/companies/paytner","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ペイトナー"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","10%〜10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
@@ -1975,7 +1975,7 @@
 9:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/hikaku","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["比較・おすすめ","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
 a:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L12","$L13","$L14","$L15"]}]}],"$L16"]}]}]
 b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"比較・おすすめ\",\"item\":\"https://corp-factoring.com/topics/hikaku\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"【2026年最新】請求書買取サービスおすすめ20選｜手数料・入金スピード・審査通過率で比較\",\"item\":\"https://corp-factoring.com/articles/article-seikyusho-kaitori\"}]}"}}]
-c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"【2026年最新】請求書買取サービスおすすめ20選｜手数料・入金スピード・審査通過率で比較\",\"description\":\"【2026年最新】請求書買取サービスおすすめ20選｜手数料・入金スピード・審査通過率で比較について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-19T01:33:00.298Z\",\"dateModified\":\"2026-10-19T01:33:00.298Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-seikyusho-kaitori\"}}"}}]
+c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"【2026年最新】請求書買取サービスおすすめ20選｜手数料・入金スピード・審査通過率で比較\",\"description\":\"【2026年最新】請求書買取サービスおすすめ20選｜手数料・入金スピード・審査通過率で比較について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-19T01:33:00.298Z\",\"dateModified\":\"2026-10-19T03:21:06.004Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-seikyusho-kaitori\"}}"}}]
 d:["$","script","script-0",{"src":"/_next/static/chunks/01i~yhuopvrnw.js","async":true}]
 e:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
 f:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 口コミ"}]
