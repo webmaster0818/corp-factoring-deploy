@@ -7,16 +7,16 @@
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
 :HL["/_next/static/chunks/11~oqg91l16~u.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-iryou",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-iryou","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11~oqg91l16~u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/01i~yhuopvrnw.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11~oqg91l16~u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"piS37li6XI6CIfASk4Ub9"}
+0:{"P":null,"c":["","articles","article-factoring-iryou",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-iryou","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11~oqg91l16~u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/01i~yhuopvrnw.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11~oqg91l16~u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"H7wYmXTELUZb41JtdkrRI"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/01i~yhuopvrnw.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/01i~yhuopvrnw.js"],""]
 :HL["/images/articles/gyoushu-article.jpg","image"]
-11:T56ad,<p>診療報酬ファクタリングの会社を選ぶ際は、<strong>手数料・調達可能額・入金スピード・対象（医療機関／調剤薬局／介護）の4点</strong>で比較します。当サイトが2026年10月17日に各社の公式サイトで確認した6社の中では、次のとおりです。</p>
+11:T6a98,<p>診療報酬ファクタリングの会社を選ぶ際は、<strong>手数料・調達可能額・入金スピード・対象（医療機関／調剤薬局／介護）の4点</strong>で比較します。当サイトが2026年10月17日に各社の公式サイトで確認した6社の中では、次のとおりです。</p>
 <ul>
-<li><strong>手数料を重視する場合：</strong> アクリーティブ（0.25%〜）、三菱UFJファクター（一律0.8%・初期手数料と月額利用料なし）</li>
-<li><strong>調達可能額を重視する場合：</strong> アクリーティブ（月次保険請求額の最大3か月分）。三菱UFJファクターは毎月最大1,500万円まで請求額の100%を買い取ります</li>
+<li><strong>手数料を重視する場合：</strong> アクリーティブ（月0.25%〜・年率換算3.0%〜）、三菱UFJファクター（請求額の一律0.8%・初期手数料と月額利用料なし）</li>
+<li><strong>調達可能額を重視する場合：</strong> アクリーティブ（20床以上の有床施設は月次保険請求額の1〜3か月分、19床以下は1〜2か月分）。三菱UFJファクターは毎月最大1,500万円まで請求額の100%を買い取ります</li>
 <li><strong>入金スピードを重視する場合：</strong> 株式会社No.1（最短即日）、トップ・マネジメント（最短2時間）。いずれも一般のファクタリング会社で、手数料は医療専門のサービスより高い水準です</li>
 <li><strong>介護・障害福祉の報酬もあわせて資金化する場合：</strong> カイポケ早期入金（請求から最短5営業日）、アクリーティブ</li>
 </ul>
@@ -43,9 +43,9 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tr>
 <tr>
 <td>アクリーティブ（FPSメディカル）</td>
-<td>0.25%〜（利用状況・審査により異なる）</td>
-<td>月次保険請求額の最大3か月分（利用額の下限・上限の設定なし）</td>
-<td>必要書類の提出後、最短2週間（初回は申込から約10営業日）</td>
+<td>月0.25%〜（年率換算3.0%〜。契約時に別途事務手数料がかかる場合あり）</td>
+<td>有床施設（20床以上）は月次保険請求額の1〜3か月分、無床施設（19床以下）は1〜2か月分</td>
+<td>審査は最短2営業日、申込から入金まで最短1〜2週間（入金日は毎月最短15日）</td>
 <td>医療機関・歯科・調剤薬局・介護・障がい福祉</td>
 </tr>
 <tr>
@@ -78,7 +78,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tr>
 </tbody>
 </table>
-<p><strong>確認日：</strong> 2026年10月17日（全項目）</p>
+<p><strong>確認日：</strong> 2026年10月17日（アクリーティブの行と「申込方法・契約方式・審査に必要な書類」の表は2026年10月20日に再確認）</p>
+<p>※アクリーティブの手数料は月率（月々0.25%〜）の表示です。三菱UFJファクターの0.8%とカイポケ早期入金の0.96%〜は、1回の買取ごとの請求額に対する率として表示されています。料率の単位が異なるため、比較する際は各社の見積もりで手取り額を確認してください。</p>
 <p><strong>出典（各社公式サイト）：</strong></p>
 <ul>
 <li>三菱UFJファクター：<a href="https://www.muf.bk.mufg.jp/shinryo/">診療・調剤報酬（診療報酬早期受取オンラインサービス）</a>、<a href="https://www.muf.bk.mufg.jp/shinryo/lp_202303/">サービス案内</a></li>
@@ -105,7 +106,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <tr>
 <td>銀行系・リース系・医療専門のサービス</td>
 <td>三菱UFJファクター、アクリーティブ、カイポケ早期入金</td>
-<td>手数料は0.25%〜0.96%〜。初回の資金化までは数営業日〜1か月弱かかる</td>
+<td>手数料は1回あたり0.8%〜0.96%〜、またはアクリーティブの月0.25%〜。初回の資金化までは数営業日〜1か月弱かかる</td>
 </tr>
 <tr>
 <td>一般のファクタリング会社</td>
@@ -165,8 +166,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tr>
 <tr>
 <td>アクリーティブ</td>
-<td>最大95%（残金は保留金として契約時に定めた期日に精算）</td>
-<td>公式に記載なし</td>
+<td>請求額の80〜95%（保留金5〜20%は国保連・支払基金からの入金後に毎月精算）</td>
+<td>契約時に別途事務手数料がかかる場合あり</td>
 </tr>
 <tr>
 <td>カイポケ早期入金</td>
@@ -185,6 +186,58 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tr>
 </tbody>
 </table>
+<h3>申込方法・契約方式・審査に必要な書類</h3>
+<p>審査に必要な書類と、社保・国保への債権譲渡通知の有無は、会社によって異なります。公式サイトで確認できた内容は次のとおりです（2026年10月20日確認）。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>申込・手続きの方法</th>
+<th>社保・国保への通知</th>
+<th>審査に必要な主な書類</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>三菱UFJファクター</td>
+<td>専用WEBサイトのマイページで審査申込・書類アップロード</td>
+<td>利用者と同社の連名で債権譲渡通知を行う</td>
+<td>保険医療機関（保険薬局）指定通知書、院長の医師免許証（薬剤師免許証）と保険医（保険薬剤師）登録票、診療報酬入金口座の通帳と請求金額の確認資料・支払額決定通知書（各直近2か月分）、確定申告書（別表1）または納税証明書（その2）、納税証明書（その3の3）、本人確認資料（法人は履歴事項全部証明書・印鑑登録証明書・代表者の本人確認資料2点）</td>
+</tr>
+<tr>
+<td>アクリーティブ</td>
+<td>見積もりはフォームで依頼。書類提出から契約まではオンライン（Medicare in）で、郵送は契約書の捺印返送のみ</td>
+<td>契約時に通知を行う（公式の手順に「書類返送・通知」と記載）</td>
+<td>指定通知書、診療報酬請求書・支払決定額通知書、納税証明書、財務資料（確定申告書・決算書・勘定科目内訳など）、通帳写し</td>
+</tr>
+<tr>
+<td>カイポケ早期入金</td>
+<td>電話（0120-901-145・平日9時〜18時）または相談フォームで問い合わせ。審査完了後、郵送とメールで書類を提出</td>
+<td>契約時の提出書類に債権譲渡通知書が含まれる</td>
+<td>契約時：ファクタリング契約書、サービス申込書、債権譲渡通知書、登記簿謄本、印鑑証明</td>
+</tr>
+<tr>
+<td>ビートレーディング</td>
+<td>診療報酬での記載なし</td>
+<td>診療報酬での記載なし</td>
+<td>診療報酬での記載なし</td>
+</tr>
+<tr>
+<td>トップ・マネジメント</td>
+<td>必要書類のオンライン提出に対応。審査は書類提出後最短30分（一般の売掛金）</td>
+<td>2社間・3社間の両方に対応</td>
+<td>本人確認書類、売掛債権の成因資料（請求書・契約書・発注書など）、売掛先との取引が確認できる資料（入金履歴がわかる通帳など）の3点（一般の売掛金と共通）</td>
+</tr>
+<tr>
+<td>株式会社No.1</td>
+<td>公式に記載なし</td>
+<td>2社間ファクタリングを主な取引としている（診療報酬ファクタリングのページ）</td>
+<td>公式に記載なし</td>
+</tr>
+</tbody>
+</table>
+<p><strong>出典：</strong> 三菱UFJファクター <a href="https://cdn.muf.bk.mufg.jp/wp-content/uploads/2025/12/22155832/goriyo_sinsa_shorui_9.pdf">審査申込 ご提出資料について（PDF）</a>・<a href="https://www.muf.bk.mufg.jp/shinryo/">診療・調剤報酬</a>、アクリーティブ <a href="https://accretive-factoring.jp/service/medicalcare/">診療報酬ファクタリング専門サイト</a>、カイポケ早期入金 <a href="https://finance.kaipoke.biz/medical-factoring.html">診療報酬ファクタリング</a>、トップ・マネジメント <a href="https://top-management.co.jp/faq/">よくある質問</a>、株式会社No.1 <a href="https://no1service.co.jp/factoring-service/medical/">診療報酬ファクタリング</a></p>
+<p>銀行系・リース系・医療専門のサービスは、指定通知書や支払額決定通知書など、医療機関であることと保険請求の実績を確認する書類を求めます。一般のファクタリング会社は、請求書・通帳・本人確認書類を中心とした少ない書類で審査を行う一方、手数料は高い水準です。</p>
 <hr>
 <h2>診療報酬ファクタリングの仕組み</h2>
 <h3>通常の診療報酬の流れ</h3>
@@ -225,7 +278,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tr>
 <tr>
 <td><strong>手数料（公式表示の例）</strong></td>
-<td>三菱UFJファクター 一律0.8%、アクリーティブ 0.25%〜</td>
+<td>三菱UFJファクター 一律0.8%、アクリーティブ 月0.25%〜</td>
 <td>トップ・マネジメント 2社間3.5%〜、株式会社No.1 2社間5〜15%</td>
 </tr>
 <tr>
@@ -326,13 +379,13 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>よくある質問</h2>
 <p><strong>Q: 診療報酬ファクタリングでおすすめの会社はどこですか？</strong>
-A: 重視する項目によって異なります。当サイトが2026年10月17日に公式サイトで確認した6社の中では、手数料を重視する場合はアクリーティブ（0.25%〜）と三菱UFJファクター（一律0.8%）、調達可能額を重視する場合はアクリーティブ（月次保険請求額の最大3か月分）、入金スピードを重視する場合は株式会社No.1（最短即日）とトップ・マネジメント（最短2時間）、介護・障害福祉の報酬もあわせて資金化する場合はカイポケ早期入金とアクリーティブが候補になります。</p>
+A: 重視する項目によって異なります。当サイトが2026年10月17日に公式サイトで確認した6社の中では、手数料を重視する場合はアクリーティブ（月0.25%〜・年率換算3.0%〜）と三菱UFJファクター（請求額の一律0.8%）、調達可能額を重視する場合はアクリーティブ（有床施設は月次保険請求額の1〜3か月分）、入金スピードを重視する場合は株式会社No.1（最短即日）とトップ・マネジメント（最短2時間）、介護・障害福祉の報酬もあわせて資金化する場合はカイポケ早期入金とアクリーティブが候補になります。</p>
 <p><strong>Q: 診療報酬ファクタリングの手数料はどのくらいですか？</strong>
-A: 公式サイトで確認できた手数料は、アクリーティブが0.25%〜、三菱UFJファクターが一律0.8%、カイポケ早期入金が0.96%〜（別途、初回手数料5,000円・月額費用2,000円）、ビートレーディングが診療報酬で2%〜です（2026年10月17日確認）。一般のファクタリング会社では、トップ・マネジメントが3社間0.5%〜・2社間3.5%〜、株式会社No.1が0.5〜15%と表示しています。</p>
+A: 公式サイトで確認できた手数料は、アクリーティブが月0.25%〜（年率換算3.0%〜）、三菱UFJファクターが一律0.8%、カイポケ早期入金が0.96%〜（別途、初回手数料5,000円・月額費用2,000円）、ビートレーディングが診療報酬で2%〜です（2026年10月17日確認）。一般のファクタリング会社では、トップ・マネジメントが3社間0.5%〜・2社間3.5%〜、株式会社No.1が0.5〜15%と表示しています。</p>
 <p><strong>Q: 資金調達できる金額の上限はいくらですか？</strong>
-A: 三菱UFJファクターは毎月最大1,500万円まで請求額の100%、アクリーティブは月次保険請求額の最大3か月分、株式会社No.1は50万円〜5,000万円、ビートレーディングは上限・下限なしと公式に表示しています。カイポケ早期入金は請求額の80%を前倒しで入金する仕組みで、金額の上限は公式に記載がありません。</p>
+A: 三菱UFJファクターは毎月最大1,500万円まで請求額の100%、アクリーティブは有床施設（20床以上）で月次保険請求額の1〜3か月分・無床施設（19床以下）で1〜2か月分、株式会社No.1は50万円〜5,000万円、ビートレーディングは上限・下限なしと公式に表示しています。カイポケ早期入金は請求額の80%を前倒しで入金する仕組みで、金額の上限は公式に記載がありません。</p>
 <p><strong>Q: 申し込んでから入金までどのくらいかかりますか？</strong>
-A: 一般のファクタリング会社は、株式会社No.1が最短即日、トップ・マネジメントが最短2時間です。医療専門のサービスは、カイポケ早期入金が請求から最短5営業日、アクリーティブが必要書類の提出後最短2週間、三菱UFJファクターは初回の資金化まで1か月弱（取引開始後は買取申込から4営業日後）です。</p>
+A: 一般のファクタリング会社は、株式会社No.1が最短即日、トップ・マネジメントが最短2時間です。医療専門のサービスは、カイポケ早期入金が請求から最短5営業日、アクリーティブが申込から入金まで最短1〜2週間（審査は最短2営業日）、三菱UFJファクターは初回の資金化まで1か月弱（取引開始後は買取申込から4営業日後）です。</p>
 <p><strong>Q: 調剤薬局や歯科医院、介護事業所も利用できますか？</strong>
 A: 利用できます。調剤薬局は三菱UFJファクター・アクリーティブ・カイポケ早期入金・株式会社No.1、歯科医院は三菱UFJファクター・アクリーティブ・カイポケ早期入金・株式会社No.1が対象として公式に記載しています。介護事業所はアクリーティブ・カイポケ早期入金・株式会社No.1が対象です。三菱UFJファクターのサービスは医科・歯科の診療報酬と薬局の調剤報酬が対象で、介護報酬は対象として記載されていません。</p>
 <p><strong>Q: 開業したばかりでも利用できますか？</strong>
@@ -343,7 +396,7 @@ A: 患者の自己負担分（窓口負担）は、診療報酬ファクタリ�
 <h2>まとめ</h2>
 <p>診療報酬ファクタリングは、診療から入金までの約2か月のタイムラグを埋める資金調達手段です。会社を選ぶ際は、次の点を比較してください。</p>
 <ul>
-<li><strong>手数料：</strong> 銀行系・リース系・医療専門のサービスは0.25%〜0.96%〜、一般のファクタリング会社は下限0.5%〜3.5%</li>
+<li><strong>手数料：</strong> 銀行系・リース系・医療専門のサービスは1回あたり0.8%〜0.96%〜（アクリーティブは月0.25%〜）、一般のファクタリング会社は下限0.5%〜3.5%</li>
 <li><strong>調達可能額と掛目：</strong> 請求額の100%（三菱UFJファクター）から80%（カイポケ早期入金）まで、会社により異なる</li>
 <li><strong>入金スピード：</strong> 一般のファクタリング会社は最短2時間〜即日、医療専門のサービスは最短5営業日〜1か月弱</li>
 <li><strong>対象：</strong> 介護・障害福祉の報酬にも対応しているかどうか</li>
@@ -364,8 +417,8 @@ A: 患者の自己負担分（窓口負担）は、診療報酬ファクタリ�
 16:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L10",null,{"href":"/topics/gyoushu","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["業種別ファクタリング","の記事一覧を見る →"]}],["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
 17:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L1e","$L1f","$L20","$L21"]}]}],"$L22"]}]}]
 18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"業種別ファクタリング\",\"item\":\"https://corp-factoring.com/topics/gyoushu\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"診療報酬ファクタリングのおすすめ会社6社を比較｜手数料・調達可能額・入金スピード【2026年10月】\",\"item\":\"https://corp-factoring.com/articles/article-factoring-iryou\"}]}"}}]
-19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"診療報酬ファクタリングのおすすめ会社6社を比較｜手数料・調達可能額・入金スピード【2026年10月】\",\"description\":\"診療報酬ファクタリングのおすすめ会社6社を比較｜手数料・調達可能額・入金スピード【2026年10月】について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-17T03:20:09.269Z\",\"dateModified\":\"2026-10-17T03:20:09.269Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-iryou\"}}"}}]
-23:Tf8f,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"診療報酬ファクタリングでおすすめの会社はどこですか？","acceptedAnswer":{"@type":"Answer","text":"重視する項目によって異なります。当サイトが2026年10月17日に公式サイトで確認した6社の中では、手数料を重視する場合はアクリーティブ（0.25%〜）と三菱UFJファクター（一律0.8%）、調達可能額を重視する場合はアクリーティブ（月次保険請求額の最大3か月分）、入金スピードを重視する場合は株式会社No.1（最短即日）とトップ・マネジメント（最短2時間）、介護・障害福祉の報酬もあわせて資金化する場合はカイポケ早期入金とアクリーティブが候補になります。"}},{"@type":"Question","name":"診療報酬ファクタリングの手数料はどのくらいですか？","acceptedAnswer":{"@type":"Answer","text":"公式サイトで確認できた手数料は、アクリーティブが0.25%〜、三菱UFJファクターが一律0.8%、カイポケ早期入金が0.96%〜（別途、初回手数料5,000円・月額費用2,000円）、ビートレーディングが診療報酬で2%〜です（2026年10月17日確認）。一般のファクタリング会社では、トップ・マネジメントが3社間0.5%〜・2社間3.5%〜、株式会社No.1が0.5〜15%と表示しています。"}},{"@type":"Question","name":"資金調達できる金額の上限はいくらですか？","acceptedAnswer":{"@type":"Answer","text":"三菱UFJファクターは毎月最大1,500万円まで請求額の100%、アクリーティブは月次保険請求額の最大3か月分、株式会社No.1は50万円〜5,000万円、ビートレーディングは上限・下限なしと公式に表示しています。カイポケ早期入金は請求額の80%を前倒しで入金する仕組みで、金額の上限は公式に記載がありません。"}},{"@type":"Question","name":"申し込んでから入金までどのくらいかかりますか？","acceptedAnswer":{"@type":"Answer","text":"一般のファクタリング会社は、株式会社No.1が最短即日、トップ・マネジメントが最短2時間です。医療専門のサービスは、カイポケ早期入金が請求から最短5営業日、アクリーティブが必要書類の提出後最短2週間、三菱UFJファクターは初回の資金化まで1か月弱（取引開始後は買取申込から4営業日後）です。"}},{"@type":"Question","name":"調剤薬局や歯科医院、介護事業所も利用できますか？","acceptedAnswer":{"@type":"Answer","text":"利用できます。調剤薬局は三菱UFJファクター・アクリーティブ・カイポケ早期入金・株式会社No.1、歯科医院は三菱UFJファクター・アクリーティブ・カイポケ早期入金・株式会社No.1が対象として公式に記載しています。介護事業所はアクリーティブ・カイポケ早期入金・株式会社No.1が対象です。三菱UFJファクターのサービスは医科・歯科の診療報酬と薬局の調剤報酬が対象で、介護報酬は対象として記載されていません。"}},{"@type":"Question","name":"開業したばかりでも利用できますか？","acceptedAnswer":{"@type":"Answer","text":"レセプトの請求実績があれば、利用できる会社があります。ただし、開業月のレセプトは翌月に初めて提出するため、最短でも開業翌月の請求後からの利用となります。"}},{"@type":"Question","name":"患者の自己負担分もファクタリングできますか？","acceptedAnswer":{"@type":"Answer","text":"患者の自己負担分（窓口負担）は、診療報酬ファクタリングの対象外です。対象となるのは、社保・国保連に請求する保険適用分です。"}}]}1a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$23"}}]
+19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"診療報酬ファクタリングのおすすめ会社6社を比較｜手数料・調達可能額・入金スピード【2026年10月】\",\"description\":\"診療報酬ファクタリングのおすすめ会社6社を比較｜手数料・調達可能額・入金スピード【2026年10月】について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-17T03:20:09.269Z\",\"dateModified\":\"2026-10-20T03:09:33.655Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-iryou\"}}"}}]
+23:T104f,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"診療報酬ファクタリングでおすすめの会社はどこですか？","acceptedAnswer":{"@type":"Answer","text":"重視する項目によって異なります。当サイトが2026年10月17日に公式サイトで確認した6社の中では、手数料を重視する場合はアクリーティブ（月0.25%〜・年率換算3.0%〜）と三菱UFJファクター（請求額の一律0.8%）、調達可能額を重視する場合はアクリーティブ（有床施設は月次保険請求額の1〜3か月分）、入金スピードを重視する場合は株式会社No.1（最短即日）とトップ・マネジメント（最短2時間）、介護・障害福祉の報酬もあわせて資金化する場合はカイポケ早期入金とアクリーティブが候補になります。"}},{"@type":"Question","name":"診療報酬ファクタリングの手数料はどのくらいですか？","acceptedAnswer":{"@type":"Answer","text":"公式サイトで確認できた手数料は、アクリーティブが月0.25%〜（年率換算3.0%〜）、三菱UFJファクターが一律0.8%、カイポケ早期入金が0.96%〜（別途、初回手数料5,000円・月額費用2,000円）、ビートレーディングが診療報酬で2%〜です（2026年10月17日確認）。一般のファクタリング会社では、トップ・マネジメントが3社間0.5%〜・2社間3.5%〜、株式会社No.1が0.5〜15%と表示しています。"}},{"@type":"Question","name":"資金調達できる金額の上限はいくらですか？","acceptedAnswer":{"@type":"Answer","text":"三菱UFJファクターは毎月最大1,500万円まで請求額の100%、アクリーティブは有床施設（20床以上）で月次保険請求額の1〜3か月分・無床施設（19床以下）で1〜2か月分、株式会社No.1は50万円〜5,000万円、ビートレーディングは上限・下限なしと公式に表示しています。カイポケ早期入金は請求額の80%を前倒しで入金する仕組みで、金額の上限は公式に記載がありません。"}},{"@type":"Question","name":"申し込んでから入金までどのくらいかかりますか？","acceptedAnswer":{"@type":"Answer","text":"一般のファクタリング会社は、株式会社No.1が最短即日、トップ・マネジメントが最短2時間です。医療専門のサービスは、カイポケ早期入金が請求から最短5営業日、アクリーティブが申込から入金まで最短1〜2週間（審査は最短2営業日）、三菱UFJファクターは初回の資金化まで1か月弱（取引開始後は買取申込から4営業日後）です。"}},{"@type":"Question","name":"調剤薬局や歯科医院、介護事業所も利用できますか？","acceptedAnswer":{"@type":"Answer","text":"利用できます。調剤薬局は三菱UFJファクター・アクリーティブ・カイポケ早期入金・株式会社No.1、歯科医院は三菱UFJファクター・アクリーティブ・カイポケ早期入金・株式会社No.1が対象として公式に記載しています。介護事業所はアクリーティブ・カイポケ早期入金・株式会社No.1が対象です。三菱UFJファクターのサービスは医科・歯科の診療報酬と薬局の調剤報酬が対象で、介護報酬は対象として記載されていません。"}},{"@type":"Question","name":"開業したばかりでも利用できますか？","acceptedAnswer":{"@type":"Answer","text":"レセプトの請求実績があれば、利用できる会社があります。ただし、開業月のレセプトは翌月に初めて提出するため、最短でも開業翌月の請求後からの利用となります。"}},{"@type":"Question","name":"患者の自己負担分もファクタリングできますか？","acceptedAnswer":{"@type":"Answer","text":"患者の自己負担分（窓口負担）は、診療報酬ファクタリングの対象外です。対象となるのは、社保・国保連に請求する保険適用分です。"}}]}1a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$23"}}]
 1b:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 物流 倉庫"}]
 1c:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"物流・倉庫業向けファクタリング｜運送費・倉庫料の売掛金の資金化"}]
 1d:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
@@ -377,4 +430,4 @@ A: 患者の自己負担分（窓口負担）は、診療報酬ファクタリ�
 a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 24:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"IconMark"]
 7:null
-c:[["$","title","0",{"children":"診療報酬ファクタリングのおすすめ会社6社を比較｜手数料・調達可能額・入金スピード【2026年10月】｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"診療報酬ファクタリングを扱う6社（三菱UFJファクター・アクリーティブ・カイポケ早期入金・ビートレーディング・トップ・マネジメント・No.1）の手数料・調達可能額・入金スピード・対象（医療機関／調剤薬局／介護）を、2026年10月17日に各社の公式サイトで確認した値で比較しています。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-factoring-iryou/"}],["$","meta","5",{"property":"og:title","content":"診療報酬ファクタリングのおすすめ会社6社を比較｜手数料・調達可能額・入金スピード【2026年10月】｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"診療報酬ファクタリングを扱う6社（三菱UFJファクター・アクリーティブ・カイポケ早期入金・ビートレーディング・トップ・マネジメント・No.1）の手数料・調達可能額・入金スピード・対象（医療機関／調剤薬局／介護）を、2026年10月17日に各社の公式サイトで確認した値で比較しています。"}],["$","meta","7",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","14",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","15",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","16",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L24","17",{}]]
+c:[["$","title","0",{"children":"診療報酬ファクタリングのおすすめ会社6社を比較｜手数料・調達可能額・入金スピード【2026年10月】｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"診療報酬ファクタリングを扱う6社（三菱UFJファクター・アクリーティブ・カイポケ早期入金・ビートレーディング・トップ・マネジメント・No.1）の手数料・調達可能額・入金スピード・対象施設・審査に必要な書類を、各社の公式サイトで確認した値（2026年10月17日・20日確認）で比較しています。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-factoring-iryou/"}],["$","meta","5",{"property":"og:title","content":"診療報酬ファクタリングのおすすめ会社6社を比較｜手数料・調達可能額・入金スピード【2026年10月】｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"診療報酬ファクタリングを扱う6社（三菱UFJファクター・アクリーティブ・カイポケ早期入金・ビートレーディング・トップ・マネジメント・No.1）の手数料・調達可能額・入金スピード・対象施設・審査に必要な書類を、各社の公式サイトで確認した値（2026年10月17日・20日確認）で比較しています。"}],["$","meta","7",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","14",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","15",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","16",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L24","17",{}]]
