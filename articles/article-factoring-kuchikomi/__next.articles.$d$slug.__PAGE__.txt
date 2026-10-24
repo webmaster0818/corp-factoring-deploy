@@ -1,11 +1,11 @@
 1:"$Sreact.fragment"
 2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/01i~yhuopvrnw.js"],"Header"]
 3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/01i~yhuopvrnw.js"],""]
-18:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
-19:"$Sreact.suspense"
+19:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo.png","image"]
-4:T3927,<p>ファクタリング会社の口コミ・評判を、どこで、何件、どのような評価で確認できるかをまとめました。当サイトでは口コミ本文の転載や体験談の作成は行わず、口コミが掲載されている第三者サイトの<strong>件数・評価の表示値と確認日</strong>を示しています。</p>
+4:T4c46,<p>ファクタリング会社の口コミ・評判を、どこで、何件、どのような評価で確認できるかをまとめました。当サイトでは口コミ本文の転載や体験談の作成は行わず、口コミが掲載されている第三者サイトの<strong>件数・評価の表示値と確認日</strong>を示しています。</p>
 <p>調べたのは、口コミサイト「ファクログ」、比較サイト「FundBridge」、Googleマップの3つです。ファクログと FundBridge は2026年10月19日に各社のページを開いて表示値を確認し、Googleマップは2026年6月13日に取得した値（社名・住所が一致した拠点のみ）を掲載しています。ファクタリングの仕組みは<a href="/articles/article-factoring-toha/">ファクタリングとは</a>で解説しています。</p>
 <hr>
 <h2>主要9社の口コミ件数と評価（2026年10月確認）</h2>
@@ -234,6 +234,78 @@
 <li><a href="/companies/safe-trust/">セーフトラストの口コミ・評判</a></li>
 </ul>
 <hr>
+<h2>「ヤマトファクタリング」の口コミを調べている場合</h2>
+<p>「ヤマトファクタリング」という名称の会社は、Web検索と金融庁の貸金業者登録一覧（2026年9月30日現在）では確認できませんでした。ヤマトの名前でファクタリングを提供していたのは、ヤマトクレジットファイナンス株式会社です。同社は2026年9月1日に<strong>Ｎクレジットファイナンス株式会社</strong>へ社名を変更し、株式会社ノジマの連結子会社になりました。公式サイトでは、提供中のサービス・手続き・契約は社名変更後もこれまでどおりと案内しています。</p>
+<p>2026年10月24日に公式サイトで確認した会社情報とファクタリングの条件は、次のとおりです。</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>公式の表記（2026年10月24日確認）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>会社名</td>
+<td>Ｎクレジットファイナンス株式会社（旧 ヤマトクレジットファイナンス株式会社）</td>
+</tr>
+<tr>
+<td>所在地・設立・資本金</td>
+<td>東京都豊島区高田3丁目15番10号・1974年8月設立・資本金5億円</td>
+</tr>
+<tr>
+<td>株主</td>
+<td>株式会社NJM5（株式会社ノジマ）、ヒューリック株式会社、株式会社みずほ銀行</td>
+</tr>
+<tr>
+<td>法人番号・貸金業登録</td>
+<td>7013301022317・関東財務局長（15）第00011号（金融庁 貸金業者登録一覧）</td>
+</tr>
+<tr>
+<td>サービス名</td>
+<td>ＮBiz ファクタリング（法人向けの2社間ファクタリング）</td>
+</tr>
+<tr>
+<td>利用できる方</td>
+<td>国内の売掛債権を持つ法人のみ。個人事業主は利用できない（公式FAQ）</td>
+</tr>
+<tr>
+<td>売掛先</td>
+<td>国内の法人または個人事業主</td>
+</tr>
+<tr>
+<td>買取の対象</td>
+<td>発行済みで入金期限が来ていない請求書。手形・小切手は対象外。発注書だけの売却は難しく、納品状況により個別相談</td>
+</tr>
+<tr>
+<td>手数料</td>
+<td>上限10.0%（審査のうえ手数料率を提示）</td>
+</tr>
+<tr>
+<td>入金までの日数</td>
+<td>お申込みから最短3営業日後に振込。電子契約の締結後、最短1営業日で振込</td>
+</tr>
+<tr>
+<td>必要書類</td>
+<td>決算書・請求書・入出金明細・本人確認資料など</td>
+</tr>
+<tr>
+<td>売掛先への通知・登記</td>
+<td>通知・承諾、債権譲渡登記は原則不要</td>
+</tr>
+<tr>
+<td>その他</td>
+<td>前期が赤字でも利用可。複数の請求書の同時売却、請求額の一部だけの売却も可</td>
+</tr>
+<tr>
+<td>問い合わせ</td>
+<td>0120-933-700（「ファクタリングの件」と伝える）。受付は9:30〜17:00（土日祝・年末年始を除く）</td>
+</tr>
+</tbody>
+</table>
+<p>口コミは、2026年10月24日の確認では、口コミサイト「ファクログ」のＮクレジットファイナンスのページは<strong>0件</strong>（「口コミはまだありません」と表示）でした。ファクログへの掲載は同社が2026年3月2日に公式で告知しています。なお、同ページの営業時間（9:00〜17:00）や入金までの日数（最短2営業日）は公式の表記（受付9:30〜17:00・最短3営業日後）と異なるため、条件は公式サイトで確認してください。当サイトでは同社を掲載しておらず、出典を示せる口コミも確認できていません。</p>
+<p>出典：<a href="https://www.ncredit-b2b-pay.com/hayabarai">Ｎクレジットファイナンス「ＮBiz ファクタリング」</a>・<a href="https://www.ncredit-b2b-pay.com/news/company-name-change">社名変更のお知らせ（2026年9月1日）</a>・<a href="https://www.ncredit-finance.co.jp/company/company.html">会社概要</a>・<a href="https://www.ncredit-finance.co.jp/company/history.html">沿革</a>・<a href="https://www.ncredit-b2b-pay.com/news/faclog">比較サイト「ファクログ」掲載のお知らせ（2026年3月2日）</a>・<a href="https://www.fsa.go.jp/menkyo/menkyoj/kasi.pdf">金融庁 貸金業者登録一覧</a>・<a href="https://faclog.jp/factor/n-creditfinance">ファクログ</a>（いずれも2026年10月24日確認）</p>
+<hr>
 <h2>よくある質問</h2>
 <p><strong>Q: ファクタリングの口コミはどこで確認できますか？</strong>
 A: ファクタリング会社の口コミを件数多く掲載しているのは、口コミサイト「ファクログ」と比較サイト「FundBridge」です。ほかに「ファクコミ」やGoogleマップにも口コミがあります。2026年10月19日の確認では、ファクログの件数が多い順にビートレーディング108件、ペイトナー95件、ラボル80件でした。</p>
@@ -241,6 +313,8 @@ A: ファクタリング会社の口コミを件数多く掲載しているの�
 A: 平均点だけで選ぶことはおすすめしません。主要9社のファクログ・FundBridge の平均は4.2〜4.4の範囲に集まっており、差がほとんどありません。件数、投稿日、項目別の評価（特に手数料の安さ）を確認し、条件は公式サイトと見積もりで確かめてください。</p>
 <p><strong>Q: 口コミで不満が多いのはどの点ですか？</strong>
 A: FundBridge の項目別評価では、表示がある主要8社すべてで「手数料の安さ」が5項目のうち最も低い値でした（2026年10月19日確認）。手数料が一律10%のペイトナーは3.2、ラボルは3.5です。</p>
+<p><strong>Q: 「ヤマトファクタリング」の口コミはありますか？</strong>
+A: ヤマトの名前でファクタリングを提供していたヤマトクレジットファイナンス株式会社は、2026年9月1日にＮクレジットファイナンス株式会社へ社名を変更しました（サービス名は「ＮBiz ファクタリング」・法人限定・手数料上限10.0%）。2026年10月24日の確認では、ファクログの同社ページの口コミは0件でした。</p>
 <p><strong>Q: 土日でも入金してもらえるファクタリング会社はありますか？</strong>
 A: あります。公式サイトでは、ペイトナーが審査を土日祝を含む毎日10:00〜19:00に行い振込は365日、ラボルが審査完了後の振込を24時間365日、みんなのファクタリングが毎日19時まで営業・土日祝も対応としています（2026年10月19日確認）。審査の受付時間外の申込は翌営業日の入金になります。</p>
 <hr>
@@ -262,7 +336,7 @@ A: あります。公式サイトでは、ペイトナーが審査を土日祝�
 <blockquote>
 <p>※本記事の情報は2026年10月19日時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
 </blockquote>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/hikaku","className":"hover:text-gray-700 transition","children":"比較・おすすめ"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングの口コミ・評判｜主要9社の口コミ件数と評価を3","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングの口コミ・評判｜主要9社の口コミ件数と評価を3つの掲載先で比較【2026年10月確認】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングの口コミ・評判｜主要9社の口コミ件数と評価を3つの掲載先で比較【2026年10月確認】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 口コミ"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc","$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"isclMUPn2solDITwyUXfS"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/hikaku","className":"hover:text-gray-700 transition","children":"比較・おすすめ"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングの口コミ・評判｜主要9社の口コミ件数と評価を3","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングの口コミ・評判｜主要9社の口コミ件数と評価を3つの掲載先で比較【2026年10月確認】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングの口コミ・評判｜主要9社の口コミ件数と評価を3つの掲載先で比較【2026年10月確認】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 口コミ"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc","$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"td-HsIE1QYwmxyQgEcy3D"}
 5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","accel-factor",{"children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":["アクセルファクター","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","pmg",{"children":["$","$L3",null,{"href":"/companies/pmg/","className":"text-blue-600 hover:underline","children":["PMG","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","support-kinyu",{"children":["$","$L3",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":["日本中小企業金融サポート機構","の口コミ・評判・手数料 →"]}]}],["$","li","ennavi",{"children":["$","$L3",null,{"href":"/companies/ennavi/","className":"text-blue-600 hover:underline","children":["えんナビ","の口コミ・評判・手数料 →"]}]}],["$","li","minna-factoring",{"children":["$","$L3",null,{"href":"/companies/minna-factoring/","className":"text-blue-600 hover:underline","children":["みんなのファクタリング","の口コミ・評判・手数料 →"]}]}],["$","li","invoice-factor",{"children":["$","$L3",null,{"href":"/companies/invoice-factor/","className":"text-blue-600 hover:underline","children":["インボイスファクター","の口コミ・評判・手数料 →"]}]}],["$","li","safe-trust",{"children":["$","$L3",null,{"href":"/companies/safe-trust/","className":"text-blue-600 hover:underline","children":["セーフトラスト","の口コミ・評判・手数料 →"]}]}]]}]]}]
 6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","ebank",{"href":"/companies/ebank","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"いーばんく（アクシアプラス）"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","4%〜（上限は要問い合わせ）"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","invoice-factor",{"href":"/companies/invoice-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"インボイスファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","0.5%〜（上限は要問い合わせ）"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","no1",{"href":"/companies/no1","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"株式会社No.1"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","0.5%〜15%"," ／ ","最短30分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
@@ -270,10 +344,10 @@ A: あります。公式サイトでは、ペイトナーが審査を土日祝�
 9:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/hikaku","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["比較・おすすめ","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
 a:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L13","$L14","$L15","$L16"]}]}],"$L17"]}]}]
 b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"比較・おすすめ\",\"item\":\"https://corp-factoring.com/topics/hikaku\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ファクタリングの口コミ・評判｜主要9社の口コミ件数と評価を3つの掲載先で比較【2026年10月確認】\",\"item\":\"https://corp-factoring.com/articles/article-factoring-kuchikomi\"}]}"}}]
-c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングの口コミ・評判｜主要9社の口コミ件数と評価を3つの掲載先で比較【2026年10月確認】\",\"description\":\"ファクタリングの口コミ・評判｜主要9社の口コミ件数と評価を3つの掲載先で比較【2026年10月確認】について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-19T03:14:18.295Z\",\"dateModified\":\"2026-10-19T03:14:27.792Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-kuchikomi\"}}"}}]
-d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"ファクタリングの口コミはどこで確認できますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"ファクタリング会社の口コミを件数多く掲載しているのは、口コミサイト「ファクログ」と比較サイト「FundBridge」です。ほかに「ファクコミ」やGoogleマップにも口コミがあります。2026年10月19日の確認では、ファクログの件数が多い順にビートレーディング108件、ペイトナー95件、ラボル80件でした。\"}},{\"@type\":\"Question\",\"name\":\"口コミの評価が高い会社を選べば安心ですか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"平均点だけで選ぶことはおすすめしません。主要9社のファクログ・FundBridge の平均は4.2〜4.4の範囲に集まっており、差がほとんどありません。件数、投稿日、項目別の評価（特に手数料の安さ）を確認し、条件は公式サイトと見積もりで確かめてください。\"}},{\"@type\":\"Question\",\"name\":\"口コミで不満が多いのはどの点ですか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"FundBridge の項目別評価では、表示がある主要8社すべてで「手数料の安さ」が5項目のうち最も低い値でした（2026年10月19日確認）。手数料が一律10%のペイトナーは3.2、ラボルは3.5です。\"}},{\"@type\":\"Question\",\"name\":\"土日でも入金してもらえるファクタリング会社はありますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"あります。公式サイトでは、ペイトナーが審査を土日祝を含む毎日10:00〜19:00に行い振込は365日、ラボルが審査完了後の振込を24時間365日、みんなのファクタリングが毎日19時まで営業・土日祝も対応としています（2026年10月19日確認）。審査の受付時間外の申込は翌営業日の入金になります。\"}}]}"}}]
+c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングの口コミ・評判｜主要9社の口コミ件数と評価を3つの掲載先で比較【2026年10月確認】\",\"description\":\"ファクタリングの口コミ・評判｜主要9社の口コミ件数と評価を3つの掲載先で比較【2026年10月確認】について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-24T03:10:12.163Z\",\"dateModified\":\"2026-10-24T03:10:20.159Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-kuchikomi\"}}"}}]
+18:Ta20,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ファクタリングの口コミはどこで確認できますか？","acceptedAnswer":{"@type":"Answer","text":"ファクタリング会社の口コミを件数多く掲載しているのは、口コミサイト「ファクログ」と比較サイト「FundBridge」です。ほかに「ファクコミ」やGoogleマップにも口コミがあります。2026年10月19日の確認では、ファクログの件数が多い順にビートレーディング108件、ペイトナー95件、ラボル80件でした。"}},{"@type":"Question","name":"口コミの評価が高い会社を選べば安心ですか？","acceptedAnswer":{"@type":"Answer","text":"平均点だけで選ぶことはおすすめしません。主要9社のファクログ・FundBridge の平均は4.2〜4.4の範囲に集まっており、差がほとんどありません。件数、投稿日、項目別の評価（特に手数料の安さ）を確認し、条件は公式サイトと見積もりで確かめてください。"}},{"@type":"Question","name":"口コミで不満が多いのはどの点ですか？","acceptedAnswer":{"@type":"Answer","text":"FundBridge の項目別評価では、表示がある主要8社すべてで「手数料の安さ」が5項目のうち最も低い値でした（2026年10月19日確認）。手数料が一律10%のペイトナーは3.2、ラボルは3.5です。"}},{"@type":"Question","name":"「ヤマトファクタリング」の口コミはありますか？","acceptedAnswer":{"@type":"Answer","text":"ヤマトの名前でファクタリングを提供していたヤマトクレジットファイナンス株式会社は、2026年9月1日にＮクレジットファイナンス株式会社へ社名を変更しました（サービス名は「ＮBiz ファクタリング」・法人限定・手数料上限10.0%）。2026年10月24日の確認では、ファクログの同社ページの口コミは0件でした。"}},{"@type":"Question","name":"土日でも入金してもらえるファクタリング会社はありますか？","acceptedAnswer":{"@type":"Answer","text":"あります。公式サイトでは、ペイトナーが審査を土日祝を含む毎日10:00〜19:00に行い振込は365日、ラボルが審査完了後の振込を24時間365日、みんなのファクタリングが毎日19時まで営業・土日祝も対応としています（2026年10月19日確認）。審査の受付時間外の申込は翌営業日の入金になります。"}}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$18"}}]
 e:["$","script","script-0",{"src":"/_next/static/chunks/01i~yhuopvrnw.js","async":true}]
-f:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+f:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
 10:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"請求書買取 おすすめ, 請求書 買取, 請求書買取 サービス, 請求書 現金化"}]
 11:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】請求書買取サービスおすすめ20選｜手数料・入金スピード・審査通過率で比較"}]
 12:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
@@ -282,4 +356,4 @@ f:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","ch
 15:["$","span",null,{"className":"text-gray-700","children":"|"}]
 16:["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
 17:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
-1a:null
+1b:null
