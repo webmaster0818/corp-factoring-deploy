@@ -7,19 +7,19 @@
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
 :HL["/_next/static/chunks/11~oqg91l16~u.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-sokujitsu",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-sokujitsu","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11~oqg91l16~u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/01i~yhuopvrnw.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11~oqg91l16~u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"j49ZesK3Iqe_0XqfN7z-2"}
+0:{"P":null,"c":["","articles","article-factoring-sokujitsu",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-sokujitsu","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11~oqg91l16~u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/01i~yhuopvrnw.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11~oqg91l16~u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"1AvtTko2CEWWqYcBcnaf-"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/01i~yhuopvrnw.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/01i~yhuopvrnw.js"],""]
 :HL["/images/articles/factoring-article.jpg","image"]
-11:T6c41,<p>当日中に資金が必要となる場面に備えて、即日ファクタリングの利用方法を解説します。</p>
+11:T6c80,<p>当日中に資金が必要となる場面に備えて、即日ファクタリングの利用方法を解説します。</p>
 <p>急な支払い、取引先からの入金の遅延、予想外の出費など、事業を営んでいると、すぐに現金が必要になる場面があります。</p>
 <p><strong>即日ファクタリングを利用すれば、手持ちの請求書を最短即日で現金化できます。</strong></p>
 <blockquote>
 <p><strong>この記事の要点</strong></p>
 <ul>
-<li>当日中の入金を希望する場合は、<strong>午前中〜遅くとも14時までの申込、書類の完備、2社間の利用</strong>が3つの条件です。入金が最も速いのは、ペイトナー（最短即日）・ラボル（最短30分）です。</li>
+<li>当日中の入金を希望する場合は、<strong>午前中〜遅くとも14時までの申込、書類の完備、2社間の利用</strong>が3つの条件です。公式表示の入金時間が最も短いのは、ラボル・PAYTODAY・No.1（いずれも最短30分）です。</li>
 <li><strong>土日祝に入金できる会社は限られます</strong>。ラボルは土日祝も審査・入金を行い、審査完了後は24時間365日振り込みます（審査は24時間365日ではありません。詳しくは<a href="/articles/article-factoring-donichi/">土日対応ファクタリング</a>をご覧ください）。</li>
 <li>スピードを優先するほど、手数料は高くなる傾向があります（即日・2社間では10%前後の固定手数料型が中心）。急ぎでなければ、数日待つことも費用の面では合理的です。</li>
 <li>本記事の手数料・入金スピードは、当サイトの<a href="/fees/">24社手数料比較（公式サイトで確認）</a>と同一のデータです（2026年8月7日時点）。</li>
@@ -86,46 +86,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </ol>
 <hr>
 <h2>【入金スピード順】即日ファクタリングおすすめ15選</h2>
-<h3>最短即日で入金</h3>
-<h4>1位: ペイトナーファクタリング — 最短即日</h4>
-<table>
-<thead>
-<tr>
-<th>項目</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>手数料</td>
-<td>一律10%</td>
-</tr>
-<tr>
-<td>入金スピード</td>
-<td><strong>最短即日</strong></td>
-</tr>
-<tr>
-<td>買取可能額</td>
-<td>1万円〜（初回50万円まで）</td>
-</tr>
-<tr>
-<td>土日祝対応</td>
-<td>○（審査は土日祝を含む毎日10:00〜19:00。審査完了後の振込は365日）</td>
-</tr>
-<tr>
-<td>必要書類</td>
-<td>請求書・本人確認書類</td>
-</tr>
-<tr>
-<td>対応</td>
-<td>個人事業主・フリーランス向け</td>
-</tr>
-</tbody>
-</table>
-<p><strong>審査後、最短即日で入金されます。</strong> アカウント登録済みであれば、請求書をアップロードし、最短即日で口座に振り込まれます。手数料が一律10%で、事前に計算できる点も特長です。個人宛ての請求書も買取の対象です。</p>
-<p>即日入金を受けるには、事前にアカウント登録と本人確認を済ませておいてください。初回は審査に時間がかかる場合があるため、余裕を持って申し込んでください。</p>
 <h3>最短30分で入金</h3>
-<h4>2位: ラボル（labol） — 最短30分</h4>
+<h4>1位: ラボル（labol） — 最短30分</h4>
 <table>
 <thead>
 <tr>
@@ -162,7 +124,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </table>
 <p><strong>審査が完了すれば、土日祝を含む24時間365日振り込まれます。</strong> ただし、公式は「審査の実施は24時間365日行っているものではございません」としています（2026年10月19日確認）。週末に急ぎで資金が必要な場面で候補になるサービスです。</p>
 <p>即日入金を受けるには、取引の証拠（メールやチャットの履歴など）を事前に準備しておくと、手続きが円滑に進みます。</p>
-<h4>3位: PAYTODAY（ペイトゥデイ） — 最短30分</h4>
+<h4>2位: PAYTODAY（ペイトゥデイ） — 最短30分</h4>
 <table>
 <thead>
 <tr>
@@ -198,6 +160,34 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p><strong>手数料1%〜と即日入金を両立しています。</strong> AI審査で最短30分の入金に対応しています。手数料は1%〜9.5%で、公式は「ファクタリング業界最低水準の手数料」と表示しています（<a href="https://paytoday.jp/">公式</a>・2026年10月25日確認）。費用とスピードの両方を重視する方におすすめします。</p>
+<h4>3位: No.1ファクタリング — 最短30分</h4>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>0.5〜15%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短30分</td>
+</tr>
+<tr>
+<td>審査通過率</td>
+<td>95%以上（2026年5月現在・公式表示）</td>
+</tr>
+<tr>
+<td>対応</td>
+<td>法人・個人事業主</td>
+</tr>
+</tbody>
+</table>
+<p>建設業向け・運送業向けの専用サービスページを設けています（公式）。</p>
 <h3>最短60分で入金（土日祝も対応）</h3>
 <h4>4位: みんなのファクタリング — 最短60分（公式確認値）</h4>
 <table>
@@ -340,7 +330,35 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p><strong>小口を専門とする即日ファクタリングです。</strong> 500万円以下の案件を専門としており、中小企業・個人事業主に配慮した対応を行っています。</p>
-<h4>8位: 日本中小企業金融サポート機構 — 最短3時間</h4>
+<h4>8位: アクセルファクター — 最短2時間（公式コラム）</h4>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>1〜12%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td>最短2時間（公式コラム）。審査結果は最短1時間（公式FAQ）</td>
+</tr>
+<tr>
+<td>審査通過率</td>
+<td>93%超（公式コラム）</td>
+</tr>
+<tr>
+<td>対応</td>
+<td>法人・個人事業主</td>
+</tr>
+</tbody>
+</table>
+<p>公式FAQでは、赤字決算でも利用でき、創業から間もない会社の利用も多いとしています。</p>
+<h4>9位: 日本中小企業金融サポート機構 — 最短3時間</h4>
 <table>
 <thead>
 <tr>
@@ -372,7 +390,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p><strong>非営利の一般社団法人が運営しています。</strong> 中小企業の支援を目的とする一般社団法人が運営しており、即日の対応も行っています。</p>
-<h4>9位: 事業資金エージェント — 最短3時間</h4>
+<h4>10位: 事業資金エージェント — 最短3時間</h4>
 <table>
 <thead>
 <tr>
@@ -405,7 +423,44 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </table>
 <p><strong>500万円以下であれば、来店は不要です。</strong> 大口（最大2億円）にも対応しており、3社間であれば1.5%〜の低い手数料です。</p>
 <h3>最短即日（当日中）で入金</h3>
-<h4>10位: OLTA（オルタ）</h4>
+<h4>11位: ペイトナーファクタリング — 最短即日</h4>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>手数料</td>
+<td>一律10%</td>
+</tr>
+<tr>
+<td>入金スピード</td>
+<td><strong>最短即日</strong></td>
+</tr>
+<tr>
+<td>買取可能額</td>
+<td>1万円〜（初回50万円まで）</td>
+</tr>
+<tr>
+<td>土日祝対応</td>
+<td>○（審査は土日祝を含む毎日10:00〜19:00。審査完了後の振込は365日）</td>
+</tr>
+<tr>
+<td>必要書類</td>
+<td>請求書・本人確認書類</td>
+</tr>
+<tr>
+<td>対応</td>
+<td>個人事業主・フリーランス向け</td>
+</tr>
+</tbody>
+</table>
+<p><strong>審査後、最短即日で入金されます。</strong> アカウント登録済みであれば、請求書をアップロードし、最短即日で口座に振り込まれます。手数料が一律10%で、事前に計算できる点も特長です。個人宛ての請求書も買取の対象です。</p>
+<p>即日入金を受けるには、事前にアカウント登録と本人確認を済ませておいてください。初回は審査に時間がかかる場合があるため、余裕を持って申し込んでください。</p>
+<h4>12位: OLTA（オルタ）</h4>
 <table>
 <thead>
 <tr>
@@ -433,35 +488,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p>公式は「手数料は諸経費などすべて込み」としており、手数料のほかに費用はかかりません。契約後は即日または翌営業日に振り込まれます（<a href="https://www.olta.co.jp/">公式</a>・2026年10月24日確認）。インターネットバンキングと連携すると、審査に必要な直近4カ月分の入出金明細の画像やCSVを用意する手間を省けます（<a href="https://olta.zendesk.com/hc/ja/articles/54011995068825">公式ヘルプ</a>・2026年10月24日確認）。</p>
-<h4>11位: アクセルファクター</h4>
-<table>
-<thead>
-<tr>
-<th>項目</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>手数料</td>
-<td>1〜12%</td>
-</tr>
-<tr>
-<td>入金スピード</td>
-<td>最短2時間（公式コラム）。審査結果は最短1時間（公式FAQ）</td>
-</tr>
-<tr>
-<td>審査通過率</td>
-<td>93%超（公式コラム）</td>
-</tr>
-<tr>
-<td>対応</td>
-<td>法人・個人事業主</td>
-</tr>
-</tbody>
-</table>
-<p>公式FAQでは、赤字決算でも利用でき、創業から間もない会社の利用も多いとしています。</p>
-<h4>12位: ベストファクター</h4>
+<h4>13位: ベストファクター</h4>
 <table>
 <thead>
 <tr>
@@ -489,7 +516,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p>審査通過率は92.2%です。柔軟な審査で、即日に対応しています。</p>
-<h4>13位: FREENANCE（フリーナンス）即日払い</h4>
+<h4>14位: FREENANCE（フリーナンス）即日払い</h4>
 <table>
 <thead>
 <tr>
@@ -517,7 +544,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p>東証グロース上場のフリー株式会社（freee）が運営しています。あんしん補償が無料で付帯しています。</p>
-<h4>14位: トップマネジメント</h4>
+<h4>15位: トップマネジメント</h4>
 <table>
 <thead>
 <tr>
@@ -545,34 +572,6 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tbody>
 </table>
 <p>3社間は0.5%〜と、非常に低い手数料です。</p>
-<h4>15位: No.1ファクタリング — 最短30分</h4>
-<table>
-<thead>
-<tr>
-<th>項目</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>手数料</td>
-<td>0.5〜15%</td>
-</tr>
-<tr>
-<td>入金スピード</td>
-<td>最短30分</td>
-</tr>
-<tr>
-<td>審査通過率</td>
-<td>95%以上（2026年5月現在・公式表示）</td>
-</tr>
-<tr>
-<td>対応</td>
-<td>法人・個人事業主</td>
-</tr>
-</tbody>
-</table>
-<p>建設業向け・運送業向けの専用サービスページを設けています（公式）。</p>
 <hr>
 <h2>即日入金スピード比較表</h2>
 <p>※当サイトに掲載している会社の手数料・入金スピードは、<a href="/fees/">24社手数料比較（公式サイトで確認）</a>（2026年8月7日時点）と同一のデータです。ウィット・事業資金エージェント・OLTAは当サイトの比較表に掲載していないため、最新の条件は各公式サイトでご確認ください。</p>
@@ -590,14 +589,6 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <tbody>
 <tr>
 <td>1</td>
-<td>ペイトナー</td>
-<td><strong>即日</strong></td>
-<td>○</td>
-<td>10%固定</td>
-<td>1万円</td>
-</tr>
-<tr>
-<td>2</td>
 <td>ラボル</td>
 <td><strong>30分</strong></td>
 <td><strong>◎</strong></td>
@@ -605,12 +596,20 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <td>1万円</td>
 </tr>
 <tr>
-<td>3</td>
+<td>2</td>
 <td>PAYTODAY</td>
 <td><strong>30分</strong></td>
 <td>×</td>
 <td>1〜9.5%</td>
 <td>10万円</td>
+</tr>
+<tr>
+<td>3</td>
+<td>No.1</td>
+<td><strong>30分</strong></td>
+<td>×</td>
+<td>0.5〜15%</td>
+<td>50万円</td>
 </tr>
 <tr>
 <td>4</td>
@@ -646,6 +645,14 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </tr>
 <tr>
 <td>8</td>
+<td>アクセルファクター</td>
+<td><strong>2時間</strong>（公式コラム）</td>
+<td>×</td>
+<td>1〜12%</td>
+<td>30万円</td>
+</tr>
+<tr>
+<td>9</td>
 <td>日本中小企業金融サポート</td>
 <td><strong>3時間</strong></td>
 <td>×</td>
@@ -653,7 +660,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <td>なし</td>
 </tr>
 <tr>
-<td>9</td>
+<td>10</td>
 <td>事業資金エージェント</td>
 <td><strong>3時間</strong></td>
 <td>×</td>
@@ -661,7 +668,15 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <td>-</td>
 </tr>
 <tr>
-<td>10</td>
+<td>11</td>
+<td>ペイトナー</td>
+<td><strong>即日</strong></td>
+<td>○</td>
+<td>10%固定</td>
+<td>1万円</td>
+</tr>
+<tr>
+<td>12</td>
 <td>OLTA</td>
 <td>最短即日</td>
 <td>×</td>
@@ -669,15 +684,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <td>なし</td>
 </tr>
 <tr>
-<td>11</td>
-<td>アクセルファクター</td>
-<td>2時間（公式コラム）</td>
-<td>×</td>
-<td>1〜12%</td>
-<td>30万円</td>
-</tr>
-<tr>
-<td>12</td>
+<td>13</td>
 <td>ベストファクター</td>
 <td>即日</td>
 <td>×</td>
@@ -685,7 +692,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <td>30万円</td>
 </tr>
 <tr>
-<td>13</td>
+<td>14</td>
 <td>FREENANCE</td>
 <td>即日</td>
 <td>×</td>
@@ -693,20 +700,12 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <td>1万円</td>
 </tr>
 <tr>
-<td>14</td>
+<td>15</td>
 <td>トップマネジメント</td>
 <td>即日</td>
 <td>×</td>
 <td>3.5〜12.5%</td>
 <td>30万円</td>
-</tr>
-<tr>
-<td>15</td>
-<td>No.1</td>
-<td><strong>30分</strong></td>
-<td>×</td>
-<td>0.5〜15%</td>
-<td>50万円</td>
 </tr>
 </tbody>
 </table>
@@ -810,7 +809,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p><strong>A. 最低1万円から利用できます。</strong> ペイトナー、ラボル、FREENANCEが、1万円から対応しています。少額でも利用できます。</p>
 <hr>
 <h2>当日中に資金が必要な場合の進め方</h2>
-<p><strong>入金の速さを重視する場合</strong> → ペイトナー（最短即日）</p>
+<p><strong>入金の速さを重視する場合</strong> → ラボル・PAYTODAY・No.1（いずれも最短30分）</p>
 <p><strong>土日祝に必要な場合</strong> → ラボル（土日祝も審査・入金。審査完了後の振込は24時間365日）</p>
 <p><strong>手数料も抑えたい場合</strong> → PAYTODAY（1%〜・最短30分）またはQuQuMo（1%〜・最短2時間）</p>
 <p><strong>審査に不安がある場合</strong> → アクセルファクター（赤字決算でも利用可（公式FAQ））</p>
@@ -842,7 +841,7 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 16:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L10",null,{"href":"/topics/kiso","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["基礎知識・審査・法律","の記事一覧を見る →"]}],["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
 17:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ20選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L1d","$L1e","$L1f","$L20"]}]}],"$L21"]}]}]
 18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"基礎知識・審査・法律\",\"item\":\"https://corp-factoring.com/topics/kiso\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"即日ファクタリングガイド｜当日中に入金を受ける方法・土日祝対応の会社\",\"item\":\"https://corp-factoring.com/articles/article-factoring-sokujitsu\"}]}"}}]
-19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"即日ファクタリングガイド｜当日中に入金を受ける方法・土日祝対応の会社\",\"description\":\"即日ファクタリングガイド｜当日中に入金を受ける方法・土日祝対応の会社について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-19T01:33:00.297Z\",\"dateModified\":\"2026-10-25T00:19:53.189Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-sokujitsu\"}}"}}]
+19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"即日ファクタリングガイド｜当日中に入金を受ける方法・土日祝対応の会社\",\"description\":\"即日ファクタリングガイド｜当日中に入金を受ける方法・土日祝対応の会社について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-19T01:33:00.297Z\",\"dateModified\":\"2026-10-25T00:31:46.912Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-sokujitsu\"}}"}}]
 1a:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 入金 時間 何時"}]
 1b:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの入金時間を会社の種類別に解説｜何時までの申込で当日入金できるか"}]
 1c:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
