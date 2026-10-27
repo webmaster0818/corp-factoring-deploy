@@ -7,89 +7,182 @@
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
 :HL["/_next/static/chunks/11~oqg91l16~u.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-cash-flow",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-cash-flow","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11~oqg91l16~u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/10ui5umr5._mg.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11~oqg91l16~u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"7vRR5TvL1e7nbBeniV-3B"}
+0:{"P":null,"c":["","articles","article-factoring-cash-flow",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-cash-flow","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11~oqg91l16~u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/10ui5umr5._mg.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/11~oqg91l16~u.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"MgZ5teLDbZxlHRlrFvLA4"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/10ui5umr5._mg.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/10ui5umr5._mg.js"],""]
 :HL["/images/articles/factoring-article.jpg","image"]
-11:T1552,<p>ファクタリングを利用した際に、キャッシュフロー計算書（CF計算書）上のどの区分に記載するかは、経理担当者が判断に迷いやすい論点です。原則として「営業活動によるキャッシュフロー」に区分されますが、ケースによっては財務活動 CF として処理することもあります。本記事では、その詳細を解説します。</p>
+11:T4b22,<h2>結論：ファクタリングは財務諸表でどう扱うか（早見表）</h2>
+<p>ファクタリング（売掛債権の売却）の入金は、キャッシュフロー計算書では**「営業活動によるキャッシュ・フロー」<strong>に記載します。貸借対照表では、金融商品会計基準の</strong>消滅の認識要件<strong>を満たせば売掛金を消滅させ（オフバランス）、売却額と帳簿価額の差額を損益に計上します。償還請求権（リコース）が付いていても、要件を満たせば売却として処理し、償還義務は</strong>時価で負債に計上<strong>します。買戻す権利・義務を実質的に持つなど要件を満たさない場合は、売買ではなく</strong>金融取引**として処理します。</p>
+<table>
+<thead>
+<tr>
+<th>財務諸表</th>
+<th>扱い</th>
+<th>根拠（2026年10月27日確認）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>キャッシュフロー計算書</td>
+<td>営業債権のファクタリングによる収入は「営業活動によるキャッシュ・フロー」</td>
+<td>移管指針第6号「連結財務諸表等におけるキャッシュ・フロー計算書の作成に関する実務指針」第7項(2)・第31項</td>
+</tr>
+<tr>
+<td>キャッシュフロー計算書（金額）</td>
+<td>売却損を差し引いた手取額で示す方法と、債権の総額で収入があったとみなす方法のどちらも可（受取手形の割引等について）</td>
+<td>同 実務指針の設例の注記</td>
+</tr>
+<tr>
+<td>貸借対照表（売掛金）</td>
+<td>支配が移転したとき（第9項の3要件をすべて満たすとき）に消滅を認識＝オフバランス</td>
+<td>企業会計基準第10号「金融商品に関する会計基準」第8項・第9項</td>
+</tr>
+<tr>
+<td>損益計算書</td>
+<td>帳簿価額と受取額との差額を当期の損益（売却損）として処理</td>
+<td>同 第11項</td>
+</tr>
+<tr>
+<td>償還請求権（リコース）付き</td>
+<td>消滅に伴って新たに生じた負債は時価で計上（手形の割引では「保証債務」として時価で計上）</td>
+<td>同 第13項・移管指針第9号「金融商品会計に関する実務指針」第136項・設例2</td>
+</tr>
+<tr>
+<td>要件を満たさない場合</td>
+<td>買戻す権利・義務を実質的に持つ取引は、売買ではなく金融取引として処理</td>
+<td>金融商品に関する会計基準 第58項(3)</td>
+</tr>
+<tr>
+<td>中小企業の会計</td>
+<td>金融機関等による金銭債権の買取りは「金銭債権の譲渡」に該当</td>
+<td>「中小企業の会計に関する指針」（令和7年9月19日修正）第14項</td>
+</tr>
+<tr>
+<td>消費税</td>
+<td>金銭債権の譲渡は非課税（売掛金を売っても消費税はかからない）</td>
+<td>国税庁タックスアンサー No.6201</td>
+</tr>
+</tbody>
+</table>
+<p>ここでの「ファクタリング」は、売掛債権をファクタリング会社に売却する買取型の取引を指します。個々の契約が売却に当たるか（第9項の要件を満たすか）は契約条項しだいのため、決算での処理は顧問税理士・公認会計士に契約書を見せて確認してください。</p>
 <hr>
-<h2>ファクタリングの CF 区分: 原則は「営業 CF」</h2>
-<p><strong>基本的な考え方:</strong> ファクタリングによる入金は、売掛金の回収の前倒しにあたるため、営業活動 CF に区分します。</p>
-<p><strong>根拠:</strong></p>
+<h2>キャッシュフロー計算書：入金は「営業活動によるキャッシュ・フロー」</h2>
+<p>キャッシュフロー計算書の表示区分は、企業会計基準委員会（ASBJ）の移管指針第6号「連結財務諸表等におけるキャッシュ・フロー計算書の作成に関する実務指針」（2026年7月改正）が定めています。</p>
 <ul>
-<li>売掛金は本業から発生する資産</li>
-<li>売掛金の現金化は、本業の収入の前倒しにあたる</li>
-<li>CF 計算書の原則: 売掛金の増減は営業 CF に区分する</li>
+<li><strong>第7項(2)</strong>：営業活動に係る債権・債務から生じるキャッシュ・フローには、「商品及び役務の販売により取得した手形の割引による収入、営業債権のファクタリング等による収入も含まれる」</li>
+<li><strong>第31項</strong>：手形の割引のように受取手形を約定期日より早く回収する行為には「財務活動としての性格を有するという意見もある」としたうえで、財務活動に記載すると営業活動によるキャッシュ・フローの情報が明確に表示されず、企業間の比較可能性を損なうおそれがあるため、営業債権・債務から生じるキャッシュ・フローは営業活動の区分に記載するとし、「同様に、営業債権のファクタリングや各種の営業債権の流動化に伴うキャッシュ・フローは、『営業活動によるキャッシュ・フロー』の区分に記載することになる」</li>
 </ul>
-<h2>間接法での記載方法</h2>
-<p><strong>間接法 CF 計算書:</strong></p>
-<pre><code>営業活動によるキャッシュフロー
-  税引前当期純利益               XXX
-  売上債権売却損(調整不要)        +5万
-  売掛金の減少                  +100万
-  ...
+<p>つまり、売掛金を売却して得た入金は、借入れに似た資金調達であっても「財務活動」ではなく「営業活動」に記載します。</p>
+<h3>間接法での記載例</h3>
+<p>100万円の売掛金を95万円で売却した（売却損5万円）場合の、売却に関係する部分だけを示します。</p>
+<pre><code>営業活動によるキャッシュ・フロー
+  税引前当期純利益            ×××（売却損5万円を差し引いた後の利益）
+  売上債権の減少額           +100万
+  （売却損5万円は加減しない）
+  → この取引の営業CFへの影響は +95万（実際の入金額）
 </code></pre>
-<p>間接法で記載する際の主なポイントは、次のとおりです。</p>
 <ul>
-<li>売掛金の減少は、営業 CF にプラスで計上する</li>
-<li>売上債権売却損は「非資金費用」ではないため、調整は不要</li>
-<li>結果として、営業 CF は +95 万円（実際の入金額と一致）</li>
+<li>売却損5万円は、すでに税引前当期純利益に含まれて利益を減らしています。受取額が額面より5万円少ないという現金の動きそのものなので、利益に足し戻す調整はしません</li>
+<li>その結果、この取引による営業CFの増加は、実際の入金額95万円と一致します</li>
 </ul>
-<h2>直接法での記載方法</h2>
-<p><strong>直接法 CF 計算書:</strong></p>
-<pre><code>営業活動によるキャッシュフロー
-  営業収入(売掛金回収を含む)      +95万
-  営業支出                       -XXX
-  ...
+<h3>直接法での記載例</h3>
+<pre><code>営業活動によるキャッシュ・フロー
+  営業収入（売掛金の回収・売却を含む）   +95万（手取額で示す場合）
+  営業支出                           ×××
 </code></pre>
-<p>直接法では、次の点に留意して記載します。</p>
+<p>移管指針第6号の設例の注記は、受取手形の割引等による収入について「①手形売却損控除後の手取額による方法と②手形金額等の総額による収入があったとみなす方法があるが、いずれの方法によることもできる」としています。上の例では、手取額で示す方法なら営業収入は95万円です。総額で示す方法をとる場合の売却損の示し方は、顧問の会計専門家と決めてください。</p>
+<h3>キャッシュフロー計算書を作る必要があるか</h3>
+<p>会社法で各事業年度に作る計算書類は、貸借対照表・損益計算書・株主資本等変動計算書・個別注記表で（会社法第435条第2項・会社計算規則第59条第1項）、キャッシュフロー計算書は含まれていません。銀行への提出や社内管理のために任意で作る場合も、表示区分の考え方は上の実務指針が参考になります。</p>
+<hr>
+<h2>貸借対照表：売掛金はオフバランス（消滅の認識要件を満たす場合）</h2>
+<p>売掛金を売却したときに売掛金を貸借対照表から外せるかどうかは、企業会計基準第10号「金融商品に関する会計基準」（最終改正 2026年6月2日）で決まります。</p>
 <ul>
-<li>売掛金の売却による入金 95 万円を「営業収入」として計上する</li>
-<li>売却損 5 万円の計上は不要（差し引き後の入金額が CF となる）</li>
+<li><strong>第8項</strong>：金融資産の契約上の権利に対する支配が他に移転したときは、その金融資産の消滅を認識する</li>
+<li><strong>第9項</strong>：支配が移転するのは、次の3つをすべて満たした場合
+<ol>
+<li>譲渡された金融資産に対する譲受人の契約上の権利が、譲渡人とその債権者から法的に保全されていること</li>
+<li>譲受人が、譲渡された金融資産の契約上の権利を直接または間接に通常の方法で享受できること</li>
+<li>譲渡人が、譲渡した金融資産を満期日前に買戻す権利と義務を実質的に持っていないこと</li>
+</ol>
+</li>
+<li><strong>第11項</strong>：消滅を認識したときは、帳簿価額と対価としての受払額との差額を当期の損益として処理する</li>
 </ul>
-<h2>継続契約・大規模利用時の処理</h2>
-<p><strong>継続契約型のファクタリング:</strong></p>
+<p>上の例（100万円の売掛金を95万円で売却）で要件を満たす場合、売掛金100万円が減り、現金95万円が増え、差額5万円を売却損（勘定科目は「売上債権売却損」など）として計上します。売掛金と同時に資産が減るため、借入れで資金を得た場合と違って、負債は増えません。</p>
+<p>中小企業向けの「中小企業の会計に関する指針」（日本公認会計士協会・日本税理士会連合会・日本商工会議所・企業会計基準委員会、令和7年9月19日修正）も、第14項で「手形の割引又は裏書及び金融機関等による金銭債権の買取りは、金銭債権の譲渡に該当する」としています。</p>
+<hr>
+<h2>償還請求権（リコース）の有無で会計処理はどう変わるか</h2>
+<p>償還請求権とは、売掛先が支払わなかったときに、ファクタリング会社が利用者（売掛債権を売った側）に支払いを求める権利です。償還請求権がない契約を「ノンリコース」、ある契約を「リコース」といいます。</p>
+<table>
+<thead>
+<tr>
+<th>契約</th>
+<th>貸借対照表</th>
+<th>根拠</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ノンリコース（償還請求権なし）</td>
+<td>第9項の要件を満たせば、売掛金を消滅させ、差額を売却損益に</td>
+<td>金融商品に関する会計基準 第8項・第9項・第11項</td>
+</tr>
+<tr>
+<td>リコース付きでも第9項の要件を満たす</td>
+<td>売掛金は消滅させる。償還義務（リコース義務）は新たに生じた負債として時価で計上し、その分を差し引いて売却損益を計算</td>
+<td>同 第13項、金融商品会計に関する実務指針 設例2（リコース義務を「新たな負債」として時価で計上する例）、第136項（手形の割引で生じる二次的責任を保証債務として時価で計上）</td>
+</tr>
+<tr>
+<td>買戻す権利・義務を実質的に持つなど、第9項の要件を満たさない</td>
+<td>売却として扱わず、金融取引（売掛金を担保にした借入れと同様の取引）として処理</td>
+<td>同 第58項(3)</td>
+</tr>
+</tbody>
+</table>
+<p>金融商品に関する会計基準は、譲渡後も譲渡人がリコース権（遡求権）や買戻特約などを持つ「条件付きの譲渡」について、資産を財務的な要素に分けて、支配が移った要素だけを消滅させる考え方（財務構成要素アプローチ）を採っています（第57項・第58項）。そのため、<strong>償還請求権があるというだけでは売却処理ができなくなるわけではなく</strong>、第9項の3要件を満たすかどうかで判断し、償還義務は負債として別に計上します。</p>
+<p>なお、売却ではなく金融取引として処理した場合の入金をキャッシュフロー計算書のどの区分に記載するかについて、移管指針第6号には「ファクタリング」としての個別の記載がありません。この場合は顧問の会計専門家に確認してください。</p>
+<h3>注記</h3>
 <ul>
-<li>売掛金を売却するたびに、営業 CF として計上する</li>
-<li>月次で集計するのが一般的</li>
+<li>会社計算規則第103条第5号は、保証債務・手形遡求債務などの債務（負債の部に計上したものを除く）があるときは、その内容と金額を貸借対照表等に関する注記とするよう定めています</li>
+<li>中小企業の会計に関する指針 第15項(4) は、受取手形割引額・受取手形譲渡額を、注記が求められない場合でも注記することが望ましいとしています</li>
 </ul>
-<p><strong>大規模に利用する場合（年商の 5% 以上）:</strong></p>
+<hr>
+<h2>消費税：売掛金の売却は非課税</h2>
+<p>国税庁タックスアンサー No.6201「非課税となる取引」は、非課税となる有価証券等の譲渡の例として「金銭債権などの譲渡」を挙げています（令和8年4月1日現在法令等・2026年10月27日確認）。また No.6405「課税売上割合の計算方法」は、課税売上割合を計算するとき、資産の譲渡等の対価として取得した売掛金などの金銭債権の譲渡は総売上高に含めないとしています。ファクタリングの手数料（売却損）の法人税・消費税上の扱いは、契約の内容によって異なることがあるため、顧問税理士に確認してください。</p>
+<hr>
+<h2>キャッシュフロー計算書の数字の読み方（注意点）</h2>
 <ul>
-<li>CF 計算書の注記に、重要なファクタリング取引として記載することを推奨</li>
-<li>投資家・銀行への説明資料として活用する</li>
-</ul>
-<p><strong>特殊なケース（ノンリコースとリコース）:</strong></p>
-<ul>
-<li>ノンリコース（償還義務なし）: 通常の営業 CF として処理する</li>
-<li>リコース（償還義務あり）: 借入金に近い性質を持つため、財務 CF として処理する見解もある</li>
-</ul>
-<h2>CF 計算書全体への影響</h2>
-<p><strong>営業 CF の変動:</strong></p>
-<ul>
-<li>売掛金の減少は、営業 CF のプラスとなる</li>
-<li>ファクタリングを多用すると、営業 CF が実態より大きく見える点に注意が必要</li>
-</ul>
-<p><strong>投資家・銀行の視点:</strong></p>
-<ul>
-<li>営業 CF の質を判断するため、ファクタリングの利用比率は注目される</li>
-<li>過度な依存は警戒される（売掛金が継続的に手元にない状態）</li>
+<li>ファクタリングで売掛金を前倒しで回収した期は、売上債権の減少額の分だけ営業活動によるキャッシュ・フローが増えます。一方で、売却した売掛金は本来の支払期日に入金されないため、その分は翌期以降の回収額に含まれません</li>
+<li>売却損（手数料）の分、受取額は額面より少なくなります。継続して利用する場合は、売却損の合計と、ファクタリングを使わなかった場合の資金繰りを比べて判断してください</li>
 </ul>
 <hr>
 <h2>よくある質問</h2>
-<p><strong>Q: ファクタリングは営業 CF と財務 CF のどちらに区分しますか？</strong>
-A: 原則として営業 CF に区分します。売掛金の前倒しでの回収という性格上、本業のキャッシュの動きとして処理します。</p>
-<p><strong>Q: ノンリコースとリコースで CF の区分は変わりますか？</strong>
-A: 通常はどちらも営業 CF に区分します。ただし、リコース（償還義務あり）の取引を実質的に借入金として処理する場合は、財務 CF とする見解もあります。</p>
-<p><strong>Q: 間接法と直接法のどちらが推奨されますか？</strong>
-A: 中小企業では間接法が一般的です。大企業や上場企業では、直接法を併用する場合もあります。</p>
-<p><strong>Q: CF 計算書の注記にファクタリングを記載すべきですか？</strong>
-A: 重要性の高い取引（年商の 5% 以上等）は、注記に記載することを推奨します。透明性を確保するためです。</p>
-<p><strong>Q: ファクタリングの多用により営業 CF が大きく見える場合の対策は？</strong>
-A: 売掛金回転日数を併記し、ファクタリングを利用しなかった場合の本業の CF も推計できるようにしてください。</p>
-<p><strong>Q: 税理士と意見が分かれる場合は、どのように対応すればよいですか？</strong>
-A: 重要性の判断は個別の状況によって異なるため、税理士・公認会計士と相談のうえ、社内のルールを決定してください。</p>
+<p><strong>Q: ファクタリングはキャッシュフロー計算書のどの区分に記載しますか？</strong>
+A: 「営業活動によるキャッシュ・フロー」です。移管指針第6号「連結財務諸表等におけるキャッシュ・フロー計算書の作成に関する実務指針」第7項(2)が「営業債権のファクタリング等による収入」を営業活動の区分に含めると定め、第31項でも営業債権のファクタリングに伴うキャッシュ・フローは営業活動の区分に記載するとしています（2026年10月27日確認）。</p>
+<p><strong>Q: ファクタリングを使うと、売掛金は貸借対照表から消えますか（オフバランスになりますか）？</strong>
+A: 金融商品に関する会計基準 第9項の3要件（譲受人の権利が法的に保全されている・譲受人が通常の方法で権利を享受できる・譲渡人が満期日前に買戻す権利と義務を実質的に持たない）をすべて満たせば、売掛金の消滅を認識し、帳簿価額と受取額の差額を売却損益として処理します（第8項・第9項・第11項）。満たさない場合は金融取引として処理します（第58項(3)）。</p>
+<p><strong>Q: 償還請求権（リコース）付きのファクタリングは借入金になりますか？</strong>
+A: 償還請求権があるだけでは決まりません。第9項の要件を満たせば売却として売掛金を消滅させ、償還義務は新たに生じた負債として時価で計上します（金融商品に関する会計基準 第13項、金融商品会計に関する実務指針 設例2・第136項）。買戻す権利と義務を実質的に持つなど要件を満たさない場合は、売買ではなく金融取引として処理します（同基準 第58項(3)）。</p>
+<p><strong>Q: 間接法で売却損（手数料）は足し戻しますか？</strong>
+A: 足し戻しません。売却損は額面より少ない金額しか受け取らなかったことを表しており、利益を減らした分だけ実際の入金も少ないためです。売上債権の減少額（額面）を加算すると、この取引の営業CFへの影響は実際の入金額と一致します。</p>
+<p><strong>Q: 直接法では手取額と総額のどちらで記載しますか？</strong>
+A: どちらでも構いません。移管指針第6号の設例の注記は、受取手形の割引等による収入について、手形売却損を控除した手取額で示す方法と、手形金額等の総額で収入があったとみなす方法のいずれによることもできるとしています。</p>
+<p><strong>Q: 中小企業でもキャッシュフロー計算書を作る必要がありますか？</strong>
+A: 会社法で作る計算書類（貸借対照表・損益計算書・株主資本等変動計算書・個別注記表）にキャッシュフロー計算書は含まれていません（会社法第435条第2項・会社計算規則第59条第1項）。任意で作る場合も、ファクタリングの入金は営業活動の区分に記載します。</p>
+<p><strong>Q: 売掛金をファクタリングで売ると消費税はかかりますか？</strong>
+A: 金銭債権の譲渡は消費税の非課税取引です（国税庁タックスアンサー No.6201）。課税売上割合の計算では、資産の譲渡等の対価として取得した売掛金などの譲渡は総売上高に含めません（同 No.6405）。</p>
+<hr>
+<h2>出典（すべて2026年10月27日確認）</h2>
+<ul>
+<li>企業会計基準委員会「移管指針第6号 連結財務諸表等におけるキャッシュ・フロー計算書の作成に関する実務指針」（2026年7月改正）: <a href="https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=121">https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=121</a></li>
+<li>企業会計基準委員会「企業会計基準第10号 金融商品に関する会計基準」（最終改正 2026年6月2日）: <a href="https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=109">https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=109</a></li>
+<li>企業会計基準委員会「移管指針第9号 金融商品会計に関する実務指針」: <a href="https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=120">https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=120</a></li>
+<li>日本公認会計士協会ほか「中小企業の会計に関する指針」（令和7年9月19日修正）: <a href="https://jicpa.or.jp/specialized_field/20250929fjq.html">https://jicpa.or.jp/specialized_field/20250929fjq.html</a></li>
+<li>e-Gov 法令検索「会社計算規則」（第59条・第103条）: <a href="https://laws.e-gov.go.jp/law/418M60000010013">https://laws.e-gov.go.jp/law/418M60000010013</a></li>
+<li>国税庁 タックスアンサー No.6201 非課税となる取引: <a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6201.htm">https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6201.htm</a></li>
+<li>国税庁 タックスアンサー No.6405 課税売上割合の計算方法: <a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6405.htm">https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6405.htm</a></li>
+</ul>
 <hr>
 <h2>関連記事</h2>
 <ul>
@@ -97,16 +190,16 @@ A: 重要性の判断は個別の状況によって異なるため、税理士�
 <li><a href="/articles/article-factoring-shiwake">ファクタリング 仕訳</a></li>
 <li><a href="/articles/article-factoring-houjinzei">ファクタリング 法人税</a></li>
 </ul>
-4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L10",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングのキャッシュフロー計算書での処理｜営業・財務・","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングのキャッシュフロー計算書での処理｜営業・財務・投資 CF のどこに記載するか","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングのキャッシュフロー計算書での処理｜営業・財務・投資 CF のどこに記載するか"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング キャッシュフロー計算書"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],false,"$L12","$L13",false,"$L14","$L15"]}],"$L16","$L17","$L18","$L19"]}]
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L10",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングのキャッシュフロー計算書・財務諸表での扱い｜入","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングのキャッシュフロー計算書・財務諸表での扱い｜入金は営業CF・売掛金はオフバランス【会計基準で確認】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングのキャッシュフロー計算書・財務諸表での扱い｜入金は営業CF・売掛金はオフバランス【会計基準で確認】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":"更新日: 2026年4月"}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング キャッシュフロー計算書"}]]}],["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],false,"$L12","$L13",false,"$L14","$L15"]}],"$L16","$L17","$L18","$L19"]}]
 :HL["/images/logo.png","image"]
 12:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","paytoday",{"href":"/companies/paytoday","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"PayToday"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜9.5%"," ／ ","最短30分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","support-kinyu",{"href":"/companies/support-kinyu","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"日本中小企業金融サポート機構"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1.5%〜（上限は要問い合わせ）"," ／ ","最短3時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","mf-earlypayment",{"href":"/companies/mf-earlypayment","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"Money Forward 早期入金"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","0.5%〜10%"," ／ ","最短2営業日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 13:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
 14:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-factoring-kanjokamoku",{"href":"/articles/article-factoring-kanjokamoku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 勘定科目, ファクタリング 仕訳 方法"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの勘定科目・仕訳方法を解説｜2社間・3社間別パターンあり【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-shiwake",{"href":"/articles/article-factoring-shiwake","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 仕訳, ファクタリング 勘定科目"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの仕訳・会計処理を解説｜勘定科目・消費税・決算書への影響"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-kessansho",{"href":"/articles/article-factoring-kessansho","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 決算書 影響"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングは決算書にどのように影響するか｜BS・PL への計上方法と注意点"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-houjinzei",{"href":"/articles/article-factoring-houjinzei","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 法人税"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングと法人税の関係｜損金算入の可否と節税効果"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-shouhizei",{"href":"/articles/article-factoring-shouhizei","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 消費税"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングと消費税の関係｜非課税取引扱いとインボイス対応"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-inshizei",{"href":"/articles/article-factoring-inshizei","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$L1a","$L1b","$L1c"]}]]}]]}]
 15:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L10",null,{"href":"/topics/kiso","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["基礎知識・審査・法律","の記事一覧を見る →"]}],["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
 16:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo.png","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L1d","$L1e","$L1f","$L20"]}]}],"$L21"]}]}]
-17:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"基礎知識・審査・法律\",\"item\":\"https://corp-factoring.com/topics/kiso\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ファクタリングのキャッシュフロー計算書での処理｜営業・財務・投資 CF のどこに記載するか\",\"item\":\"https://corp-factoring.com/articles/article-factoring-cash-flow\"}]}"}}]
-18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングのキャッシュフロー計算書での処理｜営業・財務・投資 CF のどこに記載するか\",\"description\":\"ファクタリングのキャッシュフロー計算書での処理｜営業・財務・投資 CF のどこに記載するかについて、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-16T14:52:44.921Z\",\"dateModified\":\"2026-10-16T17:24:59.623Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-cash-flow\"}}"}}]
-22:T7a7,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ファクタリングは営業 CF と財務 CF のどちらに区分しますか？","acceptedAnswer":{"@type":"Answer","text":"原則として営業 CF に区分します。売掛金の前倒しでの回収という性格上、本業のキャッシュの動きとして処理します。"}},{"@type":"Question","name":"ノンリコースとリコースで CF の区分は変わりますか？","acceptedAnswer":{"@type":"Answer","text":"通常はどちらも営業 CF に区分します。ただし、リコース（償還義務あり）の取引を実質的に借入金として処理する場合は、財務 CF とする見解もあります。"}},{"@type":"Question","name":"間接法と直接法のどちらが推奨されますか？","acceptedAnswer":{"@type":"Answer","text":"中小企業では間接法が一般的です。大企業や上場企業では、直接法を併用する場合もあります。"}},{"@type":"Question","name":"CF 計算書の注記にファクタリングを記載すべきですか？","acceptedAnswer":{"@type":"Answer","text":"重要性の高い取引（年商の 5% 以上等）は、注記に記載することを推奨します。透明性を確保するためです。"}},{"@type":"Question","name":"ファクタリングの多用により営業 CF が大きく見える場合の対策は？","acceptedAnswer":{"@type":"Answer","text":"売掛金回転日数を併記し、ファクタリングを利用しなかった場合の本業の CF も推計できるようにしてください。"}},{"@type":"Question","name":"税理士と意見が分かれる場合は、どのように対応すればよいですか？","acceptedAnswer":{"@type":"Answer","text":"重要性の判断は個別の状況によって異なるため、税理士・公認会計士と相談のうえ、社内のルールを決定してください。"}}]}19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$22"}}]
+17:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"基礎知識・審査・法律\",\"item\":\"https://corp-factoring.com/topics/kiso\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ファクタリングのキャッシュフロー計算書・財務諸表での扱い｜入金は営業CF・売掛金はオフバランス【会計基準で確認】\",\"item\":\"https://corp-factoring.com/articles/article-factoring-cash-flow\"}]}"}}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングのキャッシュフロー計算書・財務諸表での扱い｜入金は営業CF・売掛金はオフバランス【会計基準で確認】\",\"description\":\"ファクタリングのキャッシュフロー計算書・財務諸表での扱い｜入金は営業CF・売掛金はオフバランス【会計基準で確認】について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-27T03:35:13.178Z\",\"dateModified\":\"2026-10-27T03:37:18.046Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-cash-flow\"}}"}}]
+22:Tf79,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ファクタリングはキャッシュフロー計算書のどの区分に記載しますか？","acceptedAnswer":{"@type":"Answer","text":"「営業活動によるキャッシュ・フロー」です。移管指針第6号「連結財務諸表等におけるキャッシュ・フロー計算書の作成に関する実務指針」第7項(2)が「営業債権のファクタリング等による収入」を営業活動の区分に含めると定め、第31項でも営業債権のファクタリングに伴うキャッシュ・フローは営業活動の区分に記載するとしています（2026年10月27日確認）。"}},{"@type":"Question","name":"ファクタリングを使うと、売掛金は貸借対照表から消えますか（オフバランスになりますか）？","acceptedAnswer":{"@type":"Answer","text":"金融商品に関する会計基準 第9項の3要件（譲受人の権利が法的に保全されている・譲受人が通常の方法で権利を享受できる・譲渡人が満期日前に買戻す権利と義務を実質的に持たない）をすべて満たせば、売掛金の消滅を認識し、帳簿価額と受取額の差額を売却損益として処理します（第8項・第9項・第11項）。満たさない場合は金融取引として処理します（第58項(3)）。"}},{"@type":"Question","name":"償還請求権（リコース）付きのファクタリングは借入金になりますか？","acceptedAnswer":{"@type":"Answer","text":"償還請求権があるだけでは決まりません。第9項の要件を満たせば売却として売掛金を消滅させ、償還義務は新たに生じた負債として時価で計上します（金融商品に関する会計基準 第13項、金融商品会計に関する実務指針 設例2・第136項）。買戻す権利と義務を実質的に持つなど要件を満たさない場合は、売買ではなく金融取引として処理します（同基準 第58項(3)）。"}},{"@type":"Question","name":"間接法で売却損（手数料）は足し戻しますか？","acceptedAnswer":{"@type":"Answer","text":"足し戻しません。売却損は額面より少ない金額しか受け取らなかったことを表しており、利益を減らした分だけ実際の入金も少ないためです。売上債権の減少額（額面）を加算すると、この取引の営業CFへの影響は実際の入金額と一致します。"}},{"@type":"Question","name":"直接法では手取額と総額のどちらで記載しますか？","acceptedAnswer":{"@type":"Answer","text":"どちらでも構いません。移管指針第6号の設例の注記は、受取手形の割引等による収入について、手形売却損を控除した手取額で示す方法と、手形金額等の総額で収入があったとみなす方法のいずれによることもできるとしています。"}},{"@type":"Question","name":"中小企業でもキャッシュフロー計算書を作る必要がありますか？","acceptedAnswer":{"@type":"Answer","text":"会社法で作る計算書類（貸借対照表・損益計算書・株主資本等変動計算書・個別注記表）にキャッシュフロー計算書は含まれていません（会社法第435条第2項・会社計算規則第59条第1項）。任意で作る場合も、ファクタリングの入金は営業活動の区分に記載します。"}},{"@type":"Question","name":"売掛金をファクタリングで売ると消費税はかかりますか？","acceptedAnswer":{"@type":"Answer","text":"金銭債権の譲渡は消費税の非課税取引です（国税庁タックスアンサー No.6201）。課税売上割合の計算では、資産の譲渡等の対価として取得した売掛金などの譲渡は総売上高に含めません（同 No.6405）。"}}]}19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$22"}}]
 1a:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 印紙税, 債権譲渡契約 印紙"}]
 1b:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングに印紙税はかかるか｜非課税の条件と注意点を解説【2026年】"}]
 1c:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
@@ -118,4 +211,4 @@ A: 重要性の判断は個別の状況によって異なるため、税理士�
 a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 23:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"IconMark"]
 7:null
-c:[["$","title","0",{"children":"ファクタリングのキャッシュフロー計算書での処理｜営業・財務・投資 CF のどこに記載するか｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"ファクタリングのキャッシュフロー計算書での処理｜営業・財務・投資 CF のどこに記載するかについて、公式情報や公的資料をもとに解説しています。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-factoring-cash-flow/"}],["$","meta","5",{"property":"og:title","content":"ファクタリングのキャッシュフロー計算書での処理｜営業・財務・投資 CF のどこに記載するか｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"ファクタリングのキャッシュフロー計算書での処理｜営業・財務・投資 CF のどこに記載するかについて、公式情報や公的資料をもとに解説しています。"}],["$","meta","7",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","14",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","15",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","16",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L23","17",{}]]
+c:[["$","title","0",{"children":"ファクタリングのキャッシュフロー計算書・財務諸表での扱い｜入金は営業CF・売掛金はオフバランス【会計基準で確認】｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"ファクタリングの入金はキャッシュフロー計算書の「営業活動によるキャッシュ・フロー」に記載（移管指針第6号 第7項・第31項）。貸借対照表は金融商品会計基準 第9項の要件を満たせば売掛金をオフバランスにし、償還請求権は時価で負債計上。要件を満たさなければ金融取引。出典つき（2026年10月27日確認）。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-factoring-cash-flow/"}],["$","meta","5",{"property":"og:title","content":"ファクタリングのキャッシュフロー計算書・財務諸表での扱い｜入金は営業CF・売掛金はオフバランス【会計基準で確認】｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"ファクタリングの入金はキャッシュフロー計算書の「営業活動によるキャッシュ・フロー」に記載（移管指針第6号 第7項・第31項）。貸借対照表は金融商品会計基準 第9項の要件を満たせば売掛金をオフバランスにし、償還請求権は時価で負債計上。要件を満たさなければ金融取引。出典つき（2026年10月27日確認）。"}],["$","meta","7",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","14",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","15",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","16",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L23","17",{}]]
