@@ -1,0 +1,292 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],""]
+19:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+:HL["/images/articles/kojin-jigyonushi.jpg","image"]
+:HL["/images/logo-88.webp","image"]
+4:T6729,<p>資金ショートへの対策は、まず週単位の資金繰り表で「何週間後に残高がマイナスになるか」と「不足額はいくらか」を確定させ、その日までに間に合う手段を、手続きにかかる期間から逆算して選ぶことです。不足が数日〜2週間以内に迫っている場合は、支払先への相談と売掛金の早期資金化（ファクタリング）が候補になり、1か月以上の余裕がある場合は、日本政策金融公庫の融資や、税・社会保険料の猶予制度を組み合わせる余地があります。本記事では、兆候の見分け方と週単位の資金繰り表の計算例（仮定）を示したうえで、各手段の期間・費用・条件を官公庁の公表資料と各社の公式表示で比較します。</p>
+<table>
+<thead>
+<tr>
+<th>時期</th>
+<th>できること</th>
+<th>根拠・窓口</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>今日</td>
+<td>週単位で8週間分の入出金を書き出し、残高がマイナスになる週と不足額を確定する</td>
+<td>自社の通帳・請求書・支払予定</td>
+</tr>
+<tr>
+<td>今日</td>
+<td>不足の原因になっている支払いの相手先に、支払日の変更や分割を相談する</td>
+<td>各支払先</td>
+</tr>
+<tr>
+<td>今日</td>
+<td>売掛金がある場合は、ファクタリング会社に見積もりを依頼し、入金までの時間と手数料を確認する</td>
+<td>各社の公式表示</td>
+</tr>
+<tr>
+<td>今週</td>
+<td>国税の納期限が迫っている、または過ぎている場合は、所轄の税務署（徴収担当）に換価の猶予を相談する</td>
+<td>国税庁</td>
+</tr>
+<tr>
+<td>今週</td>
+<td>厚生年金保険料等が納付できない場合は、管轄の年金事務所に猶予を相談する</td>
+<td>日本年金機構</td>
+</tr>
+<tr>
+<td>今週</td>
+<td>日本政策金融公庫にセーフティネット貸付の相談をする（送金まで1か月程度が目安）</td>
+<td>日本政策金融公庫</td>
+</tr>
+<tr>
+<td>今週</td>
+<td>資金繰りが続けて厳しい場合は、都道府県の中小企業活性化協議会に相談を予約する（相談は無料）</td>
+<td>中小企業庁</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>資金ショートの兆候を見分ける</h2>
+<p>次のような変化がある場合は、資金ショートが近づいている可能性があります。</p>
+<h3>入金と支払いのタイミングがずれ始めている</h3>
+<p>売掛先からの入金が予定日より遅れる、取引先から支払サイトの延長を求められる、仕入先から前払いや支払サイトの短縮を求められる、といった変化は、売上や利益が変わらなくても手元資金を減らします。</p>
+<p>日本政策金融公庫は、セーフティネット貸付の対象として「最近の取引条件が回収条件の長期化または支払条件の短縮化等により、0.1ヵ月以上悪化している方」を挙げています。取引条件の変化は、公的な融資制度の要件としても扱われる、資金繰り上の重要な兆候です。</p>
+<h3>月末残高は足りているが、月の途中で残高が大きく落ち込む</h3>
+<p>給与日・社会保険料の納付日・外注費の支払日が、売掛金の入金日より前に集中していると、月末の残高はプラスでも、月の途中で残高がゼロ近くまで下がります。月次の資金繰り表しか作成していない場合、この落ち込みは表に表れません。次の節で、仮定の計算例を使ってご説明します。</p>
+<h3>税・社会保険料の納付を後回しにし始めている</h3>
+<p>支払いの資金を確保するために、税金や社会保険料の納付を遅らせている場合は、すでに資金が不足している状態です。延滞税・延滞金が発生するだけでなく、督促を経て財産の差押えに進むおそれがあります。後で説明するとおり、国税にも社会保険料にも猶予制度があるため、滞納が続く前に窓口に相談することが大切です。</p>
+<h3>支払いのために別の資金を手当てすることが続いている</h3>
+<p>ある支払いのために短期の資金を調達し、その返済や手数料のために次の調達が必要になる状態は、資金繰りの悪化が続いていることを示します。ファクタリングを毎月続けて利用している場合も同様で、<a href="/articles/article-factoring-keizoku-riyou/">ファクタリングの継続利用のリスク</a>をあわせてご確認ください。</p>
+<hr>
+<h2>資金繰り表で「何週間先にマイナスになるか」を見る方法</h2>
+<p>資金ショートへの対策で最初に行うことは、不足する日と金額を数字で確定させることです。日付と金額が決まらないと、どの手段が間に合うかを判断できません。資金繰り表の基本的な作り方は<a href="/articles/article-shikin-gurihyou/">資金繰り表の作り方</a>にまとめているため、ここでは資金ショートが迫っている場合の見方に絞ってご説明します。</p>
+<h3>週単位で8週間分を作る</h3>
+<p>月次の資金繰り表は、3か月〜1年先の見通しを立てるのに向いていますが、月の途中の落ち込みを見落とします。資金ショートが心配な時期は、次の手順で週単位の表を作成します。</p>
+<ol>
+<li>今日時点の口座残高（すべての事業用口座の合計）を「期首残高」に記入する</li>
+<li>今後8週間の入金予定を、請求書の支払期日ではなく「実際に入金される週」に記入する（入金が遅れがちな売掛先は1週間遅らせて記入する）</li>
+<li>出金予定を、給与・社会保険料・税金・仕入・外注費・家賃・借入返済に分けて、支払う週に記入する</li>
+<li>週ごとに「前週残高＋入金−出金」で週末残高を計算する</li>
+<li>自社で決めた最低限残しておきたい金額（以下「安全残高」）を下回る週と、マイナスになる週に印を付ける</li>
+</ol>
+<h3>計算例：月末残高では見えない不足（仮定）</h3>
+<p>例：期首残高450万円、毎月の給与・社会保険料250万円、売掛金の入金が月に3回ある会社の場合（すべて仮定の数字です）</p>
+<table>
+<thead>
+<tr>
+<th>週</th>
+<th align="right">入金</th>
+<th>出金（内訳）</th>
+<th align="right">週末残高</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>期首</td>
+<td align="right">―</td>
+<td>―</td>
+<td align="right">450万円</td>
+</tr>
+<tr>
+<td>1週目</td>
+<td align="right">0円</td>
+<td>120万円（仕入）</td>
+<td align="right">330万円</td>
+</tr>
+<tr>
+<td>2週目</td>
+<td align="right">200万円（A社）</td>
+<td>80万円（家賃・諸経費）</td>
+<td align="right">450万円</td>
+</tr>
+<tr>
+<td>3週目</td>
+<td align="right">0円</td>
+<td>250万円（給与・社会保険料）</td>
+<td align="right">200万円</td>
+</tr>
+<tr>
+<td>4週目（1か月目の月末）</td>
+<td align="right">0円</td>
+<td>150万円（外注費）</td>
+<td align="right">50万円</td>
+</tr>
+<tr>
+<td>5週目</td>
+<td align="right">300万円（B社）</td>
+<td>100万円（借入返済・諸経費）</td>
+<td align="right">250万円</td>
+</tr>
+<tr>
+<td>6週目</td>
+<td align="right">0円</td>
+<td>180万円（仕入）</td>
+<td align="right">70万円</td>
+</tr>
+<tr>
+<td>7週目</td>
+<td align="right">0円</td>
+<td>250万円（給与・社会保険料）</td>
+<td align="right"><strong>−180万円</strong></td>
+</tr>
+<tr>
+<td>8週目（2か月目の月末）</td>
+<td align="right">400万円（C社）</td>
+<td>120万円（外注費）</td>
+<td align="right">100万円</td>
+</tr>
+</tbody>
+</table>
+<p>この例では、1か月目の月末残高は50万円、2か月目の月末残高は100万円で、月次の資金繰り表ではどちらの月もプラスになります。しかし週単位で見ると、7週目（今日から6週間後）の給与・社会保険料の支払いの時点で180万円が不足します。</p>
+<p>さらに、安全残高を仮に100万円とすると、4週目（今日から3週間後）にはすでに安全残高を下回っています。この会社の場合、対策の期限は「7週目の給与日まで」、必要な金額は「180万円に安全残高の100万円を加えた280万円」と整理できます。</p>
+<h3>不足までの週数で、使える手段が変わる</h3>
+<p>不足する日が確定したら、その日までに入金が間に合う手段を選びます。上の例では、不足まで6週間あるため、送金まで1か月程度が目安とされる日本政策金融公庫の融資も、申込みが今週中であれば候補に残ります。一方、同じ不足が2週間後に迫っている場合は、融資は間に合わない可能性が高く、支払先への相談と売掛金の資金化が中心になります。</p>
+<p>週単位の表は、資金ショートの危険がなくなるまで、少なくとも毎週更新してください。入金の遅れや追加の支払いが1件あるだけで、マイナスになる週が前後するためです。</p>
+<hr>
+<h2>資金ショート対策の選択肢を期間・費用・条件で比べる</h2>
+<p>資金ショートへの対策は、ファクタリングに限りません。次の表は、本記事で取り上げる手段を、公的機関や各社の公式表示にもとづいて比較したものです。表に記載のない日数や費用は、各窓口で確認してください。</p>
+<table>
+<thead>
+<tr>
+<th>手段</th>
+<th>期間・期限の目安（公式表示）</th>
+<th>費用</th>
+<th>主な条件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>支払先への支払猶予の相談</td>
+<td>相手先との合意しだい</td>
+<td>合意内容による</td>
+<td>相手先の同意が必要</td>
+</tr>
+<tr>
+<td>国税の換価の猶予（申請）</td>
+<td>納期限から6か月以内に申請。猶予期間は原則1年以内</td>
+<td>猶予期間中の延滞税が軽減</td>
+<td>事業の継続が困難になるおそれ、納税の誠実な意思、他の国税の滞納がないこと、原則として担保の提供</td>
+</tr>
+<tr>
+<td>厚生年金保険料等の換価の猶予</td>
+<td>納期限から6カ月以内に申請</td>
+<td>猶予期間の延滞金の一部が免除</td>
+<td>事業の継続が困難になるおそれ、納付の誠実な意思</td>
+</tr>
+<tr>
+<td>日本政策金融公庫 セーフティネット貸付（国民生活事業）</td>
+<td>申込から送金完了まで1ヵ月程度</td>
+<td>基準利率（条件により特別利率）</td>
+<td>一時的な業況悪化で、中長期的に回復が見込まれること。融資限度額7,200万円</td>
+</tr>
+<tr>
+<td>中小企業活性化協議会への相談</td>
+<td>事前予約制</td>
+<td>相談は無料</td>
+<td>民事再生・破産等を申立て済みの企業は対象外</td>
+</tr>
+<tr>
+<td>ファクタリング（売掛金の売却）</td>
+<td>公式表示の最短は「分」「時間」単位から「即日」までの会社が多いが、平均の日数や営業日で表示する会社もある</td>
+<td>手数料（各社が公式に表示する率、または個別見積もり）</td>
+<td>売掛金があること</td>
+</tr>
+</tbody>
+</table>
+<h3>支払先への支払猶予の相談</h3>
+<p>費用がかからない手段の一つは、支払日を動かすことです。上の計算例で、6週目の仕入代金180万円の支払いを2週間後ろにずらせた場合、7週目の残高は0円、8週目は100万円となり、マイナスは解消します。ただし7週目の残高は0円で余裕がないため、他の手段との組合せが必要です。</p>
+<p>相談は、支払日の直前ではなく、不足が分かった時点で行う方が、相手先も対応を検討しやすくなります。どの支払いから相談するかの順番は、<a href="/articles/article-shiharai-maniawanai/">支払いが間に合わない時の初動</a>で取り上げています。仕入代金や外注費の支払いについての相談の仕方は、<a href="/articles/article-gaichuhi-haraenai/">仕入れ代・外注費が払えない時の対処法</a>をご覧ください。</p>
+<h3>国税の猶予（国税庁）</h3>
+<p>国税庁は、国税を期限内に納付できない場合の制度として「換価の猶予」と「納税の猶予」を案内しています。</p>
+<p>申請による換価の猶予は、「国税を一時に納付することにより、事業の継続または生活の維持を困難にするおそれがあると認められること」などの要件をすべて満たす場合に、原則として1年以内の期間に限り認められる場合があります。申請は「納付すべき国税の納期限から6か月以内」に行う必要があります（国税徴収法151条の2第1項）。猶予が認められると、猶予期間中は原則として各月に分割して納付し、財産の差押えや換価（売却）が猶予され、猶予期間中の延滞税が軽減されます。国税庁は、状況に応じて猶予期間がさらに1年間延びる場合があるとも案内しています。</p>
+<p>担保は原則として必要ですが、国税庁は、猶予を受ける金額が100万円以下の場合、猶予期間が3か月以内の場合、提供できる担保がない場合は不要としています。</p>
+<p>すでに滞納がある場合や、滞納となってから6か月を超えている場合でも、税務署長の職権による換価の猶予（国税徴収法151条）を受けられる場合があります。</p>
+<p>納税の猶予は、災害・病気・事業の廃業や休業・事業の著しい損失などの事実があり、一時に納付できないと認められる場合の制度です。国税庁は、延滞税について、災害で財産に相当な損失を受けた場合の納税の猶予では「免除」、換価の猶予では「軽減」と分けて案内しています。どちらの制度に当たるかは、所轄の税務署の徴収担当に相談してください。</p>
+<h3>社会保険料の猶予（日本年金機構）</h3>
+<p>日本年金機構は、厚生年金保険料等についても猶予制度を案内しています。一時に納付すると事業の継続を困難にするおそれがあり、納付に対する誠実な意思があると認められる場合は、納期限から6カ月以内に申請することで「換価の猶予」を受けられ、保険料を一定の期間内に分割して納付でき、猶予期間の延滞金の一部が免除されるとしています。災害等で事業所の財産に相当な損害を受けた場合などには「納付の猶予」の制度もあります。相談先は管轄の年金事務所です。</p>
+<h3>日本政策金融公庫のセーフティネット貸付</h3>
+<p>日本政策金融公庫の「経営環境変化対応資金（セーフティネット貸付）」は、社会的・経済的環境の変化などの外的要因により一時的に業況が悪化しているものの、中長期的には業況の回復が見込まれる事業者が対象です。国民生活事業の融資限度額は7,200万円、運転資金の返済期間は10年以内（うち据置期間3年以内）です。対象となる要件には、売上高の減少のほか、先に触れた取引条件の悪化も含まれます。</p>
+<p>日本政策金融公庫は、国民生活事業の申込から送金完了までの所要日数を「1ヵ月程度（土日、祝日を含む。）」としています。資金ショートまでの期間が1か月を切っている場合は、融資だけで間に合わせることは難しく、他の手段とあわせて検討する必要があります。</p>
+<h3>中小企業活性化協議会への相談</h3>
+<p>資金繰りの悪化が一時的なものではない場合は、中小企業活性化協議会に相談する方法があります。中小企業庁によると、同協議会は借入金や資金繰りをはじめとした経営の悩みに対応する公的機関で、すべての都道府県に設置され、収益力改善・事業再生・再チャレンジまでを支援しています。相談は無料で、事前予約が必要です。民事再生・破産等を申立て済みの企業は対象になりません。</p>
+<hr>
+<h2>即日資金化の選択肢としてのファクタリング</h2>
+<p>売掛金がある場合は、売掛金をファクタリング会社に売却して、支払期日より前に資金化する方法があります。売掛金の売買であり、借入ではありません。一方で、手数料がかかる点、売掛金がなければ利用できない点は、他の手段と異なります。</p>
+<h3>「最短」の表示と平均の表示を分けて確認する</h3>
+<p>入金までの時間は「最短」で表示されることが多いため、同じ公式サイト内にある別の目安もあわせて確認してください。当サイトが各社の公式サイトで確認した表示には、次のような種類があります。</p>
+<ul>
+<li>最短の表示とは別に、平均の日数を併記している（「平均2.3日」「申込から平均3〜5営業日」など）</li>
+<li>直近の振込時間の平均や、一定時間内に入金した割合を、自社の実績として表示している</li>
+<li>申込の時間帯によっては翌営業日の入金になると注記している</li>
+<li>「利用審査完了後、最短2営業日」のように、審査が終わってからの日数で表示している</li>
+<li>同じ会社でも、トップページとよくある質問のページとで表記が異なる</li>
+</ul>
+<p>「最短」の値ではなく、自社の請求書と書類で何日の何時までに入金できるかを、見積もりの段階で確認してください。各社の入金スピードと手数料の一覧は、<a href="/articles/article-factoring-sokujitsu-osusume/">即日入金のファクタリング会社の比較</a>の表と<a href="/fees/">手数料一覧</a>に掲載しています。</p>
+<h3>受付時間と締め時刻を確認する</h3>
+<p>当日中の入金を希望する場合は、審査や契約の受付時間も重要です。たとえば、<a href="/companies/paytner/">ペイトナー</a>は、審査を土日祝を含む毎日10:00〜19:00に行い、原則19:00までの申込みであれば当日中に審査結果を連絡するとしています（公式サイト・2026年10月14日確認）。日本中小企業金融サポート機構が運営する<a href="/companies/support-kinyu/">ファクトル</a>は、申請は24時間受け付けるものの、対応は翌営業日としています（公式サイト・2026年10月16日確認）。資金ショートの当日に申し込むのではなく、不足が分かった時点で見積もりを取っておくと、締め時刻に左右されにくくなります。</p>
+<h3>手数料を不足額と比べて判断する</h3>
+<p>手数料の公式表示には、下限と上限の両方を示すもの、下限のみを示すもの、一律の率を示すもの、率を公表せず個別に見積もるものがあります。下限の率がそのまま適用されるとは限らず、実際の率は売掛金の金額・支払期日までの期間・売掛先の信用力などで変わり、契約前に提示されると公式に説明している会社もあります。見積もりで実際の率と受取額を確かめてから、不足額と比べてください。</p>
+<p>先ほどの計算例で、8週目に入金予定のC社への請求書400万円をファクタリングで資金化した場合を考えます。</p>
+<p>例：請求額400万円、手数料率を仮に10%とした場合（仮定）</p>
+<ul>
+<li>手数料：400万円×10%＝40万円</li>
+<li>受取額：400万円−40万円＝360万円</li>
+<li>7週目の残高：−180万円＋360万円＝180万円（安全残高100万円を上回る）</li>
+<li>8週目：C社からの400万円はファクタリング会社に渡すため手元には入らず、8週目の残高は180万円−120万円＝60万円</li>
+</ul>
+<p>この例では、7週目の不足は解消しますが、40万円の費用が発生し、8週目の残高は安全残高を下回ります。翌月以降も同じ構造が続く場合は、ファクタリングを繰り返すことになりかねません。支払先への猶予の相談で不足額そのものを小さくしたうえで、残りをファクタリングで補う、あるいは公庫の融資が実行されるまでのつなぎとして使う、といった組合せを検討してください。</p>
+<p>手数料の決まり方は<a href="/articles/article-factoring-tesuryo/">ファクタリングの手数料</a>、2社間と3社間の違いは<a href="/articles/article-factoring-2sha-3sha/">2社間ファクタリングと3社間ファクタリングの違い</a>にまとめています。</p>
+<h3>急いでいるときほど業者の実態を確認する</h3>
+<p>金融庁は、ファクタリングを装った違法な貸付について注意を呼びかけており、「高額な手数料を支払うと、かえって資金繰りが悪化し、多重債務に陥る危険性があります」としています。売掛金の売買ではなく、実質的に返済を求める契約になっていないか、契約前に確認してください。見分け方は<a href="/articles/article-factoring-ihou-gyousha/">違法なファクタリング業者の見分け方</a>をご覧ください。</p>
+<hr>
+<h2>給料と支払いの順番について</h2>
+<p>不足する支払いが従業員の給料である場合は、労働基準法24条が、賃金を通貨で直接労働者に全額支払うこと、毎月1回以上・一定の期日を定めて支払うことを定めている点に注意が必要です。給与日までに資金を確保する手順は、<a href="/articles/article-factoring-kyuryo-haraenai/">給料が払えない会社が給与日までにできること</a>で取り上げています。</p>
+<p>複数の支払いが重なり、どれから手当てするかを決める必要がある場合は、<a href="/articles/article-shiharai-maniawanai/">支払いが間に合わない時の初動</a>をご覧ください。資金ショートを繰り返さないための中長期の考え方は、<a href="/articles/article-factoring-tousan-boushi/">ファクタリングによる倒産の防止</a>にもまとめています。</p>
+<hr>
+<h2>よくある質問</h2>
+<p><strong>Q: 資金ショートまで何週間あれば、日本政策金融公庫の融資は間に合いますか？</strong>
+A: 日本政策金融公庫は、国民生活事業の申込から送金完了までを「1ヵ月程度（土日、祝日を含む。）」とし、融資の条件や支店の混雑状況によってはさらに日数を要する場合があるとしています。不足まで1か月を切っている場合は、融資の申込みと並行して、支払先への相談や売掛金の資金化を検討してください。</p>
+<p><strong>Q: 税金を滞納していても、換価の猶予は申請できますか？</strong>
+A: 国税庁が示す申請による換価の猶予の要件には、猶予を受けようとする国税以外の国税の滞納がないことが含まれています。また、申請は納期限から6か月以内に行う必要があります。ただし、すでに滞納がある場合や滞納となってから6か月を超える場合でも、税務署長の職権による換価の猶予（国税徴収法151条）を受けられる場合があると国税庁は案内しています。条件に当てはまるかどうかは、所轄の税務署の徴収担当に相談してください。</p>
+<p><strong>Q: 売掛金がない場合、即日で資金を用意する方法はありますか？</strong>
+A: ファクタリングは売掛金を売却する取引のため、売掛金がない場合は利用できません。その場合は、支払先への支払日の変更の相談や、税・社会保険料の猶予制度の相談を優先し、あわせて取引金融機関や日本政策金融公庫に相談してください。</p>
+<p><strong>Q: 資金繰り表は月次と週次のどちらで作ればよいですか？</strong>
+A: 3か月〜1年先の見通しには月次の表が向いています。一方、資金ショートが心配な時期は、月の途中の落ち込みを見落とさないよう、週単位で8週間分程度の表を作成し、毎週更新する方法が有効です。本記事の計算例（仮定）のように、月末残高がプラスでも月の途中でマイナスになる場合があります。</p>
+<hr>
+<h2>まとめ</h2>
+<ul>
+<li>資金ショートへの対策は、週単位の資金繰り表で「何週間後に・いくら」不足するかを確定させることから始まります</li>
+<li>回収条件の長期化や支払条件の短縮化、税・社会保険料の後回しは、資金ショートの兆候です</li>
+<li>不足まで1か月以上あれば日本政策金融公庫の融資も候補になり、国税・社会保険料には納期限から6か月以内に申請する換価の猶予があります</li>
+<li>不足が数日〜2週間以内に迫っている場合は、支払先への相談と、売掛金がある場合のファクタリングが中心になります</li>
+<li>ファクタリングは「最短」だけでなく平均や締め時刻、手数料を不足額と比べて判断し、継続的な利用にならないよう他の手段と組み合わせてください</li>
+</ul>
+<p>各制度の要件や各社の条件は変更される場合があります。ご利用前に、各窓口・各社の公式サイトにて最新情報をご確認ください。</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/kojin-jigyonushi.jpg","alt":"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":["更新日: ","2026年10月31日"]}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"資金ショート 対策, 資金ショート 兆候, 資金ショート 即日"}]]}],null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc","$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dwkrNP867aj8IbJZ_g13_"}
+5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","support-kinyu",{"children":["$","$L3",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":["日本中小企業金融サポート機構","の口コミ・評判・手数料 →"]}]}]]}]]}]
+6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","ebank",{"href":"/companies/ebank","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"いーばんく（アクシアプラス）"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","4%〜（上限は要問い合わせ）"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","invoice-factor",{"href":"/companies/invoice-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"インボイスファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","0.5%〜（上限は要問い合わせ）"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","no1",{"href":"/companies/no1","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"株式会社No.1"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","0.5%〜15%"," ／ ","最短30分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
+8:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-kyuryo-haraenai",{"href":"/articles/article-factoring-kyuryo-haraenai","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"給料 払えない 会社, 給与 払えない 資金繰り, 給料日 資金 足りない"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"給料が払えない会社が給与日までにできること｜即日で資金を確保する手順と注意点"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-shiharai-maniawanai",{"href":"/articles/article-shiharai-maniawanai","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"支払い 間に合わない 会社, 支払い 間に合わない 対処, 支払い 優先順位"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"支払いが間に合わない時の初動｜今日・今週でできる資金確保の優先順位"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-gaichuhi-haraenai",{"href":"/articles/article-gaichuhi-haraenai","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"外注費 払えない, 仕入れ代 払えない, 外注費 支払い 遅れる"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"仕入れ代・外注費が払えない時の対処法｜支払先への相談と売掛金の早期資金化"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-toha",{"href":"/articles/article-factoring-toha","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリングとは"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【図解】ファクタリングとは｜仕組み・手数料・メリット・デメリットを初めての方向けに解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-merit-demerit",{"href":"/articles/article-factoring-merit-demerit","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング メリット デメリット"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングのメリット・デメリット｜利用に適した人・適さない人を解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-hajimete",{"href":"/articles/article-factoring-hajimete","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$L10","$L11","$L12"]}]]}]]}]
+9:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/kiso","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["基礎知識・審査・法律","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+a:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L13","$L14","$L15","$L16"]}]}],"$L17"]}]}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"基礎知識・審査・法律\",\"item\":\"https://corp-factoring.com/topics/kiso\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢\",\"item\":\"https://corp-factoring.com/articles/article-shikin-short-taisaku\"}]}"}}]
+c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢\",\"description\":\"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢について、公式情報や公的資料をもとに解説しています。\",\"dateModified\":\"2026-10-31\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-shikin-short-taisaku\"}}"}}]
+18:T9a8,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"資金ショートまで何週間あれば、日本政策金融公庫の融資は間に合いますか？","acceptedAnswer":{"@type":"Answer","text":"日本政策金融公庫は、国民生活事業の申込から送金完了までを「1ヵ月程度（土日、祝日を含む。）」とし、融資の条件や支店の混雑状況によってはさらに日数を要する場合があるとしています。不足まで1か月を切っている場合は、融資の申込みと並行して、支払先への相談や売掛金の資金化を検討してください。"}},{"@type":"Question","name":"税金を滞納していても、換価の猶予は申請できますか？","acceptedAnswer":{"@type":"Answer","text":"国税庁が示す申請による換価の猶予の要件には、猶予を受けようとする国税以外の国税の滞納がないことが含まれています。また、申請は納期限から6か月以内に行う必要があります。ただし、すでに滞納がある場合や滞納となってから6か月を超える場合でも、税務署長の職権による換価の猶予（国税徴収法151条）を受けられる場合があると国税庁は案内しています。条件に当てはまるかどうかは、所轄の税務署の徴収担当に相談してください。"}},{"@type":"Question","name":"売掛金がない場合、即日で資金を用意する方法はありますか？","acceptedAnswer":{"@type":"Answer","text":"ファクタリングは売掛金を売却する取引のため、売掛金がない場合は利用できません。その場合は、支払先への支払日の変更の相談や、税・社会保険料の猶予制度の相談を優先し、あわせて取引金融機関や日本政策金融公庫に相談してください。"}},{"@type":"Question","name":"資金繰り表は月次と週次のどちらで作ればよいですか？","acceptedAnswer":{"@type":"Answer","text":"3か月〜1年先の見通しには月次の表が向いています。一方、資金ショートが心配な時期は、月の途中の落ち込みを見落とさないよう、週単位で8週間分程度の表を作成し、毎週更新する方法が有効です。本記事の計算例（仮定）のように、月末残高がプラスでも月の途中でマイナスになる場合があります。"}}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$18"}}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true}]
+f:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+10:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 初めて, ファクタリング 初回, ファクタリング 使い方"}]
+11:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング初めての方向けガイド｜初回利用の手順・注意点・おすすめ会社【2026年】"}]
+12:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+13:["$","span",null,{"className":"text-gray-700","children":"|"}]
+14:["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}]
+15:["$","span",null,{"className":"text-gray-700","children":"|"}]
+16:["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
+17:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+1b:null
