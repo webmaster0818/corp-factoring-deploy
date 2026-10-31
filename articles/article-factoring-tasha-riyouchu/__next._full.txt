@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default"]
+3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default"]
+5:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
+d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
+:HL["/_next/static/chunks/0w2upha_b50nu.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-tasha-riyouchu",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-tasha-riyouchu","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0w2upha_b50nu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0w2upha_b50nu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"nZxIq9SrS7HAq5j6FjyHO"}
+e:[]
+8:"$We"
+f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],"Header"]
+10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],""]
+:HL["/images/articles/factoring-article.jpg","image"]
+11:T5c56,<p>他社でファクタリングを利用している最中でも、まだどこにも譲渡していない別の売掛金であれば、別のファクタリング会社に申し込むことを禁じる法律はありません。一方、すでに譲渡した売掛金を別の会社にもう一度売ることは「二重譲渡」に当たり、どちらの会社が権利を主張できるかの争いを生み、詐欺罪に問われるおそれもあります。</p>
+<p>線引きの基準は「会社の数」ではなく、「どの売掛金を、誰に、どの範囲で譲渡したか」です。とくに、今の契約が将来発生する売掛金までまとめて譲渡する内容になっていると、これから発行する請求書もすでに譲渡済みになっている場合があります。</p>
+<p>この記事では、併用してよいケースと二重譲渡になるケースの見分け方、ファクタリング会社が先行する譲渡を確かめる方法（債権譲渡登記の証明書）、各社が公式に示している他社利用・乗り換えの扱い、申込時に伝えるべきことをまとめています。利用できるかどうかは各社の審査で決まるため、当サイトでは可否を一般論として判断していません。</p>
+<h2>併用してよいケースと二重譲渡になるケース</h2>
+<p>最初に、よくある状況ごとの扱いを表にまとめます。「譲渡済み」かどうかは、今の契約書に書かれた譲渡の対象（売掛先・請求書・期間）で決まります。</p>
+<table>
+<thead>
+<tr>
+<th>状況</th>
+<th>扱い</th>
+<th>確認すること</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A社に売った請求書を、B社にも売る</td>
+<td>二重譲渡に当たる</td>
+<td>申し込まない</td>
+</tr>
+<tr>
+<td>A社に売った請求書の入金・送金が終わる前に、同じ請求書をB社に乗り換えて売る</td>
+<td>二重譲渡に当たる</td>
+<td>A社との契約の終了（買戻し・解除など）が先</td>
+</tr>
+<tr>
+<td>A社に売った売掛先とは別の売掛先の請求書を、B社に売る</td>
+<td>法律上は別の債権の譲渡</td>
+<td>A社との契約が、その売掛先の債権を対象に含んでいないか</td>
+</tr>
+<tr>
+<td>同じ売掛先でも、A社に売っていない別の請求書（別の月の分など）をB社に売る</td>
+<td>法律上は別の債権の譲渡</td>
+<td>A社との契約が、同じ売掛先の将来の債権まで対象にしていないか</td>
+</tr>
+<tr>
+<td>A社と継続契約を結び、売掛先Xの今後の売掛金をまとめて譲渡している状態で、Xの新しい請求書をB社に売る</td>
+<td>二重譲渡に当たるおそれがある</td>
+<td>契約書の「譲渡債権の範囲」と債権譲渡登記の内容</td>
+</tr>
+<tr>
+<td>A社で買い取ってもらえなかった請求書を、B社に申し込む</td>
+<td>譲渡していなければ二重譲渡ではない</td>
+<td>A社の契約が成立していないこと</td>
+</tr>
+</tbody>
+</table>
+<p>表の4行目と5行目の違いが、他社利用中の申込でもっとも見落としやすい点です。民法466条の6第1項は「債権の譲渡は、その意思表示の時に債権が現に発生していることを要しない」と定め、同条2項は、譲受人は「発生した債権を当然に取得する」としています。つまり、売掛先Xとの今後の取引で発生する売掛金をA社に譲渡する契約を結んでいれば、新しい請求書は発行された時点でA社のものになります。この場合、本人に「売った」という意識がなくても、B社への売却は同じ債権の二重譲渡になります。</p>
+<p>将来債権の譲渡の仕組みは「<a href="/articles/article-factoring-shourai-saiken/">将来債権ファクタリングとは</a>」で詳しく扱っています。</p>
+<p>複数社に見積もりを依頼すること自体は、契約が成立していない段階なので二重譲渡には当たりません。見積もりの取り方は「<a href="/articles/article-factoring-fukusu/">ファクタリングは複数社に同時申込できるか</a>」をご覧ください。</p>
+<h2>二重譲渡は法律上どう扱われるか</h2>
+<h3>どちらの会社が優先するかは対抗要件の先後で決まる</h3>
+<p>同じ売掛金が2社に譲渡されると、2社のどちらが売掛先に支払いを求められるかが問題になります。民法467条1項は、債権の譲渡（「現に発生していない債権の譲渡を含む」）は、譲渡人が債務者に通知をするか債務者が承諾をしなければ、債務者その他の第三者に対抗できないと定めています。同条2項は、その通知または承諾は「確定日付のある証書によってしなければ、債務者以外の第三者に対抗することができない」としています。</p>
+<p>法人が売掛金を譲渡した場合は、もう一つの方法があります。動産及び債権の譲渡の対抗要件に関する民法の特例等に関する法律（以下「動産債権譲渡特例法」）4条1項は、債権譲渡登記ファイルに譲渡の登記がされたときは、債務者以外の第三者については民法467条の確定日付のある証書による通知があったものとみなし、「当該登記の日付をもって確定日付とする」と定めています。</p>
+<p>登記と確定日付のある通知のどちらが優先するかについて、法務省の債権譲渡登記Q&#x26;A（Q1）は「具備した時の先後により決せられ、債権譲渡登記の効力が常に優先するものではありません」と説明しています。後から譲り受けた会社が先に登記をし、または確定日付のある通知を売掛先に到達させれば、先に契約した会社が売掛先に権利を主張できなくなることもあります。</p>
+<h3>利用者に生じる責任</h3>
+<p>二重譲渡では、優先関係で劣後した会社は売掛先から回収できなくなります。契約書に、売掛金をほかに譲渡していないことを利用者が約束する条項や、違反した場合の支払義務の条項がある場合は、回収できなかった会社から代金の返還や損害の賠償を求められることになります。条項の内容は契約ごとに異なるため、今の契約書で確認してください。</p>
+<p>たとえば、バイオンの利用規約は、債務不履行・二重譲渡などの場合に、売掛先への債権譲渡通知や登記を行い得ると定めています（公式サイト・2026年10月31日確認）。普段は売掛先に知らせない2社間取引でも、二重譲渡が起きれば売掛先に知られる経路があるということです。</p>
+<h3>刑事上の問題</h3>
+<p>すでに譲渡した売掛金であることを隠して代金を受け取った場合、刑法246条1項（人を欺いて財物を交付させた者は「十年以下の拘禁刑」）の詐欺罪に問われるおそれがあります。罪が成立するかどうかは個別の事情によって判断されます。二重譲渡の罪状や発覚後の対応は「<a href="/articles/article-factoring-nijuujouto/">ファクタリングの二重譲渡のリスク</a>」でまとめています。</p>
+<h2>ファクタリング会社が先行する譲渡を確かめる方法</h2>
+<h3>債権譲渡登記の3種類の証明書</h3>
+<p>法人の売掛金について、ほかの会社への譲渡が登記されているかは、法務局の証明書で確かめられます。動産債権譲渡特例法と法務省の案内によると、証明書は次の3種類で、請求できる人と書かれている内容が異なります。</p>
+<table>
+<thead>
+<tr>
+<th>証明書</th>
+<th>請求できる人</th>
+<th>主な記載内容</th>
+<th>請求先</th>
+<th>手数料（窓口・郵送）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>概要記録事項証明書</td>
+<td>誰でも（動産債権譲渡特例法13条1項）</td>
+<td>譲渡人ごとの登記の概要。譲渡された債権を特定する事項や登記原因等は記載されない</td>
+<td>全国の商業登記所・不動産登記所、法務局証明サービスセンター</td>
+<td>1通300円</td>
+</tr>
+<tr>
+<td>登記事項概要証明書</td>
+<td>誰でも（同法11条1項）</td>
+<td>債務者名など個々の債権を特定する事項を除いた登記事項</td>
+<td>債権譲渡登記所</td>
+<td>1通300円</td>
+</tr>
+<tr>
+<td>登記事項証明書</td>
+<td>譲渡人・譲受人、債権の債務者などの利害関係人、譲渡人の使用人（同法11条2項）</td>
+<td>個々の債権に関する登記事項の全部</td>
+<td>債権譲渡登記所</td>
+<td>債権1個につき500円（個別事項証明）</td>
+</tr>
+</tbody>
+</table>
+<p>法務省のQ&#x26;A（Q24）は、譲り受けようとする債権に先行する登記がないかを調べる方法として、まず譲渡しようとする法人の概要記録事項証明書を請求し、記録が全くなければその旨の証明書で確認できること、記録がある場合はその法人に登記事項証明書の提示を求めて内容を確認することなどが考えられる、と説明しています。概要記録事項証明書の内容は、民事法務協会が運営する「登記情報提供サービス」でもインターネットで確認できます（同Q27）。</p>
+<p>この手順から、他社利用中の申込では次のことが起こりえます。新しく申し込んだ会社は、概要記録事項証明書で過去の登記の有無を把握でき、記録があれば、登記事項証明書の提示を利用者に求めることがあります。登記事項証明書は利害関係人などに請求が限られているため（法務省Q&#x26;A Q25は、債務者のプライバシーや譲渡人の営業秘密に関わる情報が記載されているためと説明しています）、利用者が自社の登記事項証明書を取得して提出する流れになります。</p>
+<h3>登記の記録だけでは分からないこと</h3>
+<p>債権譲渡登記の確認には限界があります。</p>
+<ul>
+<li><strong>登記をしない契約が多い</strong>：当サイト掲載の会社にも、債権譲渡登記を原則行わない、または留保できると公式に記載している会社が多くあります（次の章の表）。登記をしない譲渡は記録に残らないため、概要記録事項証明書に記録がないことは、先行する譲渡がないことまでを示すものではありません</li>
+<li><strong>登記は債権の存在を証明しない</strong>：法務省Q&#x26;A（Q6）は、債権譲渡登記は「譲渡された債権が真実に存在することや真実に譲渡がされたことまでを公示・証明するものではありません」としています</li>
+<li><strong>個人事業主は登記の対象外</strong>：動産債権譲渡特例法は「法人がする」債権の譲渡を対象とする法律です（同法1条）。個人事業主の売掛金の譲渡は登記できないため、確認は利用者の申告と書類に頼る部分が大きくなります</li>
+</ul>
+<p>このため、登記の確認とあわせて、申込時の利用者の申告が重要になります。次の章では、各社が公式に示している扱いを整理します。</p>
+<h2>他社利用・乗り換え・2回目以降の利用について各社の公式表示</h2>
+<p>当サイトが掲載する36社の会社データ（editorialVerification の事実欄。公式サイトを出典とする値）のうち、「他社で利用中・他社に売却済みの債権」「他社からの乗り換え」「2回目以降の利用」のいずれかに触れている値がある会社を抜き出しました。該当は7社で、会社名の五十音順に並べています。「他社の見積りより安く提案する」など、他社の利用状況ではなく見積もりの比較に触れた記載は対象に含めていません。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>公式に記載されている内容</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/gmo-btob-hayabarai/">GMO BtoB早払い</a></td>
+<td>2回目以降は利用審査が不要で、決定した買取限度内で繰り返し利用できる</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/jtc/">JTC</a></td>
+<td>他社に売却済みの売掛債権は不可（乗り換えの相談は可）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/trust-gateway/">トラストゲートウェイ</a></td>
+<td>乗換えページに、登記を行った場合は契約終了後に即座に抹消し、登記・抹消は無料と記載（売掛金買取ページには登記費用を実費負担とする記載もあり、ページにより異なる）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/pmg/">PMG</a></td>
+<td>乗り換え率98%・リピート率96%の表記あり</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/try/">ファクタリングのTRY</a></td>
+<td>他社からの乗り換えで手数料3%優遇</td>
+<td>2026年10月14日</td>
+</tr>
+<tr>
+<td><a href="/companies/msfj/">MSFJ</a></td>
+<td>公式トップに乗り換え欄があり、手数料は1.8％～9.8％と表示</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/rfd/">RFD株式会社</a></td>
+<td>リピート率98%・乗換成約率80%・累計取引件数3,000件以上（2025年9月時点）の表示</td>
+<td>2026年10月31日</td>
+</tr>
+</tbody>
+</table>
+<p>いずれも各社の公式サイトでの確認値です（公式サイト・各行の日付に確認）。PMGとRFDの率は各社の表示で、当サイトでは算出方法を確認していません。また、残る29社の会社データには他社利用中の扱いについての記載がありませんが、これは「他社利用中は不可」という意味ではありません。申込前に各社へ確認してください。</p>
+<p>表から読み取れるのは、他社からの乗り換えを公式に案内している会社がある一方で、JTCのように「他社に売却済みの売掛債権」は対象外と明記している会社もあるということです。乗り換えは、今の会社に売った債権を新しい会社に重ねて売ることではなく、今の契約を終えたうえで、まだ譲渡していない債権を新しい会社に売ることです。手順は「<a href="/articles/article-factoring-norikae/">ファクタリングの乗り換えガイド</a>」をご覧ください。</p>
+<h3>債権譲渡登記の扱い（公式表示）</h3>
+<p>他社利用中の申込では、今の会社が登記をしているかどうか、新しい会社が登記を求めるかどうかも関係します。同じ会社データの事実欄に債権譲渡登記の扱いが書かれている会社は次のとおりです（公式サイト・2026年10月31日確認。メンターキャピタル・株式会社No.1・ファクタリングのTRYは2026年10月14日確認）。</p>
+<ul>
+<li>登記を行わない・設定なしと記載（例外の記載なし）：PayToday、インボイスPay</li>
+<li>原則不要・原則しない・積極的にはしないと記載：GMO BtoB早払い、メンターキャピタル（原則留保）、レバンタ（取引方法や売掛先の都合で必要になる場合あり）、うりかけ堂（まれに顧客の要望で設定）、バイオン（利用規約で二重譲渡などの場合に登記を行い得ると規定）、OLTA（利用規定で定める一部の場合を除き行わない）</li>
+<li>留保できると記載：株式会社No.1（要相談）、ファクタリングのTRY（登記なしで契約可能）、買速</li>
+<li>原則必要と記載：PMG（資金繰りや業務に支障を来すおそれがある場合は登記留保も可能）</li>
+<li>どちらも可能と記載：JTC</li>
+<li>ページや規約で記載が分かれる：マネーフォワード 早期入金（トップは不要、利用規約第10条に通知・登記・承諾を指定して求める規定）、みんなのファクタリング（事業紹介は原則なし、利用規約では要請時に登記等）、ベストファクター（よくある質問では不要、登記ページは取引内容により相談）、MSFJ（個人事業主向けページに「債権譲渡登記が必要な場合がある」）、トラストゲートウェイ（前掲）</li>
+</ul>
+<p>今の会社が登記をしている場合、契約の終了とは別に、抹消登記という手続きがあります。動産債権譲渡特例法10条1項は、譲渡が解除などで効力を失ったときや債権が消滅したときに、譲渡人と譲受人が抹消登記を申請できると定めています。新しい会社に申し込む前に、今の会社の登記の有無と、契約終了後の抹消の扱いを確認しておくと、説明がしやすくなります。登記の手続きと費用は「<a href="/articles/article-factoring-saiken-touki/">債権譲渡登記とは</a>」で扱っています。</p>
+<h2>申込時に伝えること・用意すること</h2>
+<p>他社利用中であることは、隠さず申込時に伝えてください。新しい会社は、申込のあった売掛金がすでに譲渡されていないかを確認する必要があり、利用者の申告がその確認の出発点になるためです。伝える内容は次のとおりです。</p>
+<ol>
+<li><strong>利用中の会社と契約の種類</strong>：2社間か3社間か、1回ごとの契約か、継続的な基本契約か</li>
+<li><strong>譲渡した売掛金の範囲</strong>：売掛先名、請求書の番号と金額、支払期日。継続契約の場合は、契約書の「譲渡債権の範囲」の記載（売掛先・期間・将来の債権を含むか）</li>
+<li><strong>債権譲渡登記の有無</strong>：登記がある場合は、登記事項証明書を取得して提示できるようにしておく（法人の場合）</li>
+<li><strong>未了の送金</strong>：2社間取引で、売掛先から入金されたあと今の会社へ送金する予定の金額と日付</li>
+<li><strong>新しく申し込む売掛金</strong>：今の会社に譲渡していないことが分かる請求書・契約書・入金履歴</li>
+</ol>
+<p>申込書や契約書に「この売掛金を他社に譲渡していないか」を確かめる質問や条項がある場合は、事実どおりに答えてください。売掛先が同じで請求書の月だけが違う場合は、どの月の分を誰に譲渡したかを一覧にしておくと、確認が早く進みます。</p>
+<h3>計算例：他社利用中に別の売掛金を申し込む場合（仮定）</h3>
+<p>例：売掛先Xの4月分請求書200万円をA社に譲渡済みで、5月末にXから入金されたらA社へ送金する予定の会社が、売掛先Yの5月分請求書150万円をB社に申し込む場合（仮定）。</p>
+<ul>
+<li>Yの請求書がA社との契約の対象外であれば、B社への申込は別の債権の譲渡です</li>
+<li>B社には、A社でXの4月分200万円を譲渡済みであること、送金予定日、A社との契約が1回ごとのものか継続契約かを伝えます</li>
+<li>A社との契約がXとYの今後の売掛金をまとめて対象にしている場合は、Yの5月分もすでにA社に譲渡されているため、B社に売ることはできません</li>
+</ul>
+<p>同じ例で、Xの5月分請求書をB社に申し込む場合は、A社との契約がXの将来の売掛金を対象にしていないことを契約書で確認する必要があります。</p>
+<h2>よくある質問</h2>
+<p><strong>Q: 他社でファクタリングを利用中だと、ほかの会社では断られますか？</strong>
+A: 一律には決まっていません。当サイトの会社データでは、他社からの乗り換えを公式に案内している会社がある一方、JTCは他社に売却済みの売掛債権を対象外と明記しています（公式サイト・2026年10月31日確認）。可否は各社の審査で決まるため、申込時に利用状況を伝えて確認してください。</p>
+<p><strong>Q: 同じ売掛先の請求書を、2つのファクタリング会社に分けて売ってもよいですか？</strong>
+A: 請求書が別で、一方の会社との契約がもう一方の請求書を対象に含んでいなければ、法律上は別の債権の譲渡です。ただし、継続契約で同じ売掛先の将来の売掛金までまとめて譲渡している場合は、新しい請求書も発生した時点でその会社に移るため（民法466条の6第2項）、別の会社に売ると二重譲渡になります。</p>
+<p><strong>Q: ファクタリング会社は、他社の利用をどうやって知るのですか？</strong>
+A: 法人の場合、債権譲渡登記の概要記録事項証明書は誰でも請求できるため（動産債権譲渡特例法13条1項）、登記があれば把握できます。ただし登記をしない契約も多く、登記だけで全ての譲渡が分かるわけではありません。当サイトでは、各社が申込時の申告をどのように確認しているかの詳細は確認していません。</p>
+<p><strong>Q: 今の会社への送金が終わった売掛金と同じ売掛先の、次の請求書なら乗り換えてよいですか？</strong>
+A: 今の会社との契約が1回ごとの契約で、次の請求書を対象に含んでいなければ、新しい会社に申し込めます。継続契約の場合は、契約の終了と、登記がある場合の抹消の扱いを先に確認してください。</p>
+<h2>まとめ</h2>
+<ul>
+<li>他社利用中でも、まだ譲渡していない別の売掛金であれば、別の会社に申し込むことを禁じる法律はありません。利用できるかは各社の審査で決まります</li>
+<li>すでに譲渡した売掛金をもう一度売ると二重譲渡です。優先関係は確定日付のある通知・承諾（民法467条2項）や債権譲渡登記（動産債権譲渡特例法4条1項）を備えた時の先後で決まり、利用者は返還や賠償を求められ、詐欺罪に問われるおそれもあります</li>
+<li>継続契約で将来の売掛金までまとめて譲渡している場合、同じ売掛先の新しい請求書もすでに譲渡済みになることがあります（民法466条の6）</li>
+<li>法人の売掛金の登記は、概要記録事項証明書（誰でも請求可・1通300円）で確かめられます。登記をしない契約も多いため、申込時に利用状況を正確に伝えることが確認の出発点です</li>
+<li>当サイト掲載36社のうち、他社利用・乗り換え・2回目以降の利用に公式で触れているのは7社です。記載のない会社は、申込前に確認してください</li>
+</ul>
+<p>ご利用前に、各社の公式サイトにて最新情報をご確認ください。</p>
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L10",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングは他社利用中でも使える？併用・追加利用の条件と","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングは他社利用中でも使える？併用・追加利用の条件と二重譲渡の線引き","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングは他社利用中でも使える？併用・追加利用の条件と二重譲渡の線引き"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":["更新日: ","2026年10月31日"]}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 他社利用中, ファクタリング 併用, ファクタリング 二重譲渡"}]]}],null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14",false,"$L15","$L16"]}],"$L17","$L18","$L19","$L1a"]}]
+:HL["/images/logo-88.webp","image"]
+12:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","best-factor",{"children":["$","$L10",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","pmg",{"children":["$","$L10",null,{"href":"/companies/pmg/","className":"text-blue-600 hover:underline","children":["PMG","の口コミ・評判・手数料 →"]}]}],["$","li","paytoday",{"children":["$","$L10",null,{"href":"/companies/paytoday/","className":"text-blue-600 hover:underline","children":["PayToday","の口コミ・評判・手数料 →"]}]}],["$","li","mf-earlypayment",{"children":["$","$L10",null,{"href":"/companies/mf-earlypayment/","className":"text-blue-600 hover:underline","children":["Money Forward 早期入金","の口コミ・評判・手数料 →"]}]}],["$","li","mentor-capital",{"children":["$","$L10",null,{"href":"/companies/mentor-capital/","className":"text-blue-600 hover:underline","children":["メンターキャピタル","の口コミ・評判・手数料 →"]}]}],["$","li","minna-factoring",{"children":["$","$L10",null,{"href":"/companies/minna-factoring/","className":"text-blue-600 hover:underline","children":["みんなのファクタリング","の口コミ・評判・手数料 →"]}]}],["$","li","jtc",{"children":["$","$L10",null,{"href":"/companies/jtc/","className":"text-blue-600 hover:underline","children":["JTC","の口コミ・評判・手数料 →"]}]}],["$","li","no1",{"children":["$","$L10",null,{"href":"/companies/no1/","className":"text-blue-600 hover:underline","children":["株式会社No.1","の口コミ・評判・手数料 →"]}]}],["$","li","try",{"children":["$","$L10",null,{"href":"/companies/try/","className":"text-blue-600 hover:underline","children":["ファクタリングのTRY","の口コミ・評判・手数料 →"]}]}],["$","li","msfj",{"children":["$","$L10",null,{"href":"/companies/msfj/","className":"text-blue-600 hover:underline","children":["MSFJ","の口コミ・評判・手数料 →"]}]}],["$","li","levanta",{"children":["$","$L10",null,{"href":"/companies/levanta/","className":"text-blue-600 hover:underline","children":["レバンタ","の口コミ・評判・手数料 →"]}]}],["$","li","trust-gateway",{"children":["$","$L10",null,{"href":"/companies/trust-gateway/","className":"text-blue-600 hover:underline","children":["トラストゲートウェイ","の口コミ・評判・手数料 →"]}]}],["$","li","bion",{"children":["$","$L10",null,{"href":"/companies/bion/","className":"text-blue-600 hover:underline","children":["バイオン","の口コミ・評判・手数料 →"]}]}],["$","li","rfd",{"children":["$","$L10",null,{"href":"/companies/rfd/","className":"text-blue-600 hover:underline","children":["RFD株式会社","の口コミ・評判・手数料 →"]}]}],["$","li","invoice-pay",{"children":["$","$L10",null,{"href":"/companies/invoice-pay/","className":"text-blue-600 hover:underline","children":["インボイスPay","の口コミ・評判・手数料 →"]}]}],["$","li","urikakedo",{"children":["$","$L10",null,{"href":"/companies/urikakedo/","className":"text-blue-600 hover:underline","children":["うりかけ堂","の口コミ・評判・手数料 →"]}]}],["$","li","kaisoku",{"children":["$","$L10",null,{"href":"/companies/kaisoku/","className":"text-blue-600 hover:underline","children":["買速","の口コミ・評判・手数料 →"]}]}],["$","li","olta",{"children":["$","$L10",null,{"href":"/companies/olta/","className":"text-blue-600 hover:underline","children":["OLTA","の口コミ・評判・手数料 →"]}]}],["$","li","gmo-btob-hayabarai",{"children":["$","$L10",null,{"href":"/companies/gmo-btob-hayabarai/","className":"text-blue-600 hover:underline","children":["GMO BtoB早払い","の口コミ・評判・手数料 →"]}]}]]}]]}]
+13:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","best-factor",{"href":"/companies/best-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ベストファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","2%〜20%"," ／ ","最短6時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","pmg",{"href":"/companies/pmg","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"PMG"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","paytner",{"href":"/companies/paytner","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ペイトナー"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+14:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
+15:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-factoring-shiharai-okure",{"href":"/articles/article-factoring-shiharai-okure","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 払えない, ファクタリング 支払い 遅れ, ファクタリング 滞納"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの支払いが遅れたら？滞納時に起きることと相談の手順"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-sashiosae",{"href":"/articles/article-factoring-sashiosae","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 差し押さえ, ファクタリング 差押え 売掛金, 税金滞納 差押え 売掛金"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングで差押えは起きる？売掛金・口座差押えの条件と回避策"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-ginkou-yuushi-eikyou",{"href":"/articles/article-factoring-ginkou-yuushi-eikyou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 銀行融資 影響, ファクタリング 銀行 バレる, ファクタリング 通帳 履歴"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングは銀行融資に影響する？知られる経路と通帳履歴の説明方法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-ihou",{"href":"/articles/article-factoring-ihou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 違法 / ファクタリング やばい"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングは違法か｜合法である法的根拠と悪質業者の見分け方【2026年最新】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-ihou-gyousha",{"href":"/articles/article-factoring-ihou-gyousha","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 違法業者, ファクタリング 違法業者 見分け方, 闇金ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング違法業者の見分け方｜悪質業者の特徴と通報先【2026年版】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],"$L1b"]}]]}]
+16:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L10",null,{"href":"/topics/kiso","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["基礎知識・審査・法律","の記事一覧を見る →"]}],["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+17:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L1c","$L1d","$L1e","$L1f"]}]}],"$L20"]}]}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"基礎知識・審査・法律\",\"item\":\"https://corp-factoring.com/topics/kiso\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ファクタリングは他社利用中でも使える？併用・追加利用の条件と二重譲渡の線引き\",\"item\":\"https://corp-factoring.com/articles/article-factoring-tasha-riyouchu\"}]}"}}]
+19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングは他社利用中でも使える？併用・追加利用の条件と二重譲渡の線引き\",\"description\":\"ファクタリングは他社利用中でも使える？併用・追加利用の条件と二重譲渡の線引きについて、公式情報や公的資料をもとに解説しています。\",\"dateModified\":\"2026-10-31\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-tasha-riyouchu\"}}"}}]
+21:T8fc,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"他社でファクタリングを利用中だと、ほかの会社では断られますか？","acceptedAnswer":{"@type":"Answer","text":"一律には決まっていません。当サイトの会社データでは、他社からの乗り換えを公式に案内している会社がある一方、JTCは他社に売却済みの売掛債権を対象外と明記しています（公式サイト・2026年10月31日確認）。可否は各社の審査で決まるため、申込時に利用状況を伝えて確認してください。"}},{"@type":"Question","name":"同じ売掛先の請求書を、2つのファクタリング会社に分けて売ってもよいですか？","acceptedAnswer":{"@type":"Answer","text":"請求書が別で、一方の会社との契約がもう一方の請求書を対象に含んでいなければ、法律上は別の債権の譲渡です。ただし、継続契約で同じ売掛先の将来の売掛金までまとめて譲渡している場合は、新しい請求書も発生した時点でその会社に移るため（民法466条の6第2項）、別の会社に売ると二重譲渡になります。"}},{"@type":"Question","name":"ファクタリング会社は、他社の利用をどうやって知るのですか？","acceptedAnswer":{"@type":"Answer","text":"法人の場合、債権譲渡登記の概要記録事項証明書は誰でも請求できるため（動産債権譲渡特例法13条1項）、登記があれば把握できます。ただし登記をしない契約も多く、登記だけで全ての譲渡が分かるわけではありません。当サイトでは、各社が申込時の申告をどのように確認しているかの詳細は確認していません。"}},{"@type":"Question","name":"今の会社への送金が終わった売掛金と同じ売掛先の、次の請求書なら乗り換えてよいですか？","acceptedAnswer":{"@type":"Answer","text":"今の会社との契約が1回ごとの契約で、次の請求書を対象に含んでいなければ、新しい会社に申し込めます。継続契約の場合は、契約の終了と、登記がある場合の抹消の扱いを先に確認してください。"}}]}1a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$21"}}]
+1b:["$","$L10","article-factoring-sagi",{"href":"/articles/article-factoring-sagi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 詐欺, ファクタリング 詐欺 見分け方, ファクタリング 悪質業者"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング詐欺の手口と見分け方｜悪質業者を避けるガイド"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]
+1c:["$","span",null,{"className":"text-gray-700","children":"|"}]
+1d:["$","$L10",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}]
+1e:["$","span",null,{"className":"text-gray-700","children":"|"}]
+1f:["$","$L10",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
+20:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+22:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"ファクタリングは他社利用中でも使える？併用・追加利用の条件と二重譲渡の線引き｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"他社でファクタリングを利用中でも、まだ譲渡していない別の売掛金なら別の会社に申し込めます。すでに譲渡した売掛金を再び売ると二重譲渡です。線引き、登記での確認方法、各社の公式表示を整理しました。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-factoring-tasha-riyouchu/"}],["$","meta","5",{"property":"og:title","content":"ファクタリングは他社利用中でも使える？併用・追加利用の条件と二重譲渡の線引き｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"他社でファクタリングを利用中でも、まだ譲渡していない別の売掛金なら別の会社に申し込めます。すでに譲渡した売掛金を再び売ると二重譲渡です。線引き、登記での確認方法、各社の公式表示を整理しました。"}],["$","meta","7",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","14",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","15",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","16",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L22","17",{}]]

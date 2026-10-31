@@ -1,0 +1,238 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],""]
+17:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+:HL["/images/articles/factoring-article.jpg","image"]
+:HL["/images/logo-88.webp","image"]
+4:T6bba,<p>当サイトが掲載する36社の公式情報を確認した範囲では、検収前・支払期日未定の請求書を、検収済みの請求書と同じ条件で買い取ると明記した会社はありませんでした（2026年10月31日時点の当サイト掲載データ）。一方で、注文書の段階で買い取る区分を公式に示している会社が3社あり、そのうちGMO BtoB早払いは手数料の幅・買取上限・必要書類を請求書の買取とは別に定めています。また、取引先が取適法やフリーランス法の対象となる発注者であれば、支払期日を定めていなくても法律上の支払期日が決まる場合があります。この記事では、検収の法律上の位置づけ、各社の公式表示、支払期日の扱い、代替策の順にご説明します。</p>
+<h2>検収とは何か：法律と契約での位置づけ</h2>
+<h3>民法上は「引渡し」と「仕事の完成」が報酬の基準です</h3>
+<p>検収は、納品された物や成果物を発注者が検査し、受け入れる手続きを指す商慣行上の言葉で、民法に「検収」という条文はありません。法律上の報酬の支払時期は、契約の種類ごとに次のとおり定められています。</p>
+<ul>
+<li><strong>請負</strong>（工事・システム開発・制作など）：請負は、一方が仕事の完成を約し、相手方がその結果に報酬を支払うことを約する契約です（民法632条）。報酬は「仕事の目的物の引渡しと同時に、支払わなければならない」とされ、引渡しを要しない場合は、労働を終わった後でなければ報酬を請求できないとする規定（民法624条1項）を準用します（民法633条）。</li>
+<li><strong>売買</strong>（部品・商品の納入など）：目的物の引渡しに期限があるときは、代金の支払にも同じ期限を付したものと推定されます（民法573条）。商人間の売買では、買主は目的物を受領したら遅滞なく検査しなければならず、契約内容に適合しないことを発見したときは直ちに売主へ通知しないと、追完・減額・損害賠償・解除を求められなくなります（商法526条1項・2項）。</li>
+</ul>
+<p>実務では、取引基本契約や注文書で「検収完了後、月末締め翌月末払い」のように、検収を支払条件や締め日の基準にしていることがあります。この場合、民法の原則（引渡しと同時払い）よりも契約の定めが優先して適用されるため、検収前の段階では、受注側は支払期日が到来した請求権を持っていないことになります（当サイトの整理です。個別の契約の解釈は専門家にご確認ください）。</p>
+<h3>建設工事は検査の期限が法律で決まっています</h3>
+<p>建設業の下請契約では、元請負人は下請負人から工事完成の通知を受けた日から20日以内で、かつできる限り短い期間内に完成を確認する検査を完了しなければならず、検査後に下請負人が申し出たときは直ちに引渡しを受けなければなりません（建設業法24条の4第1項・第2項）。ただし、下請契約で定めた工事完成の時期から20日を経過した日以前の一定の日に引渡しを受ける特約がある場合は、この限りではありません（同条第2項ただし書）。特定建設業者が注文者となる下請契約（下請負人が特定建設業者または政令で定める金額以上の資本金の法人である場合を除く）では、下請代金の支払期日はこの引渡しの申出の日（上記の特約がある場合はその一定の日）から50日を経過する日以前で定めることとされ、定めがないときは申出の日が支払期日とみなされます（建設業法24条の6第1項・第2項）。建設業の資金化全般は<a href="/articles/article-factoring-kensetsu/">建設業のファクタリング</a>をご覧ください。</p>
+<h2>検収前の売掛金は「将来債権」として譲渡できるのか</h2>
+<p>民法は、債権の譲渡は「その意思表示の時に債権が現に発生していることを要しない」と定め（民法466条の6第1項）、まだ発生していない債権を譲渡した場合、譲受人は「発生した債権を当然に取得する」としています（同条2項）。対抗要件の規定も「現に発生していない債権の譲渡を含む」と明記されています（民法467条1項）。したがって、検収前で金額や期日が確定していない段階の債権でも、譲渡そのものは法律上可能です。将来債権の譲渡の仕組みは<a href="/articles/article-factoring-shourai-saiken/">将来債権ファクタリング</a>で説明しています。</p>
+<p>ただし、譲渡が法律上可能であることと、ファクタリング会社が買い取るかどうかは別の問題です。検収前の債権には、次のような未確定の要素があります（当サイトの整理です）。</p>
+<ul>
+<li>検査で契約の内容に適合しないとされた場合、修補などの追完、代金の減額、損害賠償、解除を求められる可能性がある（売買は民法562条〜564条〈損害賠償・解除は415条・541条・542条〉。請負などの売買以外の有償契約にも、性質が許さない場合を除き民法559条で準用されます）。なお、商人間の売買では、買主が検査で不適合を発見しても直ちに通知しなければ、これらを請求できなくなるという制限があります（商法526条2項）</li>
+<li>請負では、仕事が完成するまで注文者は損害を賠償して契約を解除できる（民法641条）</li>
+<li>支払期日が決まっていないと、いつ回収できるかを買取側が見積もれない</li>
+</ul>
+<p>こうした要素があるため、各社は検収前の債権を請求書とは別の区分で扱ったり、対象外としたりしています。次の節で、各社の公式表示を確認します。</p>
+<h2>各社の公式表示：検収前・注文書段階の扱い</h2>
+<p>当サイトの会社データ（feeIndex.ts の36行と、editorialVerification.ts のうち公式を出典とする事実欄）を検索し、「注文書」「受注書」「検収」「将来債権」「役務提供完了」のいずれかの語が含まれる会社をすべて抜き出しました。該当は11社です。当サイトの補足や確認ポイントの欄にだけ記載がある会社は含めていません。並び順は、注文書（受注）段階の買取を公式に示している会社を先にし、その後の会社も含めてそれぞれ社名の読みの五十音順です。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>公式に記載されている内容（要旨）</th>
+<th>検収前・注文書段階の扱い</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/gmo-btob-hayabarai/">GMO BtoB早払い</a></td>
+<td>手数料は請求書買取1%〜10%、注文書買取2%〜12%（審査の上で提示）。注文書買取は受注金額の最大50%まで。買取実行時の書類は見積書・発注書・請求書・納品確認書（検収書）等。法人のみ</td>
+<td>注文書買取の区分あり</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/top-management/">トップ・マネジメント</a></td>
+<td>「見積書・受注書・発注書ファクタリング」として、「お仕事の注文や発注を受けた段階、更には見積りの段階でもファクタリングが行なえる」と表示。見積書の段階での手数料・条件の記載はなし</td>
+<td>注文・発注を受けた段階と見積りの段階の資金化を表示（条件は公式に記載なし）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/be-trading/">ビートレーディング</a></td>
+<td>注文書ファクタリングは注文書（発注書）と口座の入出金明細（直近3か月）。通常の請求書の場合は入出金明細2か月分。注文書ファクタリングは契約後最短翌日に振込</td>
+<td>注文書ファクタリングの区分あり</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/rfd/">RFD株式会社</a></td>
+<td>2社間は請求書・注文書等の売掛債権を取引先に知られずに資金化</td>
+<td>注文書等も資金化の対象として記載</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/invoice-pay/">インボイスPay</a></td>
+<td>対象外の債権として「一部の将来債権」を挙げている</td>
+<td>一部の将来債権は対象外</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/yen-today/">¥Today（エントゥデイ）</a></td>
+<td>必要書類は請求書と銀行通帳の2点（注文書でも受け付け可能な場合あり）</td>
+<td>注文書は「場合あり」</td>
+<td>2026年10月16日</td>
+</tr>
+<tr>
+<td><a href="/companies/support-kinyu/">日本中小企業金融サポート機構</a></td>
+<td>債権によって発注書・注文書・日報などを追加で求める場合あり</td>
+<td>追加書類としての記載</td>
+<td>2026年10月16日</td>
+</tr>
+<tr>
+<td><a href="/companies/bion/">バイオン</a></td>
+<td>発注書や注文書や契約書などは任意の提出書類。支払期日を過ぎた請求書は不可</td>
+<td>請求書が前提（注文書は任意書類）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/pmg/">PMG</a></td>
+<td>請求書・注文書の偽造等が見られる場合は措置あり</td>
+<td>取扱いの可否の記載はなし</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/best-factor/">ベストファクター</a></td>
+<td>登記のページでは2社間の高額・将来債権・継続取引等で登記を相談する場合あり、よくある質問では登記は「必要ありません」（公式内で記載が分かれる）</td>
+<td>将来債権は登記の相談対象（登記ページ）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/mf-earlypayment/">マネーフォワード 早期入金</a></td>
+<td>役務提供完了済みの債権のみ。でんさい・発注書や契約書のみでは買取不可。法人のみ</td>
+<td>役務提供完了前の債権は対象外</td>
+<td>2026年10月31日</td>
+</tr>
+</tbody>
+</table>
+<p>（いずれも公式サイト・確認日は表のとおり。出典は当サイトの会社データ）</p>
+<p>表から読み取れる点は次の3つです。</p>
+<ol>
+<li><strong>当サイトの会社データで、注文書段階の買取を独立した区分として公式に示していると確認できたのは、GMO BtoB早払い・トップ・マネジメント・ビートレーディングの3社です。</strong> GMO BtoB早払いは、注文書買取の手数料の幅（2%〜12%）を請求書買取（1%〜10%）より上下とも高く表示し、買取は受注金額の最大50%までとしています（公式サイト・2026年10月31日確認）。トップ・マネジメントは、注文や発注を受けた段階に加えて「見積りの段階でもファクタリングが行なえる」と表示していますが、見積書の段階での手数料・条件は公式に記載がありません（公式サイト・2026年10月31日確認）。</li>
+<li><strong>役務提供が完了していない債権を対象外と明記している会社があります。</strong> マネーフォワード 早期入金は「役務提供完了済みの債権のみ」としています（公式サイト・2026年10月31日確認）。納品済みで検収だけが終わっていない債権がこれに当たるかどうかは公式に記載がないため、申込前に問い合わせる必要があります。</li>
+<li><strong>上の3社以外は、注文書を補足書類や追加書類として挙げている記載が中心です（RFD株式会社は注文書等も資金化の対象と記載していますが、注文書段階の条件は公式に記載がありません）。</strong> これらの記載からは、検収前の債権を買い取るかどうかは判断できません。</li>
+</ol>
+<p>ほかの25社は、当サイトの会社データに上の語の記載がないことを示すだけで、検収前の債権を扱わないという意味ではありません。必要書類全般は<a href="/articles/article-factoring-hitsuyou-shorui/">ファクタリングの必要書類</a>をご覧ください。</p>
+<h3>計算例：注文書段階と検収後で比べる</h3>
+<p>例：受注金額1,000万円の案件で、GMO BtoB早払いの公式表示の範囲を当てはめた場合（仮定。実際の率は審査で提示されます）</p>
+<ul>
+<li>注文書段階：買取は受注金額の最大50%で500万円まで。手数料率が下限の2%なら10万円、上限の12%なら60万円</li>
+<li>検収後に請求書1,000万円を買取に出す場合：手数料率が下限の1%なら10万円、上限の10%なら100万円</li>
+</ul>
+<p>注文書段階では、資金化できる額が受注金額の半分までに限られます。一方、検収後は請求書の全額が対象になります。どちらが適しているかは、必要な金額と、検収・入金までの日数で判断することになります。</p>
+<h2>支払期日未定の請求書はどう扱われるか</h2>
+<h3>各社の対象条件には、支払期日の確定を前提とするものがあります</h3>
+<p>当サイトの会社データ（公式を出典とする事実欄）のうち、支払期日の範囲や期日に関する条件を記載している会社は次の7社です（会社名の五十音順）。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>支払期日に関する公式の記載</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/invoice-pay/">インボイスPay</a></td>
+<td>支払期限経過の請求書は対象外</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/olta/">OLTA</a></td>
+<td>入金期日が申込日から6営業日以上かつ6ヶ月以内の債権が対象</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/ququmo/">QuQuMo</a></td>
+<td>請求書は請求金額・入金日が確定しているもの。入金日を過ぎたものは不可</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/bion/">バイオン</a></td>
+<td>支払期日を過ぎた請求書は不可</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/freenance/">FREENANCE（フリーナンス）</a></td>
+<td>支払期日が買取申込日から105日以内。請求書には振込期限の記載が必須</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/paytoday/">PayToday</a></td>
+<td>最大90日後の請求書の買取に対応</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/mentor-capital/">メンターキャピタル</a></td>
+<td>支払期日を過ぎた債権は対象外</td>
+<td>2026年10月14日</td>
+</tr>
+</tbody>
+</table>
+<p>（公式サイト・確認日は表のとおり）</p>
+<p>期日の範囲を対象条件にしている会社では、支払期日が書かれていない請求書は、その条件に当てはまるかどうかを判断できません。QuQuMoは入金日が確定している請求書を条件としており、期日未定の請求書はこの条件に当たりません。FREENANCE のように振込期限の記載を必須としている例もあるため、期日未定のままでは申込の段階で止まる可能性があります。</p>
+<h3>取適法の対象取引では、期日を定めなくても支払期日が決まります</h3>
+<p>取引先（発注者）が「製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律」（通称：取適法。旧下請法。2026年1月1日施行）の委託事業者に当たる場合、次の規定があります。適用対象は、公正取引委員会の説明では「事業者の資本金規模又は従業員基準と取引の内容で定義」されています。</p>
+<ul>
+<li>代金の支払期日は、委託事業者が「給付の内容について検査をするかどうかを問わず」、給付を受領した日から起算して60日の期間内で、できる限り短く定めなければなりません（取適法3条1項）。</li>
+<li>支払期日が定められなかったときは、<strong>給付を受領した日</strong>が支払期日とみなされます。60日を超える期日を定めたときは、受領日から起算して60日を経過した日の前日が支払期日とみなされます（同条2項）。</li>
+<li>委託事業者は、発注の際に支払期日などを書面または電磁的方法で直ちに明示しなければなりません。ただし、内容が定められないことに正当な理由がある事項は、その内容が定められた後直ちに明示すればよいとされています（取適法4条1項・ただし書）。</li>
+<li>支払期日までに支払わなかったときは、受領日から起算して60日を経過した日から遅延利息を支払う義務があります（取適法6条1項）。</li>
+</ul>
+<p>ここで重要なのは、期日の起算点が「検収日」ではなく「受領日」であることです。取適法の対象取引で、納品後に検収が長引き、支払期日も決まっていない場合は、法律上は受領日が支払期日とみなされます。取適法とファクタリングの関係全般は<a href="/articles/article-factoring-shitaukehou/">ファクタリングと取適法</a>で説明しています。</p>
+<h3>受注側がフリーランスの場合はフリーランス法4条</h3>
+<p>受注側が、従業員を使用しない個人、または代表者1名のみで他の役員・従業員がいない法人（特定受託事業者。フリーランス法2条1項）の場合は、「特定受託事業者に係る取引の適正化等に関する法律」（フリーランス法）が関係します。</p>
+<ul>
+<li>従業員を使用するなどの発注者（特定業務委託事業者）は、給付の内容について検査をするかどうかを問わず、給付を受領した日から60日の期間内で報酬の支払期日を定めなければなりません（フリーランス法4条1項）。</li>
+<li>支払期日が定められなかったときは受領日、60日を超えて定めたときは受領日から起算して60日を経過する日が、支払期日とみなされます（同条2項）。取適法（「経過した日の前日」）とは条文の表現が異なります。</li>
+<li>再委託である旨や元委託の支払期日などを明示して再委託した場合は、元委託の支払期日から30日以内とする例外があります（同条3項）。</li>
+<li>支払期日を含む取引条件の明示義務は、従業員の有無を問わず業務委託事業者すべてに課されています。内容が定められないことに正当な理由がある事項は、定められた後直ちに明示することとされています（フリーランス法3条1項・ただし書）。</li>
+</ul>
+<p>フリーランスの資金繰り全般は<a href="/articles/article-freelance-shikin/">フリーランスの資金調達</a>をご覧ください。</p>
+<h3>どちらの法律も当てはまらない取引</h3>
+<p>取適法・フリーランス法の対象外の取引では、契約で定めた支払条件に従います。期限を定めなかった債務は、債務者が履行の請求を受けた時から遅滞の責任を負うと民法に定められています（民法412条3項）。ただし、検収を支払条件にしている契約では、検収前に請求しても期限が到来していないと扱われる可能性があるため、まず契約書の支払条件を確認してください（当サイトの整理です）。</p>
+<h2>代替策：検収前・期日未定の段階でできること</h2>
+<h3>1. 取引先に検収日・支払期日の確定を依頼する</h3>
+<p>費用をかけずにできる方法の一つは、取引先に検収の予定日と支払期日を書面で示してもらうことです。取適法・フリーランス法の対象取引であれば、支払期日は発注者が明示すべき事項です（取適法4条1項、フリーランス法3条1項）。正当な理由で発注時に定められない場合も、定まった後直ちに明示することとされています（両条ただし書）。期日が確定した請求書になれば、前の節の表のように期日の範囲を条件にしている会社にも申し込めるようになります。</p>
+<h3>2. 注文書段階で資金化する</h3>
+<p>受注は確定しているが納品前という段階であれば、注文書ファクタリングが選択肢になります。仕組みと各社の対応は<a href="/articles/article-factoring-chuumonsho/">注文書ファクタリング</a>で説明しています。この記事の表のとおり、GMO BtoB早払いの注文書買取では、手数料の幅や買取上限が請求書の場合と異なります。トップ・マネジメントは見積りの段階でもファクタリングが行なえると表示していますが、その段階の手数料・条件は公式に記載がないため、申込前に問い合わせて確認してください。銀行・ノンバンクが提供するPOファイナンスとの違いは、<a href="/articles/article-po-finance-hikaku/">注文書ファクタリングとPOファイナンスの比較</a>で取り上げています。</p>
+<h3>3. 検収後に通常のファクタリングを使う</h3>
+<p>検収が数日〜数週間で終わる見込みであれば、検収後の請求書で申し込むほうが、資金化の対象額が全額になり、公式表示の手数料の幅も注文書段階より低い例があります（前出の計算例）。検収前に将来債権として譲渡する場合は、登記を相談する場合があるとする会社もあるため（ベストファクターの登記のページ。同社のよくある質問では登記は不要と記載）、<a href="/articles/article-factoring-saiken-touki/">債権譲渡登記</a>の扱いも事前に確認してください。</p>
+<h3>4. 日本政策金融公庫の融資を検討する</h3>
+<p>検収の遅れなどで売掛金の回収期間が長くなっている場合、日本政策金融公庫の「経営環境変化対応資金（セーフティネット貸付）」の対象要件の一つに、「最近の取引条件が回収条件の長期化または支払条件の短縮化等により、0.1ヵ月以上悪化している方」が挙げられています。国民生活事業の融資限度額は7,200万円、運転資金の返済期間は10年以内（うち据置期間3年以内）です。対象は、外的要因により一時的に業況が悪化しているが中長期的には回復が見込まれる方で、審査の結果、希望に沿えない場合があると公庫は記載しています。申込から送金完了までの所要日数は1ヵ月程度（土日・祝日を含む）とされているため、急ぎの資金には間に合わない可能性があります。</p>
+<h2>よくある質問</h2>
+<p><strong>Q: 納品は済んでいて、検収だけが終わっていない請求書はファクタリングできますか？</strong>
+A: 会社によって扱いが分かれます。当サイト掲載36社の公式情報では、検収前の請求書の可否を明記した会社は確認できませんでした。マネーフォワード 早期入金のように「役務提供完了済みの債権のみ」としている会社もあるため、検収前であることを申込時に伝え、対象になるかを問い合わせてください。</p>
+<p><strong>Q: 支払期日が書かれていない請求書でも申し込めますか？</strong>
+A: 期日の範囲を対象条件にしている会社（OLTA：6営業日以上6ヶ月以内、FREENANCE：105日以内）では、期日がないと条件に当てはまるかを判断できません。QuQuMoは入金日が確定している請求書を条件とし、FREENANCE は請求書に振込期限の記載を必須としています。取引先に支払期日を確定してもらってから申し込んでください。</p>
+<p><strong>Q: 取引先が「検収が終わるまで支払期日は決められない」と言っています。</strong>
+A: 取引先が取適法の委託事業者に当たる取引では、支払期日は検査をするかどうかを問わず受領日から60日以内で定める必要があり、定めがない場合は受領日が支払期日とみなされます（取適法3条）。受注側がフリーランス法の特定受託事業者に当たる場合も同様の規定があります（フリーランス法4条）。適用の有無は公正取引委員会の窓口などでご確認ください。</p>
+<p><strong>Q: 注文書ファクタリングと検収後のファクタリングでは、どちらが有利ですか？</strong>
+A: 一概には言えません。GMO BtoB早払いの公式表示では、注文書買取は手数料2%〜12%・受注金額の最大50%まで、請求書買取は手数料1%〜10%です（2026年10月31日確認）。早く資金が必要で金額が受注額の半分以内で足りるなら注文書段階、検収まで待てるなら請求書段階、という比べ方になります。</p>
+<h2>まとめ</h2>
+<ul>
+<li>検収前・支払期日未定の請求書を、検収済みの請求書と同じ条件で買い取ると公式に明記した会社は、当サイト掲載36社では確認できませんでした。</li>
+<li>検収は契約上の手続きで、民法では請負の報酬は引渡しと同時（民法633条）が原則です。未発生の債権でも譲渡自体は可能です（民法466条の6）。</li>
+<li>注文書段階の買取区分を公式に示していることを当サイトの会社データで確認できたのは、GMO BtoB早払い・トップ・マネジメント・ビートレーディングの3社です。トップ・マネジメントは見積りの段階も対象と表示していますが、その段階の手数料・条件は公式に記載がありません。マネーフォワード 早期入金は役務提供完了済みの債権のみを対象としています。</li>
+<li>取適法・フリーランス法の対象取引では、支払期日を定めなければ受領日が支払期日とみなされ、起算点は検収日ではなく受領日です。</li>
+<li>代替策は、支払期日の確定の依頼、注文書ファクタリング、検収後の通常のファクタリング、日本政策金融公庫の融資です。ご利用前に、各社の公式サイトにて最新情報をご確認ください。</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["検収前・支払期日未定の請求書はファクタリングできる？条件と代","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"検収前・支払期日未定の請求書はファクタリングできる？条件と代替策","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"検収前・支払期日未定の請求書はファクタリングできる？条件と代替策"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":["更新日: ","2026年10月31日"]}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 検収前, 支払期日 未定 ファクタリング, 検収前 請求書 資金化"}]]}],null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc","$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"nZxIq9SrS7HAq5j6FjyHO"}
+5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","pmg",{"children":["$","$L3",null,{"href":"/companies/pmg/","className":"text-blue-600 hover:underline","children":["PMG","の口コミ・評判・手数料 →"]}]}],["$","li","paytoday",{"children":["$","$L3",null,{"href":"/companies/paytoday/","className":"text-blue-600 hover:underline","children":["PayToday","の口コミ・評判・手数料 →"]}]}],["$","li","support-kinyu",{"children":["$","$L3",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":["日本中小企業金融サポート機構","の口コミ・評判・手数料 →"]}]}],["$","li","mf-earlypayment",{"children":["$","$L3",null,{"href":"/companies/mf-earlypayment/","className":"text-blue-600 hover:underline","children":["Money Forward 早期入金","の口コミ・評判・手数料 →"]}]}],["$","li","mentor-capital",{"children":["$","$L3",null,{"href":"/companies/mentor-capital/","className":"text-blue-600 hover:underline","children":["メンターキャピタル","の口コミ・評判・手数料 →"]}]}],["$","li","freenance",{"children":["$","$L3",null,{"href":"/companies/freenance/","className":"text-blue-600 hover:underline","children":["FREENANCE","の口コミ・評判・手数料 →"]}]}],["$","li","yen-today",{"children":["$","$L3",null,{"href":"/companies/yen-today/","className":"text-blue-600 hover:underline","children":["¥Today（エントゥデイ）","の口コミ・評判・手数料 →"]}]}],["$","li","bion",{"children":["$","$L3",null,{"href":"/companies/bion/","className":"text-blue-600 hover:underline","children":["バイオン","の口コミ・評判・手数料 →"]}]}],["$","li","rfd",{"children":["$","$L3",null,{"href":"/companies/rfd/","className":"text-blue-600 hover:underline","children":["RFD株式会社","の口コミ・評判・手数料 →"]}]}],["$","li","invoice-pay",{"children":["$","$L3",null,{"href":"/companies/invoice-pay/","className":"text-blue-600 hover:underline","children":["インボイスPay","の口コミ・評判・手数料 →"]}]}],["$","li","olta",{"children":["$","$L3",null,{"href":"/companies/olta/","className":"text-blue-600 hover:underline","children":["OLTA","の口コミ・評判・手数料 →"]}]}],["$","li","gmo-btob-hayabarai",{"children":["$","$L3",null,{"href":"/companies/gmo-btob-hayabarai/","className":"text-blue-600 hover:underline","children":["GMO BtoB早払い","の口コミ・評判・手数料 →"]}]}]]}]]}]
+6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","levanta",{"href":"/companies/levanta","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"レバンタ"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","4%〜10%"," ／ ","最短即日（契約後最短10分で振込）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","trust-gateway",{"href":"/companies/trust-gateway","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"トラストゲートウェイ"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1.5%〜9.5%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","bion",{"href":"/companies/bion","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"バイオン"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","10%"," ／ ","最短60分（即日買取）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
+8:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-po-finance-hikaku",{"href":"/articles/article-po-finance-hikaku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"注文書ファクタリング POファイナンス, POファイナンス 注文書担保融資, 発注段階 資金化"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"見積書・発注段階で資金化する方法｜注文書ファクタリングとPOファイナンスの比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-chuumonsho",{"href":"/articles/article-factoring-chuumonsho","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 注文書, 注文書 資金化, 注文書 ファクタリング 仕組み"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"注文書ファクタリングとは｜仕組み・手数料・対応会社を解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-shourai-saiken",{"href":"/articles/article-factoring-shourai-saiken","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 将来債権, 将来債権 ファクタリング 仕組み"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"将来債権ファクタリングとは｜仕組み・法的根拠・対応会社を解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-non-recourse",{"href":"/articles/article-factoring-non-recourse","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング ノンリコース, ファクタリング リコース, ファクタリング 償還請求権"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ノンリコース/リコースの違いとは｜ファクタリングの償還請求権を解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-shoufuri",{"href":"/articles/article-factoring-shoufuri","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 償還請求権, ノンリコース"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの償還請求権とは｜ウィズリコース・ノンリコースの違いをわかりやすく解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],"$L10"]}]]}]
+9:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/kiso","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["基礎知識・審査・法律","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+a:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L11","$L12","$L13","$L14"]}]}],"$L15"]}]}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"基礎知識・審査・法律\",\"item\":\"https://corp-factoring.com/topics/kiso\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"検収前・支払期日未定の請求書はファクタリングできる？条件と代替策\",\"item\":\"https://corp-factoring.com/articles/article-factoring-kenshu-mae\"}]}"}}]
+c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"検収前・支払期日未定の請求書はファクタリングできる？条件と代替策\",\"description\":\"検収前・支払期日未定の請求書はファクタリングできる？条件と代替策について、公式情報や公的資料をもとに解説しています。\",\"dateModified\":\"2026-10-31\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-kenshu-mae\"}}"}}]
+16:T9ba,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"納品は済んでいて、検収だけが終わっていない請求書はファクタリングできますか？","acceptedAnswer":{"@type":"Answer","text":"会社によって扱いが分かれます。当サイト掲載36社の公式情報では、検収前の請求書の可否を明記した会社は確認できませんでした。マネーフォワード 早期入金のように「役務提供完了済みの債権のみ」としている会社もあるため、検収前であることを申込時に伝え、対象になるかを問い合わせてください。"}},{"@type":"Question","name":"支払期日が書かれていない請求書でも申し込めますか？","acceptedAnswer":{"@type":"Answer","text":"期日の範囲を対象条件にしている会社（OLTA：6営業日以上6ヶ月以内、FREENANCE：105日以内）では、期日がないと条件に当てはまるかを判断できません。QuQuMoは入金日が確定している請求書を条件とし、FREENANCE は請求書に振込期限の記載を必須としています。取引先に支払期日を確定してもらってから申し込んでください。"}},{"@type":"Question","name":"取引先が「検収が終わるまで支払期日は決められない」と言っています。","acceptedAnswer":{"@type":"Answer","text":"取引先が取適法の委託事業者に当たる取引では、支払期日は検査をするかどうかを問わず受領日から60日以内で定める必要があり、定めがない場合は受領日が支払期日とみなされます（取適法3条）。受注側がフリーランス法の特定受託事業者に当たる場合も同様の規定があります（フリーランス法4条）。適用の有無は公正取引委員会の窓口などでご確認ください。"}},{"@type":"Question","name":"注文書ファクタリングと検収後のファクタリングでは、どちらが有利ですか？","acceptedAnswer":{"@type":"Answer","text":"一概には言えません。GMO BtoB早払いの公式表示では、注文書買取は手数料2%〜12%・受注金額の最大50%まで、請求書買取は手数料1%〜10%です（2026年10月31日確認）。早く資金が必要で金額が受注額の半分以内で足りるなら注文書段階、検収まで待てるなら請求書段階、という比べ方になります。"}}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$16"}}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true}]
+f:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+10:["$","$L3","article-factoring-reverse",{"href":"/articles/article-factoring-reverse","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"リバースファクタリング, サプライチェーンファイナンス, SCF"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"リバースファクタリングとは｜サプライチェーンファイナンスの仕組み【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]
+11:["$","span",null,{"className":"text-gray-700","children":"|"}]
+12:["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}]
+13:["$","span",null,{"className":"text-gray-700","children":"|"}]
+14:["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
+15:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+19:null

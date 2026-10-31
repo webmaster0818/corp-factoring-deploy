@@ -1,0 +1,350 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],""]
+16:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+17:"$Sreact.suspense"
+:HL["/images/articles/factoring-article.jpg","image"]
+:HL["/images/logo-88.webp","image"]
+4:T69d4,<p>ファクタリング（売掛金の売却）を利用したこと自体が、信用情報機関の記録を通じて銀行に伝わる仕組みは、CIC・JICC・全国銀行個人信用情報センターが公表している登録情報の説明からは確認できませんでした。一方で、銀行は融資の審査で通帳の入出金明細や決算書を確認するため、入出金の履歴・債権譲渡登記・決算書の勘定科目から利用を知ることはあり得ます。銀行がファクタリングの利用をどう評価するかを示した公的な資料は、当サイトでは確認できていません。本記事では、銀行が利用を知り得る3つの経路と、融資の相談で説明するときに準備する資料をご案内します。</p>
+<p>取引先に知られるかどうかは<a href="/articles/article-factoring-bareru/">ファクタリングは取引先にバレるか</a>、ファクタリングと銀行融資の費用や使い分けは<a href="/articles/article-factoring-vs-yuushi/">ファクタリングと銀行融資の違い</a>でご案内しています。</p>
+<h2>信用情報機関の登録情報とファクタリングの関係</h2>
+<h3>各機関が公表している登録対象</h3>
+<p>信用情報機関の登録対象は、各機関が自社のサイトで説明しています。当サイトが2026年10月31日に各機関のページを開いて確認した内容は次のとおりです。</p>
+<table>
+<thead>
+<tr>
+<th>機関</th>
+<th>公表されている説明（要旨と引用）</th>
+<th>法人の情報の扱い</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CIC（株式会社シー・アイ・シー）</td>
+<td>信用情報とは「クレジットやローン等の契約や申込みに関する情報のことです」。会員会社から登録されるのは「申込情報」「クレジット情報」「利用記録」</td>
+<td>「信用情報とは、…『実際の取引の記録』をまとめた個人の情報です」と説明</td>
+</tr>
+<tr>
+<td>JICC（株式会社日本信用情報機構）</td>
+<td>「ローンやクレジットの利用などの信用取引に関する、過去から現在までの客観的な取引事実を表す情報」。登録項目は契約の種類・貸付日・契約金額・貸付金額・返済状況など</td>
+<td>「法人情報の登録内容と登録期間」として、会員会社から提供を受ける法人の契約内容・返済状況なども登録</td>
+</tr>
+<tr>
+<td>全国銀行個人信用情報センター（全国銀行協会が設置・運営）</td>
+<td>「ローン等に関する個人信用情報を登録」。取引情報は「ローンやクレジットカード等の契約内容とその返済状況」の履歴</td>
+<td>「個人信用情報機関」と説明</td>
+</tr>
+</tbody>
+</table>
+<p>3機関とも、登録対象として説明しているのはローン・クレジット等の契約、その申込み、返済状況です。売掛金を売却する取引を登録対象として挙げた説明は、これらのページにはありませんでした。また、TRYは信用情報機関への照会は行わない、OLTAは信用情報を参照しないと公式に記載しています（いずれも公式サイト・TRYは2026年10月14日確認、OLTAは2026年10月31日確認）。</p>
+<h3>「信用情報に載らない」と書くときの範囲</h3>
+<p>上の確認から言えるのは、各機関の登録対象の説明にファクタリングが含まれていない、という範囲で、「銀行に知られない」とまでは言えません。理由は2点あります。</p>
+<p>1点目に、全国銀行個人信用情報センターとCICの説明はいずれも個人の情報についてのものです。法人の借入に関して銀行が使う情報は、これらの個人信用情報とは別のものであり、当サイトでは銀行が法人の審査でどの情報を照会しているかを確認できていません。JICCは法人情報も登録すると明記していますが、登録の対象は会員会社との契約（貸付など）に関する情報です。</p>
+<p>2点目に、全国銀行個人信用情報センターは、会員の各金融機関は「個人信用情報を参考にして自社の審査基準にもとづいて独自に審査をしています」と説明しています。審査で見るのは信用情報だけではなく、銀行に提出する書類も含まれます。その書類から利用を知る経路が、次の節の3つです。</p>
+<p>信用情報機関の仕組みそのものは<a href="/articles/article-factoring-shinyou-jouhou/">ファクタリングと信用情報</a>でご案内しています。</p>
+<h2>銀行がファクタリングの利用を知り得る3つの経路</h2>
+<table>
+<thead>
+<tr>
+<th>経路</th>
+<th>何が記録・表示されるか</th>
+<th>銀行の目に触れる場面</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>通帳・入出金明細</td>
+<td>買取代金の入金、2社間取引での回収金の送金（振込の相手先の名義）</td>
+<td>融資の申込みや面談で提出する資料、自行口座の取引</td>
+</tr>
+<tr>
+<td>債権譲渡登記</td>
+<td>譲渡人（利用者）ごとの登記の概要</td>
+<td>概要記録事項証明書は誰でも請求でき、登記情報提供サービスでも確認可</td>
+</tr>
+<tr>
+<td>決算書・勘定科目明細書</td>
+<td>売掛金の減少、手数料の費用計上</td>
+<td>融資の申込みで提出する決算書一式</td>
+</tr>
+</tbody>
+</table>
+<h3>経路1：通帳の入出金履歴</h3>
+<p>ファクタリング会社から買取代金が振り込まれると、通帳や入出金明細に入金として記録されます。振込入金の通帳表示について、例えば平塚信用金庫は、従来すべては表示していなかった振込依頼人名を通帳に表示する取扱いに変更したことを案内しています（同金庫「お通帳・当座預金照合票への表示内容変更のお知らせ」。2019年4月のお知らせ・2026年10月31日確認）。表示の方法は金融機関や口座の種類で異なりますが、振込依頼人としてファクタリング会社の名義が記録される場合があることは想定しておく必要があります。</p>
+<p>2社間ファクタリングでは、支払期日に売掛先が利用者の口座に代金を振り込み、利用者がその代金をファクタリング会社に送金します。JTCは、2社間では事務委託契約を結び、利用者が集金してJTCへ支払うと記載し（公式サイト・2026年10月31日確認）、インボイスファクターは、2社間では集金代行業務委託契約を同時に結ぶ流れと記載しています（公式サイト・2026年10月14日確認）。この場合、通帳には「ファクタリング会社からの入金」と「売掛先からの入金の後、ファクタリング会社への送金」が並びます。</p>
+<p>3社間ファクタリングでは、売掛先がファクタリング会社に直接支払うため、それまで定期的にあった売掛先からの入金が通帳から消える形になります。PMGは「3社間契約の場合は売掛先への通知が必要」と記載しています（公式サイト・2026年10月31日確認）。</p>
+<p>銀行が通帳を見る場面としては、融資の申込みで提出する資料と、その銀行の口座で取引している場合の口座の動きがあります。日本政策金融公庫の国民生活事業は、面談の際に「事業計画に関連する資料や資産・負債がわかる書類など」の準備を求めています（同公庫「小規模事業者／個人事業主の方【国民生活事業】」・2026年10月31日確認）。民間銀行が審査で求める通帳の範囲について、当サイトでは一律の基準を確認できていません。</p>
+<h3>経路2：債権譲渡登記</h3>
+<p>債権譲渡登記は、法人が売掛金などを譲渡したときに、その譲渡を第三者に対抗するための登記です。民法467条2項は、債務者以外の第三者に対抗するには通知または承諾を「確定日付のある証書によってしなければ」ならないと定めています。動産・債権譲渡特例法4条1項は、法人が債権を譲渡して債権譲渡登記ファイルに登記したときは、債務者以外の第三者については、この確定日付のある証書による通知があったものとみなすと定めています。対象は「法人が」譲渡した場合で、個人事業主の譲渡はこの登記の対象になりません。</p>
+<p>登記された内容をだれが見られるかは、証明書の種類で分かれています。</p>
+<table>
+<thead>
+<tr>
+<th>証明書</th>
+<th>請求できる人</th>
+<th>記載される内容</th>
+<th>根拠</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>登記事項証明書</td>
+<td>譲渡人・譲受人、債務者その他の利害関係人、譲渡人の使用人など</td>
+<td>個々の債権の内容（債務者など）を含む登記事項</td>
+<td>特例法11条2項、法務省</td>
+</tr>
+<tr>
+<td>登記事項概要証明書</td>
+<td>何人も</td>
+<td>債権を特定する事項を除いた概要（登記原因・存続期間・債権の総額など）</td>
+<td>特例法11条1項、法務省Q&#x26;A Q28</td>
+</tr>
+<tr>
+<td>概要記録事項証明書</td>
+<td>何人も</td>
+<td>譲渡人ごとの登記の概要（債権を特定する事項や債権の総額は載らない）</td>
+<td>特例法13条1項、法務省Q&#x26;A Q28</td>
+</tr>
+</tbody>
+</table>
+<p>法務省は、登記事項証明書の請求者を限る理由を、債務者のプライバシーや「譲渡人の営業秘密や事業戦略に関わる情報が記載されているため」と説明しています（法務省「（債権譲渡登記）Q＆A」Q25・2026年10月31日確認）。一方、概要記録事項証明書は誰でも請求でき、内容は民事法務協会の登記情報提供サービスでも確認できるとしています（同Q27）。概要記録事項証明書は、譲渡人の本店を管轄する登記所以外でも、不動産登記または商業・法人登記を取り扱う登記所で請求できます（同Q28）。</p>
+<p>このため、銀行が申込者の概要記録事項証明書を取れば、売掛先の名前は分からなくても、その会社を譲渡人とする登記の有無は分かります。銀行が実際に審査でこの証明書を取得しているかどうかは、当サイトでは確認できていません。</p>
+<p>登記の手続きや費用は<a href="/articles/article-factoring-saiken-touki/">ファクタリングの債権譲渡登記</a>でご案内しています。</p>
+<h3>経路3：決算書の勘定科目</h3>
+<p>ファクタリングで売掛金を売却すると、決算書では売掛金が減り、手数料が費用として計上されます。当サイトの既存記事では、手数料の勘定科目を「売上債権売却損」または「支払手数料」とする処理をご案内しており、会計処理の詳細は<a href="/articles/article-factoring-kanjokamoku/">ファクタリングの勘定科目</a>と<a href="/articles/article-factoring-shiwake/">ファクタリングの仕訳</a>でご案内しています。</p>
+<p>融資の申込みでは決算書一式の提出を求められます。日本政策金融公庫の国民生活事業のインターネット申込では、法人の場合、直近期と前期の確定申告書・決算書の2期分を求め（税務申告が1期しか完了していない場合は1期分）、注意点として「勘定科目明細書が含まれているか」を挙げています（同公庫「小規模事業者／個人事業主の方【国民生活事業】」・2026年10月31日確認）。国税庁が公開している「売掛金（未収入金）の内訳書」の様式は、相手先の名称・所在地と期末現在高を記入するもので、相手先別の期末現在高が50万円以上のものは各別に記入するよう注記しています（国税庁「勘定科目内訳明細書」様式・令和6年3月1日以後終了事業年度用・2026年10月31日確認）。このため、売掛金の残高が前期より大きく減っている、手数料の科目が新たに計上されている、といった変化は、決算書一式を受け取った審査担当者の目に触れ得ます。</p>
+<h2>登記・通知に関する各社の公式表示</h2>
+<p>ファクタリング会社が登記をするかどうかは、経路2に直結します。当サイトが各社の公式サイトで確認した事実から、登記の扱いの記載がある会社を次の基準で4つに分けました。</p>
+<ul>
+<li>分類のルール：当サイトの確認欄の事実（公式の出典があるもの）で、項目名に「登記」を含むものを対象にしました（所在地の項目は除く）。掲載36社のうち該当は18社で、残る18社は当サイトのデータに登記の扱いの記載がありません</li>
+<li>「行わない」：登記を行わない・設定しないと記載し、例外の記載がない会社</li>
+<li>「原則行わない」：不要・原則しない・原則留保などと記載し、「原則」の語や同じ公式サイト内（利用規約を含む）の例外の記載から、登記をする場合があり得る会社</li>
+<li>「留保を選べる」：登記の留保（登記なし）が可能、またはどちらでも可能と記載する会社</li>
+<li>「行う場合あり」：原則必要、または必要な場合があると記載する会社</li>
+<li>並びは分類ごとに当サイトの<a href="/fees/">手数料一覧</a>の掲載順で、順位を示すものではありません</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>分類</th>
+<th>債権譲渡登記・売掛先への通知に関する公式の記載</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/paytoday/">PayToday</a></td>
+<td>行わない</td>
+<td>「弊社では債権譲渡登記を行っておりません」。2社間で「取引先にファクタリングの利用を知られることはありません」</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/invoice-pay/">インボイスPay</a></td>
+<td>行わない</td>
+<td>債権譲渡登記は設定なし</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/best-factor/">ベストファクター</a></td>
+<td>原則行わない</td>
+<td>よくある質問は「必要ありません」。登記ページは取引内容によって登記を相談する場合ありと記載</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/mf-earlypayment/">マネーフォワード 早期入金</a></td>
+<td>原則行わない</td>
+<td>トップは「お取引先様への通知、債権譲渡登記は不要」。利用規約では対抗要件具備を選択した場合に通知・登記・承諾のいずれかを求める旨を規定</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/mentor-capital/">メンターキャピタル</a></td>
+<td>原則行わない</td>
+<td>債権譲渡登記・取引先への通知は原則留保</td>
+<td>2026年10月14日</td>
+</tr>
+<tr>
+<td><a href="/companies/minna-factoring/">みんなのファクタリング</a></td>
+<td>原則行わない</td>
+<td>運営会社の事業紹介は「債権譲渡登記原則なし」。利用規約では会社の要請時に登記等の手続きを行う</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/levanta/">レバンタ</a></td>
+<td>原則行わない</td>
+<td>基本的に不要（取引方法や売掛先の都合で必要になる場合あり）。2社間は売掛先へ原則連絡しない</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/bion/">バイオン</a></td>
+<td>原則行わない</td>
+<td>売掛先への通知や登記は原則不要。利用規約では債務不履行・二重譲渡などの場合に通知・登記を行い得る</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/urikakedo/">うりかけ堂</a></td>
+<td>原則行わない</td>
+<td>「積極的な登記はいたしません」。まれに顧客の要望で設定する場合あり</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/olta/">OLTA</a></td>
+<td>原則行わない</td>
+<td>利用規定で定める一部の場合を除き、取引先に連絡せず、債権譲渡登記も行わない</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/gmo-btob-hayabarai/">GMO BtoB早払い</a></td>
+<td>原則行わない</td>
+<td>原則登記はしない。取引先への通知も原則不要</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/jtc/">JTC</a></td>
+<td>留保を選べる</td>
+<td>「債権譲渡登記 どちらでも可能」</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/no1/">株式会社No.1</a></td>
+<td>留保を選べる</td>
+<td>債権譲渡登記は留保が可能（要相談）</td>
+<td>2026年10月14日</td>
+</tr>
+<tr>
+<td><a href="/companies/try/">ファクタリングのTRY</a></td>
+<td>留保を選べる</td>
+<td>登記なしで契約可能</td>
+<td>2026年10月14日</td>
+</tr>
+<tr>
+<td><a href="/companies/kaisoku/">買速</a></td>
+<td>留保を選べる</td>
+<td>「債権譲渡登記の留保（登記なし）」が可能</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/pmg/">PMG</a></td>
+<td>行う場合あり（原則必要・留保も可）</td>
+<td>「原則必要とさせていただいておりますが、…登記留保にてご契約いただくことも可能です。」</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/msfj/">MSFJ</a></td>
+<td>行う場合あり</td>
+<td>「債権譲渡登記が必要な場合がある」（個人事業主向けページのデメリット欄の記載。債権譲渡登記は法人の譲渡が対象）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/trust-gateway/">トラストゲートウェイ</a></td>
+<td>行う場合あり</td>
+<td>登記を行った場合は契約終了後に即座に抹消（乗換えページ）。売掛金買取ページには登記費用を実費負担とする記載</td>
+<td>2026年10月31日</td>
+</tr>
+</tbody>
+</table>
+<p>18社の内訳は、「行わない」2社、「原則行わない」9社、「留保を選べる」4社、「行う場合あり」3社です。例外なく登記を行わないと記載しているのは「行わない」の2社だけで、「不要」「原則しない」と書く会社の多くは、利用規約などで登記をする場合も定めています。銀行に知られる経路を減らしたい場合は、トップページの表示だけでなく、契約書や利用規約で登記の条件を確認する必要があります。留保の条件（どのような場合に後から登記をするか）も会社ごとに異なるため、あわせて確認が必要です。</p>
+<h2>銀行に説明するときの考え方と準備する資料</h2>
+<p>ここからは当サイトの見解です。銀行がファクタリングの利用を否定的に評価すると定めた金融庁や日本政策金融公庫の公表資料は、当サイトでは確認できていません。そのうえで、融資の審査では提出資料の数字と説明が食い違わないことが重要だと当サイトでは考えています。</p>
+<h3>尋ねられたら事実を説明する</h3>
+<p>上の3つの経路のとおり、通帳・登記・決算書のいずれからも利用は読み取れる可能性があります。隠そうとして説明が数字と合わなくなるほうが、審査の場では問題になりやすいと考えます。通帳の入出金について尋ねられた場合に、売掛金を売却した取引であること、売却した売掛金の額・手数料・入金日、利用した理由を、資料に沿って説明できるようにしておくことが望ましいと考えます。</p>
+<h3>準備しておく資料</h3>
+<table>
+<thead>
+<tr>
+<th>資料</th>
+<th>説明できること</th>
+<th>入手・作成の方法</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ファクタリングの契約書</td>
+<td>売却した売掛金・手数料・2社間か3社間か・登記の有無</td>
+<td>契約時の控え</td>
+</tr>
+<tr>
+<td>売却した請求書の一覧</td>
+<td>どの売掛先の、いくらの売掛金を売却したか</td>
+<td>自社で作成</td>
+</tr>
+<tr>
+<td>資金繰り表</td>
+<td>売却が必要だった時期と、今後の入出金の見通し</td>
+<td>日本政策金融公庫が書式と記入例を公開</td>
+</tr>
+<tr>
+<td>試算表・勘定科目明細書</td>
+<td>売掛金の減少と手数料の計上が帳簿と一致していること</td>
+<td>会計ソフト・顧問税理士</td>
+</tr>
+</tbody>
+</table>
+<p>日本政策金融公庫は「資金繰り表」「資金繰り表（簡易版）」「資金繰り表（記入例）」を、資金繰り計画を策定する場合に記入するものとして公開しています（同公庫「各種書式ダウンロード【国民生活事業】」・2026年10月31日確認）。記入例では、収入の欄に「現金売上」「売掛金回収」「受取手形入金・割引」の行があります。ファクタリングの入金をどの行に書くかは書式に定めがありません。当サイトでは、「売掛金回収」と分けて行を立て、売却した売掛金の額と手数料を注記し、通帳の入金と数字を対応させる書き方を提案しています。資金繰り表の作り方は<a href="/articles/article-shikin-gurihyou/">資金繰り表の作り方</a>でご案内しています。</p>
+<h3>借入がある銀行への確認</h3>
+<p>すでに借入がある場合は、借入時に交わした契約書に、財産の譲渡や担保の提供について届出や承諾を求める条項がないかを確認しておくことが望ましいと当サイトでは考えています。条項の有無や内容は契約ごとに異なり、当サイトでは一般的な内容を確認できていません。売掛金をすでに銀行の担保に入れている場合、同じ売掛金をファクタリング会社に売却すると、銀行とファクタリング会社の権利が競合するおそれがあります。同じ売掛金を複数の相手に譲渡した場合の扱いは<a href="/articles/article-factoring-nijuujouto/">ファクタリングの二重譲渡</a>でご案内しています。</p>
+<h3>計算例：通帳に並ぶ金額（仮定）</h3>
+<p>例：売掛金300万円（支払期日は翌月末）を2社間ファクタリングで売却し、手数料が10%だった場合（仮定。手数料率は会社・審査で異なります）。</p>
+<table>
+<thead>
+<tr>
+<th>日付</th>
+<th>通帳の記録</th>
+<th>金額</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>売却日</td>
+<td>ファクタリング会社からの入金</td>
+<td>270万円</td>
+</tr>
+<tr>
+<td>支払期日</td>
+<td>売掛先からの入金</td>
+<td>300万円</td>
+</tr>
+<tr>
+<td>支払期日以降</td>
+<td>ファクタリング会社への送金</td>
+<td>300万円</td>
+</tr>
+</tbody>
+</table>
+<p>売掛先からの入金と同額がファクタリング会社に送金されるため、売掛金の売却であって借入の返済ではないことを、契約書と請求書で示せるようにしておくと説明が簡潔になります。</p>
+<h2>よくある質問</h2>
+<p><strong>Q: ファクタリングを使うと信用情報に記録されますか？</strong>
+A: 3つの信用情報機関が公表している登録対象に、売掛金の売却を挙げた説明はありませんでした（2026年10月31日確認）。ただし、銀行は通帳や決算書も確認するため、銀行に知られないことまでは意味しません。</p>
+<p><strong>Q: 債権譲渡登記をすると、銀行は売掛先まで分かりますか？</strong>
+A: 誰でも請求できる概要記録事項証明書と登記事項概要証明書には、譲渡された債権を特定する事項は記載されません。債務者（売掛先）などを含む登記事項証明書を請求できるのは、譲渡の当事者や利害関係人などに限られます（動産・債権譲渡特例法11条・13条、法務省の案内）。</p>
+<p><strong>Q: 銀行に聞かれなければ、利用を伝える必要はありませんか？</strong>
+A: 伝える義務を一般的に定めた公的な資料は、当サイトでは確認できていません。借入時の契約書に届出や承諾の条項がある場合はそれに従う必要があります。当サイトでは、尋ねられた場合に契約書・請求書一覧・資金繰り表で説明できるよう準備しておくことが望ましいと考えています。</p>
+<p><strong>Q: 個人事業主のファクタリングでも債権譲渡登記はされますか？</strong>
+A: 債権譲渡登記は、動産・債権譲渡特例法4条1項により「法人が」債権を譲渡した場合の制度です。ベストファクターも「個人事業主は債権譲渡登記が法的に不可のため、自動的に2社間ファクタリングでの取り扱いとなります」と記載しています（公式サイト・2026年10月31日確認）。個人事業主の場合、銀行が利用を知り得る経路は主に通帳と確定申告書になります。</p>
+<h2>まとめ</h2>
+<ul>
+<li>3つの信用情報機関が公表している登録対象はローン・クレジット等の契約・申込み・返済状況で、売掛金の売却を登録対象とする説明はありませんでした。法人の審査で銀行が使う情報は当サイトでは確認できていません</li>
+<li>銀行が利用を知り得る経路は、通帳の入出金履歴（振込依頼人の名義・回収金の送金）、債権譲渡登記（概要記録事項証明書は誰でも請求可）、決算書と勘定科目明細書の3つです</li>
+<li>債権譲渡登記の扱いを公式に記載している18社のうち、例外なく「行わない」と記載しているのは2社です</li>
+<li>銀行がファクタリングの利用を否定的に評価すると定めた公的な資料は確認できていません。当サイトでは、尋ねられたら事実を説明し、資料で数字の対応を示せるよう準備しておくことが望ましいと考えています</li>
+</ul>
+<p>ご利用前に、各社の公式サイトで最新の条件をご確認ください。</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングは銀行融資に影響する？知られる経路と通帳履歴の","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリングは銀行融資に影響する？知られる経路と通帳履歴の説明方法","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリングは銀行融資に影響する？知られる経路と通帳履歴の説明方法"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":["更新日: ","2026年10月31日"]}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 銀行融資 影響, ファクタリング 銀行 バレる, ファクタリング 通帳 履歴"}]]}],null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc","$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"nZxIq9SrS7HAq5j6FjyHO"}
+5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","best-factor",{"children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","pmg",{"children":["$","$L3",null,{"href":"/companies/pmg/","className":"text-blue-600 hover:underline","children":["PMG","の口コミ・評判・手数料 →"]}]}],["$","li","paytoday",{"children":["$","$L3",null,{"href":"/companies/paytoday/","className":"text-blue-600 hover:underline","children":["PayToday","の口コミ・評判・手数料 →"]}]}],["$","li","mf-earlypayment",{"children":["$","$L3",null,{"href":"/companies/mf-earlypayment/","className":"text-blue-600 hover:underline","children":["Money Forward 早期入金","の口コミ・評判・手数料 →"]}]}],["$","li","mentor-capital",{"children":["$","$L3",null,{"href":"/companies/mentor-capital/","className":"text-blue-600 hover:underline","children":["メンターキャピタル","の口コミ・評判・手数料 →"]}]}],["$","li","minna-factoring",{"children":["$","$L3",null,{"href":"/companies/minna-factoring/","className":"text-blue-600 hover:underline","children":["みんなのファクタリング","の口コミ・評判・手数料 →"]}]}],["$","li","jtc",{"children":["$","$L3",null,{"href":"/companies/jtc/","className":"text-blue-600 hover:underline","children":["JTC","の口コミ・評判・手数料 →"]}]}],["$","li","invoice-factor",{"children":["$","$L3",null,{"href":"/companies/invoice-factor/","className":"text-blue-600 hover:underline","children":["インボイスファクター","の口コミ・評判・手数料 →"]}]}],["$","li","no1",{"children":["$","$L3",null,{"href":"/companies/no1/","className":"text-blue-600 hover:underline","children":["株式会社No.1","の口コミ・評判・手数料 →"]}]}],["$","li","try",{"children":["$","$L3",null,{"href":"/companies/try/","className":"text-blue-600 hover:underline","children":["ファクタリングのTRY","の口コミ・評判・手数料 →"]}]}],["$","li","msfj",{"children":["$","$L3",null,{"href":"/companies/msfj/","className":"text-blue-600 hover:underline","children":["MSFJ","の口コミ・評判・手数料 →"]}]}],["$","li","levanta",{"children":["$","$L3",null,{"href":"/companies/levanta/","className":"text-blue-600 hover:underline","children":["レバンタ","の口コミ・評判・手数料 →"]}]}],["$","li","trust-gateway",{"children":["$","$L3",null,{"href":"/companies/trust-gateway/","className":"text-blue-600 hover:underline","children":["トラストゲートウェイ","の口コミ・評判・手数料 →"]}]}],["$","li","bion",{"children":["$","$L3",null,{"href":"/companies/bion/","className":"text-blue-600 hover:underline","children":["バイオン","の口コミ・評判・手数料 →"]}]}],["$","li","invoice-pay",{"children":["$","$L3",null,{"href":"/companies/invoice-pay/","className":"text-blue-600 hover:underline","children":["インボイスPay","の口コミ・評判・手数料 →"]}]}],["$","li","urikakedo",{"children":["$","$L3",null,{"href":"/companies/urikakedo/","className":"text-blue-600 hover:underline","children":["うりかけ堂","の口コミ・評判・手数料 →"]}]}],["$","li","kaisoku",{"children":["$","$L3",null,{"href":"/companies/kaisoku/","className":"text-blue-600 hover:underline","children":["買速","の口コミ・評判・手数料 →"]}]}],["$","li","olta",{"children":["$","$L3",null,{"href":"/companies/olta/","className":"text-blue-600 hover:underline","children":["OLTA","の口コミ・評判・手数料 →"]}]}],["$","li","gmo-btob-hayabarai",{"children":["$","$L3",null,{"href":"/companies/gmo-btob-hayabarai/","className":"text-blue-600 hover:underline","children":["GMO BtoB早払い","の口コミ・評判・手数料 →"]}]}]]}]]}]
+6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","gmo-btob-hayabarai",{"href":"/companies/gmo-btob-hayabarai","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"GMO BtoB早払い"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜12%"," ／ ","最短2営業日（利用審査完了後）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","2%〜（上限は要問い合わせ）"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜（上限は要問い合わせ）"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
+8:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-shiharai-okure",{"href":"/articles/article-factoring-shiharai-okure","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 払えない, ファクタリング 支払い 遅れ, ファクタリング 滞納"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの支払いが遅れたら？滞納時に起きることと相談の手順"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-tasha-riyouchu",{"href":"/articles/article-factoring-tasha-riyouchu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 他社利用中, ファクタリング 併用, ファクタリング 二重譲渡"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングは他社利用中でも使える？併用・追加利用の条件と二重譲渡の線引き"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-sashiosae",{"href":"/articles/article-factoring-sashiosae","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 差し押さえ, ファクタリング 差押え 売掛金, 税金滞納 差押え 売掛金"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングで差押えは起きる？売掛金・口座差押えの条件と回避策"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-ihou",{"href":"/articles/article-factoring-ihou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 違法 / ファクタリング やばい"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングは違法か｜合法である法的根拠と悪質業者の見分け方【2026年最新】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-ihou-gyousha",{"href":"/articles/article-factoring-ihou-gyousha","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 違法業者, ファクタリング 違法業者 見分け方, 闇金ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング違法業者の見分け方｜悪質業者の特徴と通報先【2026年版】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],"$L10"]}]]}]
+9:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/kiso","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["基礎知識・審査・法律","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+a:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L11","$L12","$L13","$L14"]}]}],"$L15"]}]}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"基礎知識・審査・法律\",\"item\":\"https://corp-factoring.com/topics/kiso\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ファクタリングは銀行融資に影響する？知られる経路と通帳履歴の説明方法\",\"item\":\"https://corp-factoring.com/articles/article-factoring-ginkou-yuushi-eikyou\"}]}"}}]
+c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングは銀行融資に影響する？知られる経路と通帳履歴の説明方法\",\"description\":\"ファクタリングは銀行融資に影響する？知られる経路と通帳履歴の説明方法について、公式情報や公的資料をもとに解説しています。\",\"dateModified\":\"2026-10-31\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-ginkou-yuushi-eikyou\"}}"}}]
+d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"ファクタリングを使うと信用情報に記録されますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"3つの信用情報機関が公表している登録対象に、売掛金の売却を挙げた説明はありませんでした（2026年10月31日確認）。ただし、銀行は通帳や決算書も確認するため、銀行に知られないことまでは意味しません。\"}},{\"@type\":\"Question\",\"name\":\"債権譲渡登記をすると、銀行は売掛先まで分かりますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"誰でも請求できる概要記録事項証明書と登記事項概要証明書には、譲渡された債権を特定する事項は記載されません。債務者（売掛先）などを含む登記事項証明書を請求できるのは、譲渡の当事者や利害関係人などに限られます（動産・債権譲渡特例法11条・13条、法務省の案内）。\"}},{\"@type\":\"Question\",\"name\":\"銀行に聞かれなければ、利用を伝える必要はありませんか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"伝える義務を一般的に定めた公的な資料は、当サイトでは確認できていません。借入時の契約書に届出や承諾の条項がある場合はそれに従う必要があります。当サイトでは、尋ねられた場合に契約書・請求書一覧・資金繰り表で説明できるよう準備しておくことが望ましいと考えています。\"}},{\"@type\":\"Question\",\"name\":\"個人事業主のファクタリングでも債権譲渡登記はされますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"債権譲渡登記は、動産・債権譲渡特例法4条1項により「法人が」債権を譲渡した場合の制度です。ベストファクターも「個人事業主は債権譲渡登記が法的に不可のため、自動的に2社間ファクタリングでの取り扱いとなります」と記載しています（公式サイト・2026年10月31日確認）。個人事業主の場合、銀行が利用を知り得る経路は主に通帳と確定申告書になります。\"}}]}"}}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true}]
+f:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
+10:["$","$L3","article-factoring-sagi",{"href":"/articles/article-factoring-sagi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 詐欺, ファクタリング 詐欺 見分け方, ファクタリング 悪質業者"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング詐欺の手口と見分け方｜悪質業者を避けるガイド"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]
+11:["$","span",null,{"className":"text-gray-700","children":"|"}]
+12:["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}]
+13:["$","span",null,{"className":"text-gray-700","children":"|"}]
+14:["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
+15:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+18:null
