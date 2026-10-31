@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/0w2upha_b50nu.css","style"]
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo-88.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"article-factoring-tanpo","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"mxf4eJRm3x-juI7zdOi_f"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"article-factoring-tanpo","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"-XhhJTEaT48bH-nVcuD-H"}

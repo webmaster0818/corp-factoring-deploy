@@ -7,14 +7,14 @@
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
 :HL["/_next/static/chunks/0w2upha_b50nu.css","style"]
-0:{"P":null,"c":["","articles","article-factoring-zeikin",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-zeikin","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0w2upha_b50nu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0w2upha_b50nu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"mxf4eJRm3x-juI7zdOi_f"}
+0:{"P":null,"c":["","articles","article-factoring-zeikin",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-zeikin","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0w2upha_b50nu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0w2upha_b50nu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"-XhhJTEaT48bH-nVcuD-H"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],""]
 :HL["/images/articles/factoring-article.jpg","image"]
-11:T3524,<p>消費税・所得税・法人税・社会保険料の滞納は、一度始まると次の支払いと重なり、負担が増え続けやすい問題です。多くの中小企業・個人事業主が直面する課題でもあります。</p>
-<p><strong>税金の滞納があっても、ファクタリングは原則として利用できます</strong>。ただし、「差押え」が行われた場合は、状況が複雑になります。本記事では、その詳細を解説します。</p>
+11:T2953,<p>消費税・所得税・法人税・社会保険料の滞納は、一度始まると次の支払いと重なり、負担が増え続けやすい問題です。多くの中小企業・個人事業主が直面する課題でもあります。</p>
+<p><strong>税金の滞納があっても、ファクタリングに申し込める会社はあります</strong>。ただし、「差押え」が行われた場合は、状況が複雑になります。本記事では、その詳細を解説します。</p>
 <hr>
 <h2>税金滞納とファクタリングの関係</h2>
 <h3>税金滞納があってもファクタリングを利用できる理由</h3>
@@ -37,14 +37,14 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <tbody>
 <tr>
 <td>滞納のみ（差押えなし）</td>
-<td>多くのサービスで利用できる</td>
+<td>滞納があっても利用可と公式に記載している会社がある</td>
 </tr>
 <tr>
 <td>督促状が届いている</td>
 <td>利用できる（一部サービスでは確認が必要）</td>
 </tr>
 <tr>
-<td><strong>差押え（強制執行）</strong></td>
+<td><strong>差押え（滞納処分）</strong></td>
 <td><strong>売掛金が差押えの対象の場合は利用できない</strong></td>
 </tr>
 <tr>
@@ -56,172 +56,27 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <hr>
 <h2>差押えとファクタリングの関係</h2>
 <h3>売掛金への差押えとは</h3>
-<p>税務署・自治体が滞納者に対して強制執行を行う場合、<strong>売掛金（請求書）が差押えの対象</strong>となることがあります。</p>
+<p>税務署・自治体が滞納処分を行う場合、<strong>売掛金（請求書）が差押えの対象</strong>となることがあります（国税徴収法47条1項）。</p>
 <p><strong>差押えの流れ：</strong></p>
 <ol>
 <li>滞納の通知・督促状</li>
 <li>財産の調査（銀行口座・売掛金等）</li>
-<li>差押えの命令（売掛先に送達）</li>
-<li>売掛金が税務署等に直接入金される</li>
+<li>債権差押通知書が売掛先に送達され、その時に差押えの効力が生じる（国税徴収法62条1項・3項）</li>
+<li>徴収職員が売掛先から売掛金を取り立てる（同法67条1項）</li>
 </ol>
 <p>売掛金が差押えを受けている場合、その請求書はファクタリングに利用できません。ただし、<strong>差押えの対象になっていない別の売掛金</strong>であれば、利用できます。</p>
 <h3>差押え前であれば利用できる可能性がある</h3>
-<p>差押えが実際に執行される前の段階（督促状・催告状の段階）であれば、多くのファクタリングサービスで利用できます。</p>
+<p>差押えを受ける前の段階（督促状・催告状の段階）であれば、売掛金をファクタリングに利用できる可能性があります。</p>
 <p><strong>重要：</strong> 税金滞納が差押えに発展する前に、早めにファクタリングの利用を検討してください。</p>
 <hr>
-<h2>税金滞納に対応しているファクタリング会社</h2>
-<h3>1. メンターキャピタル — 税金滞納への対応を明示</h3>
-<table>
-<thead>
-<tr>
-<th>項目</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>手数料</strong></td>
-<td>非公示（要見積もり・買取率最大98%表記）</td>
-</tr>
-<tr>
-<td><strong>入金スピード</strong></td>
-<td>最短即日</td>
-</tr>
-<tr>
-<td><strong>審査通過率</strong></td>
-<td>92%（2023年1〜12月実績・公式表示）</td>
-</tr>
-<tr>
-<td><strong>税金滞納への対応</strong></td>
-<td><strong>◎ 明示的に対応</strong></td>
-</tr>
-<tr>
-<td><strong>最低金額</strong></td>
-<td>30万円〜</td>
-</tr>
-</tbody>
-</table>
-<p>税金滞納・赤字決算でも対応できることを公式に明示しているサービスです。他社で断られた案件への対応実績があるとしています。税理士・弁護士と連携し、経営の再建を支援する方針も示しています。</p>
-<h3>2. アクセルファクター — 個別相談で状況を確認</h3>
-<table>
-<thead>
-<tr>
-<th>項目</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>手数料</strong></td>
-<td>2社間1〜12%／3社間0.5〜10.5%</td>
-</tr>
-<tr>
-<td><strong>入金スピード</strong></td>
-<td>最短2時間（公式コラム）。審査結果は最短1時間（公式FAQ）</td>
-</tr>
-<tr>
-<td><strong>審査通過率</strong></td>
-<td>93%超（公式コラム）</td>
-</tr>
-<tr>
-<td><strong>税金滞納への対応</strong></td>
-<td>相談可（公式コラム）</td>
-</tr>
-<tr>
-<td><strong>最低金額</strong></td>
-<td>30万円（公式コラム）</td>
-</tr>
-</tbody>
-</table>
-<p>公式FAQでは、赤字決算でも利用でき、他社を利用中でも審査を受けられるとしています。税金の滞納については、公式コラム「法人向けファクタリングおすすめ20選」が「赤字決算や税金の滞納がある法人でも相談しやすい体制が整えられています」と記載しています（<a href="https://accelfacter.co.jp/column/factoring/factoring-corporation/">公式コラム</a>・2026年10月25日確認）。公式FAQには税金滞納の項目がなく、利用できるかどうかは審査で決まるため、申し込み時に滞納の状況を事実どおりに伝えて確認してください。</p>
-<h3>3. ベストファクター — 少額に対応</h3>
-<table>
-<thead>
-<tr>
-<th>項目</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>手数料</strong></td>
-<td>2%〜20%</td>
-</tr>
-<tr>
-<td><strong>入金スピード</strong></td>
-<td>最短6時間（2社間・必要書類が揃っている場合）</td>
-</tr>
-<tr>
-<td><strong>審査通過率</strong></td>
-<td>92.2%</td>
-</tr>
-<tr>
-<td><strong>税金滞納への対応</strong></td>
-<td>○</td>
-</tr>
-<tr>
-<td><strong>最低金額</strong></td>
-<td>30万円以上（公式FAQ）</td>
-</tr>
-</tbody>
-</table>
-<p>公式FAQでは、売掛債権の請求額30万円以上から利用できます（公式トップには「10万円〜」の表記もあります）。審査通過率は92.2%で、税金滞納の案件にも柔軟に対応しています。</p>
-<h3>4. ビートレーディング — 業界大手</h3>
-<table>
-<thead>
-<tr>
-<th>項目</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>手数料</strong></td>
-<td>2社間4%〜／3社間2%〜（上限は公式に記載なし）</td>
-</tr>
-<tr>
-<td><strong>入金スピード</strong></td>
-<td>最短2時間</td>
-</tr>
-<tr>
-<td><strong>累計実績</strong></td>
-<td>91,000社以上</td>
-</tr>
-<tr>
-<td><strong>税金滞納への対応</strong></td>
-<td>○（個別相談）</td>
-</tr>
-</tbody>
-</table>
-<p>累計91,000社の実績があります。税金滞納の状況を事前に相談することで、対応の可否・条件を確認できます。</p>
-<h3>5. 日本中小企業金融サポート機構 — 非営利・経営支援</h3>
-<table>
-<thead>
-<tr>
-<th>項目</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>手数料</strong></td>
-<td>1.5%〜（上限は公式に記載なし）</td>
-</tr>
-<tr>
-<td><strong>入金スピード</strong></td>
-<td>最短3時間</td>
-</tr>
-<tr>
-<td><strong>運営</strong></td>
-<td>非営利団体</td>
-</tr>
-<tr>
-<td><strong>税金滞納への対応</strong></td>
-<td>○</td>
-</tr>
-</tbody>
-</table>
-<p>非営利団体として中小企業の経営支援を目的としており、税金滞納に陥った企業に対しても、資金調達の支援と経営改善の支援を組み合わせて対応しています。</p>
+<h2>税金・社会保険料の未納について公式に記載している会社</h2>
+<p>当サイトの確認データ（公式の出典がある事実の欄）で、税金・社会保険料の滞納や未納の扱いに触れているのは次の3社です（いずれも公式サイト・2026年10月31日確認）。</p>
+<ul>
+<li><a href="/companies/rfd/">RFD株式会社</a>：赤字・租税公課の未納や滞納があっても利用可</li>
+<li><a href="/companies/kaisoku/">買速</a>：赤字決算・税金滞納中・リスケ中でも利用可とする記載</li>
+<li><a href="/companies/gmo-btob-hayabarai/">GMO BtoB早払い</a>：税金や社会保険料の未納があり分納手続きをしていない場合は買取不可（法人のみ）</li>
+</ul>
+<p>ほかの会社は、滞納の扱いを公式に記載していません。申込時に滞納の状況を事実どおりに伝えて確認してください。</p>
 <hr>
 <h2>税金滞納の解決に向けたファクタリングの活用方法</h2>
 <h3>納税資金としてのファクタリング</h3>
@@ -256,22 +111,22 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>ファクタリングは緊急の資金確保に有効ですが、税金滞納の根本的な原因（慢性的な資金不足・売上不振等）を解消しない限り、状況は改善しません。ファクタリングの利用を機に、資金繰り全体の見直しを進めてください。</p>
 <hr>
 <h2>まとめ</h2>
-<p>税金滞納があっても、ファクタリングは多くの場合に利用できます。ただし、売掛金に差押えが行われている場合は、利用が困難になります。</p>
+<p>税金滞納があっても、ファクタリングに申し込める会社はあります。ただし、売掛金に差押えが行われている場合は、利用が困難になります。</p>
 <p><strong>税金滞納の状況別の対応：</strong></p>
 <ul>
-<li><strong>督促状のみ</strong>：多くのサービスで利用できる</li>
-<li><strong>滞納が継続中（差押えなし）</strong>：税金滞納でも利用できると公式に表示しているメンターキャピタルなどに相談する</li>
+<li><strong>督促状のみ</strong>：差押えを受けていない売掛金であれば、申し込める会社がある</li>
+<li><strong>滞納が継続中（差押えなし）</strong>：滞納があっても利用可と公式に記載しているRFD株式会社・買速などに、状況を伝えて相談する。あわせて税務署に猶予制度を相談する</li>
 <li><strong>差押えの通知を受けている</strong>：専門家（税理士・弁護士）に相談する</li>
 </ul>
-<p>税金滞納の状況にある場合は、税金滞納への対応を明示している<strong>メンターキャピタル</strong>への相談を検討してください。</p>
+<p>税金滞納の状況にある場合は、まず所轄の税務署の徴収担当に猶予制度を相談し、ファクタリングを検討する場合は滞納の扱いを公式に記載している会社に状況を伝えて確認してください。</p>
 <hr>
 <h2>よくある質問</h2>
 <p><strong>Q. 消費税を半年以上滞納していますが、ファクタリングを利用できますか？</strong>
-A. 差押えが行われていなければ、多くのファクタリングサービスで利用できます。税金滞納でも利用できると公式に表示しているメンターキャピタルなどに、状況を事実どおりに伝えて相談してください。</p>
+A. 差押えを受けていない売掛金であれば、申し込める会社があります。当サイトの確認データでは、RFD株式会社と買速が滞納があっても利用可と記載し、GMO BtoB早払いは分納手続きをしていない未納がある場合は買取不可としています（2026年10月31日確認）。状況を事実どおりに伝えて相談してください。</p>
 <p><strong>Q. 税金滞納中にファクタリングで資金化した場合、その資金は差し押さえられますか？</strong>
 A. ファクタリングで入金された資金（銀行口座内の預金）は、税務署から差押えを受ける可能性があります。資金化した後は、速やかに税金の納付等に充てることをおすすめします。</p>
 <p><strong>Q. 社会保険料の滞納がある場合も、ファクタリングを利用できますか？</strong>
-A. 税金滞納と同様に、社会保険料の滞納がある場合も、差押えがない限り、ファクタリングは原則として利用できます。</p>
+A. 会社によって扱いが異なります。GMO BtoB早払いは、税金や社会保険料の未納があり分納手続きをしていない場合は買取不可と公式に記載しています（2026年10月31日確認）。申込時に滞納の状況を事実どおりに伝えて確認してください。</p>
 <p><strong>Q. 税金滞納がある場合、ファクタリングの手数料は高くなりますか？</strong>
 A. 税金滞納自体は、手数料に影響しないケースが多いといえます。手数料は、主に売掛先の信用力と請求金額によって決まります。</p>
 <hr>
@@ -286,7 +141,7 @@ A. 税金滞納自体は、手数料に影響しないケースが多いとい�
 </ul>
 4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L10",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["税金滞納でもファクタリングは利用できるか｜審査への影響と対処","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"税金滞納でもファクタリングは利用できるか｜審査への影響と対処法【2026年】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"税金滞納でもファクタリングは利用できるか｜審査への影響と対処法【2026年】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":["更新日: ","2026年10月31日"]}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 税金滞納, 税金 滞納 資金調達"}]]}],null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14",false,"$L15","$L16"]}],"$L17","$L18","$L19",false]}]
 :HL["/images/logo-88.webp","image"]
-12:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L10",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","accel-factor",{"children":["$","$L10",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":["アクセルファクター","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L10",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","support-kinyu",{"children":["$","$L10",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":["日本中小企業金融サポート機構","の口コミ・評判・手数料 →"]}]}],["$","li","mentor-capital",{"children":["$","$L10",null,{"href":"/companies/mentor-capital/","className":"text-blue-600 hover:underline","children":["メンターキャピタル","の口コミ・評判・手数料 →"]}]}]]}]]}]
+12:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","rfd",{"children":["$","$L10",null,{"href":"/companies/rfd/","className":"text-blue-600 hover:underline","children":["RFD株式会社","の口コミ・評判・手数料 →"]}]}],["$","li","kaisoku",{"children":["$","$L10",null,{"href":"/companies/kaisoku/","className":"text-blue-600 hover:underline","children":["買速","の口コミ・評判・手数料 →"]}]}],["$","li","gmo-btob-hayabarai",{"children":["$","$L10",null,{"href":"/companies/gmo-btob-hayabarai/","className":"text-blue-600 hover:underline","children":["GMO BtoB早払い","の口コミ・評判・手数料 →"]}]}]]}]]}]
 13:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","no1",{"href":"/companies/no1","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"株式会社No.1"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","0.5%〜15%"," ／ ","最短30分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","safe-trust",{"href":"/companies/safe-trust","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"セーフトラスト"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","ace-trust",{"href":"/companies/ace-trust","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"エーストラスト"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜15%"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 14:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
 15:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-factoring-invoice-mitouroku",{"href":"/articles/article-factoring-invoice-mitouroku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング インボイス 未登録, ファクタリング 免税事業者, ファクタリング インボイス 影響"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"インボイス未登録でもファクタリングは使える？審査と手数料への影響"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-kanjokamoku",{"href":"/articles/article-factoring-kanjokamoku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 勘定科目, ファクタリング 仕訳 方法"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの勘定科目・仕訳方法を解説｜2社間・3社間別パターンあり【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-shiwake",{"href":"/articles/article-factoring-shiwake","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 仕訳, ファクタリング 勘定科目"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの仕訳・会計処理を解説｜勘定科目・消費税・決算書への影響"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-kessansho",{"href":"/articles/article-factoring-kessansho","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 決算書 影響"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングは決算書にどのように影響するか｜BS・PL への計上方法と注意点"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-houjinzei",{"href":"/articles/article-factoring-houjinzei","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 法人税"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングと法人税の関係｜損金算入の可否と節税効果"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-shouhizei",{"href":"/articles/article-factoring-shouhizei","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$L1a","$L1b","$L1c"]}]]}]]}]
