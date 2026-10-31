@@ -1,0 +1,256 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],""]
+18:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+:HL["/images/articles/factoring-article.jpg","image"]
+:HL["/images/logo-88.webp","image"]
+4:T644a,<p>ファクタリングに使う請求書に専用の書き方はなく、売掛先に実際に交付した請求書を、消費税法の記載事項と各社が公式に示す条件に照らして整えたものを提出します。記載に誤りがあれば、発行者が修正した請求書を売掛先に交付し直し、その写しを提出するのが正しい直し方です。</p>
+<p>本記事では、適格請求書（インボイス）の記載事項を消費税法57条の4と国税庁の案内で確認し、そのうえでファクタリング会社が公式に示している請求書の条件を、当サイトの確認データから分けて掲載します。法令で求められる項目と、ファクタリング会社が確認する項目は一致しないため、両方を見比べておくと準備に役立ちます。なお、審査の結果は請求書の書き方だけでなく売掛先の信用力なども含めて各社が判断するため、請求書を整えても審査の通過が約束されるものではありません。審査全体の基準は<a href="/articles/article-factoring-shinsa/">ファクタリングの審査基準</a>をご覧ください。</p>
+<h2>ファクタリングに出す請求書は「売掛先に交付した請求書」です</h2>
+<p>ファクタリングで売却するのは請求書という紙ではなく、請求書が示す売掛債権です。そのため、提出する請求書は、売掛先にすでに交付した（または交付する）請求書と同じ内容でなければなりません。ファクタリング会社に出すためだけに別の請求書を作ったり、提出用の写しだけ金額や日付を変えたりすることは、後述のとおり法令違反に当たるおそれがあります。</p>
+<p>各社が審査で求める書類のうち、請求書以外の書類（通帳の入出金明細や本人確認書類など）の数については、<a href="/articles/article-factoring-seikyusho-nomi/">請求書のみで申し込めるファクタリング</a>と<a href="/articles/article-factoring-hitsuyou-shorui/">ファクタリングの必要書類</a>で扱っています。本記事は、請求書そのものの記載内容に絞っています。</p>
+<h2>請求書の記載項目：法令上の要否とファクタリング審査との関係</h2>
+<p>適格請求書発行事業者が交付する適格請求書の記載事項は、消費税法57条の4第1項に6つ定められています。国税庁のタックスアンサー No.6625「適格請求書等の記載事項」も、同じ6項目を挙げています。一方、ファクタリング会社が公式に示す請求書の条件には、法令の記載事項にない「支払期日」や「振込口座」が含まれます。</p>
+<p>下表の「ファクタリング審査との関係」の列は、当サイトの確認データ（各社の公式サイトで確認した事実）に記載があるものだけを会社名付きで書き、記載がないものは「公式記載なし」としたうえで、当サイトの解釈を分けて記載しています。</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>法令上の要否（インボイスの場合）</th>
+<th>ファクタリング審査との関係</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>発行者（自社）の氏名または名称</td>
+<td>必要（消費税法57条の4第1項1号）</td>
+<td>項目を指定する公式記載なし。当サイトの解釈：申込者と請求書の発行者が同じであることが前提になるため、登記上の商号や屋号と一致させておく</td>
+</tr>
+<tr>
+<td>登録番号（T＋13桁）</td>
+<td>適格請求書発行事業者は必要（同項1号）。登録していない事業者は記載しない</td>
+<td>登録番号を条件とする公式記載は、当サイトの確認データにはありません</td>
+</tr>
+<tr>
+<td>取引年月日</td>
+<td>必要（同項2号）。まとめて請求する場合はその期間</td>
+<td>公式記載なし。FREENANCEは「請求日」の記載を必須としており、取引年月日とは別の項目です</td>
+</tr>
+<tr>
+<td>取引の内容</td>
+<td>必要（同項3号）。軽減税率の対象品目はその旨も</td>
+<td>公式記載なし。当サイトの解釈：発注書・納品書と照合できる品名や件名にしておくと、取引の確認が進めやすくなります</td>
+</tr>
+<tr>
+<td>税率ごとに区分した合計額と適用税率</td>
+<td>必要（同項4号）</td>
+<td>FREENANCEは「請求金額」の記載を必須としています。金額の下限を設ける会社もあります（次の表）</td>
+</tr>
+<tr>
+<td>税率ごとに区分した消費税額等</td>
+<td>必要（同項5号）</td>
+<td>公式記載なし</td>
+</tr>
+<tr>
+<td>交付を受ける事業者（売掛先）の氏名または名称</td>
+<td>必要（同項6号）</td>
+<td>FREENANCEは「請求先会社名」の記載を必須としています。売掛先を法人などに限る会社もあります（次の表）</td>
+</tr>
+<tr>
+<td>支払期日</td>
+<td>消費税法の記載事項ではない</td>
+<td>FREENANCEは「振込期限」の記載を必須としています。期日までの日数に条件を設ける会社、期日を過ぎた請求書を対象外とする会社があります（次の表）</td>
+</tr>
+<tr>
+<td>振込先口座</td>
+<td>消費税法の記載事項ではない</td>
+<td>FREENANCEは「振込口座」の記載を必須としています</td>
+</tr>
+<tr>
+<td>押印</td>
+<td>消費税法の記載事項ではない</td>
+<td>押印を条件とする公式記載は、当サイトの確認データにはありません</td>
+</tr>
+</tbody>
+</table>
+<p>FREENANCEの記載必須項目は、公式のよくある質問で「請求金額・請求日・振込期限・請求先会社名・振込口座」とされています（公式サイト・2026年10月31日確認）。</p>
+<p>法令の記載事項について、補足が3点あります。1点目に、記載事項は請求書1枚にすべてそろっている必要はありません。国税庁「消費税の仕入税額控除制度における適格請求書等保存方式に関するQ＆A」（以下、国税庁Q&#x26;A）問65は、一の書類のみで全ての記載事項を満たす必要はなく、請求書に納品書番号を記載するなどして複数の書類相互の関連が明確であれば、その複数の書類の全体で記載事項を満たすことになるとしています。また、国税庁は、一定期間の取引をまとめて記載する方法や、商品名を包括的に記載する方法なども認められるとしています（タックスアンサー No.6625）。2点目に、インボイスの場合は、消費税法57条の4第5項により、適格請求書発行事業者は紙で交付する代わりに電子データで提供することもできます。3点目に、登録番号の構成は「T」に法人番号（数字13桁）を付けたもの、個人事業者などは「T」に数字13桁を付けたものです（国税庁Q&#x26;A 問18）。</p>
+<h2>登録番号を書くときに確認すること</h2>
+<p>インボイスの登録をしていない事業者でも、適格請求書の記載事項を満たさない請求書を交付することは、これまでと同様に可能です（国税庁Q&#x26;A 問26－2）。ファクタリングとインボイス登録の関係は、<a href="/articles/article-factoring-invoice-mitouroku/">インボイス未登録でもファクタリングは使えるか</a>と<a href="/articles/article-factoring-shouhizei/">ファクタリングと消費税</a>で扱っています。</p>
+<p>注意が必要なのは、登録番号の書き方です。消費税法57条の5は、適格請求書発行事業者以外の者が適格請求書であると誤認されるおそれのある表示をした書類を交付することと、適格請求書発行事業者が偽りの記載をした適格請求書を交付することを禁じています。違反した場合は、同法65条4号により1年以下の拘禁刑または50万円以下の罰金の対象になります。国税庁Q&#x26;Aは、誤認されるおそれのある書類の例として、登録番号と類似した英数字や、自身のものではない登録番号を記載した書類を挙げています。</p>
+<p>登録番号は、国税庁の「適格請求書発行事業者公表サイト」で検索できます。請求書のひな形に入れた番号が自社の番号と一致しているか、一度照合しておくと記載ミスを防げます。</p>
+<h2>各社が公式に示している請求書の条件</h2>
+<p>当サイトの確認データ（editorialVerification）の事実欄に、請求書の支払期日または記載項目の条件が公式記載として載っている会社は7社です。この7社を、会社名の五十音順で掲載します。条件の厳しさや使いやすさによる順位付けは行っていません。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>支払期日の条件</th>
+<th>請求先（売掛先）の条件</th>
+<th>金額・提出の単位</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/invoice-pay/">インボイスPay</a></td>
+<td>支払期限を過ぎた請求書は対象外</td>
+<td>売掛先が個人事業主の債権は対象外</td>
+<td>債権金額20万円未満は対象外</td>
+<td>公式サイト・2026年10月31日確認</td>
+</tr>
+<tr>
+<td><a href="/companies/olta/">OLTA</a></td>
+<td>入金期日が申込日から6営業日以上かつ6ヶ月以内</td>
+<td>国内登記の法人または公的機関のみ</td>
+<td>買取金額の上限・下限なし。全額または一部の買取が可能</td>
+<td>公式サイト・2026年10月31日確認</td>
+</tr>
+<tr>
+<td><a href="/companies/ququmo/">QuQuMo</a></td>
+<td>入金日が確定しているもの。入金日を過ぎたものは不可</td>
+<td>公式記載なし（当サイトの確認データ）</td>
+<td>請求書は請求金額・入金日が確定しているもの</td>
+<td>公式サイト・2026年10月31日確認</td>
+</tr>
+<tr>
+<td><a href="/companies/bion/">バイオン</a></td>
+<td>支払期日を過ぎた請求書は不可</td>
+<td>売掛先が個人でも申請可（売掛先は国内のみ）</td>
+<td>5万円（税込）から。請求書は1枚ずつ申請し、一部金額のみの申請も可</td>
+<td>公式サイト・2026年10月31日確認</td>
+</tr>
+<tr>
+<td><a href="/companies/freenance/">FREENANCE</a></td>
+<td>支払期日が買取申込日から105日以内</td>
+<td>内国法人または日本に支店のある外国法人のみ（個人宛は不可）</td>
+<td>額面1万円から。一部金額のみの利用も可</td>
+<td>公式サイト・2026年10月31日確認</td>
+</tr>
+<tr>
+<td><a href="/companies/paytoday/">PayToday</a></td>
+<td>最大90日後の請求書の買取に対応</td>
+<td>売掛先の種類の条件は公式記載なし（当サイトの確認データ）</td>
+<td>1回の提出は請求書5枚まで</td>
+<td>公式サイト・2026年10月31日確認</td>
+</tr>
+<tr>
+<td><a href="/companies/mentor-capital/">メンターキャピタル</a></td>
+<td>支払期日を過ぎた債権は対象外</td>
+<td>売掛先が個人経営の債権は対象外</td>
+<td>公式記載なし（当サイトの確認データ）</td>
+<td>公式サイト・2026年10月14日確認</td>
+</tr>
+</tbody>
+</table>
+<p>この表から分かるのは、支払期日が「書いてあるか」だけでなく「いつか」も条件になる場合があることです。期日を過ぎた請求書を対象外と明記している会社が4社（インボイスPay・QuQuMo・バイオン・メンターキャピタル）あり、OLTAは入金期日が申込日から6営業日以上先であることを条件としています。また、期日が先の請求書にも上限を設ける会社が3社（OLTA 6ヶ月以内、FREENANCE 105日以内、PayToday 最大90日後）あります。</p>
+<p>このほか、支払期日ではなく売掛先の種類に条件を設ける会社もあります。たとえば、セーフトラストは法人が取引先となる請求書のみを買い取るとしています（公式サイト・2026年10月14日確認）。売掛先の見られ方は<a href="/articles/article-factoring-shinsa/">ファクタリングの審査基準</a>をご覧ください。</p>
+<h2>よくある請求書の不備と直し方</h2>
+<p>ここでは、上の2つの表に照らして見つかりやすい不備と、その直し方を整理します。直し方の原則は、どの不備でも「発行者として正しい請求書を作り、売掛先に交付し直す」ことです。</p>
+<h3>支払期日が書かれていない</h3>
+<p>支払期日は消費税法の記載事項ではないため、インボイスの要件を満たしていても空欄の場合があります。一方、FREENANCEは振込期限の記載を必須とし、QuQuMoは請求金額と入金日が確定している請求書を条件としているなど（公式サイト・2026年10月31日確認）、ほかの会社も期日を条件にしています。期日は、売掛先との契約書や発注書で決まっている支払条件に合わせて記載し、追記した請求書を売掛先に送り直します。売掛先と合意していない日付を、提出用の写しだけに書き込むことはしないでください。</p>
+<h3>支払期日がすでに過ぎている</h3>
+<p>期日を過ぎた請求書は、上の表の4社が対象外と明記しており、OLTAも入金期日が申込日から6営業日以上先であることを条件としています。これは書き方で直せる不備ではありません。期日を過ぎても入金がない場合は、まず売掛先に支払状況を確認してください。期日の延長に合意した場合でも、延長の合意を書面で残し、売掛先との間で請求書を出し直すのが筋で、発行者が一方的に日付を変えることは避けてください。</p>
+<h3>請求先の名称が正式名称になっていない</h3>
+<p>略称や部署名だけの宛名は、法令上の記載事項（交付を受ける事業者の氏名または名称）としても確認しづらくなります。当サイトの解釈ですが、売掛先の契約書や発注書に記載された正式な名称にそろえておくと、取引の確認が進めやすくなります。</p>
+<h3>金額や消費税額が発注書・納品書と合わない</h3>
+<p>単価・数量の誤りや消費税額の計算誤りは、修正した請求書を交付して直します。手順は次の節で説明します。</p>
+<h3>取引の内容が「一式」だけになっている</h3>
+<p>国税庁は、商品名を包括的に記載する方法も、課税資産の譲渡等に当たることが明らかであれば認められるとしています（タックスアンサー No.6625）。そのため、法令上は「一式」が直ちに不備になるわけではありません。ただし、ラボルは必要書類に「取引を示すエビデンス（取引先とのメール・チャット、通帳の入出金履歴、発注書など）」を（公式サイト・2026年10月26日確認）、エーストラストは必要書類に「請求書（発注書・請書・納品書など）」を挙げています（公式サイト・2026年10月14日確認）。当サイトの解釈として、件名に発注書の番号や案件名を入れておくと、取引の書類と照合しやすくなります。</p>
+<h3>請求書を売掛先に送った記録がない</h3>
+<p>FREENANCEは、任意・推奨の審査エビデンスとして「請求書送付/受領履歴」を挙げています（公式サイト・2026年10月31日確認）。メールで送付した場合は送信履歴を、郵送した場合は控えを残しておくと、提出を求められたときに対応できます。</p>
+<h2>不備の正しい直し方：発行者が修正した請求書を交付し直す</h2>
+<p>消費税法57条の4第4項は、適格請求書を交付した事業者が、記載事項に誤りがあった場合には、修正した適格請求書を交付しなければならないと定めています。電子データで提供した場合も同じです（同条第5項）。国税庁Q&#x26;A 問33は、修正した請求書の交付方法として、次の2つを例示しています。</p>
+<ol>
+<li>誤りがあった事項を修正し、改めて記載事項のすべてを記載したものを交付する方法</li>
+<li>当初に交付したものとの関連性を明らかにし、修正した事項を明示したものを交付する方法</li>
+</ol>
+<p>修正した請求書を交付した事業者は、当初に交付した請求書の写しと、修正した請求書の写しの両方を保存する必要があります（同問33、消費税法57条の4第6項）。また、請求書を受け取った側（売掛先）は、原則として自ら追記や修正を行うことはできず、売手に修正した請求書の交付を求めます。このほか、買手が誤りを修正した仕入明細書等を作成し、売手の確認を受けて保存する方法も示されています（同Q&#x26;A 問92）。インボイスに登録していない事業者の請求書には57条の4の修正義務は及びませんが、誤りを直す方法として同じ手順をとることができます。</p>
+<p>ファクタリングを申し込む前に誤りに気づいた場合の進め方を、例として整理します。</p>
+<p>例：4月分として税抜100万円と記載した請求書を売掛先に交付した後、正しくは税抜110万円だったと分かった場合（仮定）</p>
+<table>
+<thead>
+<tr>
+<th>手順</th>
+<th>行うこと</th>
+<th>根拠・理由</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>売掛先に誤りを連絡し、正しい金額を確認する</td>
+<td>請求額は売掛先との取引条件で決まるため</td>
+</tr>
+<tr>
+<td>2</td>
+<td>修正した請求書を作成する（全項目を書き直すか、当初の請求書の日付と番号を示して修正箇所を明示する）</td>
+<td>国税庁Q&#x26;A 問33</td>
+</tr>
+<tr>
+<td>3</td>
+<td>修正した請求書を売掛先に交付する</td>
+<td>消費税法57条の4第4項（登録事業者の場合）</td>
+</tr>
+<tr>
+<td>4</td>
+<td>当初の請求書と修正した請求書の写しを保存する</td>
+<td>消費税法57条の4第6項・国税庁Q&#x26;A 問33</td>
+</tr>
+<tr>
+<td>5</td>
+<td>ファクタリング会社には修正した請求書を提出し、修正の経緯を伝える</td>
+<td>当サイトの解釈：提出書類と売掛先の手元の請求書を一致させるため</td>
+</tr>
+</tbody>
+</table>
+<p>すでにファクタリングの契約を結んだ後に誤りが分かった場合は、自己判断で請求書を出し直す前に、契約しているファクタリング会社に連絡してください。債権の内容が変わるため、契約の扱いを確認する必要があります。契約後の対応は<a href="/articles/article-factoring-keiyaku/">ファクタリングの契約の流れと注意点</a>もご覧ください。</p>
+<h2>請求書の書き換え・架空の請求書は法令違反に当たるおそれがあります</h2>
+<p>資金が急ぎで必要な場面でも、請求書の金額・日付・宛名を事実と異なるように書き換えたり、取引のない請求書を作ったりしてファクタリングを申し込むことは、法令違反に当たるおそれがあります。e-Gov法令検索で確認した条文は次のとおりです。</p>
+<ul>
+<li><strong>刑法246条（詐欺）</strong>：人を欺いて財物を交付させた者は、10年以下の拘禁刑。取引のない請求書や金額を水増しした請求書でファクタリング会社から代金を受け取る行為は、この罪に問われるおそれがあります</li>
+<li><strong>刑法159条（私文書偽造等）</strong>：行使の目的で、他人の印章や署名を使用して権利・義務・事実証明に関する文書を偽造した者は3月以上5年以下の拘禁刑（1項）、他人が押印・署名した文書を変造した者も同じ刑（2項）、それ以外の方法で偽造・変造した者は1年以下の拘禁刑または10万円以下の罰金（3項）に処せられます。条文には電子データの文書（電磁的記録文書等）も含まれています。売掛先など他人が作成した発注書や検収書を作り直したり書き換えたりする行為は、この罪に問われるおそれがあります</li>
+<li><strong>刑法161条（偽造私文書等行使）</strong>：偽造・変造した文書を提出（行使）した者も、偽造した者と同一の刑に処せられます</li>
+<li><strong>消費税法57条の5・65条</strong>：偽りの記載をした適格請求書の交付などは禁止され、1年以下の拘禁刑または50万円以下の罰金の対象です</li>
+</ul>
+<p>ファクタリング会社の側も対応を明記しています。たとえばPMGは、償還請求権のない売買取引としたうえで、請求書・注文書の偽造等が見られる場合は措置をとるとしています（公式サイト・2026年10月31日確認）。</p>
+<p>同じ請求書を複数の会社に売る二重譲渡の法的責任は<a href="/articles/article-factoring-nijuujouto/">ファクタリングの二重譲渡</a>、利用者が加担させられる手口は<a href="/articles/article-factoring-sagi/">ファクタリング詐欺の手口と見分け方</a>、業者側の違法性の見分け方は<a href="/articles/article-factoring-ihou/">ファクタリングは違法か</a>で扱っています。「書類はこちらで用意する」などと請求書の作成や書き換えを持ちかける業者とは、取引をしないでください。</p>
+<h2>よくある質問</h2>
+<p><strong>Q: ファクタリング用に請求書を作り直してもよいですか？</strong>
+A: 売掛先に交付した請求書と異なる内容の請求書を、ファクタリング会社に出すためだけに作ることはできません。記載に誤りがある場合は、発行者として修正した請求書を売掛先に交付し直し、その写しを提出してください。適格請求書発行事業者には、消費税法57条の4第4項で修正した請求書の交付が義務付けられています。</p>
+<p><strong>Q: 支払期日が書かれていない請求書でも申し込めますか？</strong>
+A: 支払期日は消費税法の記載事項ではありませんが、FREENANCEは振込期限の記載を必須としており、QuQuMoは入金日が確定している請求書を条件とし、OLTAやFREENANCEなどは期日までの日数に条件を設けています（公式サイト・2026年10月31日確認）。売掛先との契約で決まっている支払条件に合わせて期日を記載し、その請求書を売掛先に送り直してから申し込んでください。</p>
+<p><strong>Q: インボイスの登録番号がない請求書は審査で不利になりますか？</strong>
+A: 当サイトの確認データには、登録番号の記載を審査の条件とする公式記載はありません。登録していない事業者でも請求書は交付できます（国税庁Q&#x26;A 問26－2）。ただし、登録していないのに登録番号に似た番号を記載した請求書を交付（電子データの場合は提供）することは、消費税法57条の5で禁止されています。</p>
+<p><strong>Q: 押印のない請求書や、PDFの請求書でも使えますか？</strong>
+A: 押印は消費税法の記載事項ではなく、当サイトの確認データにも押印を条件とする公式記載はありません。また、インボイスの場合は、消費税法57条の4第5項により、適格請求書発行事業者は請求書を電子データで提供することもできます。提出できるファイルの形式は会社ごとに異なるため、申込前に各社の公式サイトにてご確認ください。</p>
+<h2>まとめ</h2>
+<ul>
+<li>ファクタリングに使う請求書に専用の書き方はなく、売掛先に交付した請求書をそのまま提出します</li>
+<li>消費税法57条の4第1項の記載事項は6項目で、支払期日・振込口座・押印は含まれません</li>
+<li>一方、FREENANCEのように支払期日（振込期限）や振込口座の記載を必須とする会社があり、期日を過ぎた請求書を対象外とする会社もあります</li>
+<li>記載の誤りは、発行者が修正した請求書を売掛先に交付し直して直します。当初と修正後の写しは両方保存します</li>
+<li>架空・水増しの請求書でファクタリングを申し込む行為は刑法の詐欺罪や消費税法違反に、売掛先が作成した発注書・検収書などの作り直しや書き換えは私文書偽造等の罪に問われるおそれがあります</li>
+</ul>
+<p>各社の条件は変更される場合があります。ご利用前に、公式サイトにて最新情報をご確認ください。</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリング審査で確認される請求書の書き方｜記載項目と不備","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリング審査で確認される請求書の書き方｜記載項目と不備の直し方","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリング審査で確認される請求書の書き方｜記載項目と不備の直し方"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":["更新日: ","2026年10月31日"]}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 請求書 書き方, ファクタリング 請求書 不備, ファクタリング 請求書 修正"}]]}],null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc","$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"SZigy2_BXsOGrCYBpeljw"}
+5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","pmg",{"children":["$","$L3",null,{"href":"/companies/pmg/","className":"text-blue-600 hover:underline","children":["PMG","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","paytoday",{"children":["$","$L3",null,{"href":"/companies/paytoday/","className":"text-blue-600 hover:underline","children":["PayToday","の口コミ・評判・手数料 →"]}]}],["$","li","mentor-capital",{"children":["$","$L3",null,{"href":"/companies/mentor-capital/","className":"text-blue-600 hover:underline","children":["メンターキャピタル","の口コミ・評判・手数料 →"]}]}],["$","li","freenance",{"children":["$","$L3",null,{"href":"/companies/freenance/","className":"text-blue-600 hover:underline","children":["FREENANCE","の口コミ・評判・手数料 →"]}]}],["$","li","safe-trust",{"children":["$","$L3",null,{"href":"/companies/safe-trust/","className":"text-blue-600 hover:underline","children":["セーフトラスト","の口コミ・評判・手数料 →"]}]}],["$","li","ace-trust",{"children":["$","$L3",null,{"href":"/companies/ace-trust/","className":"text-blue-600 hover:underline","children":["エーストラスト","の口コミ・評判・手数料 →"]}]}],["$","li","bion",{"children":["$","$L3",null,{"href":"/companies/bion/","className":"text-blue-600 hover:underline","children":["バイオン","の口コミ・評判・手数料 →"]}]}],["$","li","invoice-pay",{"children":["$","$L3",null,{"href":"/companies/invoice-pay/","className":"text-blue-600 hover:underline","children":["インボイスPay","の口コミ・評判・手数料 →"]}]}],["$","li","olta",{"children":["$","$L3",null,{"href":"/companies/olta/","className":"text-blue-600 hover:underline","children":["OLTA","の口コミ・評判・手数料 →"]}]}]]}]]}]
+6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","mentor-capital",{"href":"/companies/mentor-capital","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"メンターキャピタル"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ennavi",{"href":"/companies/ennavi","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"えんナビ"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","5%〜（上限は要問い合わせ）"," ／ ","最短1日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","freenance",{"href":"/companies/freenance","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"FREENANCE"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","3%〜10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
+8:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-kaigyoutodoke-nashi",{"href":"/articles/article-factoring-kaigyoutodoke-nashi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 開業届 なし, ファクタリング 屋号なし, フリーランス ファクタリング 開業届"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"開業届・屋号なしの個人事業主はファクタリングできる？必要書類と審査"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kessansho-fuyou",{"href":"/articles/article-factoring-kessansho-fuyou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 決算書 不要, ファクタリング 決算書なし, ファクタリング 請求書 通帳のみ"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"決算書不要のファクタリング｜請求書と通帳だけで申し込める会社と審査の見られ方"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-tsucho-nashi",{"href":"/articles/article-factoring-tsucho-nashi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 通帳 なし, ファクタリング 通帳コピー, ファクタリング 入出金明細, ファクタリング ネットバンク"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"通帳コピーなしでファクタリングは使える？入出金明細の代替書類と注意点"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-site-120nichi",{"href":"/articles/article-factoring-site-120nichi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 120日, ファクタリング 支払いサイト 長い, ファクタリング 90日"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"支払いサイト90日・120日の売掛金はファクタリングできる？手数料と対応会社"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kakutei-shinkokusho-nashi",{"href":"/articles/article-factoring-kakutei-shinkokusho-nashi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 確定申告書 なし, ファクタリング 確定申告 してない, ファクタリング 必要書類 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"確定申告書なしでファクタリングは使える？公式表示の必要書類と代替書類"}],"$L10"]}],"$L11"]}]]}]
+9:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/kiso","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["基礎知識・審査・法律","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+a:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L12","$L13","$L14","$L15"]}]}],"$L16"]}]}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"基礎知識・審査・法律\",\"item\":\"https://corp-factoring.com/topics/kiso\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ファクタリング審査で確認される請求書の書き方｜記載項目と不備の直し方\",\"item\":\"https://corp-factoring.com/articles/article-factoring-seikyusho-kakikata\"}]}"}}]
+c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリング審査で確認される請求書の書き方｜記載項目と不備の直し方\",\"description\":\"ファクタリング審査で確認される請求書の書き方｜記載項目と不備の直し方について、公式情報や公的資料をもとに解説しています。\",\"dateModified\":\"2026-10-31\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-seikyusho-kakikata\"}}"}}]
+17:T9bf,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ファクタリング用に請求書を作り直してもよいですか？","acceptedAnswer":{"@type":"Answer","text":"売掛先に交付した請求書と異なる内容の請求書を、ファクタリング会社に出すためだけに作ることはできません。記載に誤りがある場合は、発行者として修正した請求書を売掛先に交付し直し、その写しを提出してください。適格請求書発行事業者には、消費税法57条の4第4項で修正した請求書の交付が義務付けられています。"}},{"@type":"Question","name":"支払期日が書かれていない請求書でも申し込めますか？","acceptedAnswer":{"@type":"Answer","text":"支払期日は消費税法の記載事項ではありませんが、FREENANCEは振込期限の記載を必須としており、QuQuMoは入金日が確定している請求書を条件とし、OLTAやFREENANCEなどは期日までの日数に条件を設けています（公式サイト・2026年10月31日確認）。売掛先との契約で決まっている支払条件に合わせて期日を記載し、その請求書を売掛先に送り直してから申し込んでください。"}},{"@type":"Question","name":"インボイスの登録番号がない請求書は審査で不利になりますか？","acceptedAnswer":{"@type":"Answer","text":"当サイトの確認データには、登録番号の記載を審査の条件とする公式記載はありません。登録していない事業者でも請求書は交付できます（国税庁Q&A 問26－2）。ただし、登録していないのに登録番号に似た番号を記載した請求書を交付（電子データの場合は提供）することは、消費税法57条の5で禁止されています。"}},{"@type":"Question","name":"押印のない請求書や、PDFの請求書でも使えますか？","acceptedAnswer":{"@type":"Answer","text":"押印は消費税法の記載事項ではなく、当サイトの確認データにも押印を条件とする公式記載はありません。また、インボイスの場合は、消費税法57条の4第5項により、適格請求書発行事業者は請求書を電子データで提供することもできます。提出できるファイルの形式は会社ごとに異なるため、申込前に各社の公式サイトにてご確認ください。"}}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true}]
+f:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+10:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+11:["$","$L3","article-factoring-mooshikomi-nagare",{"href":"/articles/article-factoring-mooshikomi-nagare","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 申し込み 流れ"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの申込の流れ｜5ステップで入金まで"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}]
+12:["$","span",null,{"className":"text-gray-700","children":"|"}]
+13:["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}]
+14:["$","span",null,{"className":"text-gray-700","children":"|"}]
+15:["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
+16:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+1a:null
