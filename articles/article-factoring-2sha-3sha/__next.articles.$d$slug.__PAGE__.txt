@@ -1,11 +1,11 @@
 1:"$Sreact.fragment"
 2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],"Header"]
 3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],""]
-2b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
-2c:"$Sreact.suspense"
+3d:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+3e:"$Sreact.suspense"
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo-88.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/hikaku","className":"hover:text-gray-700 transition","children":"比較・おすすめ"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["【図解】2社間ファクタリングと3社間ファクタリングの違い｜メ","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"【図解】2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を比較","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"【図解】2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を比較"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":["更新日: ","2026年11月1日"]}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"2社間ファクタリング, 3社間ファクタリング 違い"}]]}],["$","section",null,{"className":"my-8 rounded-xl border border-gray-200 bg-white p-4 md:p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C]","children":"3社間ファクタリングに対応する会社（3社間の手数料の下限が低い順）"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-gray-600","children":"公式サイトで3社間ファクタリングに対応していると確認できた会社を、3社間の手数料の下限が低い順に並べています（ページによって率の表記が異なる会社・金額別の例示だけの会社は、表示の中で最も低い率で並べ、率を公表していない会社は末尾）。2社間は、掲載43社のうち40社が対応と記載しているため表にしていません。"}],["$","div",null,{"className":"mt-3 overflow-x-auto","children":["$","table",null,{"className":"w-full min-w-[640px] border-collapse text-sm","children":[["$","thead",null,{"children":["$","tr",null,{"className":"border-b-2 border-gray-200 bg-gray-50","children":[["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"会社名"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"3社間の手数料（公式表示）"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"2社間の手数料"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"最短入金"}]]}]}],["$","tbody",null,{"children":[["$","tr","accel-factor",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":"アクセルファクター"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"0.5〜10.5%"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1〜12%"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短2時間（公式コラム。審査結果は最短1時間・公式FAQ）"}]]}],["$","tr","top-management",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/top-management/","className":"text-blue-600 hover:underline","children":"トップ・マネジメント"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"0.5%〜"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"3.5%〜（上限は公式に記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日"}]]}],["$","tr","no1",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/no1/","className":"text-blue-600 hover:underline","children":"株式会社No.1"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"0.5〜5%"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"0.5〜15%"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短30分"}]]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La"]}]]}]}],"$Lb","$Lc"]}],"$Ld"]}],false,"$Le","$Lf",false,"$L10","$L11"]}],"$L12","$L13","$L14",false]}],["$L15"],"$L16"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"cbkyVVmgi5FwWyer_NkBf"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/hikaku","className":"hover:text-gray-700 transition","children":"比較・おすすめ"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["2社間ファクタリングと3社間ファクタリングの違い｜メリット・","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を比較","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を比較"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":["更新日: ","2026年11月1日"]}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"2社間ファクタリング, 3社間ファクタリング 違い"}]]}],["$","section",null,{"className":"my-8 rounded-xl border border-gray-200 bg-white p-4 md:p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C]","children":"3社間ファクタリングに対応する会社（3社間の手数料の下限が低い順）"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-gray-600","children":"公式サイトで3社間ファクタリングに対応していると確認できた会社を、3社間の手数料の下限が低い順に並べています（ページによって率の表記が異なる会社・金額別の例示だけの会社は、表示の中で最も低い率で並べ、率を公表していない会社は末尾）。2社間は、掲載43社のうち40社が対応と記載しているため表にしていません。"}],["$","div",null,{"className":"mt-3 overflow-x-auto","children":["$","table",null,{"className":"w-full min-w-[640px] border-collapse text-sm","children":[["$","thead",null,{"children":["$","tr",null,{"className":"border-b-2 border-gray-200 bg-gray-50","children":[["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"会社名"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"3社間の手数料（公式表示）"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"2社間の手数料"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"最短入金"}]]}]}],["$","tbody",null,{"children":[["$","tr","accel-factor",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":"アクセルファクター"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"0.5〜10.5%"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1〜12%"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短2時間（公式コラム。審査結果は最短1時間・公式FAQ）"}]]}],["$","tr","top-management",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/top-management/","className":"text-blue-600 hover:underline","children":"トップ・マネジメント"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"0.5%〜"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"3.5%〜（上限は公式に記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日"}]]}],["$","tr","no1",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/no1/","className":"text-blue-600 hover:underline","children":"株式会社No.1"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"0.5〜5%"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"0.5〜15%"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短30分"}]]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La"]}]]}]}],"$Lb","$Lc"]}],"$Ld"]}],"$Le","$Lf","$L10",false,"$L11","$L12"]}],"$L13","$L14","$L15",false]}],["$L16"],"$L17"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3qyPj0aUnh_w5J2CrwN1u"}
 4:["$","tr","kaipoke-early",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/kaipoke-early/","className":"text-blue-600 hover:underline","children":"カイポケ早期入金"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"0.96%〜（別途 初回手数料5,000円・月額費用2,000円）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"公式に2社間の記載なし（国保連・社保との3社間の契約が中心と記載）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"請求から最短5営業日（請求額の80%を約1.5ヶ月前倒し・残り20%は後日）"}]]}]
 5:["$","tr","ace-trust",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/ace-trust/","className":"text-blue-600 hover:underline","children":"エーストラスト"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.0〜4.9%以内"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"5〜15%以内（公式「ご利用の流れ」表示。トップの「1%〜」は3社間の下限）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短2時間"}]]}]
 6:["$","tr","try",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/try/","className":"text-blue-600 hover:underline","children":"ファクタリングのTRY"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.2%〜（下限のみ）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"3%〜（下限のみ）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短2時間（オンライン契約）"}]]}]
@@ -13,40 +13,39 @@
 8:["$","tr","next-one",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/next-one/","className":"text-blue-600 hover:underline","children":"ネクストワン（Next One）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"公式内で表記が異なる（手数料ページ本文1.5%〜7%／同ページ比較表1.5%〜8%／FAQ平均1.5%〜4%）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"5%〜10%"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（必要書類が揃っていれば当日）"}]]}]
 9:["$","tr","jigyoshikin-agent",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/jigyoshikin-agent/","className":"text-blue-600 hover:underline","children":"事業資金エージェント"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.5%〜9%（公式FAQ）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"5%〜20%（公式FAQの通常の範囲。申込LPは「1.5%～」）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短2時間（申込LP）。FAQは500万円まで当日・1,000万円超は最短3日"}]]}]
 a:["$","tr","be-trading",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":"ビートレーディング"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"2%〜（上限は公式に記載なし。2024年度平均6.8%）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"4%〜（上限は公式に記載なし。2024年度平均10.3%）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短2時間"}]]}]
-b:["$","details",null,{"className":"mt-2","children":[["$","summary",null,{"className":"cursor-pointer text-sm text-blue-600","children":["残りの",14,"社を表示"]}],["$","div",null,{"className":"mt-3 overflow-x-auto","children":["$","table",null,{"className":"w-full min-w-[640px] border-collapse text-sm","children":[["$","thead",null,{"children":["$","tr",null,{"className":"border-b-2 border-gray-200 bg-gray-50","children":[["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"会社名"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"3社間の手数料（公式表示）"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"2社間の手数料"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"最短入金"}]]}]}],["$","tbody",null,{"children":[["$","tr","best-factor",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":"ベストファクター"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"2〜15%（買取金額で変動・公式の目安表）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"2〜20%（買取金額で変動・公式の目安表）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短6時間（2社間・必要書類が揃っている場合。3社間は数日〜1週間程度）"}]]}],["$","tr","invoice-pay",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/invoice-pay/","className":"text-blue-600 hover:underline","children":"インボイスPay"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"2.5%〜6%（2者間と同じ・公式表示）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"2.5%〜6%（公式表示の実勢手数料。売掛先の信用などにより最大10%）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（見積り最短10分）"}]]}],["$","tr","pmg",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/pmg/","className":"text-blue-600 hover:underline","children":"PMG"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"個別査定"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"個別査定（公式内で表記が異なる：手数料ページ「買取率98%（売買手数料2%）」／サイト内「売買手数料1%〜」／LP比較表「1〜10.0%」／FAQ「掛け目は通常97〜92%」）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日"}]]}],["$","tr","support-kinyu",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":"日本中小企業金融サポート機構"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"「2者間より低手数料」（率は非公示）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.5%〜（下限のみ）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短3時間（FACTOR⁺Uは最短40分）"}]]}],["$","tr","ennavi",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/ennavi/","className":"text-blue-600 hover:underline","children":"えんナビ"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"非公示"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"5%〜（上限は公式に記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短1日"}]]}],["$","tr","jtc",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/jtc/","className":"text-blue-600 hover:underline","children":"JTC"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率は公式に記載なし。公式は『取引先から事前に承諾が得られる方が手数料は安くなります』と記載）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.2〜10%（公式トップの比較表『取引先に知らせない場合の手数料率』）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（公式トップのFAQ。公式FAQページは『最短1日』。いずれも必要書類がそろっていることが前提）"}]]}],["$","tr","yen-today",{"className":"border-b border-gray-100 align-top last:border-0","children":["$L17","$L18","$L19","$L1a"]}],"$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"]}]]}]}]]}]
+b:["$","details",null,{"className":"mt-2","children":[["$","summary",null,{"className":"cursor-pointer text-sm text-blue-600","children":["残りの",14,"社を表示"]}],["$","div",null,{"className":"mt-3 overflow-x-auto","children":["$","table",null,{"className":"w-full min-w-[640px] border-collapse text-sm","children":[["$","thead",null,{"children":["$","tr",null,{"className":"border-b-2 border-gray-200 bg-gray-50","children":[["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"会社名"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"3社間の手数料（公式表示）"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"2社間の手数料"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"最短入金"}]]}]}],["$","tbody",null,{"children":[["$","tr","best-factor",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":"ベストファクター"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"2〜15%（買取金額で変動・公式の目安表）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"2〜20%（買取金額で変動・公式の目安表）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短6時間（2社間・必要書類が揃っている場合。3社間は数日〜1週間程度）"}]]}],["$","tr","invoice-pay",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/invoice-pay/","className":"text-blue-600 hover:underline","children":"インボイスPay"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"2.5%〜6%（2者間と同じ・公式表示）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"2.5%〜6%（公式表示の実勢手数料。売掛先の信用などにより最大10%）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（見積り最短10分）"}]]}],["$","tr","pmg",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/pmg/","className":"text-blue-600 hover:underline","children":"PMG"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"個別査定"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"個別査定（公式内で表記が異なる：手数料ページ「買取率98%（売買手数料2%）」／サイト内「売買手数料1%〜」／LP比較表「1〜10.0%」／FAQ「掛け目は通常97〜92%」）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日"}]]}],["$","tr","support-kinyu",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":"日本中小企業金融サポート機構"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"「2者間より低手数料」（率は非公示）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.5%〜（下限のみ）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短3時間（FACTOR⁺Uは最短40分）"}]]}],["$","tr","ennavi",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/ennavi/","className":"text-blue-600 hover:underline","children":"えんナビ"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"非公示"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"5%〜（上限は公式に記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短1日"}]]}],["$","tr","jtc",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/jtc/","className":"text-blue-600 hover:underline","children":"JTC"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率は公式に記載なし。公式は『取引先から事前に承諾が得られる方が手数料は安くなります』と記載）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.2〜10%（公式トップの比較表『取引先に知らせない場合の手数料率』）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（公式トップのFAQ。公式FAQページは『最短1日』。いずれも必要書類がそろっていることが前提）"}]]}],["$","tr","yen-today",{"className":"border-b border-gray-100 align-top last:border-0","children":["$L18","$L19","$L1a","$L1b"]}],"$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]]}]}]]}]
 c:["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-gray-500","children":["※当サイトが各社の公式サイトで確認した値です（基準日","2026年7月21日","、その後に再確認した会社は",["$","$L3",null,{"href":"/fees/","className":"text-blue-600 underline","children":"手数料比較"}],"に確認日を記載）。掲載会社が増えると、この表にも自動で追加されます。"]}]
-22:T345d,<p>ファクタリングを検討する際、最初に判断が必要になるのが、2社間と3社間のどちらを選ぶかという点です。<strong>2社間ファクタリングは取引先に知られずに最短即日で資金化できる一方、手数料が高くなります。3社間ファクタリングは手数料が安い一方、取引先の承諾が必要です。</strong></p>
-<p>この記事では、2社間と3社間の仕組みの違い、メリット・デメリット、手数料の相場を比較し、状況に応じた選び方を解説します。</p>
+23:T7938,<p>ファクタリングを検討する際、最初に判断が必要になるのが、2社間と3社間のどちらを選ぶかという点です。<strong>2社間ファクタリングは、原則として取引先に通知せずに資金化でき、最短即日の入金を表示する会社もあります。3社間ファクタリングは取引先の承諾が必要です。手数料は、当サイトで両方の率や関係を確認できた16社のうち14社が3社間を低く表示していますが、2社間と同じ率の会社もあります。</strong></p>
+<p>この記事では、2社間と3社間の仕組みの違い、メリット・デメリット、各社の公式の手数料表示を比べ、状況に応じた選び方をご説明します。</p>
 <hr>
 <h2>2社間ファクタリングの仕組み</h2>
 <p>2社間ファクタリングは、<strong>利用者とファクタリング会社の2者のみ</strong>で完結する取引です。売掛先（取引先）は関与しません。</p>
 <h3>取引の流れ</h3>
 <ol>
 <li><strong>申込:</strong> 利用者がファクタリング会社に請求書・通帳などの書類を提出する</li>
-<li><strong>審査:</strong> ファクタリング会社が売掛先の信用力を確認する（利用者の信用情報ではなく、取引先の支払い能力が重視される）</li>
+<li><strong>審査:</strong> ファクタリング会社が売掛先の信用力を確認する（売掛先の信用力を判断材料に挙げる会社があります。利用者の状況を見るかどうかは会社によって異なります）</li>
 <li><strong>契約・入金:</strong> 審査通過後、手数料を差し引いた金額が利用者の口座に振り込まれる</li>
 <li><strong>売掛金の受領:</strong> 入金期日に、売掛先から利用者に通常どおり代金が支払われる</li>
 <li><strong>ファクタリング会社への送金:</strong> 利用者が受け取った代金をファクタリング会社に送金する</li>
 </ol>
-<p><strong>売掛先には連絡が行かない</strong>点が特徴です。取引先は通常どおり利用者に代金を支払うため、ファクタリングの利用を知られることはありません。</p>
+<p><strong>売掛先には原則として連絡が行かない</strong>点が特徴です。取引先は通常どおり利用者に代金を支払うため、原則として売掛先に通知されません（例外は下の「1. 取引先に知られない」）。</p>
 <h3>2社間ファクタリングの手数料</h3>
-<p><a href="https://top-management.co.jp/faq/">トップ・マネジメントの公式FAQ</a>は、2社間ファクタリングの手数料を「一般的に8%～18%程度」と説明しています（2026年10月31日確認）。率は会社ごとに異なるため、各社の公式表示を<a href="/fees/">手数料比較</a>で確認してください。</p>
-<p>2社間の手数料が高くなる理由は、<strong>ファクタリング会社が負うリスクが大きいため</strong>です。売掛先から直接回収できないため、利用者が入金後に送金しないリスクを織り込んで、手数料が設定されます。</p>
+<p><a href="https://top-management.co.jp/faq/">トップ・マネジメントの公式のよくある質問</a>は、2社間ファクタリングの手数料を「一般的に8%～18%程度」と説明しています（2026年11月1日確認）。率は会社ごとに異なるため、各社の公式表示を<a href="/fees/">手数料比較</a>で確認してください。</p>
+<p>2社間では、ファクタリング会社は売掛先から直接回収せず、利用者を通じて代金を受け取ります。3社間との手数料の関係は、下の「3社間ファクタリングの手数料」と「同じ会社の2社間と3社間の手数料の公式表示」でご確認ください。</p>
 <hr>
 <h2>3社間ファクタリングの仕組み</h2>
 <p>3社間ファクタリングは、<strong>利用者・ファクタリング会社・売掛先の3者</strong>が関わる取引です。</p>
 <h3>取引の流れ</h3>
 <ol>
 <li><strong>申込:</strong> 利用者がファクタリング会社に請求書・書類を提出する</li>
-<li><strong>売掛先への通知:</strong> ファクタリング会社が売掛先に「債権譲渡通知」を送る</li>
-<li><strong>売掛先の承諾:</strong> 売掛先が債権譲渡に同意する</li>
+<li><strong>売掛先の承諾:</strong> 売掛先に債権譲渡を伝え、承諾を得る（民法第467条第1項は、譲渡人〈利用者〉からの通知か、債務者〈売掛先〉の承諾を対抗要件としています）</li>
 <li><strong>審査・契約・入金:</strong> 手数料を差し引いた金額が利用者に振り込まれる</li>
 <li><strong>売掛先からの直接支払い:</strong> 入金期日に、売掛先がファクタリング会社に直接代金を支払う</li>
 </ol>
 <p>3社間の主な違いは、<strong>売掛先が取引に参加する</strong>ことです。入金期日に売掛先がファクタリング会社へ直接支払うため、ファクタリング会社にとっては回収のリスクが低くなります。</p>
 <h3>3社間ファクタリングの手数料</h3>
-<p><a href="https://top-management.co.jp/faq/">トップ・マネジメントの公式FAQ</a>は、3社間ファクタリングの手数料を「一般的に2%～9%程度」と説明しています（2026年10月31日確認）。</p>
-<p>売掛先から直接回収できるため、ファクタリング会社のリスクが低くなり、その分、手数料も低くなります。</p>
+<p><a href="https://top-management.co.jp/faq/">トップ・マネジメントの公式のよくある質問</a>は、3社間ファクタリングの手数料を「一般的に2%～9%程度」と説明しています（2026年11月1日確認）。</p>
+<p>トップ・マネジメントは、3社間は回収リスクが低くなるため手数料も低く設定されると説明しています（公式のよくある質問・2026年11月1日確認）。会社ごとの表示は下の「同じ会社の2社間と3社間の手数料の公式表示」のとおりで、同じ率の会社もあります。</p>
 <hr>
 <h2>2社間と3社間の比較表</h2>
 <table>
@@ -65,33 +64,23 @@ c:["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-gray-500","child
 </tr>
 <tr>
 <td><strong>手数料の目安</strong></td>
-<td>8〜18%程度（トップ・マネジメントの公式FAQ）</td>
+<td>8〜18%程度（トップ・マネジメントの公式のよくある質問）</td>
 <td>2〜9%程度（同）</td>
 </tr>
 <tr>
 <td><strong>入金スピード</strong></td>
 <td>最短即日</td>
-<td>数日〜1週間</td>
+<td>最短2日〜1週間程度（公式に日数を書いている会社の表示）</td>
 </tr>
 <tr>
 <td><strong>売掛先への通知</strong></td>
-<td>なし（知られない）</td>
+<td>原則なし</td>
 <td>あり（承諾が必要）</td>
 </tr>
 <tr>
-<td><strong>審査の厳しさ</strong></td>
-<td>やや緩い</td>
-<td>やや厳しい</td>
-</tr>
-<tr>
 <td><strong>必要書類</strong></td>
-<td>少ない（2〜3点）</td>
-<td>多い（売掛先の承諾書等）</td>
-</tr>
-<tr>
-<td><strong>利用のハードル</strong></td>
-<td>低い</td>
-<td>やや高い</td>
+<td>会社ごとに異なる</td>
+<td>2社間の書類に加えて、売掛先の承諾の手続きが加わる</td>
 </tr>
 </tbody>
 </table>
@@ -99,34 +88,34 @@ c:["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-gray-500","child
 <h2>2社間ファクタリングのメリット・デメリット</h2>
 <h3>メリット</h3>
 <p><strong>1. 取引先に知られない</strong></p>
-<p>主なメリットです。ファクタリングの利用により、資金繰りが厳しいと取引先に受け取られるリスクがありません。特に、新規取引先や大手企業との取引では、信用を維持できる点が重要です。</p>
+<p>主なメリットです。売掛先へは原則として通知しないと公式に書いている会社があります。ただし、契約違反や債務不履行などの場合に通知・登記を行い得ると定める会社もあります（例：バイオン・マネーフォワード 早期入金〈利用規約〉、JTC〈契約違反等が発覚した場合は取引先に連絡する場合あり〉。いずれも2026年10月31日確認）。特に、新規取引先や大手企業との取引では、信用を維持できる点が重要です。</p>
 <p><strong>2. 入金が早い</strong></p>
 <p>売掛先の承諾を待つ必要がないため、申込から入金まで最短即日で完了します。数日以内に支払いがあるといった、緊急の資金需要に対応できます。</p>
 <p><strong>3. 手続きが簡単</strong></p>
-<p>必要書類は請求書と通帳の2点のみという会社も多く、オンラインで完結できます。初めてファクタリングを利用する方も、手続きを進めやすい方式です。</p>
+<p>必要書類の一覧が2点の会社は、当サイト掲載43社のうち11社です（2点の内容は会社ごとに異なります）。オンラインで完結できると公式に書いている会社もあり、初めての方も手続きを進めやすい方式です。</p>
 <h3>デメリット</h3>
 <p><strong>1. 手数料が高い</strong></p>
-<p>8〜18%の手数料は、3社間と比べて2倍以上です。100万円の請求書であれば、手数料だけで8〜18万円かかります。緊急でない場合は、費用の面で不利です。</p>
+<p>トップ・マネジメントの説明（一般的に8%〜18%程度）に当てはめると、100万円の請求書で手数料は8万〜18万円です。会社ごとの2社間と3社間の差は、下の「同じ会社の2社間と3社間の手数料の公式表示」で確かめられます。</p>
 <p><strong>2. 債権譲渡登記が必要な場合がある</strong></p>
-<p>高額の2社間ファクタリングでは、<a href="/articles/article-factoring-saiken-jyouto/">債権譲渡登記</a>を求められることがあります。登記費用（登録免許税7,500円＋司法書士報酬）が追加でかかります。</p>
+<p>高額の2社間ファクタリングでは、<a href="/articles/article-factoring-saiken-jyouto/">債権譲渡登記</a>を求められることがあります。登録免許税は1件7,500円です（租税特別措置法第84条の6第1項第2号）。費用の負担は会社によって異なり、PMG は「登記費用は発生しません」と記載し、トラストゲートウェイは乗換えページで「登記・抹消は無料」、売掛金買取ページで登記費用を実費負担と記載しています（2026年10月31日確認）。</p>
 <p><strong>3. 悪質業者が紛れやすい</strong></p>
-<p>手続きが容易な一方で、2社間ファクタリングを装った闇金業者も存在します。<a href="/articles/article-factoring-keiyaku/">契約書の注意点</a>を必ず確認してください。</p>
+<p>手続きが容易な一方で、2社間ファクタリングを装った闇金業者も存在します。<a href="/articles/article-factoring-keiyaku/">契約書の注意点</a>を確認してください。</p>
 <hr>
 <h2>3社間ファクタリングのメリット・デメリット</h2>
 <h3>メリット</h3>
 <p><strong>1. 手数料が安い</strong></p>
-<p>2〜9%と、2社間の半分以下の手数料で利用できます。100万円の請求書であれば、手数料は2〜9万円です。長期的に見ると、費用の差は大きくなります。</p>
-<p><strong>2. 多額の案件で審査に通りやすい</strong></p>
-<p>売掛先の承諾が得られているため、ファクタリング会社も多額の買取に応じやすくなります。数百万〜数千万円規模の取引では、3社間が選ばれることが多くあります。</p>
-<p><strong>3. 透明性が高い</strong></p>
-<p>売掛先を含む3者で取引するため、契約内容が明確になります。悪質業者が介入しにくく、安全性の高い取引です。</p>
+<p>トップ・マネジメントの説明では、3社間は一般的に2%〜9%程度で、100万円の請求書なら手数料は2万〜9万円です。</p>
+<p><strong>2. 大口でも日数を示している会社がある</strong></p>
+<p>事業資金エージェントは、1,000万円を超える場合、3社間でも最短3日で対応すると記載しています（公式のよくある質問・2026年11月1日確認）。</p>
+<p><strong>3. 売掛先から直接回収される</strong></p>
+<p>支払期日に売掛先がファクタリング会社へ直接支払うため、利用者が回収した代金を送金する手間がありません（例：インボイスPay「3者間 弊社が売掛先様から直接ご集金」・2026年10月31日確認）。</p>
 <h3>デメリット</h3>
 <p><strong>1. 取引先にファクタリングの利用が知られる</strong></p>
-<p>3社間の主なデメリットです。売掛先から、資金繰りが厳しいのではないかと受け取られる可能性があります。ただし、大企業では、債権譲渡は一般的な商慣習として理解されているケースも多くあります。</p>
+<p>3社間の主なデメリットです。売掛先から、資金繰りが厳しいのではないかと受け取られる可能性があります。</p>
 <p><strong>2. 入金まで時間がかかる</strong></p>
-<p>売掛先への通知・承諾の手続きが必要なため、申込から入金まで数日〜1週間かかります。即日の資金需要には対応できません。</p>
+<p>売掛先の承諾の手続きが必要です。3社間の入金までの日数を公式に書いている会社は、最短2日〜1週間程度としています。</p>
 <p><strong>3. 売掛先が承諾しない可能性がある</strong></p>
-<p>売掛先が債権譲渡を拒否した場合、3社間ファクタリングは利用できません。その場合は2社間に切り替える必要があります。</p>
+<p>売掛先が債権譲渡を拒否した場合、3社間ファクタリングは利用できません。その場合は、2社間を検討することになります。</p>
 <hr>
 <h2>選び方の判断基準</h2>
 <h3>2社間が適しているケース</h3>
@@ -139,29 +128,275 @@ c:["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-gray-500","child
 <h3>3社間が適しているケース</h3>
 <ul>
 <li><strong>手数料を抑えたい:</strong> 時間に余裕があり、費用を優先する場合</li>
-<li><strong>売掛先が大企業・官公庁:</strong> 債権譲渡への理解がある取引先の場合</li>
-<li><strong>大口の取引:</strong> 数百万円以上の売掛金を売却する場合</li>
+<li><strong>売掛先から承諾を得られる:</strong> 売掛先に債権譲渡の承諾を依頼できる場合</li>
+<li><strong>日数に余裕がある:</strong> 入金希望日まで日数に余裕がある場合</li>
 <li><strong>継続的にファクタリングを利用する:</strong> 長期的なコスト削減を重視する場合</li>
 </ul>
 <h3>判断に迷う場合</h3>
-<p><strong>判断に迷う場合は、2社間をおすすめします。</strong></p>
-<p>理由は3つあります。第一に、取引先との関係に影響するリスクがありません。第二に、即日入金のため、緊急時にも対応できます。第三に、手続きが簡単で、初めてでも利用しやすい方式です。手数料は高くなりますが、取引先に知られた結果として取引に影響が生じるリスクと比較すると、数%の差は許容できる費用といえます。</p>
+<p>下の「選び分けの基準」「申込前の確認リスト」で順に確かめてください。</p>
 <hr>
-<h2>取引先に知られることによる影響</h2>
-<p>3社間ファクタリングで最も懸念されるのは、取引先に知られることによる影響です。以下では、実際の影響の程度を解説します。</p>
-<h3>否定的に受け取られるケース</h3>
+<h2>取引先に知られることへの備え</h2>
+<p>3社間は、売掛先の承諾を得て行う取引です。民法第467条第1項は、債権の譲渡を売掛先に対抗するには、譲渡人（利用者）からの通知か、売掛先の承諾が必要と定めています。3社間を選ぶ場合は、売掛先に債権譲渡を伝えることが前提になります。</p>
+<p>2社間でも、売掛先に知られる可能性がまったくないわけではありません。上の「1. 取引先に知られない」のとおり、契約違反や債務不履行などの場合に通知・登記を行い得ると定める会社があります（バイオン・マネーフォワード 早期入金・JTC）。2社間で債権譲渡登記をする会社の扱いは、下の「5. 2社間での登記の扱い」でご案内しています。</p>
+<hr>
+<h2>当サイト掲載43社の対応状況（公式の記載で分類）</h2>
+<p>ここからは、当サイトが掲載している43社について、各社の公式サイトで確認した記載をもとに、2社間・3社間の対応を整理します。分け方の基準は、当サイトの条件別データ（各社の公式の文言・出典・確認日を記録したもの）で、3社間ファクタリングを「行う」と書いているか、「行わない」と書いているか、どちらの記載もないかです。2社間は、43社のうち40社が対応を公式に記載しています。残る3社は、確認データに2社間の記載がありません（カイポケ早期入金は国保連・社保との3社間の契約が中心と記載。ほかはインボイスファクター・CoolPay）。</p>
+<table>
+<thead>
+<tr>
+<th>区分</th>
+<th align="right">社数</th>
+<th>会社</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3社間に対応すると記載</td>
+<td align="right">24</td>
+<td>ビートレーディング・アクセルファクター・ベストファクター・PMG・日本中小企業金融サポート機構・トップ・マネジメント・えんナビ・JTC・¥Today・いーばんく・株式会社No.1・エーストラスト・ファクタープラン・ファクタリングのTRY・MSFJ・レバンタ・トラストゲートウェイ・RFD・インボイスPay・カイポケ早期入金・ネクストワン・ファクタリングZERO・西日本ファクター・事業資金エージェント</td>
+</tr>
+<tr>
+<td>3社間は行わないと記載</td>
+<td align="right">1</td>
+<td><a href="/companies/minna-factoring/">みんなのファクタリング</a>（運営会社の事業紹介に「2社間限定」）</td>
+</tr>
+<tr>
+<td>2社間（2者間）のサービスと公式に明記し、3社間の記載なし</td>
+<td align="right">9</td>
+<td><a href="/companies/ququmo/">QuQuMo</a>・<a href="/companies/mf-earlypayment/">マネーフォワード 早期入金</a>・<a href="/companies/bion/">バイオン</a>・<a href="/companies/olta/">OLTA</a>・<a href="/companies/safe-trust/">セーフトラスト</a>・<a href="/companies/owl-keizai/">アウル経済</a>（原則2社間取引）・<a href="/companies/kaisoku/">買速</a>（主に2社間を提供）・<a href="/companies/gmo-btob-hayabarai/">GMO BtoB早払い</a>・<a href="/companies/kkt/">KKT</a></td>
+</tr>
+<tr>
+<td>個人事業主・フリーランスも対象とする2社間サービスで、3社間の記載なし</td>
+<td align="right">4</td>
+<td><a href="/companies/paytner/">ペイトナー</a>・<a href="/companies/labol/">ラボル</a>・<a href="/companies/paytoday/">PayToday</a>・<a href="/companies/freenance/">FREENANCE</a></td>
+</tr>
+<tr>
+<td>その他、3社間の記載なし</td>
+<td align="right">5</td>
+<td><a href="/companies/mentor-capital/">メンターキャピタル</a>・<a href="/companies/invoice-factor/">インボイスファクター</a>・<a href="/companies/urikakedo/">うりかけ堂</a>・<a href="/companies/goodplus/">GoodPlus</a>・<a href="/companies/coolpay/">CoolPay</a></td>
+</tr>
+</tbody>
+</table>
+<p>3社間に対応すると記載している24社を除く19社のうち、3社間を行わないと明記しているのはみんなのファクタリングだけで、残る18社は3社間について公式に記載がありません。</p>
+<p>確認日は2026年10月31日〜11月1日です。3社間に対応する24社は、ページ冒頭の表に3社間の手数料の下限が低い順で掲載しています。3社間の記載がない会社でも、問い合わせれば対応する場合はあり得ますが、当サイトでは公式に書かれていることだけを分類しています。</p>
+<h2>同じ会社の2社間と3社間の手数料の公式表示</h2>
+<p>「3社間のほうが手数料は低い」という説明は、各社の公式表示でも確かめられます。2社間と3社間の両方について、率、または率の関係を公式に書いている会社を抜き出すと、次の16社です。並びは当サイトの手数料一覧の掲載順で、順位を示すものではありません。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>2社間（公式表示）</th>
+<th>3社間（公式表示）</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/be-trading/">ビートレーディング</a></td>
+<td>平均10.3%（2024年度実績・公式のよくある質問）。下限「4％〜」は自社コラム内の表記</td>
+<td>平均6.8%（同）。下限「2％〜」は自社コラム内の表記</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/accel-factor/">アクセルファクター</a></td>
+<td>1〜12%を目安</td>
+<td>0.5〜10.5%を目安</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/best-factor/">ベストファクター</a></td>
+<td>2〜20%程度（2社間ページの比較表）。買取金額1,000万円以上の目安は2〜12%</td>
+<td>2〜15%程度（同）。買取金額1,000万円以上の目安は2〜8%</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/pmg/">PMG</a></td>
+<td>個別査定（公式内で表記が分かれる）</td>
+<td>個別査定。3社間は2社間より低いと記載</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/support-kinyu/">日本中小企業金融サポート機構</a></td>
+<td>1.5%〜（下限のみ）</td>
+<td>率は非公示。「2者間より低手数料」と表示</td>
+<td>2026年10月16日</td>
+</tr>
+<tr>
+<td><a href="/companies/top-management/">トップ・マネジメント</a></td>
+<td>3.5%〜</td>
+<td>0.5%〜</td>
+<td>2026年10月26日</td>
+</tr>
+<tr>
+<td><a href="/companies/jtc/">JTC</a></td>
+<td>1.2〜10%（取引先に知らせない場合の手数料率）</td>
+<td>率の記載なし。「取引先から事前に承諾が得られる方が手数料は安くなります」</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/no1/">株式会社No.1</a></td>
+<td>0.5〜15%</td>
+<td>0.5〜5%</td>
+<td>2026年10月14日</td>
+</tr>
+<tr>
+<td><a href="/companies/ace-trust/">エーストラスト</a></td>
+<td>5〜15%以内</td>
+<td>1.0〜4.9%以内</td>
+<td>2026年10月14日</td>
+</tr>
+<tr>
+<td><a href="/companies/try/">ファクタリングのTRY</a></td>
+<td>3%〜</td>
+<td>1.2%〜</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/trust-gateway/">トラストゲートウェイ</a></td>
+<td>例示：100万円9.5%／3,000万円4%</td>
+<td>例示：100万円8%／3,000万円1.5%</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/rfd/">RFD</a></td>
+<td>3%〜（2社間・3社間別の率は記載なし）</td>
+<td>「ファクタリング手数料を抑えることができます」との説明のみ</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/invoice-pay/">インボイスPay</a></td>
+<td>2.5〜6%（売掛先の信用などにより最大10%）</td>
+<td>2.5〜6%（2者間と同じと公式に記載）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/next-one/">ネクストワン</a></td>
+<td>5〜10%</td>
+<td>手数料ページ本文は1.5〜7%（同ページの比較表は1.5〜8%、よくある質問は平均1.5〜4%）</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/factoring-zero/">ファクタリングZERO</a></td>
+<td>1.5〜10%（2社間・3社間別の率は記載なし）</td>
+<td>「3社間取引と2社間取引ではコストに差があります」との記載のみ</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/jigyoshikin-agent/">事業資金エージェント</a></td>
+<td>5〜20%（通常の範囲）</td>
+<td>1.5〜9%（同）</td>
+<td>2026年11月1日</td>
+</tr>
+</tbody>
+</table>
+<p>16社のうち14社は、3社間の表示（下限・上限・平均・例示のいずれか）が2社間より低いか、3社間のほうが安いと文言で書いています。一方、インボイスPayは2者間・3者間のどちらでも手数料は同じと記載しており、ファクタリングZEROは差があるとだけ書いています。3社間を選べば安くなるとは限らないため、両方で見積もりを取って比べてください。</p>
+<p>なお、ベストファクターとNo.1は2社間と3社間で下限が同じで、差があるのは上限です。下限は条件が良い場合の値のため、実際に提示される率は見積もりで確認してください。</p>
+<h2>3社間の手数料の公式表示の分布（対応24社）</h2>
+<p>3社間に対応すると記載している24社について、当サイトの手数料一覧の「3社間」欄に記録した公式表示を、表示の形で分けると次のとおりです。</p>
+<table>
+<thead>
+<tr>
+<th>表示の形</th>
+<th align="right">社数</th>
+<th>会社と公式表示</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>下限と上限の両方</td>
+<td align="right">6</td>
+<td>アクセルファクター 0.5〜10.5%・ベストファクター 2〜15%・No.1 0.5〜5%・エーストラスト 1.0〜4.9%以内・インボイスPay 2.5〜6%・事業資金エージェント 1.5〜9%</td>
+</tr>
+<tr>
+<td>公式内で表記が分かれる</td>
+<td align="right">1</td>
+<td>ネクストワン（1.5〜7%／1.5〜8%／平均1.5〜4%）</td>
+</tr>
+<tr>
+<td>下限のみ</td>
+<td align="right">4</td>
+<td>ビートレーディング 2%〜（自社コラム内の表記）・トップ・マネジメント 0.5%〜・TRY 1.2%〜・カイポケ早期入金 0.96%〜（別途 初回手数料5,000円・月額費用2,000円）</td>
+</tr>
+<tr>
+<td>金額別の例示</td>
+<td align="right">1</td>
+<td>トラストゲートウェイ（100万円8%〜3,000万円1.5%）</td>
+</tr>
+<tr>
+<td>率の記載なし（対応のみ）</td>
+<td align="right">11</td>
+<td>PMG・日本中小企業金融サポート機構・えんナビ・JTC・いーばんく・ファクタープラン・MSFJ・レバンタ・RFD・ファクタリングZERO・西日本ファクター</td>
+</tr>
+<tr>
+<td>一括申込サービス（紹介先の会社と契約）</td>
+<td align="right">1</td>
+<td>¥Today（「二社間、三社間いずれも可能」）</td>
+</tr>
+</tbody>
+</table>
+<p>数値の下限を確かめられる11社（上の表の上から3区分）の下限は、0.5%が3社（アクセルファクター・No.1・トップ・マネジメント）、0.96〜1.5%が5社（カイポケ早期入金・エーストラスト・TRY・ネクストワン・事業資金エージェント）、2〜2.5%が3社（ビートレーディング・ベストファクター・インボイスPay）です。3社間に対応する24社のうち11社は率を公表していないため、3社間を検討する場合は見積もりの依頼が前提になります。</p>
+<h2>3社間の入金までの日数の公式表示</h2>
+<p>3社間は、売掛先への通知や承諾の手続きが入るため、2社間より入金までの日数が長くなる場合があります。3社間の入金までの日数を公式に書いている会社は、次の5社です。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>公式の記載</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/factor-plan/">ファクタープラン</a></td>
+<td>「3者間ファクタリングは取引先への通知・同意が必要なため、手続きに数日〜1週間程度かかることがあります」</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/best-factor/">ベストファクター</a></td>
+<td>3社間は「数日〜1週間程度が目安」（3社間ページの指標表示は「3日〜」）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/pmg/">PMG</a></td>
+<td>3社間は通知後最短2日後</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/jigyoshikin-agent/">事業資金エージェント</a></td>
+<td>「1,000万円を超える場合、3社間でも最短3日で対応いたします」</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/kaipoke-early/">カイポケ早期入金</a></td>
+<td>請求から最短5営業日（国保連との3社間の契約が中心）</td>
+<td>2026年10月31日</td>
+</tr>
+</tbody>
+</table>
+<p>最短の日数は、売掛先の承諾がすぐに得られる場合の値です。売掛先の社内の手続きに時間がかかれば、その分だけ入金は遅れます。</p>
+<h2>選び分けの基準：公式の記載と条文で確かめられること</h2>
+<p>2社間と3社間のどちらを選ぶかは、次の順に確かめると判断しやすくなります。</p>
+<p><strong>1. 売掛先の承諾を得られるか</strong></p>
+<p>民法第467条第1項は、債権の譲渡は「譲渡人が債務者に通知をし、又は債務者が承諾をしなければ、債務者その他の第三者に対抗することができない」と定めています。3社間は、この通知や承諾を売掛先との間で行う取引です。日本中小企業金融サポート機構は「3者間ファクタリングは、売掛先の承諾を得てからお客様と当機構と売掛先の3者間でのご契約となります」と記載しています（2026年11月1日確認）。売掛先に承諾を依頼できない場合は、3社間は選べません。</p>
+<p><strong>2. 入金希望日までに何日あるか</strong></p>
+<p>上の表のとおり、3社間の入金までの日数を公式に書いている会社は、最短2日〜1週間程度としています。2社間の入金時間の表示は<a href="/articles/article-factoring-nyuukin-jikan/">ファクタリングの入金時間</a>でご案内しています。支払期日まで数日しかない場合は、3社間の手続きが間に合うかを先に確かめてください。</p>
+<p><strong>3. 手数料の差はどのくらいか</strong></p>
+<p>16社の公式表示では、16社のうち14社は3社間のほうが低く、インボイスPayのように同じ率の会社もあります。2社間と3社間の両方で見積もりを取り、手取り額の差と、売掛先に承諾を依頼する手間を比べてください。</p>
+<p><strong>4. 申込者が個人事業主か</strong></p>
+<p>ベストファクターは、個人事業主は2社間のみの取扱いとしています（2026年10月31日確認）。個人事業主・フリーランスも対象とするサービスのうち、ペイトナー・ラボル・PayToday・FREENANCE は、3社間の記載がありません。JTC は、個人事業主の利用には取引先の承諾が必要としています（2026年10月30日確認）。個人事業主の場合は、3社間を提供していても対象外となる会社があるため、申込の前に確認してください。</p>
+<p><strong>5. 2社間での登記の扱い</strong></p>
+<p>2社間でも、債権譲渡登記の扱いは会社によって異なります。当サイトの条件別データでは、19社が登記なし（留保）でも契約できると記載し、4社が「原則必要」「必要な場合がある」などの条件付きで記載しています（PMG・MSFJ・トラストゲートウェイ・ネクストワン）。登記をする場合の費用は、登録免許税が1件7,500円（租税特別措置法第84条の6第1項第2号。債権の個数が5,000個以下の場合）です。登記の仕組みと各社の扱いは<a href="/articles/article-factoring-saiken-touki/">債権譲渡登記の記事</a>でご案内しています。</p>
+<p><strong>6. 売掛先との契約に譲渡制限の特約があるか</strong></p>
+<p>民法第466条第2項は、譲渡を禁止・制限する特約があっても「債権の譲渡は、その効力を妨げられない」と定めています。ただし同条第3項により、特約を知っていた、または重大な過失で知らなかった譲受人に対しては、売掛先は支払を拒むことができます。当サイトの確認データでは、GMO BtoB早払いが譲渡禁止債権も買取対象と記載しています（2026年10月31日確認）。特約がある場合は、売掛先との契約書を確認したうえで、ファクタリング会社に特約の有無を伝えてください。</p>
+<h2>申込前の確認リスト</h2>
 <ul>
-<li>中小企業同士の取引で、経営状態を懸念される</li>
-<li>長年の取引先から、信用に疑問を持たれる</li>
-<li>建設業の下請け構造で、元請けに不信感を持たれる</li>
+<li>売掛先に承諾を依頼できるか（できない場合は2社間）</li>
+<li>入金希望日までの日数（3社間は最短2日〜1週間程度とする会社がある）</li>
+<li>2社間と3社間の両方の見積もり（同じ率の会社もある）</li>
+<li>申込者が個人事業主の場合、3社間の対象になるか</li>
+<li>2社間の場合の債権譲渡登記の扱いと費用の負担</li>
+<li>売掛先との契約書の譲渡制限の特約の有無</li>
 </ul>
-<h3>肯定的・中立的に受け取られるケース</h3>
-<ul>
-<li>大企業では債権流動化は一般的な財務手法として認知されている</li>
-<li>官公庁向けの取引では、ファクタリングは珍しくない</li>
-<li>医療・介護業界では診療報酬ファクタリングが広く普及している</li>
-</ul>
-<p>取引先が大企業であれば、ファクタリングに対する理解があるケースが多いため、3社間でも問題とならないことが大半です。一方、中小企業同士の取引では、2社間を選ぶほうが無難です。</p>
 <hr>
 <h2>まとめ</h2>
 <p>2社間ファクタリングと3社間ファクタリングは、<strong>スピード・費用・秘密性</strong>の3つの観点で、一方を重視すると他方が不利になる関係にあります。</p>
@@ -176,18 +411,18 @@ c:["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-gray-500","child
 <tbody>
 <tr>
 <td>スピード</td>
-<td>即日</td>
-<td>数日〜1週間</td>
+<td>最短即日</td>
+<td>最短2日〜1週間程度（公式に日数を書いている会社の表示）</td>
 </tr>
 <tr>
 <td>手数料</td>
-<td>8〜18%</td>
-<td>2〜9%</td>
+<td>8〜18%（トップ・マネジメントの説明）</td>
+<td>2〜9%（同）</td>
 </tr>
 <tr>
 <td>秘密性</td>
-<td>取引先に知られない</td>
-<td>取引先に知られる</td>
+<td>原則として売掛先に通知されない</td>
+<td>売掛先の承諾を得る</td>
 </tr>
 </tbody>
 </table>
@@ -195,42 +430,59 @@ c:["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-gray-500","child
 <ul>
 <li>急ぎで、取引先に知られたくない → <strong>2社間</strong></li>
 <li>時間に余裕があり、費用を重視する → <strong>3社間</strong></li>
-<li>判断に迷う → <strong>2社間</strong></li>
 </ul>
-<p>ファクタリングの基本的な仕組みについては<a href="/articles/article-factoring-toha/">ファクタリングとは</a>で詳しく解説しています。手数料の詳細な比較は<a href="/articles/article-factoring-tesuryo/">ファクタリング手数料の相場</a>を、審査に不安がある方は<a href="/articles/article-factoring-shinsa/">ファクタリングの審査基準</a>をご覧ください。</p>
+<p>ファクタリングの基本的な仕組みについては<a href="/articles/article-factoring-toha/">ファクタリングとは</a>でご案内しています。手数料の詳細な比較は<a href="/articles/article-factoring-tesuryo/">ファクタリング手数料の公式表示と計算方法</a>を、審査に不安がある方は<a href="/articles/article-factoring-shinsa/">ファクタリングの審査基準</a>をご覧ください。</p>
 <hr>
-<p><em>この記事は2026年4月時点の情報に基づいています。各サービスの最新情報は公式サイトでご確認ください。</em></p>
+<p><em>この記事は2026年11月1日時点の情報に基づいています（各社の値の確認日は本文に記載）。各サービスの最新情報は公式サイトでご確認ください。</em></p>
 <hr>
 <blockquote>
-<p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
+<p>※本記事の情報は2026年11月1日時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
 </blockquote>
-d:["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$22"}}]
-e:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","mentor-capital",{"href":"/companies/mentor-capital","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"メンターキャピタル"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ennavi",{"href":"/companies/ennavi","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"えんナビ"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","5%〜（上限は要問い合わせ）"," ／ ","最短1日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","freenance",{"href":"/companies/freenance","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"FREENANCE"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","3%〜10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
-f:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
-10:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-ikkatsu-kobetsu",{"href":"/articles/article-factoring-ikkatsu-kobetsu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"一括ファクタリング, 個別ファクタリング 違い, 一括 個別 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"一括ファクタリングと個別ファクタリングの違いを解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-cloud",{"href":"/articles/article-factoring-cloud","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"クラウドファクタリング とは, オンライン ファクタリング 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"クラウドファクタリングとは｜仕組み・メリット・おすすめサービスを解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-osusume",{"href":"/articles/article-factoring-osusume","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング おすすめ"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングおすすめ19選｜法人・個人事業主向けに手数料・即日対応を比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-hikaku",{"href":"/articles/article-factoring-hikaku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング会社の比較｜手数料・スピード・審査から条件に合う1社を選ぶ"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-houjin-osusume",{"href":"/articles/article-factoring-houjin-osusume","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"法人 ファクタリング おすすめ, 法人向け ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"法人向けファクタリングおすすめ10選【2026年最新】大手・中小企業向け"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-sokujitsu-osusume",{"href":"/articles/article-factoring-sokujitsu-osusume","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$L23","$L24","$L25"]}]]}]]}]
-11:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/hikaku","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["比較・おすすめ","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
-12:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L26","$L27","$L28","$L29"]}]}],"$L2a"]}]}]
-13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"比較・おすすめ\",\"item\":\"https://corp-factoring.com/topics/hikaku\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"【図解】2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を比較\",\"item\":\"https://corp-factoring.com/articles/article-factoring-2sha-3sha\"}]}"}}]
-14:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"【図解】2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を比較\",\"description\":\"【図解】2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を比較について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-04-17\",\"dateModified\":\"2026-11-01\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-2sha-3sha\"}}"}}]
-15:["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true}]
-16:["$","$L2b",null,{"children":["$","$2c",null,{"name":"Next.MetadataOutlet","children":"$@2d"}]}]
-17:["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/yen-today/","className":"text-blue-600 hover:underline","children":"¥Today（エントゥデイ）"}]}]
-18:["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"―"}]
-19:["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"一括申込サービス自体は無料（手数料は紹介先3社の個別査定。公式の手数料体系は1〜12%）"}]
-1a:["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短30分で振込完了"}]
-1b:["$","tr","ebank",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/ebank/","className":"text-blue-600 hover:underline","children":"いーばんく（アクシアプラス）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率の内訳は要問い合わせ）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"4%〜（下限のみ・上限は要問い合わせ）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（スピードプラン。平均2.3日と公式表示）"}]]}]
-1c:["$","tr","factor-plan",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/factor-plan/","className":"text-blue-600 hover:underline","children":"ファクタープラン"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応（率は非公示）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"非公示（「明朗手数料」表記のみ・要見積もり）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日"}]]}]
-1d:["$","tr","msfj",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/msfj/","className":"text-blue-600 hover:underline","children":"MSFJ"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率は公式に記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.8%〜9.8%（公式トップの比較表。トップ見出しは「1.8％〜」、建設業欄は1.8％～10％、個人事業主ページは3.8%～9.8%。2社間・3社間別の率は記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短30分（公式トップ「お振込みまで最短30分」。建設業欄・LPは最短60分）"}]]}]
-1e:["$","tr","levanta",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/levanta/","className":"text-blue-600 hover:underline","children":"レバンタ"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率は公式に記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"4.0%〜10.0%（2社間・3社間別の率は記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"契約後最短10分で振込（最短即日）"}]]}]
-1f:["$","tr","rfd",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/rfd/","className":"text-blue-600 hover:underline","children":"RFD株式会社"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率は公式に記載なし。手数料を抑えられる旨のみ）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"3%〜（公式LP・上限は記載なし。2社間・3社間別の率は記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短2時間（公式LP）／最短即日〜3日程度（公式トップ）"}]]}]
-20:["$","tr","factoring-zero",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/factoring-zero/","className":"text-blue-600 hover:underline","children":"ファクタリングZERO"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率は区別して記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.5%〜10%（2社間・3社間別の率は記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（審査最短30分。FAQは通常翌営業日〜2営業日程度が多いと説明）"}]]}]
-21:["$","tr","nishinihon-factor",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/nishinihon-factor/","className":"text-blue-600 hover:underline","children":"西日本ファクター"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率は公式に記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"非公示（審査後に手数料を説明）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（トップ・1,000万円まで）／最短1日（FAQ）"}]]}]
-23:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 即日 おすすめ, 即日ファクタリング"}]
-24:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】即日入金のファクタリング会社おすすめ8選｜最短2時間で資金調達"}]
-25:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
-26:["$","span",null,{"className":"text-gray-700","children":"|"}]
-27:["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}]
-28:["$","span",null,{"className":"text-gray-700","children":"|"}]
-29:["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
-2a:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
-2d:null
+d:["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$23"}}]
+e:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","accel-factor",{"children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":["アクセルファクター","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","pmg",{"children":["$","$L3",null,{"href":"/companies/pmg/","className":"text-blue-600 hover:underline","children":["PMG","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","paytoday",{"children":["$","$L3",null,{"href":"/companies/paytoday/","className":"text-blue-600 hover:underline","children":["PayToday","の口コミ・評判・手数料 →"]}]}],["$","li","support-kinyu",{"children":["$","$L3",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":["日本中小企業金融サポート機構","の口コミ・評判・手数料 →"]}]}],["$","li","mf-earlypayment",{"children":["$","$L3",null,{"href":"/companies/mf-earlypayment/","className":"text-blue-600 hover:underline","children":["Money Forward 早期入金","の口コミ・評判・手数料 →"]}]}],["$","li","mentor-capital",{"children":["$","$L3",null,{"href":"/companies/mentor-capital/","className":"text-blue-600 hover:underline","children":["メンターキャピタル","の口コミ・評判・手数料 →"]}]}],["$","li","ennavi",{"children":["$","$L3",null,{"href":"/companies/ennavi/","className":"text-blue-600 hover:underline","children":["えんナビ","の口コミ・評判・手数料 →"]}]}],["$","li","freenance",{"children":["$","$L3",null,{"href":"/companies/freenance/","className":"text-blue-600 hover:underline","children":["FREENANCE","の口コミ・評判・手数料 →"]}]}],["$","li","minna-factoring",{"children":["$","$L3",null,{"href":"/companies/minna-factoring/","className":"text-blue-600 hover:underline","children":["みんなのファクタリング","の口コミ・評判・手数料 →"]}]}],["$","li","jtc",{"children":["$","$L3",null,{"href":"/companies/jtc/","className":"text-blue-600 hover:underline","children":["JTC","の口コミ・評判・手数料 →"]}]}],["$","li","yen-today",{"children":["$","$L3",null,{"href":"/companies/yen-today/","className":"text-blue-600 hover:underline","children":["¥Today（エントゥデイ）","の口コミ・評判・手数料 →"]}]}],["$","li","ebank",{"children":["$","$L3",null,{"href":"/companies/ebank/","className":"text-blue-600 hover:underline","children":["いーばんく（アクシアプラス）","の口コミ・評判・手数料 →"]}]}],["$","li","invoice-factor",{"children":["$","$L3",null,{"href":"/companies/invoice-factor/","className":"text-blue-600 hover:underline","children":["インボイスファクター","の口コミ・評判・手数料 →"]}]}],["$","li","no1",{"children":["$","$L3",null,{"href":"/companies/no1/","className":"text-blue-600 hover:underline","children":["株式会社No.1","の口コミ・評判・手数料 →"]}]}],["$","li","safe-trust",{"children":["$","$L3",null,{"href":"/companies/safe-trust/","className":"text-blue-600 hover:underline","children":["セーフトラスト","の口コミ・評判・手数料 →"]}]}],["$","li","ace-trust",{"children":["$","$L3",null,{"href":"/companies/ace-trust/","className":"text-blue-600 hover:underline","children":["エーストラスト","の口コミ・評判・手数料 →"]}]}],["$","li","factor-plan",{"children":["$","$L3",null,{"href":"/companies/factor-plan/","className":"text-blue-600 hover:underline","children":["ファクタープラン","の口コミ・評判・手数料 →"]}]}],["$","li","try",{"children":["$","$L3",null,{"href":"/companies/try/","className":"text-blue-600 hover:underline","children":["ファクタリングのTRY","の口コミ・評判・手数料 →"]}]}],["$","li","msfj",{"children":["$","$L3",null,{"href":"/companies/msfj/","className":"text-blue-600 hover:underline","children":["MSFJ","の口コミ・評判・手数料 →"]}]}],"$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34"]}]]}]
+f:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","mentor-capital",{"href":"/companies/mentor-capital","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"メンターキャピタル"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ennavi",{"href":"/companies/ennavi","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"えんナビ"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","5%〜（上限は要問い合わせ）"," ／ ","最短1日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","freenance",{"href":"/companies/freenance","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"FREENANCE"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","3%〜10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+10:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
+11:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-ikkatsu-kobetsu",{"href":"/articles/article-factoring-ikkatsu-kobetsu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"一括ファクタリング, 個別ファクタリング 違い, 一括 個別 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"一括ファクタリングと個別ファクタリングの違いを解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-cloud",{"href":"/articles/article-factoring-cloud","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"クラウドファクタリング とは, オンライン ファクタリング 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"クラウドファクタリングとは｜仕組み・メリット・おすすめサービスを解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-osusume",{"href":"/articles/article-factoring-osusume","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング おすすめ"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングおすすめ19選｜法人・個人事業主向けに手数料・即日対応を比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-hikaku",{"href":"/articles/article-factoring-hikaku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング会社の比較｜手数料・スピード・審査から条件に合う1社を選ぶ"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-houjin-osusume",{"href":"/articles/article-factoring-houjin-osusume","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"法人 ファクタリング おすすめ, 法人向け ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"法人向けファクタリングおすすめ10選【2026年最新】大手・中小企業向け"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-sokujitsu-osusume",{"href":"/articles/article-factoring-sokujitsu-osusume","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$L35","$L36","$L37"]}]]}]]}]
+12:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/hikaku","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["比較・おすすめ","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+13:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L38","$L39","$L3a","$L3b"]}]}],"$L3c"]}]}]
+14:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"比較・おすすめ\",\"item\":\"https://corp-factoring.com/topics/hikaku\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を比較\",\"item\":\"https://corp-factoring.com/articles/article-factoring-2sha-3sha\"}]}"}}]
+15:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を比較\",\"description\":\"2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を比較について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-04-17\",\"dateModified\":\"2026-11-01\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-2sha-3sha\"}}"}}]
+16:["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true}]
+17:["$","$L3d",null,{"children":["$","$3e",null,{"name":"Next.MetadataOutlet","children":"$@3f"}]}]
+18:["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/yen-today/","className":"text-blue-600 hover:underline","children":"¥Today（エントゥデイ）"}]}]
+19:["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"―"}]
+1a:["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"一括申込サービス自体は無料（手数料は紹介先3社の個別査定。公式の手数料体系は1〜12%）"}]
+1b:["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短30分で振込完了"}]
+1c:["$","tr","ebank",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/ebank/","className":"text-blue-600 hover:underline","children":"いーばんく（アクシアプラス）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率の内訳は要問い合わせ）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"4%〜（下限のみ・上限は要問い合わせ）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（スピードプラン。平均2.3日と公式表示）"}]]}]
+1d:["$","tr","factor-plan",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/factor-plan/","className":"text-blue-600 hover:underline","children":"ファクタープラン"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応（率は非公示）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"非公示（「明朗手数料」表記のみ・要見積もり）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日"}]]}]
+1e:["$","tr","msfj",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/msfj/","className":"text-blue-600 hover:underline","children":"MSFJ"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率は公式に記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.8%〜9.8%（公式トップの比較表。トップ見出しは「1.8％〜」、建設業欄は1.8％～10％、個人事業主ページは3.8%～9.8%。2社間・3社間別の率は記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短30分（公式トップ「お振込みまで最短30分」。建設業欄・LPは最短60分）"}]]}]
+1f:["$","tr","levanta",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/levanta/","className":"text-blue-600 hover:underline","children":"レバンタ"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率は公式に記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"4.0%〜10.0%（2社間・3社間別の率は記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"契約後最短10分で振込（最短即日）"}]]}]
+20:["$","tr","rfd",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/rfd/","className":"text-blue-600 hover:underline","children":"RFD株式会社"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率は公式に記載なし。手数料を抑えられる旨のみ）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"3%〜（公式LP・上限は記載なし。2社間・3社間別の率は記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短2時間（公式LP）／最短即日〜3日程度（公式トップ）"}]]}]
+21:["$","tr","factoring-zero",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/factoring-zero/","className":"text-blue-600 hover:underline","children":"ファクタリングZERO"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率は区別して記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.5%〜10%（2社間・3社間別の率は記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（審査最短30分。FAQは通常翌営業日〜2営業日程度が多いと説明）"}]]}]
+22:["$","tr","nishinihon-factor",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium","children":["$","$L3",null,{"href":"/companies/nishinihon-factor/","className":"text-blue-600 hover:underline","children":"西日本ファクター"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"対応あり（率は公式に記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"非公示（審査後に手数料を説明）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（トップ・1,000万円まで）／最短1日（FAQ）"}]]}]
+24:["$","li","levanta",{"children":["$","$L3",null,{"href":"/companies/levanta/","className":"text-blue-600 hover:underline","children":["レバンタ","の口コミ・評判・手数料 →"]}]}]
+25:["$","li","trust-gateway",{"children":["$","$L3",null,{"href":"/companies/trust-gateway/","className":"text-blue-600 hover:underline","children":["トラストゲートウェイ","の口コミ・評判・手数料 →"]}]}]
+26:["$","li","bion",{"children":["$","$L3",null,{"href":"/companies/bion/","className":"text-blue-600 hover:underline","children":["バイオン","の口コミ・評判・手数料 →"]}]}]
+27:["$","li","rfd",{"children":["$","$L3",null,{"href":"/companies/rfd/","className":"text-blue-600 hover:underline","children":["RFD株式会社","の口コミ・評判・手数料 →"]}]}]
+28:["$","li","owl-keizai",{"children":["$","$L3",null,{"href":"/companies/owl-keizai/","className":"text-blue-600 hover:underline","children":["アウル経済","の口コミ・評判・手数料 →"]}]}]
+29:["$","li","invoice-pay",{"children":["$","$L3",null,{"href":"/companies/invoice-pay/","className":"text-blue-600 hover:underline","children":["インボイスPay","の口コミ・評判・手数料 →"]}]}]
+2a:["$","li","kaipoke-early",{"children":["$","$L3",null,{"href":"/companies/kaipoke-early/","className":"text-blue-600 hover:underline","children":["カイポケ早期入金","の口コミ・評判・手数料 →"]}]}]
+2b:["$","li","urikakedo",{"children":["$","$L3",null,{"href":"/companies/urikakedo/","className":"text-blue-600 hover:underline","children":["うりかけ堂","の口コミ・評判・手数料 →"]}]}]
+2c:["$","li","kaisoku",{"children":["$","$L3",null,{"href":"/companies/kaisoku/","className":"text-blue-600 hover:underline","children":["買速","の口コミ・評判・手数料 →"]}]}]
+2d:["$","li","olta",{"children":["$","$L3",null,{"href":"/companies/olta/","className":"text-blue-600 hover:underline","children":["OLTA","の口コミ・評判・手数料 →"]}]}]
+2e:["$","li","gmo-btob-hayabarai",{"children":["$","$L3",null,{"href":"/companies/gmo-btob-hayabarai/","className":"text-blue-600 hover:underline","children":["GMO BtoB早払い","の口コミ・評判・手数料 →"]}]}]
+2f:["$","li","goodplus",{"children":["$","$L3",null,{"href":"/companies/goodplus/","className":"text-blue-600 hover:underline","children":["GoodPlus","の口コミ・評判・手数料 →"]}]}]
+30:["$","li","next-one",{"children":["$","$L3",null,{"href":"/companies/next-one/","className":"text-blue-600 hover:underline","children":["ネクストワン","の口コミ・評判・手数料 →"]}]}]
+31:["$","li","coolpay",{"children":["$","$L3",null,{"href":"/companies/coolpay/","className":"text-blue-600 hover:underline","children":["CoolPay","の口コミ・評判・手数料 →"]}]}]
+32:["$","li","factoring-zero",{"children":["$","$L3",null,{"href":"/companies/factoring-zero/","className":"text-blue-600 hover:underline","children":["ファクタリングZERO","の口コミ・評判・手数料 →"]}]}]
+33:["$","li","nishinihon-factor",{"children":["$","$L3",null,{"href":"/companies/nishinihon-factor/","className":"text-blue-600 hover:underline","children":["西日本ファクター","の口コミ・評判・手数料 →"]}]}]
+34:["$","li","jigyoshikin-agent",{"children":["$","$L3",null,{"href":"/companies/jigyoshikin-agent/","className":"text-blue-600 hover:underline","children":["事業資金エージェント","の口コミ・評判・手数料 →"]}]}]
+35:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 即日 おすすめ, 即日ファクタリング"}]
+36:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】即日入金のファクタリング会社おすすめ8選｜最短2時間で資金調達"}]
+37:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+38:["$","span",null,{"className":"text-gray-700","children":"|"}]
+39:["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}]
+3a:["$","span",null,{"className":"text-gray-700","children":"|"}]
+3b:["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
+3c:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+3f:null
