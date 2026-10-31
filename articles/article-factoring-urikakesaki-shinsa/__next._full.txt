@@ -1,0 +1,291 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default"]
+3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default"]
+5:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
+d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
+:HL["/_next/static/chunks/0w2upha_b50nu.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-urikakesaki-shinsa",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-urikakesaki-shinsa","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0w2upha_b50nu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0w2upha_b50nu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"mxf4eJRm3x-juI7zdOi_f"}
+e:[]
+8:"$We"
+f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],"Header"]
+10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],""]
+:HL["/images/articles/factoring-article.jpg","image"]
+11:T6130,<p>ファクタリングの審査が「売掛先だけで決まる」と公式に書いている会社は、当サイトが確認した範囲ではありませんでした。一方で、売掛先を法人や公的機関に限る会社、審査で売掛先の信用力を最も重視すると明記する会社、手数料が売掛先の信用で変わると記載する会社は複数あり、売掛先が審査の大きな要素であることは各社の公式表示から読み取れます。同時に、決算書や年商、入出金の履歴など申込者側の条件を挙げる会社もあります。本記事では、当サイト掲載36社の公式表示を売掛先の観点で整理し、民法の条文から売掛先が関わる理由を確認したうえで、申込者が準備できることをご説明します。</p>
+<p>審査全体の基準や落ちる理由の整理は<a href="/articles/article-factoring-shinsa/">ファクタリングの審査基準</a>、審査に落ちた後の対処は<a href="/articles/article-factoring-shinsa-ochita/">ファクタリング審査に落ちた理由と対処法</a>でご案内しています。</p>
+<h2>「審査は売掛先で決まるか」に対する各社の公式表示</h2>
+<h3>確認の方法</h3>
+<p>当サイトが各社の公式サイトで確認し、編集部の確認欄に記録した事実（公式の出典があるもの）から、売掛先（取引先・請求先）に関する記載を抜き出しました。当サイトが助言として書いた確認ポイントの文は使っていません。確認日は会社ごとに異なり、表の右列に記載しています。</p>
+<p>抜き出した結果は、次の3種類に分かれました。</p>
+<ul>
+<li>売掛先の種類（法人・公的機関・個人など）を利用の条件として記載している会社</li>
+<li>審査や見積もりで売掛先をどう扱うかを記載している会社</li>
+<li>買取の上限を「売掛先1社あたり」で示している会社</li>
+</ul>
+<h3>売掛先の種類に関する公式の条件</h3>
+<p>選定の基準：当サイトの確認欄の事実に、売掛先・取引先・請求先の種類（法人・公的機関・個人など）や、売掛先側の事情で断る債権についての記載がある会社をすべて載せています。並びは当サイトの<a href="/fees/">手数料一覧</a>の掲載順で、順位を示すものではありません。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>売掛先に関する公式の条件</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/be-trading/">ビートレーディング</a></td>
+<td>売掛先が法人の売掛金があれば創業時期を問わない。売掛先が個人事業主の売掛金は対象外</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/best-factor/">ベストファクター</a></td>
+<td>譲渡禁止特約付き・他に譲渡済み・不良債権・反社会的勢力等が売掛先の債権は断る場合あり</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/support-kinyu/">日本中小企業金融サポート機構</a></td>
+<td>通常のファクタリングは、売掛先が法人なら個人事業主も利用可。売掛先が個人の債権は対象外</td>
+<td>2026年10月16日</td>
+</tr>
+<tr>
+<td><a href="/companies/mf-earlypayment/">マネーフォワード 早期入金</a></td>
+<td>売掛先は国内法人に限る（個人・個人事業主向けの債権は不可）。自治体・官公庁向けの債権は対象</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/mentor-capital/">メンターキャピタル</a></td>
+<td>売掛先が個人経営の債権は対象外</td>
+<td>2026年10月14日</td>
+</tr>
+<tr>
+<td><a href="/companies/freenance/">FREENANCE</a></td>
+<td>請求先は内国法人または日本に支店のある外国法人のみ（個人宛の請求書は不可）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/jtc/">JTC</a></td>
+<td>個人事業主の利用は取引先の承諾が必要</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/safe-trust/">セーフトラスト</a></td>
+<td>買い取るのは法人が取引先となる請求書のみ</td>
+<td>2026年10月14日</td>
+</tr>
+<tr>
+<td><a href="/companies/bion/">バイオン</a></td>
+<td>売掛先が個人でも申請可（売掛先は国内のみ）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/rfd/">RFD株式会社</a></td>
+<td>法人宛の請求書があれば法人・個人を問わず利用可（個人事業主は売掛先が法人の場合）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/invoice-pay/">インボイスPay</a></td>
+<td>売掛先が個人事業主の債権は対象外</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/olta/">OLTA</a></td>
+<td>売掛先は国内登記の法人または公的機関のみ（個人・個人事業主向けの売掛金は対象外）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/gmo-btob-hayabarai/">GMO BtoB早払い</a></td>
+<td>法人間取引に基づく売掛債権が対象。個人向けの債権は対象外。譲渡禁止債権も買取対象</td>
+<td>2026年10月31日</td>
+</tr>
+</tbody>
+</table>
+<p>いずれも公式サイトの表示（各社の確認日時点）です。</p>
+<p>13社のうち、売掛先を法人（または法人と公的機関）に限る、あるいは個人・個人事業主向けの売掛金を対象外と明記している会社は、ビートレーディング・日本中小企業金融サポート機構・マネーフォワード 早期入金・メンターキャピタル・FREENANCE・セーフトラスト・インボイスPay・OLTA・GMO BtoB早払いの9社です。RFD株式会社は、個人事業主の利用について売掛先が法人の場合と記載しています。反対に、売掛先が個人でも申請できると明記しているのはバイオンの1社でした。</p>
+<p>当サイトの読み取りとしては、「売掛先が法人であること」は多くの会社で審査以前の申込条件になっており、個人宛ての請求書しかない場合は、申し込める会社の範囲そのものが狭くなります。</p>
+<h3>審査・見積もりでの売掛先の扱いに関する公式の記載</h3>
+<p>選定の基準：当サイトの確認欄の事実に、審査の可否や手数料・上限の判断に売掛先の信用・評価・業種・規模などを用いる旨の記載がある会社をすべて載せています。並びは上の表と同じ規則です。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>売掛先に関する公式の条件</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/best-factor/">ベストファクター</a></td>
+<td>上限は売掛先1社につき1億円まで。売掛先の規模や取引年数等により、それ以上も取り扱える可能性あり</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/support-kinyu/">日本中小企業金融サポート機構</a></td>
+<td>手数料は売掛金の金額・期日までの期間・売掛先の信用力・契約方法などで変動</td>
+<td>2026年10月16日</td>
+</tr>
+<tr>
+<td><a href="/companies/invoice-factor/">インボイスファクター</a></td>
+<td>法人に対する請求債権（売掛金）があれば、業種や代表者の履歴は審査のポイントとしない</td>
+<td>2026年10月17日</td>
+</tr>
+<tr>
+<td><a href="/companies/safe-trust/">セーフトラスト</a></td>
+<td>手数料は「売掛先の与信、入金までの期間、債権特性によって異なります」</td>
+<td>2026年10月14日</td>
+</tr>
+<tr>
+<td><a href="/companies/msfj/">MSFJ</a></td>
+<td>審査では売掛先の信用力・取引内容・入金実績などを確認</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/levanta/">レバンタ</a></td>
+<td>手数料は売掛先企業の業種などの条件により決定</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/owl-keizai/">アウル経済</a></td>
+<td>売掛先の評価で可否・条件を判断し、赤字でも相談可。手数料は業種・設立年・売掛先によって異なる</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/invoice-pay/">インボイスPay</a></td>
+<td>見積もりは売掛先の信用状況で算出し、申込企業の赤字決算は影響しない。手数料は売掛先の信用で変動</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/kaisoku/">買速</a></td>
+<td>審査で最重要視するのは売掛先企業（取引先）の信用力</td>
+<td>2026年10月31日</td>
+</tr>
+</tbody>
+</table>
+<p>審査で売掛先（取引先）の信用力を最重要視すると公式に明記しているのは、この表では買速です。アウル経済とインボイスPayは、審査の可否や見積もりを売掛先の評価・信用状況で判断すると記載しています。一方で、MSFJは売掛先の信用力と並べて取引内容・入金実績を、日本中小企業金融サポート機構は売掛先の信用力と並べて金額・期間・契約方法を挙げており、売掛先は判断材料の一つとして書かれています。</p>
+<h3>買取上限を売掛先1社あたりで示している会社</h3>
+<p>買取可能額を「売掛先1社あたり」で区切って公式に示している会社もあります。トップ・マネジメント（売掛先1社あたり1億円・総額3億円。公式サイト・2026年7月21日確認）、株式会社No.1（「基本的には、売掛先1社に対し5,000万円まで」。公式サイト・2026年10月14日確認）、エーストラスト（売掛先1社に対して5,000万円まで、審査により1億円まで。公式サイト・2026年10月14日確認）、トラストゲートウェイ（売掛先1社に対して10万円〜5,000万円、審査により上限1億円。公式サイト・2026年10月31日確認）、レバンタ（売掛先企業1社につき10万円〜1億円。公式サイト・2026年10月31日確認）、ベストファクター（上の表のとおり）の6社です。</p>
+<p>当サイトの読み取りとしては、これらの会社は売掛先ごとに引き受ける金額の枠を設けており、同じ売掛先に対する金額が大きいほど、その売掛先についての判断が重くなると考えられます。</p>
+<h3>申込者側の条件を挙げている会社</h3>
+<p>売掛先だけでなく、申込者側の条件を公式に挙げている会社もあります。</p>
+<ul>
+<li>マネーフォワード 早期入金：決算書2期分が原則（そろっていない場合は1期分の決算書や試算表などで審査できる場合あり）。公式サイト・2026年10月31日確認</li>
+<li>JTC：「年商7,000万円以上の企業 掛売り取引がある企業様に限らせていただきます」。公式サイト・2026年10月31日確認</li>
+<li>レバンタ：新設法人は取り扱えない場合あり。公式サイト・2026年10月31日確認</li>
+<li>OLTA：創業間もない場合は、事業用口座の入出金履歴4カ月以上が条件。公式サイト・2026年10月31日確認</li>
+<li>RFD株式会社：起業したばかりでも入金実績があれば利用可。公式サイト・2026年10月31日確認</li>
+</ul>
+<p>これらの公式表示から、「審査は売掛先で決まる」と一律に言うことはできません。当サイトの読み取りとしては、売掛先の種類と信用は多くの会社で重い要素ですが、申込者の決算書・年商・入出金の履歴を条件にする会社もあり、どこまでを見るかは会社ごとに異なります。設立間もない会社の審査は<a href="/articles/article-factoring-shinsetsu-houjin/">設立1年未満の新設法人でも使えるファクタリング</a>をご覧ください。</p>
+<h2>売掛先が審査に関わる理由を民法の条文で確認する</h2>
+<p>ファクタリングは売掛金（債権）の譲渡で、最終的に代金を支払うのは売掛先です。売掛先の関わり方は、2社間と3社間で異なります。ここでは、条文で言えることに絞ってご説明します。条文の全体像は<a href="/articles/article-factoring-minpou/">ファクタリングと民法466条の関係</a>、方式の違いは<a href="/articles/article-factoring-2sha-3sha/">2社間と3社間の違い</a>をご覧ください。</p>
+<h3>民法467条：売掛先への通知または承諾</h3>
+<p>民法467条1項は、債権の譲渡は「譲渡人が債務者に通知をし、又は債務者が承諾をしなければ、債務者その他の第三者に対抗することができない」と定めています。2項は、債務者以外の第三者に対抗するには、通知または承諾を確定日付のある証書でする必要があるとしています（e-Gov法令検索で確認）。</p>
+<p>3社間ファクタリングは、売掛先が手続きに加わり、ファクタリング会社が売掛先から直接代金を受け取る方式です（インボイスPayは3者間を、同社が売掛先から直接集金する方式と説明しています。公式サイト・2026年10月31日確認）。PMGは「3社間契約の場合は売掛先への通知が必要」と公式に記載し、JTCは3社間を「御社・JTC・取引先の３社間での契約」と説明しています（いずれも公式サイト・2026年10月31日確認）。この方式では、売掛先が通知を受けるか承諾をする立場になるため、売掛先がどのような相手かが手続きそのものに関わります。</p>
+<p>2社間ファクタリングについては、売掛先に知られずに利用できる方式として案内する会社があります（レバンタ・OLTA・RFD株式会社など。公式サイト・2026年10月31日確認）。集金の流れについて、インボイスPayは2者間を、利用者が売掛先から集金後に送金する方式と説明し（公式サイト・2026年10月31日確認）、インボイスファクターは2社間で集金代行業務委託契約を同時に結ぶ流れと記載しています（公式サイト・2026年10月14日確認）。売掛先は従来どおり申込者に支払い、申込者がファクタリング会社へ送金するため、ファクタリング会社にとっては、売掛先が期日に支払うかどうかと、申込者が受け取った代金を送金するかどうかの両方が回収に関わります（当サイトの説明）。</p>
+<p>なお、法人が債権を譲渡して債権譲渡登記をした場合、債務者以外の第三者には確定日付のある証書による通知があったものとみなされます。売掛先（債務者）に対しても効力を及ぼすには、登記事項証明書を交付して通知するか、売掛先が承諾することが必要です（動産及び債権の譲渡の対抗要件に関する民法の特例等に関する法律4条1項・2項。e-Gov法令検索で確認）。登記の要否や費用は<a href="/articles/article-factoring-saiken-jyouto/">債権譲渡登記の解説</a>にまとめています。</p>
+<h3>民法466条2項・3項：譲渡制限特約</h3>
+<p>売掛先との契約に「この債権を第三者に譲渡しない」といった条項（譲渡制限の意思表示）がある場合について、民法466条2項は、譲渡制限の意思表示をしたときであっても「債権の譲渡は、その効力を妨げられない」と定めています。そのうえで3項は、譲渡制限の意思表示を知っていた、または重大な過失によって知らなかった譲受人などに対しては、債務者は履行を拒むことができ、譲渡人への弁済などをもって対抗できるとしています（e-Gov法令検索で確認）。</p>
+<p>当サイトの説明としては、譲渡そのものは有効でも、売掛先が特約を理由にファクタリング会社への支払いを拒める場面があるため、特約の有無は売掛先との関係で確認される事項になります。各社の扱いは分かれており、ベストファクターは譲渡禁止特約付きの債権を断る場合があるとし、GMO BtoB早払いは譲渡禁止債権も買取対象と記載しています（いずれも公式サイト・2026年10月31日確認）。</p>
+<h2>申込者が準備できること</h2>
+<p>売掛先の信用力そのものを申込者が変えることはできません。準備できるのは、売掛先との取引が実在し、継続していることを示す書類です。各社が公式に挙げている書類のうち、売掛先との取引に関わるものは次のとおりです。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>売掛先との取引に関わる公式の書類</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/best-factor/">ベストファクター</a></td>
+<td>審査時に、売却を希望する請求書、見積書、基本契約書などの売掛先との取引契約書類</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/labol/">ラボル</a></td>
+<td>取引を示すエビデンス（取引先とのメール・チャット、通帳の入出金履歴、発注書など）</td>
+<td>2026年10月26日</td>
+</tr>
+<tr>
+<td><a href="/companies/factor-plan/">ファクタープラン</a></td>
+<td>審査時に、通帳の写し（過去3ヶ月分）・売掛先との契約書／請求書／発注書等</td>
+<td>2026年10月14日</td>
+</tr>
+<tr>
+<td><a href="/companies/try/">ファクタリングのTRY</a></td>
+<td>審査時に、請求書・発注書または契約書・売掛先の住所と連絡先・銀行通帳3か月分</td>
+<td>2026年10月14日</td>
+</tr>
+<tr>
+<td><a href="/companies/trust-gateway/">トラストゲートウェイ</a></td>
+<td>取引先基本契約書（ある場合）・取引履歴書類（通帳等）・成因資料（発注書・納品書・請求書等）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/urikakedo/">うりかけ堂</a></td>
+<td>取引先との契約関連書類（請求書／見積書／基本契約書等）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/gmo-btob-hayabarai/">GMO BtoB早払い</a></td>
+<td>利用審査で買主の審査依頼書・取引基本契約書等。買取実行時に見積書・発注書・請求書・納品確認書（検収書）等</td>
+<td>2026年10月31日</td>
+</tr>
+</tbody>
+</table>
+<p>選定の基準：当サイトの確認欄の「必要書類」の事実のうち、売掛先・取引先・買主との関係を名指しした書類（「売掛先との〜」「取引先との〜」「取引先基本契約書」「買主の〜」「売掛先の住所と連絡先」）を挙げている会社をすべて載せています。並びは手数料一覧の掲載順です。このほか、JTCは仮審査時に請求書（直近3回分）を、FREENANCEは任意・推奨の審査エビデンスとして請求書送付/受領履歴や直近3ヵ月分の入出金履歴を挙げています（いずれも公式サイト・2026年10月31日確認）。必要書類全体の一覧は<a href="/articles/article-factoring-hitsuyou-shorui/">ファクタリングの必要書類</a>をご覧ください。</p>
+<p>上の公式表示を踏まえると、当サイトの説明として、次の準備が考えられます。</p>
+<ol>
+<li>売掛先との契約書・発注書・納品書など、取引の内容が分かる書類をそろえる</li>
+<li>同じ売掛先からの過去の入金が記録された通帳（または入出金明細）を用意する。MSFJは審査で入金実績などを確認すると公式に記載しており（2026年10月31日確認）、過去の入金の記録は、取引が継続していることを示す材料になります</li>
+<li>売掛先の正式名称・住所・連絡先を確認しておく（ファクタリングのTRYは売掛先の住所と連絡先を審査時の書類に挙げています）</li>
+<li>売掛先との契約に譲渡制限の条項があるかを確認し、ある場合は申込時に伝える</li>
+</ol>
+<p>複数の売掛先への請求書がある場合、申込先の会社がどの売掛先を対象にしているか（法人のみか、公的機関を含むか）を、上の表で事前に確認しておくと、条件に合わない請求書での申込を避けられます。</p>
+<h2>よくある質問</h2>
+<p><strong>Q: 売掛先が個人や個人事業主の請求書でもファクタリングできますか？</strong>
+A: 会社によります。当サイトの確認では、OLTA・ビートレーディング・インボイスPayなど9社が、売掛先を法人に限るか、個人・個人事業主向けの売掛金を対象外と公式に記載しています。売掛先が個人でも申請可と明記しているのはバイオンです（公式サイト・2026年10月31日確認）。</p>
+<p><strong>Q: 自社が赤字でも、売掛先の信用力が高ければ審査に通りますか？</strong>
+A: 通過を約束できる公式表示はありません。インボイスPayは申込企業の赤字決算は見積もりに影響しないと記載し、アウル経済は赤字でも相談可、RFD株式会社は赤字でも利用可と記載しています（いずれも公式サイト・2026年10月31日確認）。一方、マネーフォワード 早期入金のように決算書2期分を原則とする会社もあるため、申込先の条件を確認してください。</p>
+<p><strong>Q: 売掛先が官公庁や自治体の場合も利用できますか？</strong>
+A: OLTAは売掛先を国内登記の法人または公的機関とし、マネーフォワード 早期入金は自治体・官公庁向けの債権を対象としています（いずれも公式サイト・2026年10月31日確認）。その他の会社は、当サイトの確認範囲では公的機関について記載がないため、申込前にお問い合わせください。</p>
+<p><strong>Q: 審査の過程で売掛先に連絡されることはありますか？</strong>
+A: 2社間ファクタリングでは、売掛先に連絡しない旨を公式に記載する会社があります。レバンタは2社間について売掛先へ原則連絡しないとし、OLTAは利用規定で定める一部の場合を除き取引先に連絡しないと記載しています（いずれも公式サイト・2026年10月31日確認）。3社間は売掛先が手続きに加わる方式です。</p>
+<p><strong>Q: 売掛先との契約書に譲渡禁止の条項があります。申し込めますか？</strong>
+A: 民法466条2項により譲渡そのものは有効ですが、3項により売掛先が支払いを拒める場合があります。ベストファクターは譲渡禁止特約付きの債権を断る場合ありとし、GMO BtoB早払いは譲渡禁止債権も買取対象としています（いずれも公式サイト・2026年10月31日確認）。条項があることを申込時に伝えて確認してください。</p>
+<h2>まとめ</h2>
+<ul>
+<li>審査が売掛先だけで決まると公式に記載する会社は、当サイトの確認範囲ではありませんでした</li>
+<li>掲載36社のうち13社が売掛先の種類や売掛先側の事情に関する条件を公式に記載し、そのうち9社は売掛先を法人（または法人と公的機関）に限るか、個人・個人事業主向けの売掛金を対象外としています</li>
+<li>買速は売掛先の信用力を最重要視すると明記し、アウル経済・インボイスPayは売掛先の評価・信用状況で判断すると記載しています。一方で、決算書や年商など申込者側の条件を挙げる会社もあります</li>
+<li>3社間では売掛先が通知・承諾を受ける立場で手続きに加わり（民法467条）、譲渡制限特約があれば売掛先が支払いを拒める場合があります（民法466条3項）</li>
+<li>申込者が準備できるのは、売掛先との契約書・発注書、同じ売掛先からの過去の入金記録、売掛先の連絡先、譲渡制限条項の有無の確認です</li>
+</ul>
+<p>各社の条件は変更される場合があります。ご利用前に、公式サイトにて最新情報をご確認ください。</p>
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L10",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/kiso","className":"hover:text-gray-700 transition","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリング審査は売掛先で決まる？各社公式の条件で見る売掛","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"ファクタリング審査は売掛先で決まる？各社公式の条件で見る売掛先の見られ方","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"ファクタリング審査は売掛先で決まる？各社公式の条件で見る売掛先の見られ方"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":["更新日: ","2026年10月31日"]}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"ファクタリング 売掛先 審査, ファクタリング 取引先 信用力, ファクタリング 売掛先 個人"}]]}],null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14",false,"$L15","$L16"]}],"$L17","$L18","$L19","$L1a"]}]
+:HL["/images/logo-88.webp","image"]
+12:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L10",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L10",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","pmg",{"children":["$","$L10",null,{"href":"/companies/pmg/","className":"text-blue-600 hover:underline","children":["PMG","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L10",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","support-kinyu",{"children":["$","$L10",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":["日本中小企業金融サポート機構","の口コミ・評判・手数料 →"]}]}],["$","li","mf-earlypayment",{"children":["$","$L10",null,{"href":"/companies/mf-earlypayment/","className":"text-blue-600 hover:underline","children":["Money Forward 早期入金","の口コミ・評判・手数料 →"]}]}],["$","li","mentor-capital",{"children":["$","$L10",null,{"href":"/companies/mentor-capital/","className":"text-blue-600 hover:underline","children":["メンターキャピタル","の口コミ・評判・手数料 →"]}]}],["$","li","freenance",{"children":["$","$L10",null,{"href":"/companies/freenance/","className":"text-blue-600 hover:underline","children":["FREENANCE","の口コミ・評判・手数料 →"]}]}],["$","li","jtc",{"children":["$","$L10",null,{"href":"/companies/jtc/","className":"text-blue-600 hover:underline","children":["JTC","の口コミ・評判・手数料 →"]}]}],["$","li","invoice-factor",{"children":["$","$L10",null,{"href":"/companies/invoice-factor/","className":"text-blue-600 hover:underline","children":["インボイスファクター","の口コミ・評判・手数料 →"]}]}],["$","li","no1",{"children":["$","$L10",null,{"href":"/companies/no1/","className":"text-blue-600 hover:underline","children":["株式会社No.1","の口コミ・評判・手数料 →"]}]}],["$","li","safe-trust",{"children":["$","$L10",null,{"href":"/companies/safe-trust/","className":"text-blue-600 hover:underline","children":["セーフトラスト","の口コミ・評判・手数料 →"]}]}],["$","li","ace-trust",{"children":["$","$L10",null,{"href":"/companies/ace-trust/","className":"text-blue-600 hover:underline","children":["エーストラスト","の口コミ・評判・手数料 →"]}]}],["$","li","factor-plan",{"children":["$","$L10",null,{"href":"/companies/factor-plan/","className":"text-blue-600 hover:underline","children":["ファクタープラン","の口コミ・評判・手数料 →"]}]}],["$","li","try",{"children":["$","$L10",null,{"href":"/companies/try/","className":"text-blue-600 hover:underline","children":["ファクタリングのTRY","の口コミ・評判・手数料 →"]}]}],["$","li","msfj",{"children":["$","$L10",null,{"href":"/companies/msfj/","className":"text-blue-600 hover:underline","children":["MSFJ","の口コミ・評判・手数料 →"]}]}],["$","li","levanta",{"children":["$","$L10",null,{"href":"/companies/levanta/","className":"text-blue-600 hover:underline","children":["レバンタ","の口コミ・評判・手数料 →"]}]}],["$","li","trust-gateway",{"children":["$","$L10",null,{"href":"/companies/trust-gateway/","className":"text-blue-600 hover:underline","children":["トラストゲートウェイ","の口コミ・評判・手数料 →"]}]}],["$","li","bion",{"children":["$","$L10",null,{"href":"/companies/bion/","className":"text-blue-600 hover:underline","children":["バイオン","の口コミ・評判・手数料 →"]}]}],["$","li","rfd",{"children":["$","$L10",null,{"href":"/companies/rfd/","className":"text-blue-600 hover:underline","children":["RFD株式会社","の口コミ・評判・手数料 →"]}]}],["$","li","owl-keizai",{"children":["$","$L10",null,{"href":"/companies/owl-keizai/","className":"text-blue-600 hover:underline","children":["アウル経済","の口コミ・評判・手数料 →"]}]}],["$","li","invoice-pay",{"children":["$","$L10",null,{"href":"/companies/invoice-pay/","className":"text-blue-600 hover:underline","children":["インボイスPay","の口コミ・評判・手数料 →"]}]}],["$","li","urikakedo",{"children":["$","$L10",null,{"href":"/companies/urikakedo/","className":"text-blue-600 hover:underline","children":["うりかけ堂","の口コミ・評判・手数料 →"]}]}],["$","li","kaisoku",{"children":["$","$L10",null,{"href":"/companies/kaisoku/","className":"text-blue-600 hover:underline","children":["買速","の口コミ・評判・手数料 →"]}]}],"$L1b","$L1c"]}]]}]
+13:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","olta",{"href":"/companies/olta","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"OLTA"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","2%〜9%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","gmo-btob-hayabarai",{"href":"/companies/gmo-btob-hayabarai","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"GMO BtoB早払い"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜12%"," ／ ","最短2営業日（利用審査完了後）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","2%〜（上限は要問い合わせ）"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+14:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
+15:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-factoring-shinsetsu-houjin",{"href":"/articles/article-factoring-shinsetsu-houjin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 新設法人, ファクタリング 設立1年未満, ファクタリング 創業間もない"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"設立1年未満の新設法人でも使えるファクタリング｜審査で見られる点と必要書類"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-shinsa-nashi",{"href":"/articles/article-factoring-shinsa-nashi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 審査なし, ファクタリング 審査不要, 偽装ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"審査なしのファクタリングはある？「審査なし」をうたう業者の危険性"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-shinsa",{"href":"/articles/article-factoring-shinsa","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 審査"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】ファクタリングの審査基準と落ちる理由7選｜通過率を上げるポイントと審査が甘い会社を紹介"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-shinsa-amai",{"href":"/articles/article-factoring-shinsa-amai","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 審査 甘い, ファクタリング 審査 通りやすい"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの審査は甘いか｜通りやすい会社と審査基準を解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-shinsa-ochita",{"href":"/articles/article-factoring-shinsa-ochita","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング 審査 落ちた, ファクタリング 審査 通らない"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング審査に落ちた理由と対処法｜再申込で通過するためのガイド【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-ai-shinsa",{"href":"/articles/article-factoring-ai-shinsa","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$L1d","$L1e","$L1f"]}]]}]]}]
+16:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L10",null,{"href":"/topics/kiso","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["基礎知識・審査・法律","の記事一覧を見る →"]}],["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+17:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L20","$L21","$L22","$L23"]}]}],"$L24"]}]}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"基礎知識・審査・法律\",\"item\":\"https://corp-factoring.com/topics/kiso\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ファクタリング審査は売掛先で決まる？各社公式の条件で見る売掛先の見られ方\",\"item\":\"https://corp-factoring.com/articles/article-factoring-urikakesaki-shinsa\"}]}"}}]
+19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリング審査は売掛先で決まる？各社公式の条件で見る売掛先の見られ方\",\"description\":\"ファクタリング審査は売掛先で決まる？各社公式の条件で見る売掛先の見られ方について、公式情報や公的資料をもとに解説しています。\",\"dateModified\":\"2026-10-31\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-urikakesaki-shinsa\"}}"}}]
+25:Tb89,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"売掛先が個人や個人事業主の請求書でもファクタリングできますか？","acceptedAnswer":{"@type":"Answer","text":"会社によります。当サイトの確認では、OLTA・ビートレーディング・インボイスPayなど9社が、売掛先を法人に限るか、個人・個人事業主向けの売掛金を対象外と公式に記載しています。売掛先が個人でも申請可と明記しているのはバイオンです（公式サイト・2026年10月31日確認）。"}},{"@type":"Question","name":"自社が赤字でも、売掛先の信用力が高ければ審査に通りますか？","acceptedAnswer":{"@type":"Answer","text":"通過を約束できる公式表示はありません。インボイスPayは申込企業の赤字決算は見積もりに影響しないと記載し、アウル経済は赤字でも相談可、RFD株式会社は赤字でも利用可と記載しています（いずれも公式サイト・2026年10月31日確認）。一方、マネーフォワード 早期入金のように決算書2期分を原則とする会社もあるため、申込先の条件を確認してください。"}},{"@type":"Question","name":"売掛先が官公庁や自治体の場合も利用できますか？","acceptedAnswer":{"@type":"Answer","text":"OLTAは売掛先を国内登記の法人または公的機関とし、マネーフォワード 早期入金は自治体・官公庁向けの債権を対象としています（いずれも公式サイト・2026年10月31日確認）。その他の会社は、当サイトの確認範囲では公的機関について記載がないため、申込前にお問い合わせください。"}},{"@type":"Question","name":"審査の過程で売掛先に連絡されることはありますか？","acceptedAnswer":{"@type":"Answer","text":"2社間ファクタリングでは、売掛先に連絡しない旨を公式に記載する会社があります。レバンタは2社間について売掛先へ原則連絡しないとし、OLTAは利用規定で定める一部の場合を除き取引先に連絡しないと記載しています（いずれも公式サイト・2026年10月31日確認）。3社間は売掛先が手続きに加わる方式です。"}},{"@type":"Question","name":"売掛先との契約書に譲渡禁止の条項があります。申し込めますか？","acceptedAnswer":{"@type":"Answer","text":"民法466条2項により譲渡そのものは有効ですが、3項により売掛先が支払いを拒める場合があります。ベストファクターは譲渡禁止特約付きの債権を断る場合ありとし、GMO BtoB早払いは譲渡禁止債権も買取対象としています（いずれも公式サイト・2026年10月31日確認）。条項があることを申込時に伝えて確認してください。"}}]}1a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$25"}}]
+1b:["$","li","olta",{"children":["$","$L10",null,{"href":"/companies/olta/","className":"text-blue-600 hover:underline","children":["OLTA","の口コミ・評判・手数料 →"]}]}]
+1c:["$","li","gmo-btob-hayabarai",{"children":["$","$L10",null,{"href":"/companies/gmo-btob-hayabarai/","className":"text-blue-600 hover:underline","children":["GMO BtoB早払い","の口コミ・評判・手数料 →"]}]}]
+1d:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"AI ファクタリング, AIファクタリング 審査"}]
+1e:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"AIファクタリングとは｜AI審査の仕組みと最短数分で資金調達できるサービス【2026年】"}]
+1f:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+20:["$","span",null,{"className":"text-gray-700","children":"|"}]
+21:["$","$L10",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}]
+22:["$","span",null,{"className":"text-gray-700","children":"|"}]
+23:["$","$L10",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
+24:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+26:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"ファクタリング審査は売掛先で決まる？各社公式の条件で見る売掛先の見られ方｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"審査が売掛先だけで決まると公式に書く会社は確認できませんでした。売掛先を法人に限る会社、売掛先の信用力を重視すると明記する会社、申込者側の条件も挙げる会社があります。掲載36社の公式表示と民法466条・467条からご説明します。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-factoring-urikakesaki-shinsa/"}],["$","meta","5",{"property":"og:title","content":"ファクタリング審査は売掛先で決まる？各社公式の条件で見る売掛先の見られ方｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"審査が売掛先だけで決まると公式に書く会社は確認できませんでした。売掛先を法人に限る会社、売掛先の信用力を重視すると明記する会社、申込者側の条件も挙げる会社があります。掲載36社の公式表示と民法466条・467条からご説明します。"}],["$","meta","7",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","14",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","15",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","16",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L26","17",{}]]
