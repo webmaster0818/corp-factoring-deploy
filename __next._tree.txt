@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/12mhp6j0wuq3_.css","style"]
 :HL["/images/hero-eyecatch-v3.webp","image",{"fetchPriority":"high"}]
 :HL["/images/logo-88.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Afxyq6Kta78NbhZGgbCMb"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"anIcc2uo_sF1lPDItc5_N"}
