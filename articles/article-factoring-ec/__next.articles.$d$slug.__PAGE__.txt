@@ -1,175 +1,117 @@
 1:"$Sreact.fragment"
 2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],"Header"]
 3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],""]
-17:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
-18:"$Sreact.suspense"
+19:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
 :HL["/images/articles/factoring-article.jpg","image"]
 :HL["/images/logo-88.webp","image"]
-4:T3404,<p>Amazonの売上の入金まで2週間以上かかる場合や、楽天市場の月次精算より先に仕入れ代金の支払いが必要な場合など、EC・通販事業者が直面する資金繰りの課題は、事業の成長に伴って大きくなります。</p>
-<p><strong>EC・通販事業者がファクタリングを活用できる仕組みは複数あります</strong>。Amazonや楽天市場からの売上精算を前倒しで回収する方法から、法人取引（BtoB EC）の請求書の活用まで、EC事業者向けの資金調達方法を解説します。</p>
+4:T5095,<p>Amazonの売上が2週間ごとに振り込まれる前や、楽天市場の振込日より前に仕入れ代金を支払う必要がある場合など、EC・通販事業者は売上の入金と支払いの時期のずれから資金繰りに悩むことがあります。</p>
+<p>この記事では、モールの入金サイクルと、法人の取引先への請求書（BtoB EC）でファクタリングを使うときに確かめることをご説明します。</p>
+<p>当サイトが確認した掲載53社の公式の記載には、Amazon・楽天市場・Yahoo!ショッピングなどのモールからの入金を買取の対象と明記している会社はありません（2026年11月7日時点）。法人の取引先に発行する請求書（卸売り・OEMなどのBtoBの取引）は、各社の売掛先の条件の範囲で申込の対象になります。モールの入金サイクルと、掲載会社の公式の記載は、後半の節にまとめています。</p>
 <hr>
 <h2>EC事業者の資金繰りの課題</h2>
-<h3>ECプラットフォームの入金サイクル</h3>
-<p>主要ECプラットフォームの入金サイクル：</p>
+<h3>ECプラットフォームの入金サイクル（公式の記載）</h3>
+<p>モールの入金について、各社の公式ページで確かめられた記載は次のとおりです。</p>
 <table>
 <thead>
 <tr>
-<th>プラットフォーム</th>
-<th>入金サイクル</th>
-<th>最大遅延</th>
+<th>モール</th>
+<th>公式ページの記載</th>
+<th>出典（確認日）</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Amazon（FBA）</td>
-<td>2週間毎（14日）</td>
-<td>14日</td>
+<td>Amazon</td>
+<td>出品用アカウントの設定時にクレジットカードと銀行口座情報を登録し、「Amazonはクレジットカードに料金を請求し、売上は2週間ごとに銀行口座に振り込みます。」</td>
+<td><a href="https://sell.amazon.co.jp/pricing">Amazon出品サービス「料金プラン」</a>（2026年11月7日）</td>
 </tr>
 <tr>
 <td>楽天市場</td>
-<td>月2回（15日・末日）</td>
-<td>〜45日</td>
+<td>楽天ペイ（楽天市場決済）の決済金は、楽天市場からの請求額と振込額が相殺される。10日締めの振込額は、請求額と相殺した後の金額が毎月20日頃に開示され、月末に振込（相殺の結果によっては請求）。25日締めの振込額は毎月5日頃に開示され、15日に振込</td>
+<td><a href="https://www.rakuten.co.jp/ec/plan/cost_detail/">楽天市場出店「月額コストと手数料の詳細」</a>（2026年11月7日）</td>
 </tr>
 <tr>
 <td>Yahoo!ショッピング</td>
-<td>月2回</td>
-<td>〜45日</td>
-</tr>
-<tr>
-<td>自社EC（カード）</td>
-<td>カード会社精算次第</td>
-<td>30〜60日</td>
-</tr>
-<tr>
-<td>自社EC（銀行振込）</td>
-<td>注文後すぐ</td>
-<td>ほぼなし</td>
+<td>基本の入金サイクルは月1回（末日締め・翌月末日入金）。月2回（15日・末日締め）、月3回・月6回・月8回（締め日の8営業日後に入金）も選べ、月2回以上はオプション手数料（月2回0.1%・月3回0.2%・月6回0.4%・月8回0.6%）がかかる。開店から一定期間は月1回</td>
+<td><a href="https://business-ec.yahoo.co.jp/shopping/settlement/">Yahoo!ショッピング出店「決済サービス」</a>（2026年11月7日）</td>
 </tr>
 </tbody>
 </table>
-<p><strong>課題：</strong> 売上が伸びるほど、「仕入れ代金の先行支払い」と「売上入金の遅れ」の差が拡大します。</p>
+<p>自社EC（Shopifyなどのカート・決済サービス）の入金サイクルは、今回は公式ページを確認できなかったため載せていません。ご利用の決済サービスの公式ページか管理画面でご確認ください。</p>
+<p>例：Yahoo!ショッピングの基本の入金サイクル（末日締め・翌月末日入金）の場合、10月31日締めの対象になった売上は、11月30日に入金されます（公式の締め日と入金日から計算した仮定の例）。10月1日の売上が10月の締めの対象になる場合、入金までは約2か月です。</p>
+<p>楽天市場の公式ページは、10日締めの振込額は請求額と相殺した後の金額が毎月20日頃に、25日締めの振込額は毎月5日頃に開示されるとしています。ファクタリングの申込で入金予定額を示す書類に何を使えるかは、申込先に確かめてください。</p>
+<p><strong>課題：</strong> 売上が伸びるほど、仕入れ代金の先行支払いと売上入金の遅れの差が大きくなります。</p>
 <h3>ECの資金繰りが悪化しやすい状況</h3>
 <p><strong>急成長期の資金不足（デスバレー）：</strong></p>
 <pre><code>売上急増 → 仕入れ増加（先払い）→ 在庫増加（資金固定）
 → 売上入金待ち → 次の仕入れができない → 欠品 → 機会損失
 </code></pre>
-<p>この成長期のキャッシュフローの悪化は、EC事業者が最も陥りやすいパターンです。</p>
 <hr>
 <h2>EC事業者がファクタリングを活用できる方法</h2>
-<h3>方法1：ECプラットフォームの売上精算ファクタリング</h3>
-<p>楽天市場・Yahoo!ショッピング等のプラットフォームからの月次精算の請求書を、ファクタリングで前倒しして回収できます。</p>
-<p><strong>対象：</strong></p>
+<h3>方法1：モール経由の売上（対象になるかは申込先に確認）</h3>
+<p>モールからの入金を買取の対象と明記している会社は、当サイトが確認した掲載53社の公式の記載にはありません（2026年11月7日時点）。申し込む場合は、モールの入金を対象にするかを申込先に問い合わせてください。</p>
+<p><strong>確かめる対象：</strong></p>
 <ul>
-<li>楽天市場・Yahoo!ショッピング等の月次精算書</li>
-<li>モール運営会社（楽天・ヤフー等）への請求</li>
-</ul>
-<p><strong>特徴：</strong></p>
-<ul>
-<li>審査では、利用者よりも売掛先（プラットフォーム）の信用力が中心に見られる</li>
-<li>手数料は方式や金額などで変わるため、見積もりで確認する</li>
+<li>楽天市場・Yahoo!ショッピング等の精算の明細</li>
+<li>モール運営会社（楽天・ヤフー等）からの入金</li>
 </ul>
 <h3>方法2：BtoB EC（企業向け受注）の請求書</h3>
-<p>企業・法人向けのEC（卸売・OEM等）では、企業への請求書が発生します。これらの請求書をファクタリングに活用できます。</p>
+<p>企業・法人向けのEC（卸売・OEM等）では、企業への請求書が発生します。これらの請求書は、各社の売掛先の条件（法人に限る会社・2社間/3社間の対応など）の範囲で申込の対象になります。</p>
 <p><strong>対象：</strong></p>
 <ul>
 <li>小売店・ドラッグストアへの卸売り請求書</li>
 <li>OEM製品の製造先への納品請求書</li>
 <li>企業の備品・消耗品の定期納品</li>
 </ul>
-<h3>方法3：Amazonの「売上前払いサービス」との比較</h3>
-<p>Amazonは「Amazon出品者向け融資」を提供しています。ファクタリングとの比較は以下のとおりです。</p>
+<hr>
+<h2>掲載53社の公式の記載で見る、ECの売上の扱い</h2>
+<p>当サイトでは、掲載53社の会社ページの検証欄と、条件別の比較表に使う公式の記載を、「EC」「通販」「モール」「Amazon」「楽天」「Yahoo」「決済代行」の語で調べました（2026年11月7日時点）。モールや決済サービスからの入金を買取の対象と明記している会社はありませんでした。</p>
+<p>ECにふれている記載は1件で、<a href="/companies/olta/">OLTA</a>の公式ヘルプが、請求書を発行しない取引で使える書類の例に「例：支払い明細書、医療レセプト、ECサイト運営者の管理画面、検収書や受領書など」を挙げています（2026年11月7日確認）。これは書類の例の記載で、モールからの入金を買い取ると書いたものではありません。OLTAの売掛先は、国内登記の法人または公的機関に限られます（公式サイト・2026年10月31日確認）。</p>
+<p>モールの売上で申し込みたい場合は、売掛先にあたる相手（モールや決済サービス）が対象になるかを、申込前に各社へ問い合わせてください。</p>
+<h3>売上の形ごとに確かめること</h3>
 <table>
 <thead>
 <tr>
-<th>比較項目</th>
-<th>Amazon融資</th>
-<th>ファクタリング</th>
+<th>売上の形</th>
+<th>支払ってくる相手</th>
+<th>申込前に確かめること</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>金利・手数料</strong></td>
-<td>非公開（融資形式）</td>
-<td>2%〜15%</td>
+<td>モール経由の売上（Amazon・楽天市場・Yahoo!ショッピング）</td>
+<td>モール・決済サービス</td>
+<td>申込先がモールからの入金を対象にするか（掲載53社の公式の記載には明記なし）。モールの締め日・入金日（上の表）</td>
 </tr>
 <tr>
-<td><strong>返済</strong></td>
-<td>売上から自動引き落とし</td>
-<td>売掛先から回収</td>
+<td>法人の取引先への掛売り（卸売り・OEM・定期納品など）</td>
+<td>取引先の法人</td>
+<td>申込先の売掛先の条件。2社間・3社間のどちらで申し込むか</td>
 </tr>
 <tr>
-<td><strong>利用条件</strong></td>
-<td>Amazon招待制</td>
-<td>請求書があれば可</td>
-</tr>
-<tr>
-<td><strong>スピード</strong></td>
-<td>数日〜1週間</td>
-<td>最短即日</td>
+<td>個人の購入者への後払い・請求書払い</td>
+<td>個人</td>
+<td>売掛先を法人に限る会社（例：OLTA・FREENANCE・ラボル）と、売掛先が個人でも申請できると書いている会社（例：ペイトナー・バイオン）がある</td>
 </tr>
 </tbody>
 </table>
-<p>招待制のAmazon融資の利用が難しい場合や、楽天市場・Yahoo!等の複数のモールで販売している場合は、ファクタリングが有効です。</p>
+<p>売掛先が個人の請求書の扱いは、<a href="/articles/article-factoring-urikakesaki-kojin/">売掛先が個人の請求書はファクタリングできる？</a>で会社ごとに整理しています。上の表の例の会社の記載は、OLTA・FREENANCE・バイオンが2026年10月31日、ラボル・ペイトナーが2026年11月1日に確認したものです。</p>
 <hr>
-<h2>EC事業者向けの新サービス：「EC売掛金ファクタリング」</h2>
-<p>2024〜2026年にかけて、EC特化型のファクタリング・資金調達サービスが登場しています。</p>
-<h3>ECプラットフォームと連携した資金調達サービス</h3>
-<table>
-<thead>
-<tr>
-<th>サービス</th>
-<th>特徴</th>
-<th>手数料目安</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>GMOペイメントゲートウェイ系</td>
-<td>カード決済の即時入金</td>
-<td>1〜3%</td>
-</tr>
-<tr>
-<td>Squareの翌日入金</td>
-<td>スモールビジネス向け</td>
-<td>〜1.75%</td>
-</tr>
-<tr>
-<td>Stripe Capital</td>
-<td>Stripe連携の融資</td>
-<td>売上の数%</td>
-</tr>
-</tbody>
-</table>
-<p>これらはファクタリングではなく融資・早期入金サービスですが、売上の早期資金化という同様の目的に利用できます。</p>
-<hr>
-<h2>EC事業者向けファクタリング活用の実践例</h2>
-<h3>実践例1：仕入れ資金の確保（大口発注前）</h3>
-<pre><code>状況：
-・月間売上：500万円（楽天・Yahoo!）
-・仕入れ：翌月入金前に400万円必要
-・手元資金：200万円不足
+<h2>法人の取引先への請求書の計算例（仮定）</h2>
+<pre><code>仮定：
+・法人の取引先への請求書：500万円
+・手数料率：3%（仮定。実際の率は申込先の見積もりで確認）
 
-ファクタリング活用：
-・楽天市場の今月精算書（500万円）をFA申込
-・手数料3%→485万円を即日受取
-・仕入れ400万円を先払い完了
-・翌月楽天から入金後、FAに送金
+計算：
+・手数料：500万円 × 3% ＝ 15万円
+・受取額：500万円 − 15万円 ＝ 485万円
 </code></pre>
-<h3>実践例2：繁忙期前（年末商戦）の在庫確保</h3>
-<pre><code>状況：
-・10月時点で年末商戦向け大量仕入れが必要
-・10〜11月の通常売上精算：月300万円
-・必要仕入れ：600万円（2ヶ月分前倒し）
-
-ファクタリング活用：
-・10月・11月の精算見込み請求書をFA（2ヶ月分）
-・585万円（手数料2.5%）を即日調達
-・年末商戦向け仕入れ完了
-</code></pre>
+<p>手数料のほかに振込手数料などの費用がかかる会社もあります。費用の内訳は申込先の見積もりで確かめてください。</p>
 <hr>
-<h2>EC・通販事業者におすすめのファクタリング会社</h2>
-<p>※順位は掲載順で、公式表示の優劣を示すものではありません。</p>
-<h3>1位：ビートレーディング</h3>
+<h2>本記事で取り上げる5社の公式表示（当サイトの一覧の掲載順）</h2>
+<p>※並びは当サイトの<a href="/fees/">手数料・入金スピードの一覧</a>の掲載順で、公式表示の優劣を示すものではありません。</p>
+<h3>ビートレーディング</h3>
 <table>
 <thead>
 <tr>
@@ -188,16 +130,12 @@
 </tr>
 <tr>
 <td><strong>対応金額</strong></td>
-<td>上限なし</td>
-</tr>
-<tr>
-<td><strong>EC対応</strong></td>
-<td>○（モール精算書対応）</td>
+<td>1万円〜無制限（実績7億円）</td>
 </tr>
 </tbody>
 </table>
-<p>楽天・Yahoo!等のモール精算書への対応実績があります。EC事業者の資金繰りの相談にも対応しています。</p>
-<h3>2位：QuQuMo</h3>
+<p>2社間・3社間の両方に対応し、必要書類は請求書等と口座の入出金明細（2か月分）の2点です（2026年10月31日確認）。</p>
+<h3>QuQuMo</h3>
 <table>
 <thead>
 <tr>
@@ -218,14 +156,10 @@
 <td><strong>書類</strong></td>
 <td>見積もり時は全口座の入出金明細（直近3か月分）・請求書、契約時に本人確認書類（個人事業主は開業届または確定申告書・健康保険証も。公式サイト・2026年10月31日確認）</td>
 </tr>
-<tr>
-<td><strong>EC対応</strong></td>
-<td>○</td>
-</tr>
 </tbody>
 </table>
-<p>手数料は1%〜です（公式は「業界トップクラスの低コスト。最大でも1%～」と表示。<a href="https://ququmo.net/">公式</a>・2026年10月26日確認）。必要書類が少なく、EC事業者でも容易に申し込めます。</p>
-<h3>3位：アクセルファクター</h3>
+<p>手数料は1%〜です（公式トップの表記は「最大でも1%～」。<a href="https://ququmo.net/">公式</a>・2026年11月7日確認）。取引方式は2社間で、3社間の記載はありません（2026年11月1日確認）。</p>
+<h3>アクセルファクター</h3>
 <table>
 <thead>
 <tr>
@@ -240,7 +174,7 @@
 </tr>
 <tr>
 <td><strong>入金スピード</strong></td>
-<td>最短2時間（公式コラム）。審査結果は最短1時間（公式FAQ）</td>
+<td>最短2時間（公式コラム）。審査結果は最短1時間（公式のよくある質問）</td>
 </tr>
 <tr>
 <td><strong>審査通過率</strong></td>
@@ -248,36 +182,8 @@
 </tr>
 </tbody>
 </table>
-<p>EC事業者の法人取引の請求書・モール精算書に対応しています。</p>
-<h3>4位：PayToday</h3>
-<table>
-<thead>
-<tr>
-<th>項目</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>手数料</strong></td>
-<td>1%〜9.5%</td>
-</tr>
-<tr>
-<td><strong>入金スピード</strong></td>
-<td>最短30分</td>
-</tr>
-<tr>
-<td><strong>書類</strong></td>
-<td>本人確認書類・請求書・全口座の直近6か月分以上の入出金明細・決算書（個人事業主は確定申告書B一式）。FAQでは入出金明細と決算書を「必須ではない」と表記（公式サイト・2026年10月31日確認）</td>
-</tr>
-<tr>
-<td><strong>24時間対応</strong></td>
-<td>○</td>
-</tr>
-</tbody>
-</table>
-<p>24時間365日のAI審査に対応しています。EC事業者の請求書を急ぎで現金化したい場合に有効です。</p>
-<h3>5位：ベストファクター</h3>
+<p>2社間（1〜12%）・3社間（0.5〜10.5%）の両方に対応しています（2026年11月1日確認）。</p>
+<h3>ベストファクター</h3>
 <table>
 <thead>
 <tr>
@@ -296,91 +202,143 @@
 </tr>
 <tr>
 <td><strong>最低金額</strong></td>
-<td>30万円以上（公式FAQ）</td>
+<td>30万円以上（公式のよくある質問。公式トップ・個人事業主向けページは「10万円〜」）</td>
 </tr>
 </tbody>
 </table>
-<p>公式FAQでは売掛債権の請求額30万円以上から利用でき（公式トップには「10万円〜」の表記もあります）、小規模なEC事業者も対象です。</p>
-<hr>
-<h2>EC事業者の成長段階別・資金調達の使い分け</h2>
+<p>公式のよくある質問では売掛債権の請求額30万円以上から利用でき、公式トップには「10万円〜」の表記もあります。</p>
+<h3>PayToday</h3>
 <table>
 <thead>
 <tr>
-<th>成長段階</th>
-<th>月商目安</th>
-<th>最適な資金調達</th>
+<th>項目</th>
+<th>内容</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>立ち上げ期</td>
-<td>〜100万円</td>
-<td>クレジットカード・少額ローン</td>
+<td><strong>手数料</strong></td>
+<td>1%〜9.5%</td>
 </tr>
 <tr>
-<td>成長期</td>
-<td>100〜500万円</td>
-<td><strong>ファクタリング</strong>（仕入れ資金）</td>
+<td><strong>入金スピード</strong></td>
+<td>最短30分</td>
 </tr>
 <tr>
-<td>拡大期</td>
-<td>500〜2,000万円</td>
-<td>ファクタリング＋銀行融資</td>
+<td><strong>書類</strong></td>
+<td>本人確認書類・請求書・全口座の直近6か月分以上の入出金明細・決算書（個人事業主は確定申告書B一式）。よくある質問では入出金明細と決算書を「*必須ではない」と表記（公式サイト・2026年10月31日確認）</td>
 </tr>
 <tr>
-<td>安定期</td>
-<td>2,000万円〜</td>
-<td>銀行融資（信用保証）・EC特化ファイナンス</td>
+<td><strong>受付</strong></td>
+<td>営業時間は平日9:00〜17:00（メール・問い合わせフォームは24時間受付）</td>
 </tr>
 </tbody>
 </table>
+<p>入金は公式トップが最短30分、よくある質問は書類提出後最短1営業日以内と表示しています。審査結果は最短15分〜、24時間以内にメールで回答するとしています（2026年10月31日確認）。</p>
+<hr>
+<h2>本記事の5社の公式の記載（2社間・3社間・必要書類）</h2>
+<p>本記事で取り上げている5社について、取引方式と必要書類の公式の記載をまとめました。並びは当サイトの<a href="/fees/">手数料・入金スピードの一覧</a>の掲載順です。5社とも、会社ページの検証欄と条件別の公式の記載には、ECやモールの売上についての記載はありません（2026年11月7日時点）。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>2社間</th>
+<th>3社間</th>
+<th>必要書類（公式の一覧）</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/be-trading/">ビートレーディング</a></td>
+<td>対応</td>
+<td>対応</td>
+<td>売掛金に関する書類（請求書等）、口座の入出金明細（2か月分）の2点</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/ququmo/">QuQuMo</a></td>
+<td>対応</td>
+<td>公式に記載なし</td>
+<td>代表者の本人確認書類、保有する全銀行口座の入出金明細（直近3ヶ月分）、請求書（請求金額・入金日が確定しているもの）</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/accel-factor/">アクセルファクター</a></td>
+<td>対応</td>
+<td>対応</td>
+<td>請求書などの売掛金額が確認できる書類、通帳3か月分の写し、身分証明書（利用金額によっては決算書）</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/best-factor/">ベストファクター</a></td>
+<td>対応</td>
+<td>対応（個人事業主は2社間のみ）</td>
+<td>本人確認書類、入出金の通帳（WEB通帳可）、売却を希望する請求書・見積書・基本契約書などの売掛先との取引契約書類（契約時は納税証明書・印鑑証明書・登記簿謄本）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/paytoday/">PayToday</a></td>
+<td>対応</td>
+<td>公式に記載なし</td>
+<td>買取を希望する請求書と、代表者（個人事業主は申込人）の顔写真付きの本人確認書類。入出金明細と決算書は「*必須ではない」と表記</td>
+<td>2026年10月31日〜11月1日</td>
+</tr>
+</tbody>
+</table>
+<p>PayTodayの営業時間は平日9:00〜17:00で、メール・問い合わせフォームは24時間受け付けています（公式のよくある質問・2026年10月31日確認）。ビートレーディングは、ポータルサイトからの申請を365日24時間受け付け、土日の審査依頼は翌営業日に順次対応するとしています（2026年10月31日確認）。</p>
+<h2>売掛金を譲渡するときの民法の定め</h2>
+<p>ファクタリングは売掛金（債権）の譲渡です。民法第466条第1項は「債権は、譲り渡すことができる。」と定め、同条第2項は、当事者が譲渡を禁止・制限する意思表示（譲渡制限の意思表示）をしていても、債権の譲渡は効力を妨げられないとしています。一方で同条第3項は、譲渡制限の意思表示を知っていた、または重大な過失によって知らなかった譲受人などに対しては、債務者が履行を拒めるとしています。債権の譲渡を債務者その他の第三者に対抗するには、譲渡人からの通知か債務者の承諾が必要です（第467条第1項）（e-Gov法令検索・2026年11月7日確認）。</p>
+<p>取引先との契約書や、モール・決済サービスの規約に、売上の債権の譲渡を制限する定めがあるかは、申込前に確かめてください。譲渡制限の扱いは<a href="/articles/article-factoring-minpou/">ファクタリングと民法466条の関係</a>で説明しています。</p>
 <hr>
 <h2>まとめ</h2>
-<p>EC・通販事業者は、大手プラットフォーム（楽天・Yahoo!等）の月次精算書や法人取引の請求書を活用してファクタリングを利用することで、資金繰りを大幅に改善できます。</p>
-<p><strong>EC事業者がファクタリングを活用すべき場面：</strong></p>
+<p>法人の取引先への請求書は、各社の売掛先の条件の範囲でファクタリングの対象になります。モールの入金を対象と明記した会社は、当サイトが確認した掲載53社の公式の記載にはないため、申込先に確かめてください。モールの締め日と入金日は各モールの公式ページで確認できます。</p>
+<p><strong>ファクタリングを検討する場面の例：</strong></p>
 <ol>
 <li>仕入れ代金が売上入金より先行する場合</li>
 <li>繁忙期（年末商戦・季節商品）前の在庫確保</li>
 <li>急成長期の資金不足（デスバレー）への対応</li>
 </ol>
-<p>EC事業者のファクタリングには、<strong>ビートレーディング</strong>（モール精算書対応・業界最大手）か<strong>QuQuMo</strong>（手数料1%〜・必要書類が少ない）をおすすめします。</p>
 <hr>
-<h2>よくある質問（FAQ）</h2>
-<p><strong>Q. AmazonのFBA売上もファクタリングできますか？</strong>
-A. Amazon（Amazonへの請求）は、一般的なファクタリング会社での対応が限られます。楽天市場・Yahoo!ショッピング等の月次精算書のほうが、ファクタリングを利用しやすい場合が多くあります。</p>
-<p><strong>Q. 個人で運営しているECショップでもファクタリングを使えますか？</strong>
-A. 個人事業主でBtoB EC（企業への販売）を行っている場合は、利用できます。ペイトナー・ラボル等の個人事業主向けサービスも選択肢になります。</p>
-<p><strong>Q. 海外向けEC（越境EC）の売上はファクタリングできますか？</strong>
-A. 国内のプラットフォームを通じた越境EC（楽天globalmarket等）の精算書は対応可能なケースがあります。直接海外取引の売上については、ファクタリング会社への個別確認が必要です。</p>
-<p><strong>Q. EC事業で在庫を担保にした融資は使えますか？</strong>
-A. 在庫担保融資（在庫を担保にしたローン）をEC事業者向けに提供しているサービスもあります（ABL：動産・売掛金担保融資）。ただし、審査に時間がかかるため、ファクタリングとの使い分けが重要です。</p>
+<h2>よくある質問</h2>
+<p><strong>Q: AmazonのFBA売上もファクタリングできますか？</strong>
+A: Amazonからの入金を買取の対象と明記している会社は、当サイトが確認した掲載53社の公式の記載にはありません。Amazonの公式ページは、売上を2週間ごとに銀行口座に振り込むとしています（2026年11月7日確認）。</p>
+<p><strong>Q: 個人で運営しているECショップでもファクタリングを使えますか？</strong>
+A: 個人事業主が使える会社で、法人の取引先への請求書であれば申込の対象になります（売掛先の条件は会社ごとに異なります）。個人事業主を対象にしている会社には、ペイトナー・ラボルなどがあります。</p>
+<p><strong>Q: 海外向けEC（越境EC）の売上はファクタリングできますか？</strong>
+A: 海外の取引先への請求書を扱うかは会社ごとに異なります。売掛先を国内に限ると書いている会社もあります（例：バイオン〈売掛先は国内のみ〉・OLTA〈国内登記の法人または公的機関〉・2026年10月31日確認）。</p>
+<p><strong>Q: EC事業で在庫を担保にした融資は使えますか？</strong>
+A: 在庫などの動産や売掛金を担保にする融資として、ABL（動産・売掛金担保融資）があります。ABL との違いは<a href="/articles/article-factoring-vs-abl/">ファクタリングとABLの違い</a>で比べています。</p>
+<p><strong>Q: 楽天市場やYahoo!ショッピングの売上は、いつ入金されますか？</strong>
+A: 楽天市場の公式ページは、楽天ペイ（楽天市場決済）の振込を、10日締めの分は月末（請求額との相殺後の金額）、25日締めの分は15日としています。Yahoo!ショッピングの公式ページは、基本の入金サイクルを末日締め・翌月末日入金とし、手数料のかかるオプションで月2回〜月8回も選べるとしています。Amazonの公式ページは、売上を2週間ごとに銀行口座に振り込むとしています（いずれも2026年11月7日確認）。モールからの入金をファクタリングの対象にするかは、当サイトが確認した掲載53社の公式の記載には明記がないため、申込先に問い合わせてください。</p>
 <hr>
 <h2>関連記事</h2>
 <p>以下の記事もあわせてご覧ください。</p>
 <ul>
-<li><a href="/articles/article-factoring-toha/">ファクタリングとは？仕組みをわかりやすく解説</a></li>
-<li><a href="/articles/article-factoring-gyoushu-guide/">業種別ファクタリング活用ガイド</a></li>
-<li><a href="/articles/article-factoring-osusume/">ファクタリングおすすめ19選｜手数料・即日対応を比較</a></li>
-<li><a href="/articles/article-factoring-tesuryo/">ファクタリング手数料の相場と安い会社12選</a></li>
-<li><a href="/articles/article-factoring-merit-demerit/">ファクタリングのメリット・デメリット解説</a></li>
+<li><a href="/articles/article-factoring-toha/">ファクタリングとは｜仕組み・手数料・メリット・デメリットを初めての方向けに解説</a></li>
+<li><a href="/articles/article-factoring-gyoushu-guide/">【業種別】ファクタリング活用ガイド｜業種に適したファクタリング会社の選び方</a></li>
+<li><a href="/articles/article-factoring-osusume/">ファクタリングおすすめ19選｜法人・個人事業主向けに手数料・即日対応を比較</a></li>
+<li><a href="/articles/article-factoring-tesuryo/">ファクタリング手数料の相場と手数料が低い会社12選｜100万円で手元に残る金額のシミュレーション付き</a></li>
+<li><a href="/articles/article-factoring-merit-demerit/">ファクタリングのメリット・デメリット｜利用に適した人・適さない人を解説【2026年】</a></li>
 </ul>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/gyoushu","className":"hover:text-gray-700 transition","children":"業種別ファクタリング"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["EC・通販事業者のファクタリング活用ガイド｜Amazonや楽","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"EC・通販事業者のファクタリング活用ガイド｜Amazonや楽天の売上を即日資金化【2026年】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"EC・通販事業者のファクタリング活用ガイド｜Amazonや楽天の売上を即日資金化【2026年】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":["更新日: ","2026年11月3日"]}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"EC通販 ファクタリング, Amazon 売上 資金化, 楽天 資金繰り"}]]}],null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc",false]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9xAAR75PnZQuRKkUoASaC"}
-5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","accel-factor",{"children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":["アクセルファクター","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","paytoday",{"children":["$","$L3",null,{"href":"/companies/paytoday/","className":"text-blue-600 hover:underline","children":["PayToday","の口コミ・評判・手数料 →"]}]}]]}]]}]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","div",null,{"className":"bg-white border-b border-gray-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-6 py-3","children":["$","nav",null,{"className":"text-sm text-gray-400","children":[["$","$L3",null,{"href":"/","className":"hover:text-gray-700 transition","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","className":"hover:text-gray-700 transition","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/gyoushu","className":"hover:text-gray-700 transition","children":"業種別ファクタリング"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["EC・通販事業者のファクタリング｜モールの入金サイクルとファ","..."]}]]}]}]}],["$","div",null,{"className":"max-w-4xl mx-auto px-6 mt-8","children":["$","div",null,{"className":"rounded-xl overflow-hidden shadow-sm","children":["$","img",null,{"src":"/images/articles/factoring-article.jpg","alt":"EC・通販事業者のファクタリング｜モールの入金サイクルとファクタリングの使い方【2026年11月】","className":"w-full h-48 md:h-64 object-cover"}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-6 py-8","children":[["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl md:text-3xl font-bold text-gray-900 mb-4 leading-tight","children":"EC・通販事業者のファクタリング｜モールの入金サイクルとファクタリングの使い方【2026年11月】"}],["$","div",null,{"className":"mb-6 flex items-center gap-3 text-sm text-gray-500","children":[["$","span",null,{"children":["更新日: ","2026年11月7日"]}],["$","span",null,{"className":"bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-3 py-1 rounded-full","children":"EC通販 ファクタリング, Amazon 売上 資金化, 楽天 資金繰り"}]]}],null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,"$L8","$L9"]}],"$La","$Lb","$Lc","$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BJAheiTxpzTAQ95jA6Vvl"}
+5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-xl p-6","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-2","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","accel-factor",{"children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":["アクセルファクター","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","paytoday",{"children":["$","$L3",null,{"href":"/companies/paytoday/","className":"text-blue-600 hover:underline","children":["PayToday","の口コミ・評判・手数料 →"]}]}],["$","li","freenance",{"children":["$","$L3",null,{"href":"/companies/freenance/","className":"text-blue-600 hover:underline","children":["FREENANCE","の口コミ・評判・手数料 →"]}]}],["$","li","bion",{"children":["$","$L3",null,{"href":"/companies/bion/","className":"text-blue-600 hover:underline","children":["バイオン","の口コミ・評判・手数料 →"]}]}],["$","li","olta",{"children":["$","$L3",null,{"href":"/companies/olta/","className":"text-blue-600 hover:underline","children":["OLTA","の口コミ・評判・手数料 →"]}]}]]}]]}]
 6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"おすすめファクタリング会社"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","kensetsu-pay",{"href":"/companies/kensetsu-pay","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"建設Pay"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜（上限は要問い合わせ）"," ／ ","最短1時間（契約完了後1時間以内に送金）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","bizpay",{"href":"/companies/bizpay","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビジペイ"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短60分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","chatwork-sakibarai",{"href":"/companies/chatwork-sakibarai","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"Chatwork 先払い"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 7:["$","div",null,{"className":"mt-12 bg-gradient-to-r from-[#1B3A5C] to-[#2a5280] rounded-xl p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-white text-[#1B3A5C] px-8 py-3 rounded-full font-bold text-sm hover:bg-gray-100 transition","children":"無料診断を始める →"}]]}]
-8:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-it",{"href":"/articles/article-factoring-it","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"IT ファクタリング, フリーランス ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】IT・Web制作会社向けファクタリング活用ガイド｜開発費の入金のずれを解消"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-sysdev",{"href":"/articles/article-factoring-sysdev","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"システム開発 ファクタリング, IT企業 資金繰り, SES ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"システム開発会社のファクタリングガイド｜受注から入金まで長期化する資金繰り対策【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-saas",{"href":"/articles/article-factoring-saas","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング SaaS スタートアップ"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"SaaS スタートアップのファクタリング活用｜サブスクリプション収益の前倒しでの資金化"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-koukoku",{"href":"/articles/article-factoring-koukoku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"広告代理店 ファクタリング, 広告業 資金繰り"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"広告代理店向けファクタリング｜媒体費の立替問題を解決する方法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-influencer",{"href":"/articles/article-factoring-influencer","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング インフルエンサー YouTuber"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"インフルエンサー・YouTuber のファクタリング｜PR 報酬・配信収益の資金化"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-hitori-oyakata",{"href":"/articles/article-factoring-hitori-oyakata","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$Lf","$L10","$L11"]}]]}]]}]
+8:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-lg font-bold text-[#1B3A5C] mb-4 flex items-center gap-2","children":[["$","span",null,{"className":"w-1 h-6 bg-[#1B3A5C] rounded-full inline-block"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-it",{"href":"/articles/article-factoring-it","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"IT ファクタリング, フリーランス ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】IT・Web制作会社向けファクタリング活用ガイド｜開発費の入金のずれを解消"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-sysdev",{"href":"/articles/article-factoring-sysdev","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"システム開発 ファクタリング, IT企業 資金繰り, SES ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"システム開発会社のファクタリングガイド｜受注から入金まで長期化する資金繰り対策【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-saas",{"href":"/articles/article-factoring-saas","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング SaaS スタートアップ"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"SaaS スタートアップのファクタリング活用｜サブスクリプション収益の前倒しでの資金化"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-koukoku",{"href":"/articles/article-factoring-koukoku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"広告代理店 ファクタリング, 広告業 資金繰り"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"広告代理店向けファクタリング｜媒体費の立替問題を解決する方法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-influencer",{"href":"/articles/article-factoring-influencer","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"ファクタリング インフルエンサー YouTuber"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"インフルエンサー・YouTuber のファクタリング｜PR 報酬・配信収益の資金化"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-hitori-oyakata",{"href":"/articles/article-factoring-hitori-oyakata","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md hover:border-[#1B3A5C]/30 transition group","children":["$L10","$L11","$L12"]}]]}]]}]
 9:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/gyoushu","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["業種別ファクタリング","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
-a:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L12","$L13","$L14","$L15"]}]}],"$L16"]}]}]
-b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"業種別ファクタリング\",\"item\":\"https://corp-factoring.com/topics/gyoushu\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"EC・通販事業者のファクタリング活用ガイド｜Amazonや楽天の売上を即日資金化【2026年】\",\"item\":\"https://corp-factoring.com/articles/article-factoring-ec\"}]}"}}]
-c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"EC・通販事業者のファクタリング活用ガイド｜Amazonや楽天の売上を即日資金化【2026年】\",\"description\":\"EC・通販事業者のファクタリング活用ガイド｜Amazonや楽天の売上を即日資金化【2026年】について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-04-29\",\"dateModified\":\"2026-11-03\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-ec\"}}"}}]
-d:["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true}]
-e:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
-f:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"一人親方 ファクタリング, 一人親方 請求書 資金化, 建設 個人事業主 ファクタリング"}]
-10:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"一人親方（建設）のファクタリング｜元請けへの請求書で使えるか・必要書類"}]
-11:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
-12:["$","span",null,{"className":"text-gray-700","children":"|"}]
-13:["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}]
-14:["$","span",null,{"className":"text-gray-700","children":"|"}]
-15:["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
-16:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
-19:null
+a:["$","footer",null,{"className":"bg-gray-900 text-white py-12 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-[#F5A623]","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-gray-400 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-gray-400 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-gray-400 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-gray-400 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-gray-400 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-gray-400 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-gray-400 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-gray-400 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-gray-400 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-gray-400 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-gray-400 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-gray-400 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-gray-400 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-gray-400 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-gray-400 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-gray-400 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-gray-400 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-gray-400 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-gray-400 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block bg-[#F5A623] text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-[#E8841A] transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-gray-800 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-gray-400 hover:text-white transition","children":"利用規約"}],"$L13","$L14","$L15","$L16"]}]}],"$L17"]}]}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"業種別ファクタリング\",\"item\":\"https://corp-factoring.com/topics/gyoushu\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"EC・通販事業者のファクタリング｜モールの入金サイクルとファクタリングの使い方【2026年11月】\",\"item\":\"https://corp-factoring.com/articles/article-factoring-ec\"}]}"}}]
+c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"EC・通販事業者のファクタリング｜モールの入金サイクルとファクタリングの使い方【2026年11月】\",\"description\":\"EC・通販事業者のファクタリング｜モールの入金サイクルとファクタリングの使い方【2026年11月】について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-04-29\",\"dateModified\":\"2026-11-07\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-ec\"}}"}}]
+18:Ta73,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"AmazonのFBA売上もファクタリングできますか？","acceptedAnswer":{"@type":"Answer","text":"Amazonからの入金を買取の対象と明記している会社は、当サイトが確認した掲載53社の公式の記載にはありません。Amazonの公式ページは、売上を2週間ごとに銀行口座に振り込むとしています（2026年11月7日確認）。"}},{"@type":"Question","name":"個人で運営しているECショップでもファクタリングを使えますか？","acceptedAnswer":{"@type":"Answer","text":"個人事業主が使える会社で、法人の取引先への請求書であれば申込の対象になります（売掛先の条件は会社ごとに異なります）。個人事業主を対象にしている会社には、ペイトナー・ラボルなどがあります。"}},{"@type":"Question","name":"海外向けEC（越境EC）の売上はファクタリングできますか？","acceptedAnswer":{"@type":"Answer","text":"海外の取引先への請求書を扱うかは会社ごとに異なります。売掛先を国内に限ると書いている会社もあります（例：バイオン〈売掛先は国内のみ〉・OLTA〈国内登記の法人または公的機関〉・2026年10月31日確認）。"}},{"@type":"Question","name":"EC事業で在庫を担保にした融資は使えますか？","acceptedAnswer":{"@type":"Answer","text":"在庫などの動産や売掛金を担保にする融資として、ABL（動産・売掛金担保融資）があります。ABL との違いは[ファクタリングとABLの違い](/articles/article-factoring-vs-abl/)で比べています。"}},{"@type":"Question","name":"楽天市場やYahoo!ショッピングの売上は、いつ入金されますか？","acceptedAnswer":{"@type":"Answer","text":"楽天市場の公式ページは、楽天ペイ（楽天市場決済）の振込を、10日締めの分は月末（請求額との相殺後の金額）、25日締めの分は15日としています。Yahoo!ショッピングの公式ページは、基本の入金サイクルを末日締め・翌月末日入金とし、手数料のかかるオプションで月2回〜月8回も選べるとしています。Amazonの公式ページは、売上を2週間ごとに銀行口座に振り込むとしています（いずれも2026年11月7日確認）。モールからの入金をファクタリングの対象にするかは、当サイトが確認した掲載53社の公式の記載には明記がないため、申込先に問い合わせてください。"}}]}d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$18"}}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true}]
+f:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+10:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-full mb-3","children":"一人親方 ファクタリング, 一人親方 請求書 資金化, 建設 個人事業主 ファクタリング"}]
+11:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"一人親方（建設）のファクタリング｜元請けへの請求書で使えるか・必要書類"}]
+12:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+13:["$","span",null,{"className":"text-gray-700","children":"|"}]
+14:["$","$L3",null,{"href":"/privacy/","className":"text-gray-400 hover:text-white transition","children":"プライバシーポリシー"}]
+15:["$","span",null,{"className":"text-gray-700","children":"|"}]
+16:["$","$L3",null,{"href":"/content-policy/","className":"text-gray-400 hover:text-white transition","children":"記事の制作ポリシー"}]
+17:["$","div",null,{"className":"border-t border-gray-800 pt-6 text-center","children":["$","p",null,{"className":"text-gray-400 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+1b:null
