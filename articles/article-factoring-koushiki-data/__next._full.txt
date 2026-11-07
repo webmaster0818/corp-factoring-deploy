@@ -6,14 +6,14 @@
 9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
-:HL["/_next/static/chunks/04oz~b_hm.08..css","style"]
-0:{"P":null,"c":["","articles","article-factoring-koushiki-data",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-koushiki-data","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/04oz~b_hm.08..css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/04oz~b_hm.08..css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"hEg7mGQm8PjQbU2V92viT"}
+:HL["/_next/static/chunks/0i1f99v1wfj0p.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-koushiki-data",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-koushiki-data","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i1f99v1wfj0p.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com\"}]}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0-344q195aq1w.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i1f99v1wfj0p.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"cewFppx5hxa14Cdid4O_w"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0-344q195aq1w.js"],""]
 :HL["/images/articles/factoring-article.jpg","image"]
-11:Ta1d2,<p>当サイトでは、掲載しているファクタリング会社53社の公式サイトの表示を、主に2026年10月14日から11月6日にかけて確認した記録をもとに、9つの項目について社数で集計しました（一部の会社の入金・対象・契約方法の記録は、それより前の確認日です。各表に記載しています）。アンケートや利用者の体験談ではなく、各社が公式サイトに自ら表示している手数料・入金スピード・対象・必要書類などの記載を、同じ基準で区分して数えたものです。</p>
+11:Tafe9,<p>当サイトでは、掲載しているファクタリング会社53社の公式サイトの表示を、主に2026年10月14日から11月6日にかけて確認した記録をもとに、9つの項目について社数で集計しました（一部の会社の入金・対象・契約方法の記録は、それより前の確認日です。各表に記載しています）。アンケートや利用者の体験談ではなく、各社が公式サイトに自ら表示している手数料・入金スピード・対象・必要書類などの記載を、同じ基準で区分して数えたものです。</p>
 <blockquote>
 <p><strong>集計結果の要点（母数はいずれも当サイト掲載の53社）</strong></p>
 <ul>
@@ -67,6 +67,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 </ul>
 <h2>1. 2社間手数料の下限の分布</h2>
 <p><strong>母数：53社／数え方：公式の2社間手数料の表示の先頭にある下限の率で区分（例：「1〜12%」は1%、「4%〜」は4%）／確認日：2026年10月14日〜11月6日</strong></p>
+<p><img src="/images/articles/charts/fee-2sha-kagen.svg" alt="2社間手数料の下限の分布の横棒グラフ（母数53社）。1%未満3社、1%以上2%未満9社、2%以上3%未満4社、3%以上4%未満4社、4%以上5%未満3社、5%以上5社、一律の率（10%）4社、公式内で下限の表示が異なる7社、率を公表していない9社、その他5社"></p>
+<p>図：下の表の社数を棒の長さで示したもの（当サイト掲載53社）</p>
 <table>
 <thead>
 <tr>
@@ -137,6 +139,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>「公式内で下限の表示が異なる」7社は、たとえば公式トップと別のページで下限の率が違う会社です（うりかけ堂はトップが1.5%〜、「ファクタリングとは」のページが2%〜。KKTは法人向けの案内ページが3.7%〜、以前の案内ページが1%〜など）。どの率を採るかで区分が変わるため、分けて数えています。エーストラストは、トップの「1%〜」が3社間の下限で、2社間は「5〜15%以内」と案内しているため、5%以上に数えています。MSFJ（個人事業主向けのページは3.8%〜）とベストファクター（個人事業主向けのページは5%〜18.5%）は、対象を限ったページの表示のため、公式トップや比較表の率で区分しています。GMO BtoB早払いは請求書買取の率で、注文書買取は2%〜12%です。手数料の下限が低い会社の一覧は<a href="/articles/article-factoring-tesuryo-yasui/">手数料が安いファクタリング会社</a>でご案内しています。</p>
 <h2>2. 2社間手数料の上限を公開している会社の割合</h2>
 <p><strong>母数：53社／数え方：2社間手数料の表示に上限の率があるか（「〜◯%」「◯%以内」）で区分／確認日：2026年10月14日〜11月6日</strong></p>
+<p><img src="/images/articles/charts/fee-2sha-jougen.svg" alt="2社間手数料の上限の公開状況の横棒グラフ（母数53社）。上限の率を表示（注記なし）12社、上限の率を表示（注記つき・ページで異なる等）8社、一律の率4社、下限のみ表示14社、率を公表していない・個別査定10社、その他5社"></p>
+<p>図：下の表の社数を棒の長さで示したもの（当サイト掲載53社）</p>
 <table>
 <thead>
 <tr>
@@ -195,6 +199,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>上限の率を何らかの形で表示している会社は、注記つきを含めて20社（37.7%）、一律の率の4社を含めると24社（45.3%）でした。上限の表示がない会社では、下限の率だけで手数料の見当を付けることはできません。見積もりの際は、提示された手数料率と、手数料以外の費用（振込手数料など）を合わせてご確認ください。手数料の考え方は<a href="/articles/article-factoring-tesuryo/">ファクタリングの手数料</a>でご説明しています。</p>
 <h2>3. 2社間・3社間の対応</h2>
 <p><strong>母数：53社／数え方：公式サイトに3社間ファクタリング（売掛先の承諾を得る方式）に対応する旨の記載があるかで区分（当サイトの条件別の記録の値）／確認日：2026年10月31日〜11月6日</strong></p>
+<p><img src="/images/articles/charts/2sha-3sha-taiou.svg" alt="2社間・3社間の対応の横棒グラフ（母数53社）。3社間は対応すると記載30社、対応しないと記載1社、公式に記載なし22社。2社間は対応すると記載45社、対応しないと記載0社、公式に記載なし8社"></p>
+<p>図：下の表の社数を棒の長さで示したもの（当サイト掲載53社）</p>
 <table>
 <thead>
 <tr>
@@ -237,6 +243,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>公式に3社間の記載がない22社には、公式サイトでサービスを「2社間（2者間）ファクタリング」と説明している会社が含まれます。記載がないことは、対応していないことの表明ではありません。2つの方式の違いは<a href="/articles/article-factoring-2sha-3sha/">2社間ファクタリングと3社間ファクタリングの違い</a>でご説明しています。</p>
 <h2>4. 最短入金の表示の分布</h2>
 <p><strong>母数：53社／数え方：公式の最短入金の表示（当サイトの記録の先頭の表示）で区分。会社ごとの検証欄の記録も含め、ページによって最短の表示が異なり区分が変わる会社は別に数える／確認日：2026年8月16日〜11月6日（トップ・マネジメントは8月16日、QuQuMoは8月22日、ほかの51社は10月14日〜11月6日）</strong></p>
+<p><img src="/images/articles/charts/nyukin-saitan.svg" alt="最短入金の表示の分布の横棒グラフ（母数53社）。最短60分以内12社、最短60分超〜6時間11社、最短即日（時間の表示なし）14社、公式内で最短の表示が異なる10社、当日以外の表示6社"></p>
+<p>図：下の表の社数を棒の長さで示したもの（当サイト掲載53社）</p>
 <table>
 <thead>
 <tr>
@@ -281,6 +289,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>当日中の入金を示す表示（上の「60分以内」「60分超〜6時間」「最短即日」）の会社は37社で、このほか「公式内で最短の表示が異なる」10社も、いずれかのページでは当日中の表示をしています。最短の時間は、必要書類がそろっている場合や、申込みの時間帯などの条件付きで示されていることが多く、たとえばマネーフォワード 早期入金は公式のよくある質問で申込みから平均3〜5営業日、ファクタリングZEROは通常翌営業日〜2営業日程度が多いと説明しています。なお、<a href="/articles/article-factoring-sokujitsu-osusume/">即日入金できるファクタリング会社</a>の比較表は記録の先頭の表示で会社を載せているため、本表の区分とは一部異なります。</p>
 <h2>5. 個人事業主・フリーランスの利用</h2>
 <p><strong>母数：53社／数え方：公式表示の対象に「個人事業主」「フリーランス」「個人」が含まれ、法人のみ・取扱停止などの記載がない会社を「含む」に数える（当サイトの条件別の比較表と同じ基準。「売掛先は法人のみ」は売掛先の条件のため判定から外す）／確認日：2026年7月21日〜11月6日（QuQuMoは7月21日、トップ・マネジメントは8月16日、ほかの51社は10月14日〜11月6日）</strong></p>
+<p><img src="/images/articles/charts/taishou-kojin.svg" alt="個人事業主・フリーランスの利用の横棒グラフ（母数53社）。対象に含む34社、法人のみと記載8社、公式内で表記が分かれる3社、可否の明示なし8社"></p>
+<p>図：下の表の社数を棒の長さで示したもの（当サイト掲載53社）</p>
 <table>
 <thead>
 <tr>
@@ -320,6 +330,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>「含む」の34社の中にも、条件を付けている会社があります。たとえばJTCは個人事業主について取引先の承諾が必要、RFD株式会社は売掛先が法人の場合、OLTAはフリーランスについて開業届の提出が条件と記載しています。個人事業主の方向けの一覧は<a href="/articles/article-factoring-kojin-jigyonushi/">個人事業主が使えるファクタリング会社</a>でご案内しています。</p>
 <h2>6. 土日祝の審査・入金</h2>
 <p><strong>母数：53社／数え方：公式サイトの土日祝の審査・入金についての記載を当サイトが区分した値（「可」「条件付き」「不可」「公式に記載なし」）。条件付きのうち公式内で表記が異なる会社は別に数える／確認日：2026年10月31日〜11月6日</strong></p>
+<p><img src="/images/articles/charts/donichi.svg" alt="土日祝の審査・入金の横棒グラフ（母数53社）。可3社、条件付き（受付・相談のみ、土曜のみなど）9社、条件付き（公式内で表記が異なる）4社、不可24社、公式に記載なし13社"></p>
+<p>図：下の表の社数を棒の長さで示したもの（当サイト掲載53社）</p>
 <table>
 <thead>
 <tr>
@@ -364,6 +376,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>「不可」は、公式の営業時間・定休日などの記載から、当サイトが土日祝の審査・入金を行わないと区分した会社です。この24社の中には、Webやメールの申込みは24時間受け付けていて、審査・入金を翌営業日に行う会社が含まれます。また「可」の3社でも、ラボルは公式のよくある質問で平日の営業時間より対応が遅くなる場合があると説明しています。週末に資金が必要な場合の考え方は<a href="/articles/article-factoring-donichi/">土日祝に対応するファクタリング会社</a>でご案内しています。</p>
 <h2>7. 公式に挙げている必要書類の数</h2>
 <p><strong>母数：53社／数え方：公式サイトの必要書類の一覧に挙がっている書類の点数（当サイトが一覧から数えた値。審査時と契約時を分けて書いている会社は審査時の点数）／確認日：2026年10月31日〜11月6日</strong></p>
+<p><img src="/images/articles/charts/hitsuyou-shorui.svg" alt="公式に挙げている必要書類の数の横棒グラフ（母数53社）。2点12社、3点19社、4点7社、5点以上7社、公式に一覧の記載なし8社"></p>
+<p>図：下の表の社数を棒の長さで示したもの（当サイト掲載53社）</p>
 <table>
 <thead>
 <tr>
@@ -408,6 +422,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>一覧を載せている45社のうち、31社が3点以下でした。ただし、点数は審査の入口で求められる書類の数で、契約時に印鑑証明書や登記簿謄本、決算書などを追加で求める会社があります（株式会社No.1は契約前の最終確認で決算書2期分など4点、ファクタープランは契約時4点と記載）。また、QuQuMoのように同じページの訴求欄では「請求書・通帳の2点のみ」と本人確認書類を数えずに表示している会社もあり、本記事では一覧の書類をすべて数えています。書類ごとの用意の仕方は<a href="/articles/article-factoring-hitsuyou-shorui/">ファクタリングの必要書類</a>でご説明しています。</p>
 <h2>8. オンラインでの契約</h2>
 <p><strong>母数：53社／数え方：公式表示の契約方法の記録で、オンラインで契約まで完結できると記載している会社を「可」に数え、初回の対面など条件の記載がある会社は、会社ごとの検証欄の記録も含めて分けて数える／確認日：2026年7月21日〜11月6日（QuQuMo・えんナビは7月21日、トップ・マネジメントは8月16日、ほかの50社は10月14日〜11月6日）</strong></p>
+<p><img src="/images/articles/charts/online-keiyaku.svg" alt="オンラインでの契約の横棒グラフ（母数53社）。可39社、可（初回の対面など条件の記載あり）3社、公式内で記載が異なる3社、オンライン対応・面談の記載のみ4社、確認できず・書類は郵送4社"></p>
+<p>図：下の表の社数を棒の長さで示したもの（当サイト掲載53社）</p>
 <table>
 <thead>
 <tr>
@@ -452,6 +468,8 @@ f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~
 <p>「可」の39社の中にも、来社や訪問での契約を選べる会社や、MSFJのように印鑑証明書などの郵送が必要な場合があると記載している会社があります。オンライン契約の流れは<a href="/articles/article-online-factoring/">オンライン完結のファクタリング</a>でご案内しています。</p>
 <h2>9. 債権譲渡登記の扱い</h2>
 <p><strong>母数：53社／数え方：公式サイトの債権譲渡登記についての記載を当サイトが区分した値（「可」＝登記をしない・留保できると記載、「条件付き」、「公式に記載なし」）／確認日：2026年10月31日〜11月6日</strong></p>
+<p><img src="/images/articles/charts/saiken-touki.svg" alt="債権譲渡登記の扱いの横棒グラフ（母数53社）。登記をしない・留保できると記載20社、条件付き4社、公式に記載なし29社"></p>
+<p>図：下の表の社数を棒の長さで示したもの（当サイト掲載53社）</p>
 <table>
 <thead>
 <tr>
