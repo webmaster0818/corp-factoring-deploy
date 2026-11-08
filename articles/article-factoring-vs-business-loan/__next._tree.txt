@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/0grhfe_56q9oc.css","style"]
 :HL["/images/articles/kojin-jigyonushi.jpg","image"]
 :HL["/images/logo-88.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"article-factoring-vs-business-loan","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"0j3Txc34l9NcY10ehfRF0"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"article-factoring-vs-business-loan","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"J2sq3LXUJj89OtxQ3A4K2"}
