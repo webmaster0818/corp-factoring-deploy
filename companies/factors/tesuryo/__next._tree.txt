@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/0zanvt_az_ht~.css","style"]
+:HL["/_next/static/chunks/07-oyg.g_xz48.css","style"]
 :HL["/images/logo-88.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"companies","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"factors","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"tesuryo","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"IHrXZprROy5vDOUw3NcG3"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"companies","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"factors","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"tesuryo","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"QK39SgLSm5Wszti5wtFqD"}
