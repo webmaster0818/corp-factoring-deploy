@@ -7,293 +7,311 @@
 b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
 d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
 :HL["/_next/static/chunks/030w1ny5~pez0.css","style"]
-0:{"P":null,"c":["","articles","article-kakuteishinkoku-yuushi",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-kakuteishinkoku-yuushi","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/030w1ny5~pez0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0wx~cye_53qk4.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/030w1ny5~pez0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"fVR1ETWe6-L9OMavf2fuO"}
+0:{"P":null,"c":["","articles","article-kakuteishinkoku-yuushi",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-kakuteishinkoku-yuushi","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/030w1ny5~pez0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0wx~cye_53qk4.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/030w1ny5~pez0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"D53NpYXLiA7kQB-Juyk0i"}
 e:[]
 8:"$We"
 f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0wx~cye_53qk4.js"],"Header"]
 10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0wx~cye_53qk4.js"],""]
-11:T2e3f,<p>節税を重視した結果、融資の審査に通らなかったという事例があります。</p>
-<p>個人事業主にとって、確定申告は税金を適正に納めるための重要な手続きですが、<strong>融資の審査では、確定申告書が事業の「成績表」として確認されます</strong>。税金を減らすために所得を低く申告すると、融資を受けたいときに「返済能力が低い」と判断され、審査に通らないリスクがあります。</p>
-<p>この記事では、融資の審査で確定申告書のどの部分が確認されるのか、赤字申告の影響、融資を見据えた申告のポイントを解説します。</p>
+11:T57b4,<p>個人事業主が融資を申し込むときは、確定申告書の表紙だけでなく決算書や収支内訳書を含む「一式」を、直近2期分そろえるのが基本です。2025年1月からは税務署が申告書の控えに受付印を押さなくなったため、申告した事実はe-Taxの受信通知や国税庁の申告書等情報取得サービスなどで示します。</p>
+<p>この記事では、日本政策金融公庫の必要書類、国税庁が案内している控えの代わりになる確認方法、納税証明書の種類を、それぞれの公式ページで確認した内容だけで整理します。後半では、確定申告書がまだそろわない時期の選択肢として、当サイト掲載のファクタリング会社が確定申告書をどう扱っているかを、各社公式の記載で並べます。</p>
 <hr>
-<h2>融資の審査で確認される確定申告書の項目</h2>
-<p>金融機関が融資の審査で確認するのは、主に以下の項目です。</p>
-<h3>確定申告書B（第一表）の確認ポイント</h3>
+<h2>融資の申込みで求められる確定申告書</h2>
+<h3>日本政策金融公庫（国民生活事業）が案内している書類</h3>
+<p>日本政策金融公庫の「インターネット申込（事業資金）」のページでは、個人事業主の方の必要書類として、次の内容が案内されています（<a href="https://www.jfc.go.jp/n/service/apply.html">日本政策金融公庫 インターネット申込（事業資金）</a>・2026年11月16日確認）。</p>
 <table>
 <thead>
 <tr>
-<th>確認項目</th>
-<th>記載箇所</th>
-<th>審査での見方</th>
+<th>状況</th>
+<th>公庫のページに書かれている提出書類</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>事業所得</td>
-<td>営業等（ア）</td>
-<td>本業の収益力を確認</td>
+<td>税務申告を2期以上済ませている</td>
+<td>直近期と、その前期の確定申告書（一式）</td>
 </tr>
 <tr>
-<td>所得合計</td>
-<td>所得金額の合計（⑫）</td>
-<td>返済能力の基準値</td>
+<td>税務申告が1期だけ済んでいる</td>
+<td>1期分</td>
 </tr>
 <tr>
-<td>課税される所得金額</td>
-<td>（㉖）</td>
-<td>実質的な利益を確認</td>
+<td>事業を始めて間もなく、税務申告が済んでいない</td>
+<td>確定申告書の提出は不要</td>
 </tr>
 <tr>
-<td>税額</td>
-<td>所得税額</td>
-<td>所得の妥当性の裏付け</td>
+<td>「一式」の中身</td>
+<td>青色申告の方は青色申告決算書、いわゆる白色申告の方は収支内訳書を含む</td>
 </tr>
 </tbody>
 </table>
-<h3>青色申告決算書の確認ポイント</h3>
+<p>同じページには、提出データの不備が多い点として「お申込の都度、2期分のご提出が必要です。」「確定申告書の表紙だけでなく、一式がご準備できているか」と書かれています。以前に公庫を利用したことがあっても、申込みのたびに2期分を出す前提で準備しておくと手戻りが減ります。</p>
+<p>確定申告書のほかには、創業計画書または企業概要書、設備資金の場合の見積書、送金先の預金通帳、本人確認書類、許認可が必要な事業の場合の許認可証等が挙げられています。公庫の融資制度そのものについては、<a href="/articles/article-jfc-kojin/">日本政策金融公庫で個人事業主が融資を受ける方法</a>にまとめています。</p>
+<h3>貸金業者（ビジネスローン等）では「収入を証明する書類」として使われる</h3>
+<p>貸金業者から借りる場合、確定申告書は返済能力の調査に使われます。貸金業法第13条は、貸金業者に対して、契約前に顧客の収入や借入れの状況などの返済能力を調査するよう定めています。個人の顧客の場合、その貸金業者からの借入れの合計が50万円を超えるとき、または他社を含めた貸金業者からの借入れの合計が100万円を超えるときは、源泉徴収票その他の資力を明らかにする書面の提出を受けなければならないとされています（<a href="https://laws.e-gov.go.jp/law/358AC1000000032">e-Gov法令検索 貸金業法</a>第13条第3項・2026年11月16日確認）。</p>
+<p>日本貸金業協会は、この「収入を証明する書類」の例として「源泉徴収票」「確定申告書」「給与明細」を挙げています（<a href="https://www.j-fsa.or.jp/association/money_lending/law/annual_income.php">日本貸金業協会「お借入れは年収の3分の1まで」</a>・2026年11月16日確認）。個人事業主にとっては、確定申告書が収入の証明そのものになるということです。</p>
+<h3>申告した所得の額は「借りられる上限」に直結する</h3>
+<p>貸金業者からの個人向けの借入れには、年収の3分の1を超える貸付けを原則として禁じる総量規制があります。日本貸金業協会のページでは、総量規制の基準になる「年収」の一つとして「年間の事業所得（過去の事業所得の状況に照らして安定的と認められるものに限る）」が挙げられています（同上）。</p>
+<p>例：確定申告書で年間の事業所得が300万円と認められた場合、貸金業者から借りられる合計額は原則として100万円までです（300万円×1/3）。</p>
+<p>経費を多く計上して事業所得が小さくなれば、この基準額も小さくなります。ただし個人事業者には、事業計画・収支計画・資金計画から返済能力があると認められる場合の「例外貸付け」があります（<a href="https://www.j-fsa.or.jp/association/money_lending/law/total_regulation.php">日本貸金業協会「総量規制が適用されない場合について」</a>・2026年11月16日確認）。総量規制と例外の扱いは、<a href="/articles/article-business-loan-kojin/">個人事業主がビジネスローンを比べる手順</a>で詳しく扱っています。</p>
+<p>なお、銀行・信用金庫・信用組合などは貸金業者ではないため、総量規制の対象外です（日本貸金業協会・同上）。銀行の審査で確定申告書がどう評価されるかは各行の基準によるため、ここでは書きません。</p>
+<hr>
+<h2>2025年1月から、控えに受付印は押されない</h2>
+<h3>国税庁の見直しの内容</h3>
+<p>国税庁は、2025年（令和7年）1月から、申告書等の控えに収受日付印を押さないことにしました。書面で提出するときは正本（提出用）だけを出し、控えは必要に応じて自分で作成・保有し、提出年月日を記録・管理するよう案内しています（<a href="https://www.nta.go.jp/taxes/tetsuzuki/onatsu/index.htm">国税庁「令和7年1月からの申告書等の控えへの収受日付印の押なつについて」</a>・2026年11月16日確認）。</p>
+<p>同じページでは、当分の間の対応として、窓口で受付の「日付」と「税務署名」を記載したリーフレットを希望者に渡すこと、郵送で切手を貼った返信用封筒を同封した場合も同様に返送することが書かれています。</p>
+<p>また、国税当局は金融機関や補助金・助成金を担当する行政機関などに対し、「令和7年1月以降は、各種の事務において収受日付印の押なつされた申告書等の控えを求めない」よう周知を依頼したと記載しています。</p>
+<h3>控えの受付印の代わりになる確認方法（国税庁の案内）</h3>
 <table>
 <thead>
 <tr>
-<th>確認項目</th>
-<th>審査での見方</th>
+<th>方法</th>
+<th>確認できること</th>
+<th>費用・日数（国税庁の記載）</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>売上高</td>
-<td>事業規模の確認、前年比の推移</td>
+<td>e-Taxの受信通知</td>
+<td>提出者の氏名、受付番号、受付日時など。受信通知から電子申請等証明書の交付請求も可</td>
+<td>個人が受信通知を見るにはマイナンバーカード等の電子証明書が必要</td>
 </tr>
 <tr>
-<td>売上原価</td>
-<td>粗利率の確認</td>
+<td>申告書等情報取得サービス</td>
+<td>書面で出した所得税の確定申告書・青色申告決算書・収支内訳書もPDFで取得</td>
+<td>無料。マイナンバーカードが必要。取得まで数日。直近年分は原則翌年5月1日以降に申請可</td>
 </tr>
 <tr>
-<td>経費の内訳</td>
-<td>不自然に高い経費がないか</td>
+<td>保有個人情報の開示請求</td>
+<td>提出した申告書等の内容</td>
+<td>手数料300円（オンラインは200円）。写しの交付は1か月程度。法人の申告書には使えない</td>
 </tr>
 <tr>
-<td>青色申告特別控除</td>
-<td>65万円控除＝複式簿記＝管理能力が高いと評価される</td>
+<td>税務署での閲覧</td>
+<td>過去に提出した申告書等</td>
+<td>窓口での申請のみ</td>
 </tr>
 <tr>
-<td>貸借対照表</td>
-<td>資産・負債の状況</td>
+<td>納税証明書</td>
+<td>納税額や所得金額</td>
+<td>提出年月日は確認できない（次の章）</td>
 </tr>
 </tbody>
 </table>
-<p><strong>特に重要なのは、「売上高」と「所得金額」の2つです。</strong> 売上が順調に伸び、所得が十分に残っている申告書が、審査で最も評価されます。</p>
+<p>（出典：同上の国税庁ページ・2026年11月16日確認）</p>
+<p>融資の申込みに向けた準備としては、e-Taxで申告した場合は申告書一式のPDFと受信通知を一緒に保存しておく、書面で提出した場合は控えのコピーと提出日の記録、受け取ったリーフレットを保管しておく、という形になります。申告書等情報取得サービスは直近年分が翌年5月1日以降になるため、3月に申告してすぐ融資を申し込む予定がある場合は、自分で控えを残しておくことが前提になります。</p>
 <hr>
-<h2>節税を重視しすぎると融資の審査で不利になる</h2>
-<h3>節税が融資の審査で不利になる理由</h3>
-<p>節税の基本は、「経費を増やして所得を減らす」ことです。一方、融資の審査では、<strong>所得が返済能力の指標</strong>と判断されます。</p>
-<p><strong>具体例:</strong></p>
+<h2>納税証明書の種類と取り方</h2>
+<h3>その1〜その4の違い</h3>
+<p>国税庁の「納税証明書の交付請求手続」のページでは、納税証明書の種類が次のように説明されています（<a href="https://www.nta.go.jp/taxes/nozei/nozei-shomei/01.htm">国税庁 G-1 納税証明書の交付請求手続</a>・2026年11月16日確認）。</p>
 <table>
 <thead>
 <tr>
-<th>パターン</th>
-<th>売上</th>
-<th>経費</th>
-<th>所得</th>
-<th>融資の審査での評価</th>
+<th>種類</th>
+<th>証明内容</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>節税重視</td>
-<td>800万円</td>
-<td>700万円</td>
-<td>100万円</td>
-<td>返済能力が低い</td>
+<td>その1</td>
+<td>納付すべき税額、納付した税額及び未納税額等の証明</td>
 </tr>
 <tr>
-<td>バランス型</td>
-<td>800万円</td>
-<td>500万円</td>
-<td>300万円</td>
-<td>返済余力がある</td>
+<td>その2</td>
+<td>所得金額の証明</td>
+</tr>
+<tr>
+<td>その3</td>
+<td>未納の税額がないことの証明</td>
+</tr>
+<tr>
+<td>その4</td>
+<td>証明を受けようとする期間に、滞納処分を受けたことがないことの証明</td>
 </tr>
 </tbody>
 </table>
-<p>パターンAの場合、「年間100万円の所得では、毎月の返済が難しい」と判断され、融資額が減額されるか、審査に通らない可能性が高くなります。</p>
-<h3>経費の水増しは行わない</h3>
-<p>融資のために経費を減らすのではなく、<strong>そもそも経費の水増しを行わない</strong>ことが前提です。税務調査で経費の否認が判明すると、修正申告が必要になり、融資における信頼も損なわれます。</p>
-<hr>
-<h2>赤字申告が融資に与える影響</h2>
-<h3>赤字であっても融資を受けられないとは限らない</h3>
-<p>赤字申告であっても、融資を受けられないとは限りません。重要なのは、<strong>赤字の原因と今後の見通し</strong>です。</p>
+<p>融資や取引先の審査でどの種類を何年度分求められるかは、提出先が指定します。たとえば当サイトのデータでは、三菱ＵＦＪファクターの診療報酬早期受取オンラインサービスが、法人の医療機関・薬局の審査申込時の必要書類に「確定申告書（別表1）または納税証明書（その2）」と「納税証明書（その3の3）」を挙げています（公式サイト・2026年11月6日確認）。指定がない場合は、提出先に種類と年度を確認してから請求すると取り直しを避けられます。</p>
+<h3>手数料と請求方法</h3>
 <table>
 <thead>
 <tr>
-<th>赤字の種類</th>
-<th>融資への影響</th>
+<th>請求方法</th>
+<th>その1・その2</th>
+<th>その3・その4</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>開業初年度の赤字</td>
-<td>比較的柔軟に評価される</td>
+<td>オンライン（e-Tax）</td>
+<td>税目数×年度数×枚数×370円</td>
+<td>枚数×370円</td>
 </tr>
 <tr>
-<td>設備投資による一時的な赤字</td>
-<td>理由を説明できれば許容される範囲</td>
-</tr>
-<tr>
-<td>減価償却費による帳簿上の赤字</td>
-<td>実質的なキャッシュフローがプラスであれば問題は小さい</td>
-</tr>
-<tr>
-<td>売上低迷による慢性的な赤字</td>
-<td>審査で厳しく見られる</td>
-</tr>
-<tr>
-<td>2期連続以上の赤字</td>
-<td>厳しい</td>
+<td>書面（郵送・窓口）</td>
+<td>税目数×年度数×枚数×400円</td>
+<td>枚数×400円</td>
 </tr>
 </tbody>
 </table>
-<p>特に注目すべきは「減価償却費」です。減価償却費は帳簿上の経費であり、<strong>実際に資金が支出されるわけではありません</strong>。したがって、「所得＋減価償却費」がプラスであれば、実質的なキャッシュフローは黒字であると説明できます。</p>
-<p>赤字の状態で融資を検討している場合は、<a href="/articles/article-akaji-yuushi/">赤字でも融資は受けられるか（5つの方法）</a>もあわせてご覧ください。</p>
+<p>（出典：同上の国税庁ページ・2026年11月16日確認）</p>
+<p>オンラインで請求した場合の受取方法は、電子納税証明書（PDFまたはXML）、税務署の窓口、郵送の3つがあり、電子納税証明書と郵送は電子証明書等が必要と書かれています。窓口で受け取る場合、2026年10月1日から全ての税務署で総合窓口の受付時間が原則9時から15時になっています。国税庁の別ページでは、所得税等の確定申告期は発行に特に時間がかかることがあるとも案内されています。</p>
 <hr>
-<h2>融資を見据えた確定申告の5つのポイント</h2>
-<h3>ポイント1: 青色申告65万円控除を活用する</h3>
-<p>白色申告ではなく、<strong>青色申告（65万円控除）を選択</strong>してください。青色申告を行っていること自体が、帳簿を適切に管理していることの証明となり、審査で有利に働きます。</p>
-<h3>ポイント2: 売上は正確に計上する</h3>
-<p>売上の計上漏れや、意図的な売上の先送りは行わないでください。融資の審査では、通帳の入金記録と申告書の売上が照合されるため、不一致があると信用を失います。</p>
-<h3>ポイント3: 経費は適正な範囲にとどめる</h3>
-<p>経費を「使えるだけ使う」のではなく、<strong>事業に必要な経費のみを計上する</strong>ことが、融資を見据えた申告のポイントです。</p>
-<p>特に注意すべき経費の項目：</p>
-<ul>
-<li><strong>接待交際費:</strong> 売上に対する比率が高すぎると、不自然と判断される</li>
-<li><strong>旅費交通費:</strong> 私的な支出との区分が曖昧になりやすい</li>
-<li><strong>消耗品費:</strong> 年末にまとめて購入した計上が目立つ</li>
-<li><strong>家事按分:</strong> 自宅兼事務所の按分比率が高すぎないか</li>
-</ul>
-<h3>ポイント4: 貸借対照表を整備する</h3>
-<p>青色申告65万円控除を受けるために作成する貸借対照表は、融資の審査でも重要な資料です。</p>
-<ul>
-<li><strong>事業主貸・事業主借が大きすぎないか：</strong> 生活費と事業費の区分が曖昧だと、管理能力を疑われる</li>
-<li><strong>売掛金の残高：</strong> 回収状況の健全性</li>
-<li><strong>借入金の残高：</strong> 既存の借入状況</li>
-</ul>
-<h3>ポイント5: 3期分の申告書を揃える</h3>
-<p>融資の審査では、通常、<strong>直近2〜3期分の確定申告書を求められます</strong>。売上が増加し、所得も安定している推移が理想的です。開業から2期以上が経過してから融資を申し込むと、審査の材料が揃うため、通過しやすくなります。</p>
+<h2>申告の内容で、融資の前に確認しておきたい点</h2>
+<h3>青色申告特別控除の要件と、決算書がそろうこと</h3>
+<p>国税庁のタックスアンサーでは、青色申告特別控除は原則55万円、一定の要件を満たす場合は65万円、それ以外は10万円と説明されています。55万円の控除は、正規の簿記の原則（一般的には複式簿記）で記帳し、貸借対照表と損益計算書などを確定申告書に添付して期限内に提出することが要件です。65万円は、これに加えて優良な電子帳簿の保存か、e-Taxでの申告が要件です（<a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2072.htm">国税庁 No.2072 青色申告特別控除</a>・2026年11月16日確認）。</p>
+<p>日本政策金融公庫が求める「一式」には青色申告決算書が含まれるため、貸借対照表まで作っていれば、資産・負債の状況も申告書一式の中で示せます。複式簿記で記帳しておくことは、控除のためだけでなく、融資の書類をそろえる作業を軽くすることにもつながります。</p>
+<h3>申告内容と通帳の入金が説明できるか</h3>
+<p>公庫の書類や貸金業法の調査で確認されるのは、確定申告書に書いた収入が実際の事業の動きと合っているかどうかです。売上の計上漏れや、事業と関係のない支出を経費に入れることは、税務上の問題になるだけでなく、申告書を返済能力の証明として使えなくします。事業用の口座を分けておくと、申告書の売上と入金を突き合わせやすくなります。</p>
+<p>赤字の申告になった年がある場合の考え方は、<a href="/articles/article-akaji-yuushi/">赤字でも融資は受けられるか</a>を参照してください。</p>
 <hr>
-<h2>確定申告書以外に融資の審査で確認される書類</h2>
-<p>確定申告書だけでなく、以下の書類も審査の対象です。</p>
+<h2>確定申告書がそろわないうちに資金が必要なとき</h2>
+<p>開業1年目で申告前の場合や、2期分がそろう前に運転資金が足りなくなる場合、売掛金（請求書）があればファクタリングで資金化する方法があります。ファクタリングは売掛金の売買で借入れではないため、総量規制の対象ではありません（貸金業法との関係は<a href="/articles/article-factoring-kashikingyou/">ファクタリングと貸金業法</a>）。</p>
+<p>ただし、ファクタリング会社でも確定申告書を必要書類に挙げる会社はあります。当サイト掲載社のうち、個人事業主が使える会社で、公式の必要書類に確定申告書（または納税証明書）の記載がある会社を並べると次のとおりです。</p>
+<p><strong>表の基準：</strong> 当サイトのデータ（data/conditionFacts.ts・data/feeIndex.ts）で個人事業主が対象に含まれ、公式の必要書類・よくある質問に確定申告書への言及がある会社。「不要と明記」「条件付き」「必要書類に記載」の順に並べています。</p>
 <table>
 <thead>
 <tr>
-<th>書類</th>
-<th>確認されるポイント</th>
+<th>会社</th>
+<th>確定申告書の扱い（公式の記載）</th>
+<th>確認日</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>通帳（6か月〜1年分）</td>
-<td>売上の入金パターン、資金の流れ</td>
+<td>PayToday</td>
+<td>不要と明記。よくある質問に「個人事業主の場合は、確定申告書の提出は不要です。」。書類の一覧では確定申告書B一式に「*必須ではない」と表記</td>
+<td>2026年11月1日</td>
 </tr>
 <tr>
-<td>借入の返済明細</td>
-<td>既存の返済状況、延滞の有無</td>
+<td>QuQuMo</td>
+<td>条件付き。「※個人事業主の方は、開業届又は青色、白色の確定申告書一式をご提出ください。」</td>
+<td>2026年11月12日</td>
 </tr>
 <tr>
-<td>事業計画書</td>
-<td>将来の売上見込み、成長性</td>
+<td>トップ・マネジメント</td>
+<td>条件付き。必須書類3点には含まれず、審査で必要になる場合の書類として「開業届、確定申告書（個人事業主・フリーランスの場合）」</td>
+<td>2026年11月1日</td>
 </tr>
 <tr>
-<td>見積書・契約書</td>
-<td>受注の確実性</td>
+<td>ファクタリングのTRY</td>
+<td>必要書類に記載（契約時に案内）。「決算書、確定申告書、印鑑証明、謄本など、ご契約いただく際に、必要書類についてご案内いたします。」</td>
+<td>2026年11月15日</td>
 </tr>
 <tr>
-<td>資金繰り表</td>
-<td>返済計画の妥当性</td>
+<td>レバンタ</td>
+<td>必要書類に記載。「法人の方は決算書、個人事業主の方は確定申告書などの必要書類を提出いただき」</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td>バイオン</td>
+<td>必要書類に記載。直近の決算書（個人事業主は確定申告書一式）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td>OLTA</td>
+<td>必要書類に記載。財務書類として、個人事業主は確定申告書第一表の控え・開業届</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td>西日本ファクター</td>
+<td>必要書類に記載。決算書や確定申告書など業績が確認できる資料を二期分</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td>JBL</td>
+<td>必要書類に記載。決算書 直近1期分（個人事業主は確定申告書）</td>
+<td>2026年11月10日</td>
 </tr>
 </tbody>
 </table>
-<p>特に、<strong>通帳の記録は確定申告書の裏付け</strong>となるため、日頃から事業用口座と個人用口座を分けて管理することが重要です。</p>
-<hr>
-<h2>融資を見据えた申告のスケジュール</h2>
+<p>（各社公式サイト・確認日は表のとおり）</p>
+<p>確定申告書を必要書類の一覧に挙げていない会社は、<a href="/articles/article-factoring-kakutei-shinkokusho-nashi/">確定申告書なしでファクタリングは使えるか</a>に一覧があります。一覧にない会社でも、審査の途中で追加の書類を求められることがあります。</p>
+<h3>融資とファクタリングのどちらが合うか</h3>
 <table>
 <thead>
 <tr>
-<th>時期</th>
-<th>行うこと</th>
+<th>状況</th>
+<th>合いやすい方法</th>
+<th>理由</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>4〜12月</td>
-<td>毎月の帳簿を正確に記帳し、領収書を整理する</td>
+<td>申告2期分がそろっていて、入金まで日数に余裕がある</td>
+<td>公庫・金融機関の融資</td>
+<td>申告書一式を返済能力の資料として出せる</td>
 </tr>
 <tr>
-<td>1月</td>
-<td>年間の収支を集計し、所得金額を確認する</td>
+<td>申告前・1期分のみで、売掛金がある</td>
+<td>ファクタリング（確定申告書が不要・条件付きの会社）</td>
+<td>審査の中心が売掛金と取引の実態になる</td>
 </tr>
 <tr>
-<td>2〜3月</td>
-<td>確定申告書を提出する（e-Taxで65万円控除）</td>
+<td>申告済みで、事業所得が小さく貸金業者の基準額が足りない</td>
+<td>例外貸付けの相談、または売掛金の売却</td>
+<td>総量規制は貸金業者の個人向け貸付けに適用される</td>
 </tr>
 <tr>
-<td>申告後</td>
-<td>融資の申込を準備する（申告書の控え・通帳を整備）</td>
+<td>売掛金がなく、申告もまだ</td>
+<td>創業向けの融資の相談</td>
+<td>ファクタリングは売る債権がないと使えない</td>
 </tr>
 </tbody>
 </table>
-<p><strong>融資を検討している年の確定申告は、特に慎重に行ってください。</strong> 過度な節税を避け、返済能力を示すことのできる所得の水準を確保してください。</p>
+<p>創業前後の融資は<a href="/articles/article-sogyo-yushi/">創業融資のガイド</a>、ファクタリングの手数料を受け取った後の帳簿の付け方は<a href="/articles/article-factoring-kojin-kakutei/">個人事業主のファクタリングと確定申告</a>にまとめています。</p>
 <hr>
-<h2>確定申告を税理士に依頼すべきか</h2>
-<p>融資を受ける予定がある場合、<strong>税理士に申告を依頼するメリットは大きい</strong>といえます。</p>
-<ul>
-<li>税理士の署名がある申告書は、金融機関からの信頼が高い</li>
-<li>融資を見据えた申告について、助言を受けられる</li>
-<li>税務調査のリスクが低くなる</li>
-<li>金融機関の紹介を受けられる場合もある</li>
-</ul>
-<p>費用は年間10〜30万円程度ですが、融資額が大きいほど、税理士への費用に見合う効果が期待できます。</p>
+<h2>よくある質問</h2>
+<p><strong>Q: 確定申告書の控えに受付印がないと、融資の審査で受け付けてもらえませんか？</strong></p>
+<p>A: 国税庁は、金融機関や補助金の担当機関などに対して、2025年1月以降は収受日付印のある控えを求めないよう周知を依頼したと公表しています。e-Taxの受信通知、申告書等情報取得サービスで取得したPDF、窓口で受け取ったリーフレットなどで提出の事実を示せます。提出先から別の書類を指定された場合は、その指示に従ってください。</p>
+<p><strong>Q: 開業1年目で、まだ確定申告をしていません。融資は申し込めますか？</strong></p>
+<p>A: 日本政策金融公庫のインターネット申込のページでは、事業を始めて間もなく税務申告が済んでいない方は確定申告書の提出は不要とされ、創業計画書を準備するよう案内されています。</p>
+<p><strong>Q: 確定申告の直後に、その年分の申告書をPDFで取り寄せられますか？</strong></p>
+<p>A: 国税庁の申告書等情報取得サービスでは、直近年分の所得税の申告書等の申請は原則として翌年5月1日以降とされています。3月に申告してすぐに使う場合は、提出時に自分で控えを作り、e-Taxなら受信通知を保存しておく必要があります。</p>
+<p><strong>Q: 納税証明書の「その2」は何を証明する書類ですか？</strong></p>
+<p>A: 国税庁の説明では、その2は所得金額の証明です。納付した税額や未納税額はその1、未納の税額がないことはその3、滞納処分を受けたことがないことはその4で証明します。なお、納税証明書では申告書の提出年月日は確認できません。</p>
 <hr>
 <h2>まとめ</h2>
-<p>確定申告と融資は、密接に関連しています。節税を重視しすぎると融資の審査で不利になり、必要なときに資金を借りられないリスクがあります。</p>
-<p><strong>融資を見据えた申告の原則:</strong></p>
-<ol>
-<li><strong>青色申告65万円控除を活用する</strong></li>
-<li><strong>経費は適正な範囲にとどめる（水増しは行わない）</strong></li>
-<li><strong>売上は正確に、漏れなく計上する</strong></li>
-<li><strong>貸借対照表を整備する</strong></li>
-<li><strong>3期分の申告書を揃えてから融資を申し込む</strong></li>
-</ol>
-<p>「節税」と「融資への備え」のバランスを取ることが、個人事業主の財務管理において重要です。融資の選択肢については<a href="/articles/article-kojin-jigyonushi-yushi/">個人事業主の融資ガイド</a>を、審査に不安がある場合は<a href="/articles/article-business-loan-kojin/">ビジネスローンの比較記事</a>もご参照ください。</p>
+<ul>
+<li>公庫の申込みでは、確定申告書の一式（青色申告決算書または収支内訳書を含む）を申込みのたびに2期分出す。1期のみなら1期分、申告前なら不要</li>
+<li>2025年1月から控えに受付印は押されない。e-Taxの受信通知、申告書等情報取得サービス、窓口のリーフレットなどで提出を示す</li>
+<li>納税証明書はその1〜その4で証明内容が異なる。種類と年度は提出先に確認する</li>
+<li>貸金業者からの借入れでは、確定申告書が収入の証明になり、事業所得が総量規制の基準額に影響する</li>
+<li>申告書がそろう前に資金が必要で、売掛金がある場合は、確定申告書の扱いを各社公式で確認したうえでファクタリングも選択肢になる</li>
+</ul>
 <hr>
 <h2>関連記事</h2>
 <ul>
 <li><a href="/articles/article-kojin-jigyonushi-yushi/">個人事業主の融資ガイド</a></li>
-<li><a href="/articles/article-jfc-kojin/">日本政策金融公庫の個人事業主向け融資</a></li>
-<li><a href="/articles/article-business-loan-kojin/">ビジネスローン比較｜個人事業主向け</a></li>
-<li><a href="/articles/article-akaji-yuushi/">赤字でも融資は受けられる？5つの方法</a></li>
+<li><a href="/articles/article-jfc-kojin/">日本政策金融公庫で個人事業主が融資を受ける方法</a></li>
+<li><a href="/articles/article-business-loan-kojin/">個人事業主がビジネスローンを比べる手順</a></li>
+<li><a href="/articles/article-factoring-kakutei-shinkokusho-nashi/">確定申告書なしでファクタリングは使えるか</a></li>
+<li><a href="/articles/article-shikin-gurihyou/">資金繰り表の作り方</a></li>
 </ul>
 <hr>
-<p><em>この記事は2026年4月時点の情報に基づいています。各制度の最新情報は公式サイトでご確認ください。</em></p>
+<p><em>この記事は2026年11月16日時点で各公式ページを確認した内容に基づいています。各制度の最新情報は公式サイトでご確認ください。</em></p>
 <hr>
 <blockquote>
-<p>※本記事の情報は2026年4月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
+<p>※本記事の情報は2026年11月時点の内容です。手数料率・サービス内容・キャンペーン等は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
 </blockquote>
-4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","header",null,{"className":"page-head","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-4 pb-9 sm:pb-11","children":[["$","nav",null,{"className":"crumbs mb-7","children":[["$","$L10",null,{"href":"/","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/kojin","children":"個人事業主・フリーランス"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["確定申告と融資の関係｜個人事業主が審査に通るための申告のポイ","..."]}]]}],["$","p",null,{"className":"page-label mb-3","children":"個人事業主・フリーランス"}],["$","h1",null,{"className":"text-[23px] sm:text-[30px] font-bold text-ink leading-[1.5] tracking-[0.01em] mb-5","children":"確定申告と融資の関係｜個人事業主が審査に通るための申告のポイント"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-gray-500","children":[["$","span",null,{"className":"num","children":["更新日: ","2026年11月10日"]}],["$","span",null,{"className":"bg-white border border-line text-ink/80 text-xs font-medium px-2.5 py-0.5 rounded-sm","children":"確定申告 融資"}]]}]]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-6 sm:pt-8 pb-10","children":[["$","article",null,{"children":[null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],false,"$L12","$L13",false,false,"$L14","$L15"]}],"$L16","$L17","$L18",false]}]
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","header",null,{"className":"page-head","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-4 pb-9 sm:pb-11","children":[["$","nav",null,{"className":"crumbs mb-7","children":[["$","$L10",null,{"href":"/","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/kojin","children":"個人事業主・フリーランス"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["確定申告書と融資｜控えの証明方法・2期分の準備・納税証明書の","..."]}]]}],["$","p",null,{"className":"page-label mb-3","children":"個人事業主・フリーランス"}],["$","h1",null,{"className":"text-[23px] sm:text-[30px] font-bold text-ink leading-[1.5] tracking-[0.01em] mb-5","children":"確定申告書と融資｜控えの証明方法・2期分の準備・納税証明書の取り方"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-gray-500","children":[["$","span",null,{"className":"num","children":["更新日: ","2026年11月16日"]}],["$","span",null,{"className":"bg-white border border-line text-ink/80 text-xs font-medium px-2.5 py-0.5 rounded-sm","children":"確定申告 融資"}]]}]]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-6 sm:pt-8 pb-10","children":[["$","article",null,{"children":[null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14",false,false,"$L15","$L16"]}],"$L17","$L18","$L19","$L1a"]}]
 :HL["/images/logo-88.webp","image"]
-12:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-5","children":"おすすめファクタリング会社"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","nishinihon-factor",{"href":"/companies/nishinihon-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"西日本ファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短即日（公式トップ・1,000万円まで）／最短1日（公式FAQ）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","jigyoshikin-agent",{"href":"/companies/jigyoshikin-agent","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"事業資金エージェント"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","5%〜20%"," ／ ","最短2時間（申込LP）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","escom",{"href":"/companies/escom","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"エスコム"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","5%〜（上限は要問い合わせ）"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
-13:["$","div",null,{"className":"mt-12 bg-[#1B3A5C] rounded-md p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-cta text-white px-8 py-3 rounded-md font-bold text-sm hover:bg-cta-hover transition","children":"無料診断を始める →"}]]}]
-14:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"関連記事"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-jfc-kojin",{"href":"/articles/article-jfc-kojin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"日本政策金融公庫 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】日本政策金融公庫で個人事業主が融資を受ける方法｜審査のポイント・必要書類・申込手順のガイド"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-kojin-jigyonushi-yushi",{"href":"/articles/article-kojin-jigyonushi-yushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"個人事業主 融資"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】個人事業主が融資を受ける方法7選｜審査のポイントと必要書類のガイド"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-business-loan-kojin",{"href":"/articles/article-business-loan-kojin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ビジネスローン 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】個人事業主向けビジネスローンおすすめ15選｜即日融資・低金利を目的別に比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-seido-yuushi",{"href":"/articles/article-seido-yuushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"制度融資 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】制度融資とは｜個人事業主が低金利で借りられる自治体の融資制度の解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-akaji-yuushi",{"href":"/articles/article-akaji-yuushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"赤字 融資"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"赤字でも融資は受けられるか｜個人事業主が審査に通るための5つの方法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-sogyo-yushi",{"href":"/articles/article-sogyo-yushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"創業融資"}],"$L19","$L1a"]}]]}]]}]
-15:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L10",null,{"href":"/topics/kojin","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["個人事業主・フリーランス","の記事一覧を見る →"]}],["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
-16:["$","footer",null,{"className":"bg-ink text-white py-12 mt-16 border-t border-white/10","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-white","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-blue-100/80 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-blue-100/80 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-blue-100/80 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-blue-100/80 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-blue-100/80 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kiso","className":"text-blue-100/80 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/hikaku","className":"text-blue-100/80 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/gyoushu","className":"text-blue-100/80 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kojin","className":"text-blue-100/80 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/guide/trouble/","className":"text-blue-100/80 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-blue-100/80 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/about/","className":"text-blue-100/80 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-blue-100/80 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-blue-100/80 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-blue-100/80 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-blue-100/80 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-blue-100/80 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-blue-100/80 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block border border-white/40 text-white px-6 py-2.5 rounded-md font-bold text-sm hover:bg-white/10 transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-white/15 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":["$L1b","$L1c","$L1d","$L1e","$L1f"]}]}],"$L20"]}]}]
-17:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"個人事業主・フリーランス\",\"item\":\"https://corp-factoring.com/topics/kojin/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"確定申告と融資の関係｜個人事業主が審査に通るための申告のポイント\",\"item\":\"https://corp-factoring.com/articles/article-kakuteishinkoku-yuushi/\"}]}"}}]
-18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"確定申告と融資の関係｜個人事業主が審査に通るための申告のポイント\",\"description\":\"確定申告と融資の関係｜個人事業主が審査に通るための申告のポイントについて、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-04-17\",\"dateModified\":\"2026-11-10\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-kakuteishinkoku-yuushi\"}}"}}]
-19:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】創業融資のガイド｜個人事業主が日本政策金融公庫で開業資金を借りる方法"}]
-1a:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
-1b:["$","$L10",null,{"href":"/terms/","className":"text-blue-100/80 hover:text-white transition","children":"利用規約"}]
-1c:["$","span",null,{"className":"text-white/30","children":"|"}]
-1d:["$","$L10",null,{"href":"/privacy/","className":"text-blue-100/80 hover:text-white transition","children":"プライバシーポリシー"}]
+12:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-md p-6","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","ququmo",{"children":["$","$L10",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","paytoday",{"children":["$","$L10",null,{"href":"/companies/paytoday/","className":"text-blue-600 hover:underline","children":["PayToday","の口コミ・評判・手数料 →"]}]}],["$","li","try",{"children":["$","$L10",null,{"href":"/companies/try/","className":"text-blue-600 hover:underline","children":["ファクタリングのTRY","の口コミ・評判・手数料 →"]}]}],["$","li","levanta",{"children":["$","$L10",null,{"href":"/companies/levanta/","className":"text-blue-600 hover:underline","children":["レバンタ","の口コミ・評判・手数料 →"]}]}],["$","li","bion",{"children":["$","$L10",null,{"href":"/companies/bion/","className":"text-blue-600 hover:underline","children":["バイオン","の口コミ・評判・手数料 →"]}]}],["$","li","olta",{"children":["$","$L10",null,{"href":"/companies/olta/","className":"text-blue-600 hover:underline","children":["OLTA","の口コミ・評判・手数料 →"]}]}],["$","li","nishinihon-factor",{"children":["$","$L10",null,{"href":"/companies/nishinihon-factor/","className":"text-blue-600 hover:underline","children":["西日本ファクター","の口コミ・評判・手数料 →"]}]}],["$","li","mufg-factor",{"children":["$","$L10",null,{"href":"/companies/mufg-factor/","className":"text-blue-600 hover:underline","children":["三菱ＵＦＪファクター","の口コミ・評判・手数料 →"]}]}],["$","li","jbl",{"children":["$","$L10",null,{"href":"/companies/jbl/","className":"text-blue-600 hover:underline","children":["JBL","の口コミ・評判・手数料 →"]}]}]]}]]}]
+13:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-5","children":"おすすめファクタリング会社"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","nishinihon-factor",{"href":"/companies/nishinihon-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"西日本ファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短即日（公式トップ・1,000万円まで）／最短1日（公式FAQ）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","jigyoshikin-agent",{"href":"/companies/jigyoshikin-agent","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"事業資金エージェント"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","5%〜20%"," ／ ","最短2時間（申込LP）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","escom",{"href":"/companies/escom","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"エスコム"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","5%〜（上限は要問い合わせ）"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+14:["$","div",null,{"className":"mt-12 bg-[#1B3A5C] rounded-md p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-cta text-white px-8 py-3 rounded-md font-bold text-sm hover:bg-cta-hover transition","children":"無料診断を始める →"}]]}]
+15:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"関連記事"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-jfc-kojin",{"href":"/articles/article-jfc-kojin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"日本政策金融公庫 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"日本政策金融公庫の個人事業主向け融資｜金利・必要書類と売掛金がある時の判断"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-kojin-jigyonushi-yushi",{"href":"/articles/article-kojin-jigyonushi-yushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"個人事業主 融資"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"個人事業主の融資｜申込先別の必要書類・条件と売掛金で資金を作る方法の比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-business-loan-kojin",{"href":"/articles/article-business-loan-kojin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ビジネスローン 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ビジネスローンを個人事業主が比べる手順｜総量規制・上限金利・代わりの手段"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-seido-yuushi",{"href":"/articles/article-seido-yuushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"制度融資 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"制度融資とは｜個人事業主の申込条件・保証料と売掛金を生かす融資を東京都の例で"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-akaji-yuushi",{"href":"/articles/article-akaji-yuushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"赤字 融資"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"赤字でも融資は受けられるか｜公庫が赤字を対象に明記する制度と売掛金の使い方"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-sogyo-yushi",{"href":"/articles/article-sogyo-yushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"創業融資"}],"$L1b","$L1c"]}]]}]]}]
+16:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L10",null,{"href":"/topics/kojin","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["個人事業主・フリーランス","の記事一覧を見る →"]}],["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+17:["$","footer",null,{"className":"bg-ink text-white py-12 mt-16 border-t border-white/10","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-white","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-blue-100/80 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-blue-100/80 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-blue-100/80 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-blue-100/80 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-blue-100/80 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kiso","className":"text-blue-100/80 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/hikaku","className":"text-blue-100/80 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/gyoushu","className":"text-blue-100/80 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kojin","className":"text-blue-100/80 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/guide/trouble/","className":"text-blue-100/80 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-blue-100/80 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/about/","className":"text-blue-100/80 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-blue-100/80 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-blue-100/80 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-blue-100/80 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-blue-100/80 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-blue-100/80 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-blue-100/80 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block border border-white/40 text-white px-6 py-2.5 rounded-md font-bold text-sm hover:bg-white/10 transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-white/15 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":["$L1d","$L1e","$L1f","$L20","$L21"]}]}],"$L22"]}]}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"個人事業主・フリーランス\",\"item\":\"https://corp-factoring.com/topics/kojin/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"確定申告書と融資｜控えの証明方法・2期分の準備・納税証明書の取り方\",\"item\":\"https://corp-factoring.com/articles/article-kakuteishinkoku-yuushi/\"}]}"}}]
+19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"確定申告書と融資｜控えの証明方法・2期分の準備・納税証明書の取り方\",\"description\":\"確定申告書と融資｜控えの証明方法・2期分の準備・納税証明書の取り方について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-04-17\",\"dateModified\":\"2026-11-16\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-kakuteishinkoku-yuushi\"}}"}}]
+1a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"確定申告書の控えに受付印がないと、融資の審査で受け付けてもらえませんか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"国税庁は、金融機関や補助金の担当機関などに対して、2025年1月以降は収受日付印のある控えを求めないよう周知を依頼したと公表しています。e-Taxの受信通知、申告書等情報取得サービスで取得したPDF、窓口で受け取ったリーフレットなどで提出の事実を示せます。提出先から別の書類を指定された場合は、その指示に従ってください。\"}},{\"@type\":\"Question\",\"name\":\"開業1年目で、まだ確定申告をしていません。融資は申し込めますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"日本政策金融公庫のインターネット申込のページでは、事業を始めて間もなく税務申告が済んでいない方は確定申告書の提出は不要とされ、創業計画書を準備するよう案内されています。\"}},{\"@type\":\"Question\",\"name\":\"確定申告の直後に、その年分の申告書をPDFで取り寄せられますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"国税庁の申告書等情報取得サービスでは、直近年分の所得税の申告書等の申請は原則として翌年5月1日以降とされています。3月に申告してすぐに使う場合は、提出時に自分で控えを作り、e-Taxなら受信通知を保存しておく必要があります。\"}},{\"@type\":\"Question\",\"name\":\"納税証明書の「その2」は何を証明する書類ですか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"国税庁の説明では、その2は所得金額の証明です。納付した税額や未納税額はその1、未納の税額がないことはその3、滞納処分を受けたことがないことはその4で証明します。なお、納税証明書では申告書の提出年月日は確認できません。\"}}]}"}}]
+1b:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"創業融資の比較｜日本公庫と東京都の制度の条件・期間と開業後の資金繰り"}]
+1c:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+1d:["$","$L10",null,{"href":"/terms/","className":"text-blue-100/80 hover:text-white transition","children":"利用規約"}]
 1e:["$","span",null,{"className":"text-white/30","children":"|"}]
-1f:["$","$L10",null,{"href":"/content-policy/","className":"text-blue-100/80 hover:text-white transition","children":"記事の制作ポリシー"}]
-20:["$","div",null,{"className":"border-t border-white/15 pt-6 text-center","children":["$","p",null,{"className":"text-blue-100/80 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+1f:["$","$L10",null,{"href":"/privacy/","className":"text-blue-100/80 hover:text-white transition","children":"プライバシーポリシー"}]
+20:["$","span",null,{"className":"text-white/30","children":"|"}]
+21:["$","$L10",null,{"href":"/content-policy/","className":"text-blue-100/80 hover:text-white transition","children":"記事の制作ポリシー"}]
+22:["$","div",null,{"className":"border-t border-white/15 pt-6 text-center","children":["$","p",null,{"className":"text-blue-100/80 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
 a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-21:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"IconMark"]
+23:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"IconMark"]
 7:null
-c:[["$","title","0",{"children":"確定申告と融資の関係｜個人事業主が審査に通るための申告のポイント｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"確定申告と融資の関係｜個人事業主が審査に通るための申告のポイントについて、公式情報や公的資料をもとに解説しています。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-kakuteishinkoku-yuushi/"}],["$","meta","5",{"property":"og:title","content":"確定申告と融資の関係｜個人事業主が審査に通るための申告のポイント｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"確定申告と融資の関係｜個人事業主が審査に通るための申告のポイントについて、公式情報や公的資料をもとに解説しています。"}],["$","meta","7",{"property":"og:url","content":"https://corp-factoring.com/articles/article-kakuteishinkoku-yuushi/"}],["$","meta","8",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","15",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","16",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","17",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L21","18",{}]]
+c:[["$","title","0",{"children":"確定申告書と融資｜控えの証明方法・2期分の準備・納税証明書の取り方｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"融資の申込みでは確定申告書一式を2期分そろえるのが基本です。2025年1月から控えに受付印が押されなくなった後の提出の示し方、納税証明書その1〜その4の違い、ファクタリング各社の確定申告書の扱いを公式情報で整理しました。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-kakuteishinkoku-yuushi/"}],["$","meta","5",{"property":"og:title","content":"確定申告書と融資｜控えの証明方法・2期分の準備・納税証明書の取り方｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"融資の申込みでは確定申告書一式を2期分そろえるのが基本です。2025年1月から控えに受付印が押されなくなった後の提出の示し方、納税証明書その1〜その4の違い、ファクタリング各社の確定申告書の扱いを公式情報で整理しました。"}],["$","meta","7",{"property":"og:url","content":"https://corp-factoring.com/articles/article-kakuteishinkoku-yuushi/"}],["$","meta","8",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","15",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","16",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","17",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L23","18",{}]]
