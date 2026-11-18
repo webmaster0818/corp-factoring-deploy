@@ -1,0 +1,429 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0wx~cye_53qk4.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0wx~cye_53qk4.js"],""]
+24:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+25:"$Sreact.suspense"
+:HL["/images/logo-88.webp","image"]
+4:T5052,<p>個人事業主・フリーランスでも、当日中に請求書を資金化できるファクタリング会社はあります。当サイト掲載59社のうち、公式表示で個人事業主が使えて、最短入金を「即日」または分・時間で示している会社は36社です。</p>
+<p>ただし個人事業主の場合、「売掛先が法人の請求書に限る」「支払期日まで70日以内」など、法人より条件が付くことが多く、当日中に入るかは申込の時刻と曜日でも変わります。この記事は、個人事業主が当日入金を狙うときに必要な条件だけに絞っています。会社ごとの手数料や特徴の比較は<a href="/articles/article-factoring-kojin-jigyonushi/">個人事業主向けファクタリング</a>、法人を含めた即日入金の全体像は<a href="/articles/article-factoring-sokujitsu/">即日ファクタリングガイド</a>をご覧ください。</p>
+<hr>
+<h2>個人事業主可・最短即日の36社</h2>
+<p>当サイトの<a href="/fees/">手数料・入金スピードの一覧</a>（各社公式サイトの表示）から、次の2つを満たす会社を抜き出しました。</p>
+<ul>
+<li>「対象」欄に個人事業主・個人・フリーランス・一人親方のいずれかがあり、「法人のみ」「公式内で表記が分かれる」などの記載がない</li>
+<li>「最短入金」欄が「即日」または分・時間の表示（「最短1日」「数営業日」の会社は除外）</li>
+</ul>
+<p>並び順は、公式表示の最短入金の時間が短い順です。「最短即日」とだけ表示している会社は最後にまとめています。会社によって「申込から」「契約後から」など数え始めが違うため、順番は速さの優劣を示すものではありません。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>最短入金（公式表示）</th>
+<th>利用額の下限</th>
+<th>土日祝の審査・入金</th>
+<th>個人事業主に関わる条件</th>
+<th>確認日（2026年）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/freenance/">FREENANCE</a></td>
+<td>最短5分（16時半までの承認で当日振込）</td>
+<td>1万円</td>
+<td>記載なし</td>
+<td>請求先は内国法人または日本に支店のある外国法人</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/levanta/">レバンタ</a></td>
+<td>契約後最短10分</td>
+<td>10万円</td>
+<td>不可</td>
+<td>フリーランスの明記なし</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/labol/">ラボル</a></td>
+<td>最短30分（振込は24時間365日・審査は除く）</td>
+<td>1万円</td>
+<td>可</td>
+<td>法人が取引先の請求書のみ</td>
+<td>11月8日</td>
+</tr>
+<tr>
+<td><a href="/companies/paytoday/">PayToday</a></td>
+<td>最短30分（時間帯により翌営業日）</td>
+<td>10万円</td>
+<td>不可</td>
+<td>事業を営んでいない個人は対象外</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/no1/">株式会社No.1</a></td>
+<td>最短30分</td>
+<td>50万円</td>
+<td>不可</td>
+<td>―</td>
+<td>10月14日</td>
+</tr>
+<tr>
+<td><a href="/companies/msfj/">MSFJ</a></td>
+<td>最短30分（建設業欄・LPは60分）</td>
+<td>10万円</td>
+<td>不可</td>
+<td>創業間もない場合も可</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/kaisoku/">買速</a></td>
+<td>最短30分</td>
+<td>10万円</td>
+<td>表記が分かれる</td>
+<td>設立間もない場合も可</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/be-trading/">ビートレーディング</a></td>
+<td>最短50分（ポータル・300万円未満）／最短2時間（相談経由）</td>
+<td>1万円</td>
+<td>不可</td>
+<td>売掛先が個人事業主の売掛金は対象外</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/bion/">バイオン</a></td>
+<td>最短60分（時間帯により翌営業日）</td>
+<td>5万円</td>
+<td>不可</td>
+<td>売掛先が個人でも申請可</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/sokuderu/">ソクデル</a></td>
+<td>最短60分</td>
+<td>記載なし</td>
+<td>不可</td>
+<td>―</td>
+<td>11月10日</td>
+</tr>
+<tr>
+<td><a href="/companies/kensetsu-pay/">建設Pay</a></td>
+<td>契約完了後1時間以内</td>
+<td>記載なし</td>
+<td>不可</td>
+<td>建設業者なら相談可</td>
+<td>11月6日</td>
+</tr>
+<tr>
+<td><a href="/companies/urikakedo/">うりかけ堂</a></td>
+<td>最短90分（FAQは書類があれば2時間）</td>
+<td>30万円</td>
+<td>表記が分かれる</td>
+<td>利用の50%が個人事業主と公式FAQ</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/goodplus/">GoodPlus</a></td>
+<td>最短90分</td>
+<td>1万円</td>
+<td>表記が分かれる</td>
+<td>日本国籍・満18歳以上の国内居住者</td>
+<td>11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/ququmo/">QuQuMo</a></td>
+<td>最短2時間</td>
+<td>記載なし</td>
+<td>記載なし</td>
+<td>―</td>
+<td>7月21日</td>
+</tr>
+<tr>
+<td><a href="/companies/accel-factor/">アクセルファクター</a></td>
+<td>最短2時間（公式コラム）</td>
+<td>30万円</td>
+<td>記載なし</td>
+<td>―</td>
+<td>10月25日</td>
+</tr>
+<tr>
+<td><a href="/companies/try/">ファクタリングのTRY</a></td>
+<td>最短2時間（オンライン契約）</td>
+<td>10万円</td>
+<td>不可</td>
+<td>―</td>
+<td>11月15日</td>
+</tr>
+<tr>
+<td><a href="/companies/rfd/">RFD</a></td>
+<td>最短2時間（LP）／即日〜3日（トップ）</td>
+<td>記載なし</td>
+<td>記載なし</td>
+<td>売掛先が法人の場合に限る</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/jigyoshikin-agent/">事業資金エージェント</a></td>
+<td>最短2時間</td>
+<td>10万円</td>
+<td>土曜は受付</td>
+<td>設立間もない場合は入金3ヶ月以上</td>
+<td>11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/wit/">ウィット</a></td>
+<td>最短2時間（銀行営業時間外は翌営業日）</td>
+<td>下限なし</td>
+<td>記載なし</td>
+<td>―</td>
+<td>11月3日</td>
+</tr>
+<tr>
+<td><a href="/companies/kensetsukun/">けんせつくん</a></td>
+<td>最短2時間</td>
+<td>記載なし</td>
+<td>記載なし</td>
+<td>建設業界の事業者</td>
+<td>11月3日</td>
+</tr>
+<tr>
+<td><a href="/companies/jbl/">JBL</a></td>
+<td>最短2時間（FAQは平均2〜3日）</td>
+<td>記載なし</td>
+<td>表記が分かれる</td>
+<td>個人事業主は確定申告書を用意</td>
+<td>11月10日</td>
+</tr>
+<tr>
+<td><a href="/companies/support-kinyu/">日本中小企業金融サポート機構</a></td>
+<td>最短3時間（ファクトルは最短40分）</td>
+<td>下限なし</td>
+<td>不可</td>
+<td>売掛先が法人なら利用可</td>
+<td>10月16日</td>
+</tr>
+<tr>
+<td><a href="/companies/factors/">ファクターズ</a></td>
+<td>最短4時間（午前中申込で最短15時）</td>
+<td>記載なし</td>
+<td>記載なし</td>
+<td>中小企業・一人親方</td>
+<td>11月3日</td>
+</tr>
+<tr>
+<td><a href="/companies/best-factor/">ベストファクター</a></td>
+<td>最短6時間（2社間・書類がそろう場合）</td>
+<td>30万円（FAQ）</td>
+<td>土日祝の即日入金を前提にしないよう記載</td>
+<td>個人事業主は2社間のみ</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/paytner/">ペイトナー</a></td>
+<td>最短即日（審査は毎日10:00〜19:00）</td>
+<td>1万円</td>
+<td>可</td>
+<td>支払期日まで70日以内の請求書</td>
+<td>11月5日</td>
+</tr>
+<tr>
+<td><a href="/companies/chatwork-sakibarai/">Chatwork 先払い</a></td>
+<td>最短当日</td>
+<td>記載なし（初回上限50万円）</td>
+<td>不可</td>
+<td>請求先が個人事業主も可。支払期日まで70日以内</td>
+<td>11月6日</td>
+</tr>
+<tr>
+<td><a href="/companies/olta/">OLTA</a></td>
+<td>最短即日（即日ないし翌営業日）</td>
+<td>下限なし</td>
+<td>不可</td>
+<td>フリーランスは開業届が条件。売掛先は法人・公的機関</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/safe-trust/">セーフトラスト</a></td>
+<td>最短即日（契約後15分〜1時間で振込）</td>
+<td>20万円</td>
+<td>問い合わせのみ24時間受付</td>
+<td>法人が取引先の請求書のみ</td>
+<td>11月7日</td>
+</tr>
+<tr>
+<td><a href="/companies/top-management/">トップ・マネジメント</a></td>
+<td>最短即日</td>
+<td>30万円</td>
+<td>不可</td>
+<td>―</td>
+<td>7月21日</td>
+</tr>
+<tr>
+<td><a href="/companies/mentor-capital/">メンターキャピタル</a></td>
+<td>最短即日（査定最短30分）</td>
+<td>確認できず</td>
+<td>「365日24時間」表示・入金の記載なし</td>
+<td>売掛先が個人経営の債権は対象外</td>
+<td>11月7日</td>
+</tr>
+<tr>
+<td><a href="/companies/trust-gateway/">トラストゲートウェイ</a></td>
+<td>最短即日（直近30日平均5時間2分）</td>
+<td>10万円</td>
+<td>不可</td>
+<td>ページにより「法人様」との記載あり</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/jtc/">JTC</a></td>
+<td>最短即日（FAQは最短1日）</td>
+<td>100万円</td>
+<td>相談可（入金の記載なし）</td>
+<td>年商7,000万円以上。個人事業主は取引先の承諾が必要</td>
+<td>10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/three-s/">スリーエス</a></td>
+<td>最短即日（審査の内容次第）</td>
+<td>記載なし</td>
+<td>記載なし</td>
+<td>起業間もない場合も可</td>
+<td>11月10日</td>
+</tr>
+<tr>
+<td><a href="/companies/progress/">プログレス</a></td>
+<td>最短即日（面談などの条件あり）</td>
+<td>記載なし</td>
+<td>不可</td>
+<td>個人商店・フリーランスの利用ありと記載</td>
+<td>11月10日</td>
+</tr>
+<tr>
+<td><a href="/companies/factoring-zero/">ファクタリングZERO</a>・<a href="/companies/nishinihon-factor/">西日本ファクター</a></td>
+<td>最短即日（FAQは翌営業日以降が多い・最短1日）</td>
+<td>20万円・10万円</td>
+<td>土曜営業・不可</td>
+<td>提供地域が西日本（九州・中国・関西など）に限られる</td>
+<td>11月1日</td>
+</tr>
+</tbody>
+</table>
+<p>出典：各社公式サイト（「確認日」は最短入金の表示を確認した日。土日祝の欄は2026年10月31日〜11月15日確認）。「―」は当サイトの確認データに個人事業主に限った条件の記載がないことを示します。「記載なし」は公式サイトで確認できなかった項目で、「不可」は公式の営業日・受付時間などから土日祝の審査・入金をしないと読める会社です。</p>
+<hr>
+<h2>個人事業主の請求書で見られる3つの条件</h2>
+<h3>1. 売掛先（請求先）が法人か</h3>
+<p>表のとおり、ラボル・セーフトラスト・RFD・OLTA・FREENANCE・日本中小企業金融サポート機構などは、売掛先を法人に限っています。一般のお客様や個人事業主あての請求書を当日中に資金化したい場合は、売掛先が個人でも申請できると記載しているバイオン、請求先が個人事業主でもよいとするChatwork 先払いなど、条件の合う会社に絞る必要があります。売掛先が個人の請求書の扱いは<a href="/articles/article-factoring-urikakesaki-kojin/">売掛先が個人の請求書</a>にまとめています。</p>
+<h3>2. 支払期日までの日数</h3>
+<p>個人事業主向けのサービスには、請求書の支払期日に上限を設けているものがあります。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>公式の記載</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ペイトナー</td>
+<td>支払期日まで70日以内の請求書</td>
+<td>2026年11月2日</td>
+</tr>
+<tr>
+<td>Chatwork 先払い</td>
+<td>申請日から支払期日まで70日以内</td>
+<td>2026年11月6日</td>
+</tr>
+<tr>
+<td>FREENANCE</td>
+<td>支払期日が買取申込日から105日以内</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td>OLTA</td>
+<td>入金期日が申込日から6営業日以上かつ6ヶ月以内</td>
+<td>2026年10月31日</td>
+</tr>
+</tbody>
+</table>
+<p>支払サイトの長い請求書の扱いは<a href="/articles/article-factoring-site-120nichi/">支払いサイト90日・120日の売掛金</a>で扱っています。</p>
+<h3>3. 債権譲渡登記を使えない</h3>
+<p>法務省は、債権譲渡登記の譲渡人は法人に限定されると説明しています（<a href="https://www.moj.go.jp/MINJI/saikenjouto-01.html">法務省「債権譲渡登記制度とは？」</a>・2026年11月16日確認。動産債権譲渡特例法4条1項も「法人が債権…を譲渡した場合」と規定）。個人事業主の2社間ファクタリングは登記をしない形になるため、ファクタリング会社は登記の手続きを待たずに契約できる一方、売掛先の信用や入出金の履歴など、ほかの資料で審査することになります。</p>
+<hr>
+<h2>フリーランス法の「60日」と、待つか資金化するか</h2>
+<p>2024年11月1日に施行された特定受託事業者に係る取引の適正化等に関する法律（フリーランス法）4条1項は、従業員を使用するなどの要件に当たる発注事業者（特定業務委託事業者）がフリーランス（従業員を使用しない個人など）に業務委託をした場合、報酬の支払期日を、給付を受領した日から起算して60日の期間内で、かつできる限り短い期間内に定めなければならないとしています（<a href="https://laws.e-gov.go.jp/law/505AC0000000025">e-Gov法令検索</a>・2026年11月16日確認）。</p>
+<p>公正取引委員会のQ&#x26;Aは、月末締め翌月末払いのような月単位の締切制度で61日目・62日目の支払となる場合も、「給付を受領した日から２か月以内として運用するため、本法上問題としません」としています。また、これまで納品後すぐに払っていた発注者が、法律が「60日以内」と定めていることだけを理由に支払期日を遅らせることは、本法上問題となると説明しています（<a href="https://www.jftc.go.jp/fllaw_limited/fllaw_qa.html">公正取引委員会 フリーランス法Q&#x26;A</a>・2026年11月16日確認）。</p>
+<p>ここから言えるのは、発注事業者がこの法律の対象であれば、納品から入金までの待ち時間はおおむね2か月以内に収まるということです（再委託であることなどを明示した場合は、元の発注の支払期日から30日以内とする例外があります。同法4条3項）。ファクタリングで当日資金化するか、入金日まで待つかは、手数料と待つ日数を比べて判断できます。</p>
+<p>例：納品済みの報酬20万円、支払期日まで45日、手数料一律10%の会社で当日資金化する場合（仮定）</p>
+<ul>
+<li>手数料 20万円 × 10% ＝ 2万円（受取額18万円）</li>
+<li>年率に直すと 2万円 ÷ 18万円 × 365日 ÷ 45日 ＝ 約90.1%</li>
+</ul>
+<p>45日待てば20万円を受け取れるため、2万円を払う価値があるかを、今日必要な支払の内容と比べて判断してください。ペイトナーは手数料のほかに振込手数料330円（公式サイト・2026年11月5日確認）、バイオンは振込手数料500円（公式サイト・2026年10月31日確認）が別にかかると表示しています。</p>
+<p>発注者が支払期日を守らない場合は、ファクタリングより先に、発注者への確認や公的な相談窓口の利用を検討してください。資金繰り全体の見直しは<a href="/articles/article-freelance-shikin/">フリーランスの資金繰り改善ガイド</a>をご覧ください。</p>
+<hr>
+<h2>当日中に入金されるための時刻と曜日</h2>
+<h3>公式に締切の時刻を書いている例</h3>
+<ul>
+<li>FREENANCE：当日16時半までに即日払いが承認された場合は当日中に振込、それ以降は翌営業日（公式サイト・2026年10月31日確認）</li>
+<li>ファクターズ：午前中申込で最短15時入金（公式サイト・2026年11月3日確認）</li>
+<li>買速：当日中の振込を希望する場合は平日の午前中の申込が目安（公式サイト・2026年11月1日確認）</li>
+<li>ウィット・けんせつくん：銀行営業時間外の場合は翌営業日（公式サイト・2026年11月3日確認）</li>
+</ul>
+<p>受取口座の金融機関や振込の時間帯による違いは、<a href="/articles/article-factoring-nyuukin-jikan/">入金時間の記事</a>で詳しく扱っています。</p>
+<h3>土日祝</h3>
+<p>36社のうち、公式に土日祝の審査・入金ができると書いているのはペイトナー（土日祝を含む毎日10:00〜19:00に審査、審査完了後は365日振込）とラボル（土日祝日も審査・入金が可能。審査は24時間365日ではない）です（公式サイト・2026年11月1日確認）。JBLは、会社案内などで土日祝の契約・振込に対応と記載する一方、ヘッダーの受付時間は平日9:00〜19:00で、表記が分かれています（公式サイト・2026年11月10日確認）。土日祝の扱いの詳細は<a href="/articles/article-factoring-donichi/">土日対応のファクタリング</a>をご覧ください。</p>
+<hr>
+<h2>申込前にそろえておくもの</h2>
+<p>個人事業主の必要書類は会社ごとに違いますが、当日入金を狙うなら、請求書・本人確認書類・入出金の履歴が分かるものを申込前にそろえておくのが基本です。各社の公式の必要書類一覧は<a href="/articles/article-factoring-hitsuyou-shorui/">ファクタリングの必要書類</a>、確定申告書が求められるかは<a href="/articles/article-factoring-kakutei-shinkokusho-nashi/">確定申告書なしで使えるか</a>、開業届がない場合は<a href="/articles/article-factoring-kaigyoutodoke-nashi/">開業届なしの個人事業主</a>で扱っています。</p>
+<hr>
+<h2>よくある質問</h2>
+<p><strong>Q: 会社員の副業でも、即日ファクタリングを使えますか？</strong>
+A: 業務委託として事業で発行した請求書であれば、対象とする会社があります（ベストファクターは公式FAQで副業の業務委託も対象と記載・2026年10月31日確認）。勤務先から受け取る給与は売掛金ではなく、対象になりません。給与の買取りをうたう業者は<a href="/articles/article-factoring-kyuuryo-gisou/">偽装給与ファクタリング</a>をご覧ください。</p>
+<p><strong>Q: 土曜・日曜に申し込んで、その日に入金されますか？</strong>
+A: 36社のうち、土日祝の審査・入金を公式に書いているのはペイトナーとラボルです（JBLは公式内で表記が分かれます）。そのほかの会社は、申込を受け付けていても審査・入金は翌営業日になると読める表示が多くあります。</p>
+<p><strong>Q: 1万円の請求書でも当日資金化できますか？</strong>
+A: 下限を1万円としている会社は、表ではFREENANCE・ラボル・ビートレーディング・GoodPlus・ペイトナーです。少額では振込手数料などの定額の費用の割合が大きくなるため、受取額で比べてください。</p>
+<p><strong>Q: 開業したばかりでも使えますか？</strong>
+A: 表の「個人事業主に関わる条件」に、創業間もない場合も可とする会社（MSFJ・買速・スリーエスなど）があります。OLTAは創業間もない場合は事業用口座の入出金履歴4カ月以上を条件としています（公式サイト・2026年10月31日確認）。</p>
+<hr>
+<h2>関連記事</h2>
+<ul>
+<li><a href="/articles/article-factoring-sokujitsu-osusume/">即日入金のファクタリング会社</a></li>
+<li><a href="/articles/article-factoring-shougaku/">小口ファクタリング（10万円〜）</a></li>
+<li><a href="/articles/article-factoring-10man/">ファクタリング少額・10万円から</a></li>
+<li><a href="/articles/article-seikyusho-genkinkan/">請求書を現金化する方法</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","header",null,{"className":"page-head","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-4 pb-9 sm:pb-11","children":[["$","nav",null,{"className":"crumbs mb-7","children":[["$","$L3",null,{"href":"/","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kojin","children":"個人事業主・フリーランス"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["個人事業主・フリーランスのファクタリング即日入金｜対応36社","..."]}]]}],["$","p",null,{"className":"page-label mb-3","children":"個人事業主・フリーランス"}],["$","h1",null,{"className":"text-[23px] sm:text-[30px] font-bold text-ink leading-[1.5] tracking-[0.01em] mb-5","children":"個人事業主・フリーランスのファクタリング即日入金｜対応36社の公式条件"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-gray-500","children":[["$","span",null,{"className":"num","children":["更新日: ","2026年11月16日"]}],["$","span",null,{"className":"bg-white border border-line text-ink/80 text-xs font-medium px-2.5 py-0.5 rounded-sm","children":"個人事業主 ファクタリング 即日, フリーランス ファクタリング 即日"}]]}]]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-6 sm:pt-8 pb-10","children":[["$","article",null,{"children":[null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,false,"$L8","$L9"]}],"$La","$Lb","$Lc","$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ceCEw6RgJGbJJM43z3qJk"}
+5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-md p-6","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","ququmo",{"children":["$","$L3",null,{"href":"/companies/ququmo/","className":"text-blue-600 hover:underline","children":["QuQuMo","の口コミ・評判・手数料 →"]}]}],["$","li","accel-factor",{"children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":["アクセルファクター","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L3",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L3",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","paytoday",{"children":["$","$L3",null,{"href":"/companies/paytoday/","className":"text-blue-600 hover:underline","children":["PayToday","の口コミ・評判・手数料 →"]}]}],["$","li","support-kinyu",{"children":["$","$L3",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":["日本中小企業金融サポート機構","の口コミ・評判・手数料 →"]}]}],["$","li","mentor-capital",{"children":["$","$L3",null,{"href":"/companies/mentor-capital/","className":"text-blue-600 hover:underline","children":["メンターキャピタル","の口コミ・評判・手数料 →"]}]}],["$","li","freenance",{"children":["$","$L3",null,{"href":"/companies/freenance/","className":"text-blue-600 hover:underline","children":["FREENANCE","の口コミ・評判・手数料 →"]}]}],["$","li","jtc",{"children":["$","$L3",null,{"href":"/companies/jtc/","className":"text-blue-600 hover:underline","children":["JTC","の口コミ・評判・手数料 →"]}]}],["$","li","no1",{"children":["$","$L3",null,{"href":"/companies/no1/","className":"text-blue-600 hover:underline","children":["株式会社No.1","の口コミ・評判・手数料 →"]}]}],["$","li","safe-trust",{"children":["$","$L3",null,{"href":"/companies/safe-trust/","className":"text-blue-600 hover:underline","children":["セーフトラスト","の口コミ・評判・手数料 →"]}]}],["$","li","try",{"children":["$","$L3",null,{"href":"/companies/try/","className":"text-blue-600 hover:underline","children":["ファクタリングのTRY","の口コミ・評判・手数料 →"]}]}],["$","li","msfj",{"children":["$","$L3",null,{"href":"/companies/msfj/","className":"text-blue-600 hover:underline","children":["MSFJ","の口コミ・評判・手数料 →"]}]}],["$","li","levanta",{"children":["$","$L3",null,{"href":"/companies/levanta/","className":"text-blue-600 hover:underline","children":["レバンタ","の口コミ・評判・手数料 →"]}]}],["$","li","trust-gateway",{"children":["$","$L3",null,{"href":"/companies/trust-gateway/","className":"text-blue-600 hover:underline","children":["トラストゲートウェイ","の口コミ・評判・手数料 →"]}]}],["$","li","bion",{"children":["$","$L3",null,{"href":"/companies/bion/","className":"text-blue-600 hover:underline","children":["バイオン","の口コミ・評判・手数料 →"]}]}],["$","li","rfd",{"children":["$","$L3",null,{"href":"/companies/rfd/","className":"text-blue-600 hover:underline","children":["RFD株式会社","の口コミ・評判・手数料 →"]}]}],["$","li","urikakedo",{"children":["$","$L3",null,{"href":"/companies/urikakedo/","className":"text-blue-600 hover:underline","children":["うりかけ堂","の口コミ・評判・手数料 →"]}]}],["$","li","kaisoku",{"children":["$","$L3",null,{"href":"/companies/kaisoku/","className":"text-blue-600 hover:underline","children":["買速","の口コミ・評判・手数料 →"]}]}],["$","li","olta",{"children":["$","$L3",null,{"href":"/companies/olta/","className":"text-blue-600 hover:underline","children":["OLTA","の口コミ・評判・手数料 →"]}]}],["$","li","goodplus",{"children":["$","$L3",null,{"href":"/companies/goodplus/","className":"text-blue-600 hover:underline","children":["GoodPlus","の口コミ・評判・手数料 →"]}]}],["$","li","factoring-zero",{"children":["$","$L3",null,{"href":"/companies/factoring-zero/","className":"text-blue-600 hover:underline","children":["ファクタリングZERO","の口コミ・評判・手数料 →"]}]}],"$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]]}]
+6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-5","children":"おすすめファクタリング会社"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","coolpay",{"href":"/companies/coolpay","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"CoolPay"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短60分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","factoring-zero",{"href":"/companies/factoring-zero","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ファクタリングZERO"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1.5%〜10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","nishinihon-factor",{"href":"/companies/nishinihon-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"西日本ファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短即日（公式トップ・1,000万円まで）／最短1日（公式FAQ）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+7:["$","div",null,{"className":"mt-12 bg-[#1B3A5C] rounded-md p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-cta text-white px-8 py-3 rounded-md font-bold text-sm hover:bg-cta-hover transition","children":"無料診断を始める →"}]]}]
+8:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"関連記事"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-kojin-jigyonushi",{"href":"/articles/article-factoring-kojin-jigyonushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"【2026年最新】個人事業主向けファクタリングおすすめ14選｜手数料・即日対応・少額対応を比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kojin-kakutei",{"href":"/articles/article-factoring-kojin-kakutei","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 個人事業主 確定申告, 個人事業主 ファクタリング 税務"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"個人事業主のファクタリングと確定申告｜正しい経費処理・仕訳方法を解説【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-shougaku",{"href":"/articles/article-factoring-shougaku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"小口 ファクタリング, 少額 ファクタリング 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"小口ファクタリング｜10万円〜少額に対応したおすすめ会社4選【個人事業主も対応】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-10man",{"href":"/articles/article-factoring-10man","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 少額, ファクタリング 10万円, ファクタリング 小口"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング少額・10万円から利用できるサービスの比較【2026年最新】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-seikyusho-genkinkan",{"href":"/articles/article-seikyusho-genkinkan","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"請求書 現金化 / 売掛金 現金化"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"請求書を現金化する方法3選｜売掛金を最短即日で資金化【2026年最新】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-jfc-kojin",{"href":"/articles/article-jfc-kojin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":["$L1b","$L1c","$L1d"]}]]}]]}]
+9:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/kojin","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["個人事業主・フリーランス","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+a:["$","footer",null,{"className":"bg-ink text-white py-12 mt-16 border-t border-white/10","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-white","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-blue-100/80 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-blue-100/80 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-blue-100/80 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-blue-100/80 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-blue-100/80 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-blue-100/80 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-blue-100/80 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-blue-100/80 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-blue-100/80 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-blue-100/80 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-blue-100/80 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-blue-100/80 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-blue-100/80 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-blue-100/80 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-blue-100/80 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-blue-100/80 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-blue-100/80 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-blue-100/80 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block border border-white/40 text-white px-6 py-2.5 rounded-md font-bold text-sm hover:bg-white/10 transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-white/15 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":["$L1e","$L1f","$L20","$L21","$L22"]}]}],"$L23"]}]}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"個人事業主・フリーランス\",\"item\":\"https://corp-factoring.com/topics/kojin/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"個人事業主・フリーランスのファクタリング即日入金｜対応36社の公式条件\",\"item\":\"https://corp-factoring.com/articles/article-factoring-kojin-sokujitsu/\"}]}"}}]
+c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"個人事業主・フリーランスのファクタリング即日入金｜対応36社の公式条件\",\"description\":\"個人事業主・フリーランスのファクタリング即日入金｜対応36社の公式条件について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-04-29\",\"dateModified\":\"2026-11-16\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-kojin-sokujitsu\"}}"}}]
+d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"会社員の副業でも、即日ファクタリングを使えますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"業務委託として事業で発行した請求書であれば、対象とする会社があります（ベストファクターは公式FAQで副業の業務委託も対象と記載・2026年10月31日確認）。勤務先から受け取る給与は売掛金ではなく、対象になりません。給与の買取りをうたう業者は[偽装給与ファクタリング](/articles/article-factoring-kyuuryo-gisou/)をご覧ください。\"}},{\"@type\":\"Question\",\"name\":\"土曜・日曜に申し込んで、その日に入金されますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"36社のうち、土日祝の審査・入金を公式に書いているのはペイトナーとラボルです（JBLは公式内で表記が分かれます）。そのほかの会社は、申込を受け付けていても審査・入金は翌営業日になると読める表示が多くあります。\"}},{\"@type\":\"Question\",\"name\":\"1万円の請求書でも当日資金化できますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"下限を1万円としている会社は、表ではFREENANCE・ラボル・ビートレーディング・GoodPlus・ペイトナーです。少額では振込手数料などの定額の費用の割合が大きくなるため、受取額で比べてください。\"}},{\"@type\":\"Question\",\"name\":\"開業したばかりでも使えますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"表の「個人事業主に関わる条件」に、創業間もない場合も可とする会社（MSFJ・買速・スリーエスなど）があります。OLTAは創業間もない場合は事業用口座の入出金履歴4カ月以上を条件としています（公式サイト・2026年10月31日確認）。\"}}]}"}}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/0wx~cye_53qk4.js","async":true}]
+f:["$","$L24",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+10:["$","li","nishinihon-factor",{"children":["$","$L3",null,{"href":"/companies/nishinihon-factor/","className":"text-blue-600 hover:underline","children":["西日本ファクター","の口コミ・評判・手数料 →"]}]}]
+11:["$","li","jigyoshikin-agent",{"children":["$","$L3",null,{"href":"/companies/jigyoshikin-agent/","className":"text-blue-600 hover:underline","children":["事業資金エージェント","の口コミ・評判・手数料 →"]}]}]
+12:["$","li","wit",{"children":["$","$L3",null,{"href":"/companies/wit/","className":"text-blue-600 hover:underline","children":["ウィット","の口コミ・評判・手数料 →"]}]}]
+13:["$","li","kensetsukun",{"children":["$","$L3",null,{"href":"/companies/kensetsukun/","className":"text-blue-600 hover:underline","children":["けんせつくん","の口コミ・評判・手数料 →"]}]}]
+14:["$","li","factors",{"children":["$","$L3",null,{"href":"/companies/factors/","className":"text-blue-600 hover:underline","children":["ファクターズ","の口コミ・評判・手数料 →"]}]}]
+15:["$","li","kensetsu-pay",{"children":["$","$L3",null,{"href":"/companies/kensetsu-pay/","className":"text-blue-600 hover:underline","children":["建設Pay","の口コミ・評判・手数料 →"]}]}]
+16:["$","li","chatwork-sakibarai",{"children":["$","$L3",null,{"href":"/companies/chatwork-sakibarai/","className":"text-blue-600 hover:underline","children":["Chatwork 先払い","の口コミ・評判・手数料 →"]}]}]
+17:["$","li","three-s",{"children":["$","$L3",null,{"href":"/companies/three-s/","className":"text-blue-600 hover:underline","children":["スリーエス","の口コミ・評判・手数料 →"]}]}]
+18:["$","li","sokuderu",{"children":["$","$L3",null,{"href":"/companies/sokuderu/","className":"text-blue-600 hover:underline","children":["ソクデル","の口コミ・評判・手数料 →"]}]}]
+19:["$","li","progress",{"children":["$","$L3",null,{"href":"/companies/progress/","className":"text-blue-600 hover:underline","children":["プログレス","の口コミ・評判・手数料 →"]}]}]
+1a:["$","li","jbl",{"children":["$","$L3",null,{"href":"/companies/jbl/","className":"text-blue-600 hover:underline","children":["JBL","の口コミ・評判・手数料 →"]}]}]
+1b:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"日本政策金融公庫 個人事業主"}]
+1c:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"日本政策金融公庫の個人事業主向け融資｜金利・必要書類と売掛金がある時の判断"}]
+1d:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+1e:["$","$L3",null,{"href":"/terms/","className":"text-blue-100/80 hover:text-white transition","children":"利用規約"}]
+1f:["$","span",null,{"className":"text-white/30","children":"|"}]
+20:["$","$L3",null,{"href":"/privacy/","className":"text-blue-100/80 hover:text-white transition","children":"プライバシーポリシー"}]
+21:["$","span",null,{"className":"text-white/30","children":"|"}]
+22:["$","$L3",null,{"href":"/content-policy/","className":"text-blue-100/80 hover:text-white transition","children":"記事の制作ポリシー"}]
+23:["$","div",null,{"className":"border-t border-white/15 pt-6 text-center","children":["$","p",null,{"className":"text-blue-100/80 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+26:null

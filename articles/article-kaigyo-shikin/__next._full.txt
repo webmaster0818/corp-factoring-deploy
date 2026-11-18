@@ -1,0 +1,374 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default"]
+3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default"]
+5:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
+d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
+:HL["/_next/static/chunks/030w1ny5~pez0.css","style"]
+0:{"P":null,"c":["","articles","article-kaigyo-shikin",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-kaigyo-shikin","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/030w1ny5~pez0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0wx~cye_53qk4.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/030w1ny5~pez0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ceCEw6RgJGbJJM43z3qJk"}
+e:[]
+8:"$We"
+f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0wx~cye_53qk4.js"],"Header"]
+10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0wx~cye_53qk4.js"],""]
+11:T4748,<p>日本政策金融公庫総合研究所の「2025年度新規開業実態調査」によると、開業費用の平均値は975万円、中央値は600万円で、「250万円未満」（20.1%）と「250万〜500万円未満」（21.7%）を合わせると4割以上が500万円未満で開業しています。ただし必要な額は業種や開業の形で大きく変わるため、平均値よりも、自分の設備資金と「最初の売上が入金されるまでの運転資金」を積み上げて決めることが大切です。</p>
+<p>この記事では、公庫の調査の数字だけを使って開業費用と資金調達の実態を確認し、取引先への請求から入金までの時間差を含めて運転資金を見積もる方法を整理します。創業融資の制度の比べ方は<a href="/articles/article-sogyo-yushi/">創業融資の記事</a>、公庫の申込み手続きは<a href="/articles/article-jfc-kojin/">日本公庫の個人事業主向け融資の記事</a>で扱っています。</p>
+<h2>公庫の実態調査とは</h2>
+<p><a href="https://www.jfc.go.jp/n/findings/pdf/kaigyo_251205_1.pdf">2025年度新規開業実態調査</a>は、日本公庫総合研究所が1991年度から毎年行っている調査で、2025年12月5日に結果の概要が公表されました。調査の要領は次のとおりです。</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>調査時点</td>
+<td>2025年8月</td>
+</tr>
+<tr>
+<td>調査対象</td>
+<td>日本公庫国民生活事業が2024年4月から9月に融資した企業のうち、融資時点で開業後1年以内の企業8,517社（不動産賃貸業を除く）</td>
+</tr>
+<tr>
+<td>回収数</td>
+<td>2,165社（回収率25.4%）</td>
+</tr>
+<tr>
+<td>経営形態（開業時）</td>
+<td>個人企業57.0%、法人企業43.0%</td>
+</tr>
+</tbody>
+</table>
+<p>対象は公庫から融資を受けた開業者です。融資を受けずに開業した人は調査の対象に含まれていない点に注意して読みます。</p>
+<h2>開業費用の分布（2025年度）</h2>
+<table>
+<thead>
+<tr>
+<th>開業費用</th>
+<th>割合</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>250万円未満</td>
+<td>20.1%</td>
+</tr>
+<tr>
+<td>250万〜500万円未満</td>
+<td>21.7%</td>
+</tr>
+<tr>
+<td>500万〜1,000万円未満</td>
+<td>29.7%</td>
+</tr>
+<tr>
+<td>1,000万〜2,000万円未満</td>
+<td>18.5%</td>
+</tr>
+<tr>
+<td>2,000万円以上</td>
+<td>10.0%</td>
+</tr>
+</tbody>
+</table>
+<p>平均値（975万円）は一部の高額な開業に引き上げられるため、中央値（600万円）との間に差があります。調査は「開業費用は少額化の傾向」とまとめ、「1,000万～2,000万円未満」や「2,000万円以上」の割合は長期的にみると低下傾向にあるとしています。</p>
+<p>開業費用の内訳を業種別に示す公表値はこの概要にはありません。ネット上には「飲食店は○○万円」のような目安が多く出回っていますが、出典のない数字で計画を立てると、実際の見積もりとずれる原因になります。物件・設備・仕入れの見積書を集めて積み上げるのが確実です。</p>
+<h2>開業時の資金はどこから集めたか</h2>
+<p>同じ調査で、開業時の資金調達額の平均は1,219万円でした。内訳は次のとおりです。</p>
+<table>
+<thead>
+<tr>
+<th>調達先</th>
+<th>平均額</th>
+<th>割合</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>金融機関等からの借り入れ</td>
+<td>827万円</td>
+<td>67.9%</td>
+</tr>
+<tr>
+<td>自己資金</td>
+<td>279万円</td>
+<td>22.9%</td>
+</tr>
+<tr>
+<td>配偶者・親・兄弟・親戚、友人・知人等、その他</td>
+<td>残り</td>
+<td>9.3%</td>
+</tr>
+</tbody>
+</table>
+<p>「金融機関等からの借り入れ」と「自己資金」で全体の90.7%を占めます。また、調達額の平均（1,219万円）は開業費用の平均（975万円）を上回っています。どちらも平均値のため個々の開業者の差額を示すものではありませんが、開業費用ぴったりではなく、ある程度の余裕を持って資金を集めている姿がうかがえます。公庫の<a href="https://www.jfc.go.jp/n/finance/sougyou/faq/">創業Q&#x26;A</a>も、自己資金の目安を問う質問に「創業資金総額に占める自己資金の割合は平均で2割程度」と答えています（同時に「それ以上に創業計画全体がしっかりしているかが重要」としています）。</p>
+<h2>開業後の売上と資金繰りの実態</h2>
+<p>開業資金を考えるうえで見落としやすいのが、開業後しばらくの資金繰りです。2025年度調査の数字を並べます。</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>2025年度の結果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>開業時に苦労したこと（三つまでの複数回答）</td>
+<td>「資金繰り、資金調達」56.9%（最も高い）</td>
+</tr>
+<tr>
+<td>現在苦労していること</td>
+<td>「顧客・販路の開拓」48.8%、「資金繰り、資金調達」36.2%</td>
+</tr>
+<tr>
+<td>現在の月商</td>
+<td>100万円未満39.5%、100万〜500万円未満44.2%</td>
+</tr>
+<tr>
+<td>予想月商の達成</td>
+<td>約6割が開業前に予想した月商を達成</td>
+</tr>
+<tr>
+<td>採算状況</td>
+<td>黒字基調67.0%、赤字基調33.0%</td>
+</tr>
+</tbody>
+</table>
+<p>開業者の過半数が開業時に資金繰りで苦労しています。設備などの開業費用だけでなく、売上が安定して入金されるまでの運転資金を開業資金に含めて考える必要があることが、この数字からも読み取れます。</p>
+<h2>運転資金を自分の数字で見積もる方法</h2>
+<p>開業資金は「設備資金（開業時に一度払うもの）」と「運転資金（売上が入るまで払い続けるもの）」に分けて考えます。設備資金は見積書で決まりますが、運転資金は取引の入金条件によって大きく変わります。</p>
+<h3>手順1：毎月出ていくお金を書き出す</h3>
+<p>家賃、仕入れ・外注費、通信費、社会保険料、自分の生活費など、売上がなくても毎月出ていくお金を合計します。</p>
+<h3>手順2：最初の入金がいつになるかを決める</h3>
+<p>取引先に請求書を出して後日振り込まれる取引では、仕事をした月と入金の月がずれます。たとえば「月末締め・翌月末払い」の取引先なら、開業した月の売上が口座に入るのは翌月の末です。「翌々月払い」なら、さらに1か月遅れます。</p>
+<h3>手順3：入金までの月数分を運転資金として確保する</h3>
+<p>例：毎月の支出が50万円、開業月から仕事があり、取引先が「月末締め・翌々月末払い」の場合（仮定の計算）</p>
+<table>
+<thead>
+<tr>
+<th>月</th>
+<th>その月の支出</th>
+<th>入金</th>
+<th>支出の累計</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1か月目（開業月）</td>
+<td>50万円</td>
+<td>なし</td>
+<td>50万円</td>
+</tr>
+<tr>
+<td>2か月目</td>
+<td>50万円</td>
+<td>なし</td>
+<td>100万円</td>
+</tr>
+<tr>
+<td>3か月目</td>
+<td>50万円</td>
+<td>月末に1か月目の売上が入金</td>
+<td>150万円</td>
+</tr>
+</tbody>
+</table>
+<p>この例では、最初の入金がある3か月目の末までに支出が150万円に達するため、その分を運転資金として確保しておく必要があります。予想月商に届かない場合も考えて余裕をみておきます。月ごとの入出金の管理は<a href="/articles/article-shikin-gurihyou/">資金繰り表の記事</a>の手順で作れます。</p>
+<h3>運転資金を融資で見込むときの返済期間と据置期間</h3>
+<p>運転資金を融資でまかなう場合、返済期間と据置期間（元金の返済を始めるまでの期間）を確認します。公式の条件は次のとおりです。</p>
+<table>
+<thead>
+<tr>
+<th>制度</th>
+<th>運転資金の返済期間</th>
+<th>据置期間</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>日本公庫 新規開業・スタートアップ支援資金</td>
+<td>10年以内</td>
+<td>5年以内</td>
+</tr>
+<tr>
+<td>東京都の制度融資「創業」（令和8年度）</td>
+<td>7年以内</td>
+<td>1年以内</td>
+</tr>
+<tr>
+<td>東京都の制度融資「小口」（令和8年度）</td>
+<td>7年以内</td>
+<td>1年以内</td>
+</tr>
+</tbody>
+</table>
+<p>公庫の創業Q&#x26;Aは、新規開業ローンの特徴として「元金返済の据置期間を設定できること（5年以内）」を挙げています。最初の入金までの月数が長い取引が多い場合は、据置期間を設けると、入金が安定するまでの返済負担を抑えられます。ただし据置期間中も利息はかかります。</p>
+<h2>開業資金の主な調達手段</h2>
+<table>
+<thead>
+<tr>
+<th>手段</th>
+<th>公的な情報で確認できること</th>
+<th>詳しい記事</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>自己資金</td>
+<td>公庫の調査で平均279万円（調達額の22.9%）</td>
+<td>―</td>
+</tr>
+<tr>
+<td>日本公庫の創業融資</td>
+<td>新規開業・スタートアップ支援資金の融資限度額7,200万円、決まるまで平均3週間程度</td>
+<td><a href="/articles/article-jfc-kojin/">日本公庫の個人事業主向け融資</a></td>
+</tr>
+<tr>
+<td>自治体の制度融資</td>
+<td>東京都の「創業」は融資限度額3,500万円（令和8年度）</td>
+<td><a href="/articles/article-seido-yuushi/">制度融資の記事</a></td>
+</tr>
+<tr>
+<td>補助金・助成金</td>
+<td>交付の時期や条件は制度ごとの公募要領で確認</td>
+<td><a href="/articles/article-kojin-hojokin/">個人事業主の補助金</a></td>
+</tr>
+<tr>
+<td>ファクタリング</td>
+<td>開業後、入金待ちの請求書がある場合のみ</td>
+<td><a href="/articles/article-factoring-kojin-jigyonushi/">個人事業主向けファクタリング</a></td>
+</tr>
+</tbody>
+</table>
+<p>開業前の資金は自己資金と融資で用意するのが基本です。ファクタリングは請求書（売掛金）を売る取引なので、売掛金がない開業前には使えません。一方、開業後に「仕事はしたが入金がまだ」という時期の不足には、入金待ちの請求書を売って早めに現金化する方法があります。</p>
+<h3>開業後の不足を補う：少額から使えるファクタリング会社</h3>
+<p>開業直後の請求書は金額が小さいことも多いため、当サイトの掲載社のうち、公式サイトで個人事業主・フリーランスを対象と表示し、利用可能額の下限が5万円以下の会社を、下限額が低い順（同額は2社間手数料の下限が低い順）に並べました。評価や推奨の順位ではありません。</p>
+<table>
+<thead>
+<tr>
+<th>会社名</th>
+<th>利用可能額（公式表示）</th>
+<th>2社間手数料（公式表示）</th>
+<th>最短入金（公式表示）</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/freenance/">FREENANCE</a></td>
+<td>1万円〜（上限額なし・審査）</td>
+<td>3〜10%（受取口座の指定なしは一律10%）</td>
+<td>最短5分</td>
+<td>2026年11月3日</td>
+</tr>
+<tr>
+<td><a href="/companies/be-trading/">ビートレーディング</a></td>
+<td>1万円〜無制限</td>
+<td>4%〜（2024年度実績の平均10.3%）</td>
+<td>最短2時間</td>
+<td>2026年11月3日</td>
+</tr>
+<tr>
+<td><a href="/companies/goodplus/">GoodPlus</a></td>
+<td>対象債権1万円以上（上限は記載なし）</td>
+<td>5%〜15%</td>
+<td>最短90分</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/paytner/">ペイトナー</a></td>
+<td>1万円〜（初回50万円・実績に応じ最大300万円）</td>
+<td>一律10%（別途振込手数料330円）</td>
+<td>最短即日</td>
+<td>2026年11月5日</td>
+</tr>
+<tr>
+<td><a href="/companies/labol/">ラボル</a></td>
+<td>1万円〜（上限は審査で個別設定）</td>
+<td>一律10%</td>
+<td>最短30分</td>
+<td>2026年11月8日</td>
+</tr>
+<tr>
+<td><a href="/companies/bion/">バイオン</a></td>
+<td>5万円（税込）〜</td>
+<td>一律10%（別途振込手数料500円）</td>
+<td>最短60分</td>
+<td>2026年10月31日</td>
+</tr>
+</tbody>
+</table>
+<p>確認日は各社の公式サイトで確認した日です。ビートレーディングの利用可能額は2026年10月31日、入金スピードは2026年10月17日の確認です。このほか、<a href="/companies/olta/">OLTA</a>（2026年10月31日確認）と<a href="/companies/wit/">ウィット</a>（2026年11月3日確認）は買取金額の下限を設けていないと公式に表示しています（下限を金額で示していないため表には含めていません）。手数料は売掛金に対してかかるため、例えば売掛金30万円を手数料10%で売ると受け取りは27万円になります（仮定の計算）。継続的に使うと利益を圧迫するため、運転資金は融資と自己資金で見込み、ファクタリングは入金の遅れを埋める一時的な手段として考えます。</p>
+<h2>許認可が必要な業種は見積もりに含める</h2>
+<p>開業資金の見積もりでは、許認可の取得にかかる準備も確認しておきます。公庫の創業Q&#x26;Aは「法令により、許可、認可、登録、指定、届出および認証を必要とする事業が多くあります」とし、主な受付窓口と業種の例を次のように挙げています。</p>
+<table>
+<thead>
+<tr>
+<th>主な受付窓口</th>
+<th>業種の例（公庫の創業Q&#x26;Aより）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>保健所</td>
+<td>飲食店営業、菓子製造業、食肉販売業、魚介類販売業、旅館業、理容業、美容業、クリーニング業など</td>
+</tr>
+<tr>
+<td>警察署</td>
+<td>マージャン店、古物商、警備業、指定自動車教習所など</td>
+</tr>
+<tr>
+<td>都道府県庁及びその他官庁</td>
+<td>酒類販売業、各種学校、旅行業、宅地建物取引業、建設業、運送業、人材派遣業、自動車整備業、ガソリンスタンドなど</td>
+</tr>
+</tbody>
+</table>
+<p>物件を借りてから許認可を取るまでの間も家賃などはかかるため、その期間の支出も運転資金に含めて見積もります。公庫の融資の申込みでも、許可・届出が必要な事業は許認可証等の提出を求められます（これから取得予定の場合は申込み時点では不要と案内）。</p>
+<h2>開業届の提出時期</h2>
+<p>国税庁の「<a href="https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/shinkoku/annai/04.htm">個人事業の開業届出・廃業届出等手続</a>」では、提出時期を「事業の開始等の事実があった日の属する年分の確定申告期限までに提出してください」と案内しています。提出はe-Taxのほか、書面で持参または送付もできます。開業届と融資・ファクタリングの関係は<a href="/articles/article-factoring-kaigyoutodoke-nashi/">開業届なしの個人事業主の記事</a>をご覧ください。</p>
+<h2>よくある質問</h2>
+<p><strong>Q: 開業資金は平均でいくらですか？</strong>
+A: 日本公庫の2025年度新規開業実態調査では、開業費用の平均値は975万円、中央値は600万円です。500万円未満が4割以上を占め、長期的には少額化の傾向にあると報告されています。対象は公庫から融資を受けた開業後1年以内の企業です。</p>
+<p><strong>Q: 自己資金はいくら用意すればよいですか？</strong>
+A: 公庫の創業Q&#x26;Aでは、融資先の調査で創業資金総額に占める自己資金の割合は平均で2割程度としています。2025年度調査では自己資金の平均は279万円でした。公庫は自己資金以上に創業計画全体を重視するとしています。</p>
+<p><strong>Q: 運転資金は何か月分を用意すればよいですか？</strong>
+A: 一律の目安ではなく、取引先からの最初の入金がいつになるかで決まります。毎月の支出に、開業から最初の入金までの月数を掛けた額を最低限として、売上が予想に届かない場合の余裕を上乗せして見積もります。</p>
+<p><strong>Q: 開業資金はいつまでに用意すればよいですか？</strong>
+A: 融資を使う場合は、決まるまでの期間を逆算します。日本公庫は申込みから融資が決まるまで「平均的には、3週間程度」と案内しており、決定後に契約手続きと送金があります。物件の契約や設備の発注の支払日から逆算して、余裕をもって相談・申込みを始めます。</p>
+<p><strong>Q: 開業資金にファクタリングは使えますか？</strong>
+A: 開業前には売掛金がないため使えません。開業後に請求書を出し、入金を待つ間の資金の不足を補う手段として使えます。手数料がかかるため、開業資金の中心は自己資金と融資で考えます。</p>
+<h2>関連記事</h2>
+<ul>
+<li><a href="/articles/article-sogyo-yushi/">創業融資の比較：日本公庫と東京都の制度</a></li>
+<li><a href="/articles/article-jfc-kojin/">日本公庫の個人事業主向け融資：金利・必要書類</a></li>
+<li><a href="/articles/article-shikin-gurihyou/">資金繰り表の作り方</a></li>
+<li><a href="/articles/article-kojin-hojokin/">個人事業主が利用できる補助金・助成金</a></li>
+<li><a href="/articles/article-kojin-shikin-chotatsu/">個人事業主の資金調達方法</a></li>
+</ul>
+<p><em>日本政策金融公庫総合研究所「2025年度新規開業実態調査」（2025年12月5日公表）、日本公庫・東京都・国税庁の公式ページで2026年11月16日に確認した内容です。</em></p>
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","header",null,{"className":"page-head","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-4 pb-9 sm:pb-11","children":[["$","nav",null,{"className":"crumbs mb-7","children":[["$","$L10",null,{"href":"/","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/kojin","children":"個人事業主・フリーランス"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["開業資金はいくら必要か｜公庫の実態調査の平均975万円・中央","..."]}]]}],["$","p",null,{"className":"page-label mb-3","children":"個人事業主・フリーランス"}],["$","h1",null,{"className":"text-[23px] sm:text-[30px] font-bold text-ink leading-[1.5] tracking-[0.01em] mb-5","children":"開業資金はいくら必要か｜公庫の実態調査の平均975万円・中央値600万円と調達"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-gray-500","children":[["$","span",null,{"className":"num","children":["更新日: ","2026年11月16日"]}],["$","span",null,{"className":"bg-white border border-line text-ink/80 text-xs font-medium px-2.5 py-0.5 rounded-sm","children":"開業資金 いくら"}]]}]]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-6 sm:pt-8 pb-10","children":[["$","article",null,{"children":[null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14",false,false,"$L15","$L16"]}],"$L17","$L18","$L19","$L1a"]}]
+:HL["/images/logo-88.webp","image"]
+12:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-md p-6","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L10",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L10",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L10",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","freenance",{"children":["$","$L10",null,{"href":"/companies/freenance/","className":"text-blue-600 hover:underline","children":["FREENANCE","の口コミ・評判・手数料 →"]}]}],["$","li","bion",{"children":["$","$L10",null,{"href":"/companies/bion/","className":"text-blue-600 hover:underline","children":["バイオン","の口コミ・評判・手数料 →"]}]}],["$","li","olta",{"children":["$","$L10",null,{"href":"/companies/olta/","className":"text-blue-600 hover:underline","children":["OLTA","の口コミ・評判・手数料 →"]}]}],["$","li","goodplus",{"children":["$","$L10",null,{"href":"/companies/goodplus/","className":"text-blue-600 hover:underline","children":["GoodPlus","の口コミ・評判・手数料 →"]}]}],["$","li","wit",{"children":["$","$L10",null,{"href":"/companies/wit/","className":"text-blue-600 hover:underline","children":["ウィット","の口コミ・評判・手数料 →"]}]}]]}]]}]
+13:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-5","children":"おすすめファクタリング会社"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","best-factor",{"href":"/companies/best-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ベストファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","2%〜20%"," ／ ","最短6時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","pmg",{"href":"/companies/pmg","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"PMG"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","paytner",{"href":"/companies/paytner","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ペイトナー"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+14:["$","div",null,{"className":"mt-12 bg-[#1B3A5C] rounded-md p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-cta text-white px-8 py-3 rounded-md font-bold text-sm hover:bg-cta-hover transition","children":"無料診断を始める →"}]]}]
+15:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"関連記事"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-jfc-kojin",{"href":"/articles/article-jfc-kojin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"日本政策金融公庫 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"日本政策金融公庫の個人事業主向け融資｜金利・必要書類と売掛金がある時の判断"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-kojin-jigyonushi-yushi",{"href":"/articles/article-kojin-jigyonushi-yushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"個人事業主 融資"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"個人事業主の融資｜申込先別の必要書類・条件と売掛金で資金を作る方法の比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-business-loan-kojin",{"href":"/articles/article-business-loan-kojin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ビジネスローン 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ビジネスローンを個人事業主が比べる手順｜総量規制・上限金利・代わりの手段"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-kakuteishinkoku-yuushi",{"href":"/articles/article-kakuteishinkoku-yuushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"確定申告 融資"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"確定申告書と融資｜控えの証明方法・2期分の準備・納税証明書の取り方"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-seido-yuushi",{"href":"/articles/article-seido-yuushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"制度融資 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"制度融資とは｜個人事業主の申込条件・保証料と売掛金を生かす融資を東京都の例で"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-akaji-yuushi",{"href":"/articles/article-akaji-yuushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"赤字 融資"}],"$L1b","$L1c"]}]]}]]}]
+16:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L10",null,{"href":"/topics/kojin","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["個人事業主・フリーランス","の記事一覧を見る →"]}],["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+17:["$","footer",null,{"className":"bg-ink text-white py-12 mt-16 border-t border-white/10","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-white","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-blue-100/80 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-blue-100/80 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-blue-100/80 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-blue-100/80 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-blue-100/80 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kiso","className":"text-blue-100/80 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/hikaku","className":"text-blue-100/80 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/gyoushu","className":"text-blue-100/80 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kojin","className":"text-blue-100/80 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/guide/trouble/","className":"text-blue-100/80 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-blue-100/80 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/about/","className":"text-blue-100/80 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-blue-100/80 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-blue-100/80 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-blue-100/80 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-blue-100/80 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-blue-100/80 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-blue-100/80 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block border border-white/40 text-white px-6 py-2.5 rounded-md font-bold text-sm hover:bg-white/10 transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-white/15 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":["$L1d","$L1e","$L1f","$L20","$L21"]}]}],"$L22"]}]}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"個人事業主・フリーランス\",\"item\":\"https://corp-factoring.com/topics/kojin/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"開業資金はいくら必要か｜公庫の実態調査の平均975万円・中央値600万円と調達\",\"item\":\"https://corp-factoring.com/articles/article-kaigyo-shikin/\"}]}"}}]
+19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"開業資金はいくら必要か｜公庫の実態調査の平均975万円・中央値600万円と調達\",\"description\":\"開業資金はいくら必要か｜公庫の実態調査の平均975万円・中央値600万円と調達について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-04-17\",\"dateModified\":\"2026-11-16\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-kaigyo-shikin\"}}"}}]
+23:T8ce,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"開業資金は平均でいくらですか？","acceptedAnswer":{"@type":"Answer","text":"日本公庫の2025年度新規開業実態調査では、開業費用の平均値は975万円、中央値は600万円です。500万円未満が4割以上を占め、長期的には少額化の傾向にあると報告されています。対象は公庫から融資を受けた開業後1年以内の企業です。"}},{"@type":"Question","name":"自己資金はいくら用意すればよいですか？","acceptedAnswer":{"@type":"Answer","text":"公庫の創業Q&Aでは、融資先の調査で創業資金総額に占める自己資金の割合は平均で2割程度としています。2025年度調査では自己資金の平均は279万円でした。公庫は自己資金以上に創業計画全体を重視するとしています。"}},{"@type":"Question","name":"運転資金は何か月分を用意すればよいですか？","acceptedAnswer":{"@type":"Answer","text":"一律の目安ではなく、取引先からの最初の入金がいつになるかで決まります。毎月の支出に、開業から最初の入金までの月数を掛けた額を最低限として、売上が予想に届かない場合の余裕を上乗せして見積もります。"}},{"@type":"Question","name":"開業資金はいつまでに用意すればよいですか？","acceptedAnswer":{"@type":"Answer","text":"融資を使う場合は、決まるまでの期間を逆算します。日本公庫は申込みから融資が決まるまで「平均的には、3週間程度」と案内しており、決定後に契約手続きと送金があります。物件の契約や設備の発注の支払日から逆算して、余裕をもって相談・申込みを始めます。"}},{"@type":"Question","name":"開業資金にファクタリングは使えますか？","acceptedAnswer":{"@type":"Answer","text":"開業前には売掛金がないため使えません。開業後に請求書を出し、入金を待つ間の資金の不足を補う手段として使えます。手数料がかかるため、開業資金の中心は自己資金と融資で考えます。"}}]}1a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$23"}}]
+1b:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"赤字でも融資は受けられるか｜公庫が赤字を対象に明記する制度と売掛金の使い方"}]
+1c:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+1d:["$","$L10",null,{"href":"/terms/","className":"text-blue-100/80 hover:text-white transition","children":"利用規約"}]
+1e:["$","span",null,{"className":"text-white/30","children":"|"}]
+1f:["$","$L10",null,{"href":"/privacy/","className":"text-blue-100/80 hover:text-white transition","children":"プライバシーポリシー"}]
+20:["$","span",null,{"className":"text-white/30","children":"|"}]
+21:["$","$L10",null,{"href":"/content-policy/","className":"text-blue-100/80 hover:text-white transition","children":"記事の制作ポリシー"}]
+22:["$","div",null,{"className":"border-t border-white/15 pt-6 text-center","children":["$","p",null,{"className":"text-blue-100/80 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+24:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"開業資金はいくら必要か｜公庫の実態調査の平均975万円・中央値600万円と調達｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"日本政策金融公庫の2025年度新規開業実態調査では、開業費用の平均は975万円、中央値は600万円で、500万円未満が4割以上です。費用と調達の実態を公表データで確認し、最初の売上が入金されるまでの運転資金の見積もり方を整理します。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-kaigyo-shikin/"}],["$","meta","5",{"property":"og:title","content":"開業資金はいくら必要か｜公庫の実態調査の平均975万円・中央値600万円と調達｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"日本政策金融公庫の2025年度新規開業実態調査では、開業費用の平均は975万円、中央値は600万円で、500万円未満が4割以上です。費用と調達の実態を公表データで確認し、最初の売上が入金されるまでの運転資金の見積もり方を整理します。"}],["$","meta","7",{"property":"og:url","content":"https://corp-factoring.com/articles/article-kaigyo-shikin/"}],["$","meta","8",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","15",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","16",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","17",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L24","18",{}]]
