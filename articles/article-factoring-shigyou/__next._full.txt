@@ -1,0 +1,328 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default"]
+3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default"]
+5:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
+d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
+:HL["/_next/static/chunks/0x_h4sx13b8.-.css","style"]
+0:{"P":null,"c":["","articles","article-factoring-shigyou",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-factoring-shigyou","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x_h4sx13b8.-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0wx~cye_53qk4.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x_h4sx13b8.-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"szkwruptZOvdd1IdrK1R_"}
+e:[]
+8:"$We"
+f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0wx~cye_53qk4.js"],"Header"]
+10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0wx~cye_53qk4.js"],""]
+11:T4558,<p>士業の報酬の請求書もファクタリングに申し込めますが、個人で開業している弁護士・税理士・社会保険労務士・司法書士などが法人の顧問先に出す請求書は、所得税が源泉徴収された後の額が入金されます。申込先に示すのは請求書の額面ではなく、源泉徴収を引いた入金予定額であることが、他の業種との大きな違いです。</p>
+<p>もう1つの違いは、依頼者の情報を扱う点です。弁護士法・税理士法など各士業の法律には秘密を守る義務の条文があり、請求書や契約書を申込先に出すときや、依頼者に債権の譲渡を知らせる3社間の方式を選ぶときに関わってきます。この記事では、この2点を条文と国税庁の説明で確かめ、個人の依頼者宛ての請求書を扱う会社を当サイトのデータから抜き出しています。</p>
+<p>弁護士・法律事務所に絞った内容は<a href="/articles/article-factoring-bengoshi/">弁護士・法律事務所のファクタリング</a>で扱っています。</p>
+<hr>
+<h2>源泉徴収で入金額が請求額より少なくなる</h2>
+<h3>所得税法と国税庁の説明</h3>
+<p>所得税法第204条第1項は、居住者に対して国内で一定の報酬・料金を支払う者に、支払の際に所得税を徴収して翌月10日までに納付する義務を定めています。第2号には「弁護士（外国法事務弁護士を含む。）、司法書士、土地家屋調査士、公認会計士、税理士、社会保険労務士、弁理士、海事代理士、測量士、建築士、不動産鑑定士、技術士その他これらに類する者で政令で定めるもの」の業務に関する報酬・料金が挙げられています（<a href="https://laws.e-gov.go.jp/law/340AC0000000033">e-Gov法令検索「所得税法」</a>・2026年11月16日確認）。</p>
+<p>国税庁のタックスアンサーによる計算方法は次のとおりです（いずれも「令和8年4月1日現在法令等」・2026年11月16日確認）。</p>
+<table>
+<thead>
+<tr>
+<th>支払を受ける人</th>
+<th>源泉徴収される額</th>
+<th>出典</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>弁護士・税理士など（個人）</td>
+<td>支払金額100万円以下：支払金額×10.21%。100万円超：（支払金額−100万円）×20.42%＋102,100円</td>
+<td><a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2798.htm">国税庁 No.2798</a></td>
+</tr>
+<tr>
+<td>司法書士・土地家屋調査士・海事代理士（個人）</td>
+<td>1回に支払われる金額から10,000円を差し引いた残額×10.21%</td>
+<td><a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2801.htm">国税庁 No.2801</a></td>
+</tr>
+<tr>
+<td>税理士法人・弁護士法人など（内国法人）</td>
+<td>源泉徴収を要しない</td>
+<td><a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2798_qa.htm">国税庁 No.2798 質疑「税理士法人等に報酬を支払った場合」</a></td>
+</tr>
+<tr>
+<td>支払者が個人で、給与等の支払者でない場合など</td>
+<td>源泉徴収する必要はない（ホステス等への報酬を除く）</td>
+<td><a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2793.htm">国税庁 No.2793</a></td>
+</tr>
+</tbody>
+</table>
+<p>国税庁は、令和9年分以後は所得税・防衛特別所得税・復興特別所得税を源泉徴収すると書いています。率が変わる可能性があるため、請求の時点の国税庁の案内で確かめてください。また、報酬の額と消費税等の額が請求書で明確に区分されている場合は、報酬の額だけを源泉徴収の対象にして差し支えないとされています（No.2798）。</p>
+<h3>計算例（仮定）</h3>
+<pre><code>仮定：個人の税理士が、法人の顧問先に月額顧問料を請求
+・報酬：30万円、消費税等：3万円（請求書で区分して記載）
+・源泉徴収：30万円 × 10.21% ＝ 30,630円
+・顧問先からの入金予定額：33万円 − 30,630円 ＝ 299,370円
+</code></pre>
+<p>この入金予定額299,370円を基準に申し込み、手数料率を10%と仮定すると、手数料は29,937円、受取額は269,433円です（手数料をどの金額に掛けるかは申込先によって違うため、見積もりで確かめてください）。</p>
+<p>請求書の額面33万円のつもりで資金計画を立てると、手元に入る額との差が大きくなります。同じ人が法人化している場合（税理士法人・弁護士法人など）は源泉徴収がないため、請求額と入金予定額は一致します。</p>
+<hr>
+<h2>各士業の守秘義務の条文</h2>
+<p>ファクタリングの申込みでは、請求書や契約書など依頼者の名前と取引の内容がわかる書類を出します。各士業の法律の条文は次のとおりです（e-Gov法令検索・2026年11月16日確認）。</p>
+<table>
+<thead>
+<tr>
+<th>士業</th>
+<th>条文</th>
+<th>書かれていること</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>弁護士</td>
+<td><a href="https://laws.e-gov.go.jp/law/324AC1000000205">弁護士法</a>第23条</td>
+<td>職務上知り得た秘密を保持する権利を有し、義務を負う。ただし、法律に別段の定めがある場合はこの限りでない</td>
+</tr>
+<tr>
+<td>税理士</td>
+<td><a href="https://laws.e-gov.go.jp/law/326AC1000000237">税理士法</a>第38条</td>
+<td>正当な理由がなくて、税理士業務に関して知り得た秘密を他に洩らし、又は窃用してはならない</td>
+</tr>
+<tr>
+<td>司法書士</td>
+<td><a href="https://laws.e-gov.go.jp/law/325AC1000000197">司法書士法</a>第24条</td>
+<td>正当な事由がある場合でなければ、業務上取り扱った事件について知ることのできた秘密を他に漏らしてはならない</td>
+</tr>
+<tr>
+<td>社会保険労務士</td>
+<td><a href="https://laws.e-gov.go.jp/law/343AC1000000089">社会保険労務士法</a>第21条</td>
+<td>開業社会保険労務士等は、正当な理由がなくて、その業務に関して知り得た秘密を他に漏らし、又は盗用してはならない</td>
+</tr>
+<tr>
+<td>行政書士</td>
+<td><a href="https://laws.e-gov.go.jp/law/326AC1000000004">行政書士法</a>第12条</td>
+<td>正当な理由がなく、その業務上取り扱った事項について知り得た秘密を漏らしてはならない</td>
+</tr>
+</tbody>
+</table>
+<p>申込みの書類にどこまで依頼者の情報を載せてよいかは、条文の「正当な理由」にあたるかの判断を含むため、この記事では結論を書きません。所属する士業団体の規程や、依頼者の同意の取り方を確かめたうえで申し込んでください。</p>
+<p>方式の選び方にも関わります。3社間ファクタリングは、依頼者（売掛先）に債権の譲渡を知らせて承諾を得る方式です。2社間は売掛先に知らせずに進める方式ですが、申込先には書類を出します。方式の違いは<a href="/articles/article-factoring-2sha-3sha/">2社間・3社間ファクタリングの違い</a>で、登記を伴う場合の扱いは<a href="/articles/article-factoring-saiken-touki/">債権譲渡登記</a>で説明しています。</p>
+<hr>
+<h2>依頼者が個人の請求書：会社によって扱いが分かれる</h2>
+<p>相続・離婚・債務整理など個人の依頼者からの報酬は、売掛先が個人になります。当サイトのデータでは、売掛先が個人の請求書の扱いは次のように分かれます。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>売掛先が個人の請求書についての公式の記載</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/paytner/">ペイトナー</a></td>
+<td>「独立直後でも個人の取引先でもOK」。個人間での取引も「はい、利用可能となっております」</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/bion/">バイオン</a></td>
+<td>売掛先が個人でも申請可（売掛先は国内のみ）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/chatwork-sakibarai/">Chatwork 先払い</a></td>
+<td>請求先が個人事業主でも可</td>
+<td>2026年11月6日</td>
+</tr>
+<tr>
+<td><a href="/companies/goodplus/">GoodPlus</a></td>
+<td>売掛先が個人の請求書は、よくある質問では対象外、利用規約では「個人事業者」も対象と、表記が異なる</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/labol/">ラボル</a></td>
+<td>「現時点では、法人が取引先となる請求書のみ買い取りをさせて頂いております」</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/freenance/">FREENANCE</a></td>
+<td>請求先は内国法人又は日本に支店のある外国法人のみ（個人宛の請求書は不可）</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/olta/">OLTA</a></td>
+<td>売掛先は国内登記の法人または公的機関のみ</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/be-trading/">ビートレーディング</a></td>
+<td>売掛先が個人事業主の売掛金は対象外</td>
+<td>2026年10月31日</td>
+</tr>
+</tbody>
+</table>
+<p>売掛先が個人の請求書全般の扱いは、<a href="/articles/article-factoring-urikakesaki-kojin/">売掛先が個人の請求書はファクタリングできる？</a>で会社ごとに整理しています。</p>
+<hr>
+<h2>個人で開業している士業が申し込める会社（利用可能額の下限が低い順）</h2>
+<p>当サイトの掲載社のうち、個人事業主の利用を公式に記載し、利用可能額の下限が1万円〜10万円の会社を、<strong>下限が低い順</strong>に並べました。優劣を示すものではありません。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>手数料の公式表示</th>
+<th>利用可能額</th>
+<th>入金スピード</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/paytner/">ペイトナー</a></td>
+<td>一律10%（別途振込手数料330円）</td>
+<td>1万円〜（初回50万円・実績に応じ最大300万円）</td>
+<td>最短即日</td>
+<td>2026年11月5日</td>
+</tr>
+<tr>
+<td><a href="/companies/labol/">ラボル</a></td>
+<td>一律10%</td>
+<td>1万円〜（上限は審査で個別設定）</td>
+<td>最短30分</td>
+<td>2026年11月8日</td>
+</tr>
+<tr>
+<td><a href="/companies/freenance/">FREENANCE</a></td>
+<td>3〜10%（受取口座の指定なしは一律10%）</td>
+<td>1万円〜（上限額なし・審査）</td>
+<td>最短5分</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/be-trading/">ビートレーディング</a></td>
+<td>2社間4%〜（自社コラム内の表記）</td>
+<td>1万円〜無制限（実績7億円）</td>
+<td>最短2時間</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/goodplus/">GoodPlus</a></td>
+<td>5%〜15%（ファクタリングページの比較表）</td>
+<td>対象債権1万円以上（利用規約）。上限は記載なし</td>
+<td>最短90分（公式トップ）</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/bion/">バイオン</a></td>
+<td>一律10%（別途振込手数料500円）</td>
+<td>5万円（税込）〜</td>
+<td>最短60分</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/msfj/">MSFJ</a></td>
+<td>個人事業主ページは3.8%〜9.8%</td>
+<td>10万円〜（FAQは下限「特にはございません」）</td>
+<td>最短30分</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/paytoday/">PayToday</a></td>
+<td>1〜9.5%</td>
+<td>10万円〜上限なし</td>
+<td>最短30分</td>
+<td>手数料2026年7月21日・対象2026年11月3日</td>
+</tr>
+<tr>
+<td><a href="/companies/try/">ファクタリングのTRY</a></td>
+<td>2社間3%〜（下限のみ）</td>
+<td>10万円〜1億円（以上は相談可）</td>
+<td>最短2時間（オンライン契約）</td>
+<td>2026年11月15日</td>
+</tr>
+<tr>
+<td><a href="/companies/levanta/">レバンタ</a></td>
+<td>4.0%〜10.0%</td>
+<td>売掛先1社につき10万円〜1億円</td>
+<td>契約後最短10分で振込</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/trust-gateway/">トラストゲートウェイ</a></td>
+<td>1.5%〜9.5%（公式トップ）</td>
+<td>売掛先1社に対して10万円〜5,000万円（審査により上限1億円）</td>
+<td>最短即日振込</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/kaisoku/">買速</a></td>
+<td>2%〜（公式トップ）／1%〜10%（公式FAQ）</td>
+<td>10万円〜1億円（公式トップ）</td>
+<td>最短30分</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/jigyoshikin-agent/">事業資金エージェント</a></td>
+<td>5%〜20%（公式FAQ。申込LPは1.5%〜）</td>
+<td>10万円〜最大2億円（申込LP）</td>
+<td>最短2時間（申込LP）</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/nishinihon-factor/">西日本ファクター</a></td>
+<td>非公示（審査後に説明）</td>
+<td>10万円〜3,000万円（売掛先は法人のみ・対応地域は九州・中国・関西）</td>
+<td>最短即日（1,000万円まで）</td>
+<td>2026年11月1日</td>
+</tr>
+</tbody>
+</table>
+<p>出典：当サイトの<a href="/fees/">手数料・入金スピードの一覧</a>と各社ページの検証欄（各社の公式サイトで確認）</p>
+<p>ペイトナーは支払期日まで70日以内の請求書（2026年11月2日確認）、FREENANCEは支払期日が買取申込日から105日以内の債権（2026年10月31日確認）と、期日の条件もあります。成功報酬のように支払時期が決まっていない報酬は、これらの条件に当てはまるかを先に確かめてください。</p>
+<hr>
+<h2>申込み前に確かめること</h2>
+<ol>
+<li><strong>入金予定額</strong>：個人で開業している場合、法人の顧問先からは源泉徴収後の額が入金されます。請求書に報酬と消費税等を分けて書いているかも確かめます</li>
+<li><strong>依頼者の情報の扱い</strong>：申込先に出す書類と、3社間を選ぶかどうかを、守秘義務の条文と所属団体の規程に照らして決めます</li>
+<li><strong>売掛先が個人か法人か</strong>：個人の依頼者宛ての請求書は、扱う会社が限られます</li>
+<li><strong>支払期日</strong>：顧問料のように毎月決まった日に入るものか、案件の終了後に請求するものかで、使える会社の条件（期日まで70日以内など）が変わります</li>
+</ol>
+<hr>
+<h2>よくある質問</h2>
+<p><strong>Q: 税理士の顧問料の請求書は、額面どおりの金額でファクタリングできますか？</strong></p>
+<p>A: 個人の税理士が法人の顧問先に出す請求書は、所得税法第204条により源泉徴収された後の額が入金されます。100万円以下の部分は10.21%です（国税庁 No.2798）。申込先には入金予定額を示し、どの金額を基準に買い取るかを見積もりで確かめてください。</p>
+<p><strong>Q: 法人化した事務所でも源泉徴収はありますか？</strong></p>
+<p>A: 国税庁の質疑応答は、税理士法人や弁護士法人など内国法人に支払われる報酬は源泉徴収を要しないとしています。請求額と入金予定額は一致します。</p>
+<p><strong>Q: 相続や離婚など個人の依頼者への請求書は使えますか？</strong></p>
+<p>A: ペイトナーやバイオンのように売掛先が個人でも申請できると公式に書いている会社がある一方、ラボル・FREENANCE・OLTAは法人（OLTAは公的機関も）宛ての請求書に限っています。</p>
+<p><strong>Q: 依頼者に知られずに申し込めますか？</strong></p>
+<p>A: 2社間ファクタリングは売掛先に知らせずに進める方式です。ただし、申込先には請求書などの書類を出すため、依頼者の情報を第三者に示すことになります。各士業法の秘密を守る義務の条文と、所属団体の規程を確かめてから申し込んでください。</p>
+<hr>
+<h2>関連記事</h2>
+<ul>
+<li><a href="/articles/article-factoring-bengoshi/">弁護士・法律事務所のファクタリング</a></li>
+<li><a href="/articles/article-factoring-urikakesaki-kojin/">売掛先が個人の請求書はファクタリングできる？</a></li>
+<li><a href="/articles/article-factoring-2sha-3sha/">2社間・3社間ファクタリングの違い</a></li>
+<li><a href="/articles/article-factoring-kojin-jigyonushi/">個人事業主向けファクタリング</a></li>
+<li><a href="/articles/article-freelance-shikin/">フリーランスの資金繰り改善ガイド</a></li>
+</ul>
+<hr>
+<blockquote>
+<p>※本記事の条文・国税庁の説明は2026年11月16日に、各社の公式表示は表に記載した日に確認した内容です。手数料率・サービス内容・税制は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
+</blockquote>
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","header",null,{"className":"page-head","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-4 pb-9 sm:pb-11","children":[["$","nav",null,{"className":"crumbs mb-7","children":[["$","$L10",null,{"href":"/","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/gyoushu","children":"業種別ファクタリング"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["士業のファクタリング｜源泉徴収後の入金額と守秘義務から見る請","..."]}]]}],["$","p",null,{"className":"page-label mb-3","children":"業種別ファクタリング"}],["$","h1",null,{"className":"text-[23px] sm:text-[30px] font-bold text-ink leading-[1.5] tracking-[0.01em] mb-5","children":"士業のファクタリング｜源泉徴収後の入金額と守秘義務から見る請求書の資金化"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-gray-500","children":[["$","span",null,{"className":"num","children":["更新日: ","2026年11月16日"]}],["$","span",null,{"className":"bg-white border border-line text-ink/80 text-xs font-medium px-2.5 py-0.5 rounded-sm","children":"士業 ファクタリング, 弁護士 ファクタリング, 税理士 資金繰り"}]]}]]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-6 sm:pt-8 pb-10","children":[["$","article",null,{"children":[null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14",false,false,"$L15","$L16"]}],"$L17","$L18","$L19","$L1a"]}]
+:HL["/images/logo-88.webp","image"]
+12:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-md p-6","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L10",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","paytner",{"children":["$","$L10",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","labol",{"children":["$","$L10",null,{"href":"/companies/labol/","className":"text-blue-600 hover:underline","children":["ラボル","の口コミ・評判・手数料 →"]}]}],["$","li","paytoday",{"children":["$","$L10",null,{"href":"/companies/paytoday/","className":"text-blue-600 hover:underline","children":["PayToday","の口コミ・評判・手数料 →"]}]}],["$","li","freenance",{"children":["$","$L10",null,{"href":"/companies/freenance/","className":"text-blue-600 hover:underline","children":["FREENANCE","の口コミ・評判・手数料 →"]}]}],["$","li","try",{"children":["$","$L10",null,{"href":"/companies/try/","className":"text-blue-600 hover:underline","children":["ファクタリングのTRY","の口コミ・評判・手数料 →"]}]}],["$","li","msfj",{"children":["$","$L10",null,{"href":"/companies/msfj/","className":"text-blue-600 hover:underline","children":["MSFJ","の口コミ・評判・手数料 →"]}]}],["$","li","levanta",{"children":["$","$L10",null,{"href":"/companies/levanta/","className":"text-blue-600 hover:underline","children":["レバンタ","の口コミ・評判・手数料 →"]}]}],["$","li","trust-gateway",{"children":["$","$L10",null,{"href":"/companies/trust-gateway/","className":"text-blue-600 hover:underline","children":["トラストゲートウェイ","の口コミ・評判・手数料 →"]}]}],["$","li","bion",{"children":["$","$L10",null,{"href":"/companies/bion/","className":"text-blue-600 hover:underline","children":["バイオン","の口コミ・評判・手数料 →"]}]}],["$","li","kaisoku",{"children":["$","$L10",null,{"href":"/companies/kaisoku/","className":"text-blue-600 hover:underline","children":["買速","の口コミ・評判・手数料 →"]}]}],["$","li","olta",{"children":["$","$L10",null,{"href":"/companies/olta/","className":"text-blue-600 hover:underline","children":["OLTA","の口コミ・評判・手数料 →"]}]}],["$","li","goodplus",{"children":["$","$L10",null,{"href":"/companies/goodplus/","className":"text-blue-600 hover:underline","children":["GoodPlus","の口コミ・評判・手数料 →"]}]}],["$","li","nishinihon-factor",{"children":["$","$L10",null,{"href":"/companies/nishinihon-factor/","className":"text-blue-600 hover:underline","children":["西日本ファクター","の口コミ・評判・手数料 →"]}]}],["$","li","jigyoshikin-agent",{"children":["$","$L10",null,{"href":"/companies/jigyoshikin-agent/","className":"text-blue-600 hover:underline","children":["事業資金エージェント","の口コミ・評判・手数料 →"]}]}],["$","li","chatwork-sakibarai",{"children":["$","$L10",null,{"href":"/companies/chatwork-sakibarai/","className":"text-blue-600 hover:underline","children":["Chatwork 先払い","の口コミ・評判・手数料 →"]}]}]]}]]}]
+13:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-5","children":"おすすめファクタリング会社"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","gmo-btob-hayabarai",{"href":"/companies/gmo-btob-hayabarai","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"GMO BtoB早払い"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜12%"," ／ ","最短2営業日（利用審査完了後）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","goodplus",{"href":"/companies/goodplus","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"GoodPlus"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","5%〜15%"," ／ ","最短90分（公式トップ）／最短即日（ファクタリングページ）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","next-one",{"href":"/companies/next-one","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ネクストワン"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","5%〜10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+14:["$","div",null,{"className":"mt-12 bg-[#1B3A5C] rounded-md p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-cta text-white px-8 py-3 rounded-md font-bold text-sm hover:bg-cta-hover transition","children":"無料診断を始める →"}]]}]
+15:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"関連記事"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-factoring-jinzai",{"href":"/articles/article-factoring-jinzai","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"人材派遣 ファクタリング, 派遣業 資金繰り"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"人材派遣業向けファクタリング｜給与支払い資金の確保と資金繰り改善"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-nougyou",{"href":"/articles/article-factoring-nougyou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"農業 ファクタリング, 農家 資金繰り, 農業法人 資金調達"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"農業のファクタリング活用ガイド｜農家・農業法人の資金繰り改善【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-fudousan",{"href":"/articles/article-factoring-fudousan","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"不動産 ファクタリング, 不動産業 資金繰り"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"不動産業向けファクタリング｜仲介手数料・売買代金の早期資金化"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-yachin-factoring",{"href":"/articles/article-yachin-factoring","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"家賃収入 ファクタリング, 家賃 ファクタリング, 賃料債権 ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"家賃収入のファクタリング｜賃料債権を売る前に確かめる法律と条件"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-npo",{"href":"/articles/article-factoring-npo","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング NPO 一般社団"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"NPO・一般社団法人のファクタリング活用｜非営利法人の資金調達"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-ootedaikigyou",{"href":"/articles/article-factoring-ootedaikigyou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 大手企業, ファクタリング 上場企業, 大手企業 ファクタリング"}],"$L1b","$L1c"]}]]}]]}]
+16:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L10",null,{"href":"/topics/gyoushu","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["業種別ファクタリング","の記事一覧を見る →"]}],["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+17:["$","footer",null,{"className":"bg-ink text-white py-12 mt-16 border-t border-white/10","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-white","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-blue-100/80 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-blue-100/80 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-blue-100/80 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-blue-100/80 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-blue-100/80 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kiso","className":"text-blue-100/80 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/hikaku","className":"text-blue-100/80 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/gyoushu","className":"text-blue-100/80 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kojin","className":"text-blue-100/80 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/guide/trouble/","className":"text-blue-100/80 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-blue-100/80 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/about/","className":"text-blue-100/80 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-blue-100/80 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-blue-100/80 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-tesuryo","className":"text-blue-100/80 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-osusume","className":"text-blue-100/80 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-blue-100/80 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-blue-100/80 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block border border-white/40 text-white px-6 py-2.5 rounded-md font-bold text-sm hover:bg-white/10 transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-white/15 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":["$L1d","$L1e","$L1f","$L20","$L21"]}]}],"$L22"]}]}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"業種別ファクタリング\",\"item\":\"https://corp-factoring.com/topics/gyoushu/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"士業のファクタリング｜源泉徴収後の入金額と守秘義務から見る請求書の資金化\",\"item\":\"https://corp-factoring.com/articles/article-factoring-shigyou/\"}]}"}}]
+19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"士業のファクタリング｜源泉徴収後の入金額と守秘義務から見る請求書の資金化\",\"description\":\"士業のファクタリング｜源泉徴収後の入金額と守秘義務から見る請求書の資金化について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-04-29\",\"dateModified\":\"2026-11-16\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-shigyou\"}}"}}]
+1a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"税理士の顧問料の請求書は、額面どおりの金額でファクタリングできますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"個人の税理士が法人の顧問先に出す請求書は、所得税法第204条により源泉徴収された後の額が入金されます。100万円以下の部分は10.21%です（国税庁 No.2798）。申込先には入金予定額を示し、どの金額を基準に買い取るかを見積もりで確かめてください。\"}},{\"@type\":\"Question\",\"name\":\"法人化した事務所でも源泉徴収はありますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"国税庁の質疑応答は、税理士法人や弁護士法人など内国法人に支払われる報酬は源泉徴収を要しないとしています。請求額と入金予定額は一致します。\"}},{\"@type\":\"Question\",\"name\":\"相続や離婚など個人の依頼者への請求書は使えますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"ペイトナーやバイオンのように売掛先が個人でも申請できると公式に書いている会社がある一方、ラボル・FREENANCE・OLTAは法人（OLTAは公的機関も）宛ての請求書に限っています。\"}},{\"@type\":\"Question\",\"name\":\"依頼者に知られずに申し込めますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"2社間ファクタリングは売掛先に知らせずに進める方式です。ただし、申込先には請求書などの書類を出すため、依頼者の情報を第三者に示すことになります。各士業法の秘密を守る義務の条文と、所属団体の規程を確かめてから申し込んでください。\"}}]}"}}]
+1b:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングと大手企業｜大手あての請求書と一括決済方式の受け取り方"}]
+1c:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+1d:["$","$L10",null,{"href":"/terms/","className":"text-blue-100/80 hover:text-white transition","children":"利用規約"}]
+1e:["$","span",null,{"className":"text-white/30","children":"|"}]
+1f:["$","$L10",null,{"href":"/privacy/","className":"text-blue-100/80 hover:text-white transition","children":"プライバシーポリシー"}]
+20:["$","span",null,{"className":"text-white/30","children":"|"}]
+21:["$","$L10",null,{"href":"/content-policy/","className":"text-blue-100/80 hover:text-white transition","children":"記事の制作ポリシー"}]
+22:["$","div",null,{"className":"border-t border-white/15 pt-6 text-center","children":["$","p",null,{"className":"text-blue-100/80 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+23:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"士業のファクタリング｜源泉徴収後の入金額と守秘義務から見る請求書の資金化｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"個人の弁護士・税理士・社労士・司法書士が法人に出す報酬の請求書は、源泉徴収後の額が入金されます。所得税法・国税庁の計算方法、各士業法の守秘義務の条文、個人の依頼者宛ての請求書を扱う会社の公式表示をまとめました。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-factoring-shigyou/"}],["$","meta","5",{"property":"og:title","content":"士業のファクタリング｜源泉徴収後の入金額と守秘義務から見る請求書の資金化｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"個人の弁護士・税理士・社労士・司法書士が法人に出す報酬の請求書は、源泉徴収後の額が入金されます。所得税法・国税庁の計算方法、各士業法の守秘義務の条文、個人の依頼者宛ての請求書を扱う会社の公式表示をまとめました。"}],["$","meta","7",{"property":"og:url","content":"https://corp-factoring.com/articles/article-factoring-shigyou/"}],["$","meta","8",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"法人向けファクタリングおすすめ15選【2026年最新】"}],["$","meta","15",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","16",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","17",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L23","18",{}]]

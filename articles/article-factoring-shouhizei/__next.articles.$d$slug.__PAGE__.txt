@@ -1,0 +1,189 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0wx~cye_53qk4.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/0wx~cye_53qk4.js"],""]
+19:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+:HL["/images/logo-88.webp","image"]
+4:T41d3,<p>ファクタリングで売掛金を売っても、手数料を差し引かれても、消費税はかかりません。売掛金は「金銭債権」で、その譲渡は消費税法の非課税取引に当たり、ファクタリング会社が受け取る買取りの差益も非課税とされているためです。</p>
+<p>ただ、申告で迷いやすいのは「非課税」と分かった後です。この記事では、根拠条文を確かめたうえで、課税売上割合の計算での扱い、手数料と仕入税額控除の関係、似た取引である売上割引との違いを、国税庁と e-Gov の条文で整理します。インボイス登録との関係は<a href="/articles/article-factoring-invoice-mitouroku/">インボイス未登録でもファクタリングは使える？</a>で扱っています。</p>
+<hr>
+<h2>非課税の根拠</h2>
+<h3>売掛金の譲渡</h3>
+<p>消費税法6条1項は、国内で行われる資産の譲渡等のうち、別表第二に掲げるものには消費税を課さないと定めています。別表第二第2号は有価証券「その他これに類するものとして政令で定めるもの」の譲渡で、消費税法施行令9条1項4号がその一つとして「貸付金、預金、売掛金その他の金銭債権」を挙げています（<a href="https://laws.e-gov.go.jp/law/363AC0000000108">e-Gov法令検索 消費税法</a>・<a href="https://laws.e-gov.go.jp/law/363CO0000000360">消費税法施行令</a>・2026年11月16日確認）。</p>
+<p>国税庁のタックスアンサー No.6201「非課税となる取引」も、有価証券等の譲渡の例に「金銭債権などの譲渡」を挙げています（<a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6201.htm">国税庁</a>・令和8年4月1日現在法令等・2026年11月16日確認）。消費税法基本通達6-2-1も、非課税となる有価証券等に「貸付金、預金、売掛金その他の金銭債権」が該当するとしています。</p>
+<h3>手数料（買取りの差益）</h3>
+<p>ファクタリング会社の側から見ると、売掛金を額面より安く買い取り、額面で回収した差額が収益です。消費税法施行令10条3項8号は、別表第二第3号（利子を対価とする貸付金等）に類するものとして「金銭債権の譲受けその他の承継（包括承継を除く。）」を挙げ、消費税法基本通達6-3-1(10)は非課税となる対価の例として「金銭債権の買取又は立替払に係る差益」を挙げています（<a href="https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/03.htm">国税庁 基本通達 第3節</a>・2026年11月16日確認）。</p>
+<table>
+<thead>
+<tr>
+<th>取引</th>
+<th>消費税の扱い</th>
+<th>根拠</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>利用者が売掛金をファクタリング会社に売る</td>
+<td>非課税</td>
+<td>消費税法6条1項・別表第二第2号、施行令9条1項4号、基本通達6-2-1</td>
+</tr>
+<tr>
+<td>ファクタリング会社が得る買取りの差益（利用者から見た手数料）</td>
+<td>非課税</td>
+<td>別表第二第3号、施行令10条3項8号、基本通達6-3-1(10)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>課税売上割合の計算では「なかったもの」になる</h2>
+<h3>なぜ課税売上割合が関係するのか</h3>
+<p>課税事業者が仕入税額控除を計算するとき、その課税期間の課税売上高が5億円を超えるか、課税売上割合が95%に満たない場合は、仕入れに係る消費税額を全額は控除できず、個別対応方式か一括比例配分方式で計算します（消費税法30条2項）。非課税の売上が分母に入ると課税売上割合が下がるため、「売掛金を売った額が非課税売上として分母に入るのか」が実務上の論点になります。</p>
+<h3>自社の売掛金の譲渡は分母に入れない</h3>
+<p>消費税法施行令48条2項2号は、課税売上割合の分母となる資産の譲渡等に「第九条第一項第四号に掲げる金銭債権のうち資産の譲渡等を行つた者が当該資産の譲渡等の対価として取得したものの譲渡」を含まないと定めています。自社が商品を売ったりサービスを提供したりして得た売掛金をファクタリングで売っても、その譲渡額は課税売上割合の分母にも分子にも入りません。</p>
+<p>国税庁のタックスアンサー No.6405「課税売上割合の計算方法」も、総売上高と課税売上高の双方に「特定の金銭債権の譲渡」に係る売上高は含まないと説明しています（<a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6405.htm">国税庁</a>・令和8年4月1日現在法令等・2026年11月16日確認）。</p>
+<h3>他から取得した金銭債権を売る場合は5%を算入</h3>
+<p>一方、施行令48条5項は、資産の譲渡等の対価として取得したもの「以外」の金銭債権（例えば他社から譲り受けた債権や貸付金）を譲渡した場合、分母に入れる額を譲渡対価の5%相当額とすると定めています。No.6405も「売掛金その他の金銭債権（資産の譲渡等の対価として取得したものを除きます。）の譲渡対価の額は、その譲渡対価の額の5パーセントに相当する金額」と説明しています。</p>
+<p>例：課税売上高8,000万円の事業者が、自社の売掛金1,000万円をファクタリングで売った場合（仮定）</p>
+<ul>
+<li>自社の売掛金の譲渡は分母・分子とも算入しない（施行令48条2項2号）</li>
+<li>課税売上割合 ＝ 8,000万円 ÷ 8,000万円 ＝ 100%（ほかに非課税売上がない場合）</li>
+</ul>
+<p>仮に、この1,000万円が他から取得した金銭債権の譲渡だったとすると、分母に50万円（5%）が加わり、8,000万円 ÷ 8,050万円 ＝ 約99.4%となります。</p>
+<hr>
+<h2>手数料は仕入税額控除の対象にならない</h2>
+<p>仕入税額控除の対象となる「課税仕入れ」は、相手方が事業として行ったとした場合に課税資産の譲渡等に該当するものに限られます（消費税法2条1項12号）。ファクタリングの手数料（買取りの差益）は上で見たとおり非課税なので、利用者が支払っても課税仕入れには当たらず、仕入税額控除はできません。</p>
+<p>経理では、手数料の税区分を「非課税仕入れ」として処理します。会計ソフトで税区分を「課税仕入10%」のままにすると、控除できない税額を控除してしまうため注意してください。勘定科目と仕訳は<a href="/articles/article-factoring-kanjokamoku/">ファクタリングの勘定科目・仕訳方法</a>で扱っています。</p>
+<p>なお、契約によっては手数料のほかに事務手数料・登記費用・振込手数料などの名目の費用が請求されることがあります。名目ごとに課税関係が異なり得るため、請求書の内訳と消費税額の表示を確かめ、判断に迷う場合は税理士か税務署に確認してください。</p>
+<hr>
+<h2>取引ごとの税区分のまとめ</h2>
+<p>ここまでの条文を、利用者の帳簿で出てくる取引ごとにまとめます。</p>
+<table>
+<thead>
+<tr>
+<th>帳簿に出てくる取引</th>
+<th>消費税の区分</th>
+<th>課税売上割合の計算</th>
+<th>根拠</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>もとの商品販売・サービス提供の売上</td>
+<td>課税（輸出は免税）</td>
+<td>分母・分子に算入</td>
+<td>消費税法2条1項9号、7条</td>
+</tr>
+<tr>
+<td>売掛金をファクタリング会社に譲渡</td>
+<td>非課税</td>
+<td>算入しない（自社の売掛金の場合）</td>
+<td>施行令9条1項4号、48条2項2号</td>
+</tr>
+<tr>
+<td>ファクタリングの手数料（買取りの差益）</td>
+<td>非課税（仕入税額控除の対象外）</td>
+<td>―</td>
+<td>施行令10条3項8号、基本通達6-3-1(10)、法2条1項12号</td>
+</tr>
+<tr>
+<td>事務手数料など別名目の費用</td>
+<td>名目と実態で判断</td>
+<td>―</td>
+<td>契約書・請求書で確認</td>
+</tr>
+</tbody>
+</table>
+<p>2社間でも3社間でも、利用者がファクタリング会社に売掛金を譲渡するという取引の性質は同じです。違いは売掛先に通知するかどうかで、上の区分は変わりません。</p>
+<h3>手形割引との比較</h3>
+<p>手形の割引も、消費税では非課税の扱いです。消費税法施行令10条3項7号は「手形（約束手形を除く。）の割引」を、消費税法基本通達6-3-1(9)は「手形の割引料」を、非課税となる対価の例に挙げています（<a href="https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/03.htm">国税庁 基本通達 第3節</a>・2026年11月16日確認）。手形割引とファクタリングの違いは<a href="/articles/article-factoring-vs-tegata/">ファクタリングと手形割引の違い</a>で扱っています。</p>
+<h3>ファクタリング会社の側では「利子」として扱われる</h3>
+<p>消費税法施行令2条1項4号は「貸付金その他の金銭債権の譲受けその他の承継」を資産の譲渡等に類する行為に含め、同令48条4項は、課税売上割合の計算でこの行為の対価を「利子（償還差益、譲り受けた金銭債権の弁済を受けた金額とその取得価額との差額その他経済的な性質が利子に準ずるものを含む。）」とすると定めています。ファクタリング会社にとって、売掛金を額面より安く買って額面で回収した差額は、消費税の計算上、利子に準ずるものとして非課税売上に計上されることになります。利用者の側の申告には影響しませんが、手数料が「非課税」とされる理由の一つです。</p>
+<hr>
+<h2>売上割引との違い</h2>
+<p>売掛先に「早く払ってくれれば代金を値引きする」という方法もあります。消費税法基本通達6-3-4は、売掛金等の支払期日前に支払を受けた場合に相手先に支払う売上割引を、消費税法38条の「売上げに係る対価の返還等」に該当するものとして取り扱うとしています（<a href="https://www.nta.go.jp/law/tsutatsu/kihon/shohi/06/03.htm">国税庁 基本通達 第3節</a>・2026年11月16日確認）。</p>
+<table>
+<thead>
+<tr>
+<th>方法</th>
+<th>相手</th>
+<th>消費税での扱い</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ファクタリング</td>
+<td>ファクタリング会社に売掛金を売る</td>
+<td>売掛金の譲渡・差益とも非課税。売上の消費税額は変わらない</td>
+</tr>
+<tr>
+<td>売上割引</td>
+<td>売掛先に早期払いと引き換えに値引きする</td>
+<td>売上げに係る対価の返還等（消費税法38条）として扱う</td>
+</tr>
+</tbody>
+</table>
+<p>どちらも「期日前に現金を得るためのコスト」ですが、消費税の計算への入り方が異なります。</p>
+<hr>
+<h2>売掛金に含まれる消費税</h2>
+<p>売掛金は、消費税相当額を含んだ請求額のまま譲渡します。</p>
+<p>例：税抜100万円・消費税10万円（標準税率10%）の請求書、税込110万円を手数料5%で売った場合（仮定）</p>
+<ul>
+<li>手数料 110万円 × 5% ＝ 5万5,000円（非課税）</li>
+<li>受け取る額 110万円 − 5万5,000円 ＝ 104万5,000円</li>
+<li>売上の消費税10万円は、もとの販売の課税売上として申告する（売掛金を売っても売上の課税関係は変わらない）</li>
+</ul>
+<p>課税事業者の場合、売上の消費税は売掛金を売ったかどうかにかかわらず申告・納付が必要です。ファクタリングで受け取った額から納税資金を残しておく計画が必要になります。</p>
+<hr>
+<h2>免税点（1,000万円）の判定にも入らない</h2>
+<p>消費税法9条1項は、基準期間の課税売上高が1,000万円以下の事業者（適格請求書発行事業者を除く）の納税義務を免除しています。同条2項は、この「基準期間における課税売上高」を、基準期間中に国内で行った課税資産の譲渡等の対価の額の合計額（売上げに係る対価の返還等の金額を控除した額）としています（<a href="https://laws.e-gov.go.jp/law/363AC0000000108">e-Gov法令検索 消費税法</a>・2026年11月16日確認）。</p>
+<p>売掛金の譲渡は非課税なので、課税資産の譲渡等に当たりません。ファクタリングで売掛金を売った額は、免税事業者かどうかを判定する課税売上高に加わらず、もとの販売の売上だけで判定します。</p>
+<hr>
+<h2>輸出の売掛金を売る場合</h2>
+<p>輸出として行う資産の譲渡は、消費税法7条1項1号で消費税が免除されます（輸出免税）。輸出で生じた売掛金も「資産の譲渡等の対価として取得した金銭債権」なので、それをファクタリングで売った場合の課税売上割合での扱いは、上の施行令48条2項2号と同じ条文で判断します。海外の取引先への売掛金の資金化は<a href="/articles/article-factoring-kokusai/">国際ファクタリング</a>で扱っています。</p>
+<hr>
+<h2>消費税以外の税</h2>
+<ul>
+<li><strong>印紙税</strong>：債権譲渡契約書は印紙税の第15号文書で、記載金額1万円以上は200円です（<a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/inshi/7141.htm">国税庁 タックスアンサー No.7141</a>・2026年11月16日確認）。電子契約の扱いを含め<a href="/articles/article-factoring-inshizei/">印紙税の記事</a>で詳しく扱っています</li>
+<li><strong>法人税・所得税</strong>：手数料の損金・経費の扱いは<a href="/articles/article-factoring-houjinzei/">法人税の記事</a>と<a href="/articles/article-factoring-kojin-kakutei/">個人事業主の確定申告</a>をご覧ください</li>
+</ul>
+<hr>
+<h2>よくある質問</h2>
+<p><strong>Q: ファクタリングの手数料に消費税はかかりますか？</strong>
+A: かかりません。消費税法基本通達6-3-1(10)は「金銭債権の買取又は立替払に係る差益」を非課税の対価の例に挙げています。そのため、手数料は仕入税額控除の対象にもなりません。</p>
+<p><strong>Q: 売掛金を売った額は、非課税売上として課税売上割合を下げますか？</strong>
+A: 自社の販売やサービスで得た売掛金の譲渡は、課税売上割合の計算に含めません（消費税法施行令48条2項2号、国税庁タックスアンサー No.6405）。他から取得した金銭債権の譲渡は、譲渡対価の5%を分母に入れます（同条5項）。</p>
+<p><strong>Q: ファクタリング会社から、消費税を上乗せした請求を受けました。</strong>
+A: 売掛金の譲渡と買取りの差益は非課税です。上乗せされた額が何の名目か（事務手数料など別の費用か）を契約書と請求書で確かめ、判断に迷う場合は税理士か税務署に相談してください。</p>
+<p><strong>Q: 免税事業者でもファクタリングは使えますか？</strong>
+A: 使えます。ファクタリングの取引自体が非課税のため、利用者が課税事業者か免税事業者かで取引の課税関係は変わりません。インボイス登録との関係は<a href="/articles/article-factoring-invoice-mitouroku/">インボイス未登録の記事</a>をご覧ください。</p>
+<p><strong>Q: 3社間ファクタリングでも消費税の扱いは同じですか？</strong>
+A: 同じです。3社間でも利用者がファクタリング会社に売掛金（金銭債権）を譲渡する取引で、売掛先に通知して承諾を得るかどうかが違うだけです。譲渡も手数料も非課税です。</p>
+<hr>
+<h2>関連記事</h2>
+<ul>
+<li><a href="/articles/article-factoring-kanjokamoku/">ファクタリングの勘定科目・仕訳方法</a></li>
+<li><a href="/articles/article-factoring-houjinzei/">ファクタリングと法人税の関係</a></li>
+<li><a href="/articles/article-factoring-inshizei/">ファクタリングの契約書に印紙税はかかる？</a></li>
+<li><a href="/articles/article-factoring-kojin-kakutei/">個人事業主のファクタリングと確定申告</a></li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","header",null,{"className":"page-head","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-4 pb-9 sm:pb-11","children":[["$","nav",null,{"className":"crumbs mb-7","children":[["$","$L3",null,{"href":"/","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/kiso","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["ファクタリングの消費税｜非課税の根拠と課税売上割合・手数料の","..."]}]]}],["$","p",null,{"className":"page-label mb-3","children":"基礎知識・審査・法律"}],["$","h1",null,{"className":"text-[23px] sm:text-[30px] font-bold text-ink leading-[1.5] tracking-[0.01em] mb-5","children":"ファクタリングの消費税｜非課税の根拠と課税売上割合・手数料の扱い"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-gray-500","children":[["$","span",null,{"className":"num","children":["更新日: ","2026年11月16日"]}],["$","span",null,{"className":"bg-white border border-line text-ink/80 text-xs font-medium px-2.5 py-0.5 rounded-sm","children":"ファクタリング 消費税"}]]}]]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-6 sm:pt-8 pb-10","children":[["$","article",null,{"children":[null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],false,"$L5","$L6",false,false,"$L7","$L8"]}],"$L9","$La","$Lb","$Lc"]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"szkwruptZOvdd1IdrK1R_"}
+5:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-5","children":"おすすめファクタリング会社"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","be-trading",{"href":"/companies/be-trading","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビートレーディング"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","2%〜（上限は要問い合わせ）"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","ququmo",{"href":"/companies/ququmo","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"QuQuMo"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜（上限は要問い合わせ）"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","accel-factor",{"href":"/companies/accel-factor","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"アクセルファクター"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜12%"," ／ ","最短2時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+6:["$","div",null,{"className":"mt-12 bg-[#1B3A5C] rounded-md p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-cta text-white px-8 py-3 rounded-md font-bold text-sm hover:bg-cta-hover transition","children":"無料診断を始める →"}]]}]
+7:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"関連記事"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-invoice-mitouroku",{"href":"/articles/article-factoring-invoice-mitouroku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング インボイス 未登録, ファクタリング 免税事業者, ファクタリング インボイス 影響"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"インボイス未登録でもファクタリングは使える？審査と手数料への影響"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kanjokamoku",{"href":"/articles/article-factoring-kanjokamoku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 勘定科目, ファクタリング 仕訳 方法"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの勘定科目・仕訳方法を解説｜2社間・3社間別パターンあり【2026年】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kessansho",{"href":"/articles/article-factoring-kessansho","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 決算書 影響"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングは決算書にどのように影響するか｜BS・PL への計上方法と注意点"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-houjinzei",{"href":"/articles/article-factoring-houjinzei","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 法人税"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングと法人税の関係｜損金算入の可否と節税効果"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-inshizei",{"href":"/articles/article-factoring-inshizei","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 印紙税, 債権譲渡契約 印紙"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングの契約書に印紙税はかかる？債権譲渡契約書は1通200円"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-zeikin",{"href":"/articles/article-factoring-zeikin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":["$Lf","$L10","$L11"]}]]}]]}]
+8:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/kiso","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["基礎知識・審査・法律","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+9:["$","footer",null,{"className":"bg-ink text-white py-12 mt-16 border-t border-white/10","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-white","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-blue-100/80 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-blue-100/80 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-blue-100/80 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-blue-100/80 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-blue-100/80 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-blue-100/80 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-blue-100/80 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-blue-100/80 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-blue-100/80 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-blue-100/80 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-blue-100/80 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-blue-100/80 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-blue-100/80 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-blue-100/80 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-tesuryo","className":"text-blue-100/80 hover:text-white transition","children":"手数料の仕組み"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-osusume","className":"text-blue-100/80 hover:text-white transition","children":"おすすめ19選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-blue-100/80 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-blue-100/80 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block border border-white/40 text-white px-6 py-2.5 rounded-md font-bold text-sm hover:bg-white/10 transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-white/15 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":["$L12","$L13","$L14","$L15","$L16"]}]}],"$L17"]}]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"基礎知識・審査・法律\",\"item\":\"https://corp-factoring.com/topics/kiso/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ファクタリングの消費税｜非課税の根拠と課税売上割合・手数料の扱い\",\"item\":\"https://corp-factoring.com/articles/article-factoring-shouhizei/\"}]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ファクタリングの消費税｜非課税の根拠と課税売上割合・手数料の扱い\",\"description\":\"ファクタリングの消費税｜非課税の根拠と課税売上割合・手数料の扱いについて、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-06-05\",\"dateModified\":\"2026-11-16\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-shouhizei\"}}"}}]
+18:T890,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ファクタリングの手数料に消費税はかかりますか？","acceptedAnswer":{"@type":"Answer","text":"かかりません。消費税法基本通達6-3-1(10)は「金銭債権の買取又は立替払に係る差益」を非課税の対価の例に挙げています。そのため、手数料は仕入税額控除の対象にもなりません。"}},{"@type":"Question","name":"売掛金を売った額は、非課税売上として課税売上割合を下げますか？","acceptedAnswer":{"@type":"Answer","text":"自社の販売やサービスで得た売掛金の譲渡は、課税売上割合の計算に含めません（消費税法施行令48条2項2号、国税庁タックスアンサー No.6405）。他から取得した金銭債権の譲渡は、譲渡対価の5%を分母に入れます（同条5項）。"}},{"@type":"Question","name":"ファクタリング会社から、消費税を上乗せした請求を受けました。","acceptedAnswer":{"@type":"Answer","text":"売掛金の譲渡と買取りの差益は非課税です。上乗せされた額が何の名目か（事務手数料など別の費用か）を契約書と請求書で確かめ、判断に迷う場合は税理士か税務署に相談してください。"}},{"@type":"Question","name":"免税事業者でもファクタリングは使えますか？","acceptedAnswer":{"@type":"Answer","text":"使えます。ファクタリングの取引自体が非課税のため、利用者が課税事業者か免税事業者かで取引の課税関係は変わりません。インボイス登録との関係は[インボイス未登録の記事](/articles/article-factoring-invoice-mitouroku/)をご覧ください。"}},{"@type":"Question","name":"3社間ファクタリングでも消費税の扱いは同じですか？","acceptedAnswer":{"@type":"Answer","text":"同じです。3社間でも利用者がファクタリング会社に売掛金（金銭債権）を譲渡する取引で、売掛先に通知して承諾を得るかどうかが違うだけです。譲渡も手数料も非課税です。"}}]}c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$18"}}]
+d:["$","script","script-0",{"src":"/_next/static/chunks/0wx~cye_53qk4.js","async":true}]
+e:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+f:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 税金滞納, 税金 滞納 資金調達"}]
+10:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"税金滞納でもファクタリングは利用できるか｜審査への影響と対処法【2026年】"}]
+11:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+12:["$","$L3",null,{"href":"/terms/","className":"text-blue-100/80 hover:text-white transition","children":"利用規約"}]
+13:["$","span",null,{"className":"text-white/30","children":"|"}]
+14:["$","$L3",null,{"href":"/privacy/","className":"text-blue-100/80 hover:text-white transition","children":"プライバシーポリシー"}]
+15:["$","span",null,{"className":"text-white/30","children":"|"}]
+16:["$","$L3",null,{"href":"/content-policy/","className":"text-blue-100/80 hover:text-white transition","children":"記事の制作ポリシー"}]
+17:["$","div",null,{"className":"border-t border-white/15 pt-6 text-center","children":["$","p",null,{"className":"text-blue-100/80 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+1b:null
