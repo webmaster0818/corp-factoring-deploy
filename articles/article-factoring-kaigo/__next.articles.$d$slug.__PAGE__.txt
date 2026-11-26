@@ -1,0 +1,366 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/10r4oh5hzc3p9.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/10r4oh5hzc3p9.js"],""]
+28:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+29:"$Sreact.suspense"
+:HL["/images/logo-88.webp","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","header",null,{"className":"page-head","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-4 pb-9 sm:pb-11","children":[["$","nav",null,{"className":"crumbs mb-7","children":[["$","$L3",null,{"href":"/","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/gyoushu","children":"業種別ファクタリング"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["介護報酬ファクタリング｜国保連の支払日と公式に対応を示す20","..."]}]]}],["$","p",null,{"className":"page-label mb-3","children":"業種別ファクタリング"}],["$","h1",null,{"className":"text-[23px] sm:text-[30px] font-bold text-ink leading-[1.5] tracking-[0.01em] mb-5","children":"介護報酬ファクタリング｜国保連の支払日と公式に対応を示す20社の条件"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-gray-500","children":[["$","span",null,{"className":"num","children":["更新日: ","2026年11月26日"]}],["$","span",null,{"className":"bg-white border border-line text-ink/80 text-xs font-medium px-2.5 py-0.5 rounded-sm","children":"介護 ファクタリング, 介護報酬 ファクタリング, 介護給付費 支払日"}]]}]]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-6 sm:pt-8 pb-10","children":[["$","article",null,{"children":[["$","section",null,{"className":"mt-0 mb-8 rounded-md border border-line bg-white p-4 md:p-6 layer-shadow-sm","children":[["$","h2",null,{"className":"section-title section-title-sm","children":"介護報酬債権を扱うと公式に書いている会社"}],["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-gray-600","children":"公式サイトで、介護報酬債権の買取に対応すると書いている会社を載せています。介護事業者の利用事例があるだけの会社は入れていません。表は当サイトの掲載会社から作っています。本文の比較表は、掲載会社以外の専門サービスも含めて別に選んだものです。並びは2社間の手数料の下限が低い順です。"}],["$","div",null,{"className":"mt-3 overflow-x-auto","children":["$","table",null,{"className":"w-full min-w-[640px] border-collapse text-sm","children":[["$","thead",null,{"children":["$","tr",null,{"className":"border-b border-line bg-soft","children":[["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700 whitespace-nowrap","children":"会社名"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"介護報酬（公式の記載）"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"2社間の手数料"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"最短入金"}]]}]}],["$","tbody",null,{"children":[["$","tr","no1",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/no1/","className":"text-blue-600 hover:underline","children":"株式会社No.1"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「03 介護報酬ファクタリング 事業主様が保有している介護報酬債権を弊社が買取し現金化するサービスです。」（2026年11月1日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"0.5〜15%"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短30分"}]]}],["$","tr","accel-factor",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":"アクセルファクター"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「アクセルファクターでは診療報酬債権・介護報酬債権といった医療系の債権も幅広く取り扱っておりますので、是非ご相談いただければと存じます。」（2026年11月1日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1〜12%"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短2時間（公式コラム。審査結果は最短1時間・公式FAQ）"}]]}],["$","tr","trust-gateway",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/trust-gateway/","className":"text-blue-600 hover:underline","children":"トラストゲートウェイ"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「介護報酬債権を有している場合であればご利用が可能です。」（2026年10月31日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.5%〜9.5%（公式トップ。審査により上限を超える場合ありと注記。売掛金買取ページは2.0％〜。手数料ページの2社間の例示は100万円9.5%〜3,000万円4%）"}],"$L4"]}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}]]}]}],"$Lc","$Ld"]}],"$Le"]}],"$Lf","$L10","$L11",false,false,"$L12","$L13"]}],"$L14","$L15","$L16","$L17"]}],["$L18"],"$L19"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ES7AnOxdifeMXb16TZwvo"}
+4:["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日振込（振込時間 直近30日平均5時間2分・公式表示）"}]
+5:["$","tr","factoring-zero",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/factoring-zero/","className":"text-blue-600 hover:underline","children":"ファクタリングZERO"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「介護報酬ファクタリングとは、介護事業者様が国民健康保険団体連合会（国保連）に対して有する介護報酬債権を、スリートラストが買い取ります。」（運営会社スリートラストのコーポレートサイトの事業紹介。サービスサイトの対応業種にも「介護事業」。手数料・入金日数の記載な…）（2026年11月1日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"1.5%〜10%（2社間・3社間別の率は記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（審査最短30分。FAQは通常翌営業日〜2営業日程度が多いと説明）"}]]}]
+6:["$","tr","best-factor",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":"ベストファクター"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「【ケアハウス経営者様のファクタリング利用事例】介護報酬債権の早期資金化でキャッシュフローを改善！／ベストファクターの介護報酬債権ファクタリングで早期の資金調達」（利用事例ページでの掲載（取扱条件の説明ページはなし）。事例に「調達方法 介護報酬債権ファクタリング」）（2026年11月1日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"2〜20%（買取金額で変動・公式の目安表）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短6時間（2社間・必要書類が揃っている場合。3社間は数日〜1週間程度）"}]]}]
+7:["$","tr","jbl",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/jbl/","className":"text-blue-600 hover:underline","children":"JBL（株式会社JBL）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「医療・介護事業者様向けのファクタリングサービス。各種報酬債権の早期回収を実現します」（2026年11月10日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"2%〜（2社間・3社間別の率と上限は記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短2時間（よくある質問は着金まで平均2日〜3日・最短即日）"}]]}]
+8:["$","tr","top-management",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/top-management/","className":"text-blue-600 hover:underline","children":"トップ・マネジメント"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「介護報酬債権 ３社間ファクタリングの事例 … 国保連から入金される介護給付費 … 資金調達 ３社間ファクタリング 手数料 31日間：12万2500円 総買取額 362万2500円」（導入事例ページ（分類「介護報酬債権」）。デイサービス運営事業者の3社間の事例に同社の総買取額を記載。取扱条件の説明ページ…）（2026年11月1日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"3.5%〜（上限は公式に記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日"}]]}]
+9:["$","tr","be-trading",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":"ビートレーディング"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「介護報酬債権の買い取り(介護報酬ファクタリング)も行っております。」（2026年10月31日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"4%〜（上限は公式に記載なし。平均10.3%〈2024年度実績〉、法人のみの平均9.4%〈2025年9月時点〉）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短2時間"}]]}]
+a:["$","tr","next-one",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/next-one/","className":"text-blue-600 hover:underline","children":"ネクストワン（Next One）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「介護報酬ファクタリング 介護報酬債権買取サービス … 障害者総合支援法・児童福祉法に基づくどんな介護報酬債権でも対応いたします。」（2026年11月1日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"5%〜10%"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（必要書類が揃っていれば当日）"}]]}]
+b:["$","tr","escom",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/escom/","className":"text-blue-600 hover:underline","children":"エスコム（S-COM）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「障害者総合支援法・児童福祉法に基づくどんな介護報酬債権でも 対応いたします。」（「買取金額の1.5%〜が手数料」）（2026年11月3日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"5%〜（公式FAQ「最低５％から」。比較表は5%～12%、LPは5〜10%）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（契約完了後5分〜30分以内に振込）"}]]}]
+c:["$","details",null,{"className":"mt-2","children":[["$","summary",null,{"className":"cursor-pointer text-sm text-blue-600","children":["残りの",10,"社を表示"]}],["$","div",null,{"className":"mt-3 overflow-x-auto","children":["$","table",null,{"className":"w-full min-w-[640px] border-collapse text-sm","children":[["$","thead",null,{"children":["$","tr",null,{"className":"border-b border-line bg-soft","children":[["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700 whitespace-nowrap","children":"会社名"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"介護報酬（公式の記載）"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"2社間の手数料"}],["$","th",null,{"className":"px-3 py-2 text-left font-bold text-gray-700","children":"最短入金"}]]}]}],["$","tbody",null,{"children":[["$","tr","sokuderu",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/sokuderu/","className":"text-blue-600 hover:underline","children":"ソクデル（株式会社フラップコミュニケーション）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「ソクデルでは2社間、3社間のファクタリングで対応が可能となります。」（介護報酬・診療報酬ファクタリングの項）（2026年11月10日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"5%〜（公式トップの買取手数料。2社間・3社間別の率と上限は記載なし）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短60分（公式トップ。ご利用までの流れは最短即日・契約締結後最短10分で入金）"}]]}],["$","tr","jps",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/jps/","className":"text-blue-600 hover:underline","children":"JPS（株式会社JPS）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「JPSでは介護報酬ファクタリングや調剤報酬ファクタリングを含めて”診療報酬ファクタリング”と称しています。」（2026年11月10日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"5〜10%（よくある質問の原則。売掛先の与信力により変動）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短60分（よくある質問は「最短で60分、遅くても3日以内の契約」）"}]]}],["$","tr","mentor-capital",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/mentor-capital/","className":"text-blue-600 hover:underline","children":"メンターキャピタル"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「介護・福祉事業の方々にご利用可能なファクタリング活用法をご紹介いたします。…介護福祉事業者にとって資金調達に有効な手段なのが介護報酬債権ファクタリングです。」（業種別ファクタリング活用法のページ（事例ではない）。「未回収の売掛金を当社が買取り現金化するサービスのため…介護報酬債権…）（2026年11月1日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"非公示（要見積もり／買取率最大98%表記）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（査定結果は最短30分）"}]]}],["$","tr","kaipoke-early",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/kaipoke-early/","className":"text-blue-600 hover:underline","children":"カイポケ早期入金"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「介護報酬 全種別対応可能」（2026年10月31日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"公式に2社間の記載なし（国保連・社保との3社間の契約が中心と記載）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"請求から最短5営業日（請求額の80%を約1.5ヶ月前倒し・残り20%は後日）"}]]}],["$","tr","nishinihon-factor",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/nishinihon-factor/","className":"text-blue-600 hover:underline","children":"西日本ファクター"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「国保連からの入金後お支払いいただく2社間、直接、国保連から西日本ファクターに支払われる3社間ファクタリングどちらも対応可能です。」（介護報酬について記載。手数料率の記載なし）（2026年11月1日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"非公示（審査後に手数料を説明）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（トップ・1,000万円まで）／最短1日（FAQ）"}]]}],"$L1a","$L1b","$L1c","$L1d","$L1e"]}]]}]}]]}]
+d:["$","p",null,{"className":"mt-2 text-xs leading-relaxed text-gray-500","children":["※公式の記載と確認日は各行に記載しています。手数料・最短入金は当サイトが各社の公式サイトで確認した値です（",["$","$L3",null,{"href":"/fees/","className":"text-blue-600 underline","children":"手数料比較"}],"に確認日を記載）。"]}]
+1f:T4e41,<p>介護報酬（介護給付費）は、サービスを提供した月の翌月10日までに国保連（国民健康保険団体連合会）へ請求し、その翌月に支払われます。東京都国保連の令和8年度の日程では、9月に提供したサービスの分（10月請求）が11月24日に支払われ、月末から入金まで55日あります。</p>
+<p>介護報酬ファクタリングは、この国保連に請求した介護給付費の債権を、支払日の前に買い取ってもらう方法です。この記事では、法令と国保連の公表資料で入金の時期を確かめ、当サイトが掲載する59社のうち介護報酬の買取を公式サイトで示している20社の条件を、当サイトのデータから抜き出して比べます。</p>
+<hr>
+<h2>介護報酬が入金されるまで：法令と国保連の日程</h2>
+<h3>請求先は国保連、期限は翌月10日</h3>
+<p>介護保険法は、市町村が事業者からの居宅介護サービス費の請求を審査したうえで支払うこと（41条9項）、その審査と支払の事務を国保連に委託できること（41条10項）を定めています。請求の期限は、厚生労働省令「介護給付費及び公費負担医療等に関する費用等の請求に関する命令」の3条1項が「各月分について翌月十日までに行わなければならない」と定めています（いずれもe-Gov法令検索・2026年11月16日確認）。</p>
+<p>大阪府国保連の令和8年度のカレンダーは、介護給付費明細書等の受付を毎月1日から10日までとし、「11日以降の受付は行いませんのでご注意ください」と案内しています（大阪府国民健康保険団体連合会「受付日・支払日カレンダー」・2026年11月16日確認）。10日を過ぎると、その月の請求には乗りません。</p>
+<h3>支払日は都道府県の国保連ごとに決まる</h3>
+<p>東京都国保連が公表している令和8年度の介護給付費等の支払日は、次のとおりです（東京都国民健康保険団体連合会「令和8年度介護給付費等の支払日について」・2026年11月16日確認）。</p>
+<table>
+<thead>
+<tr>
+<th>請求月（サービス提供月の翌月）</th>
+<th>支払日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>令和8年4月</td>
+<td>5月25日（月）</td>
+</tr>
+<tr>
+<td>5月</td>
+<td>6月23日（火）</td>
+</tr>
+<tr>
+<td>6月</td>
+<td>7月23日（木）</td>
+</tr>
+<tr>
+<td>7月</td>
+<td>8月24日（月）</td>
+</tr>
+<tr>
+<td>8月</td>
+<td>9月24日（木）</td>
+</tr>
+<tr>
+<td>9月</td>
+<td>10月23日（金）</td>
+</tr>
+<tr>
+<td>10月</td>
+<td>11月24日（火）</td>
+</tr>
+<tr>
+<td>11月</td>
+<td>12月23日（水）</td>
+</tr>
+<tr>
+<td>12月</td>
+<td>令和9年1月25日（月）</td>
+</tr>
+<tr>
+<td>令和9年1月</td>
+<td>2月24日（水）</td>
+</tr>
+<tr>
+<td>2月</td>
+<td>3月23日（火）</td>
+</tr>
+<tr>
+<td>3月</td>
+<td>4月23日（金）</td>
+</tr>
+</tbody>
+</table>
+<p>同じ資料は、支払日を「原則２３日（土・日・祝日に当たる場合は直後の平日。ただし、支払日が２６日以降の日に当たる場合は２３日の直前の平日）」と説明しています。同じ東京都国保連でも、障害福祉サービス費等の支払日は原則15日で、介護とは日が異なります（<a href="/articles/article-factoring-shougai-fukushi/">障害福祉サービスの報酬のファクタリング</a>）。</p>
+<p><strong>例（東京都の事業所・2026年9月のサービス提供分）：</strong>
+9月30日に提供月が終わる → 10月1日〜10日に国保連へ請求 → 11月24日に支払。人件費を9月末と10月末に払う場合、9月分の介護報酬が入るのは2回分の給与の後です。</p>
+<p>所在地がほかの道府県の場合は、その国保連の公表資料で支払日を確かめてください。北海道国保連も「令和８年度の支払日（予定）(介護)」を公表しています（2026年11月16日確認）。</p>
+<h3>国保連に請求できるのは「保険給付の分」だけ</h3>
+<p>介護保険法41条4項は、居宅介護サービス費の額を、基準で算定した費用の「百分の九十に相当する額」としています。一定以上の所得がある第1号被保険者は、49条の2により「百分の八十」または「百分の七十」に読み替えられます（e-Gov法令検索・2026年11月16日確認）。残りの利用者負担の分は、国保連ではなく利用者本人に請求します。</p>
+<p>また41条1項は、通所介護や短期入所などの費用のうち、食事の提供に要する費用、滞在に要する費用その他の日常生活に要する費用（厚生労働省令で定めるもの）を居宅介護サービス費から除いています。これらも利用者に請求する分です。</p>
+<table>
+<thead>
+<tr>
+<th>売上の区分</th>
+<th>請求先</th>
+<th>支払の時期</th>
+<th>ファクタリングでの扱い</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>保険給付の分（原則9割・所得により8割または7割）</td>
+<td>国保連</td>
+<td>国保連ごとの支払日（東京都は原則23日）</td>
+<td>介護報酬ファクタリングの対象。下の20社の表</td>
+</tr>
+<tr>
+<td>利用者負担の分（1〜3割）</td>
+<td>利用者本人</td>
+<td>事業所と利用者の契約による</td>
+<td>売掛先が個人の債権。扱いは会社ごとに異なる（<a href="/articles/article-factoring-urikakesaki-kojin/">売掛先が個人の請求書</a>）</td>
+</tr>
+<tr>
+<td>食費・滞在費など</td>
+<td>利用者本人</td>
+<td>同上</td>
+<td>同上</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>介護報酬の買取を公式に示している20社（当サイトのデータから抽出）</h2>
+<p>当サイトが各社の公式サイトで確認した条件別の記録で、介護報酬債権の取扱いを「可」としている会社は、掲載59社のうち20社です。取扱いの根拠は各社公式サイトの記載で、手数料・入金・買取の範囲は当サイトの<a href="/fees/">手数料・入金スピードの一覧</a>の値です。ランキングではありません。</p>
+<h3>介護・医療の報酬に特化したサービス（5社）</h3>
+<p>並びは「公式表示の手数料の下限の数値が低い順」です。率の単位（月率・1回ごと・1日あたり）が会社ごとに違うため、数値だけで費用の大小は比べられません。</p>
+<table>
+<thead>
+<tr>
+<th>サービス</th>
+<th>手数料（公式表示）</th>
+<th>買取・前払いの割合</th>
+<th>入金の時期</th>
+<th>確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/fps-medical/">FPSメディカル（アクリーティブ）</a></td>
+<td>月0.25%〜（年率換算3%〜。実費は別途、契約条件により事務手数料の場合あり）</td>
+<td>月次保険請求額の80〜95%を買取（下限・上限なし）</td>
+<td>最短1〜2週間（アクリーティブ公式サイトは「最短２週間」）</td>
+<td>2026年11月10日</td>
+</tr>
+<tr>
+<td><a href="/companies/medley/">メドレー早期資金サポート</a></td>
+<td>最安0.3%〜（メドレーグループのサービス利用実績がある場合。1日あたり0.01%〜で買取日数により変動）</td>
+<td>数十万円〜数億円単位まで（金額の制限なし）</td>
+<td>必要書類の提出からおおよそ1週間</td>
+<td>2026年11月6日</td>
+</tr>
+<tr>
+<td><a href="/companies/mufg-factor/">三菱ＵＦＪファクター</a></td>
+<td>一律0.8%（初期手数料・月額利用料なし）</td>
+<td>介護報酬は請求額の90%（1カ月当たり100万円〜最大5,000万円で限度額を設定）</td>
+<td>取引開始後は申込受付日の翌営業日から起算して4営業日後（初回の資金化までは1カ月弱）</td>
+<td>2026年11月26日</td>
+</tr>
+<tr>
+<td><a href="/companies/kaipoke-early/">カイポケ早期入金</a></td>
+<td>0.96%〜（別途 初回手数料5,000円・月額費用2,000円）</td>
+<td>請求額の80%（残り20%は後日）</td>
+<td>請求から最短5営業日</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/ricoh-lease/">リコーリース</a></td>
+<td>非公示（初期審査料・更新料0円）</td>
+<td>前払いは請求額の85%が上限（よくある質問は原則80%）</td>
+<td>請求額確認から5営業日</td>
+<td>2026年11月6日</td>
+</tr>
+</tbody>
+</table>
+<p>5社とも、当サイトのデータでは2社間の記載がなく、国保連などへの債権譲渡の通知や連名での手続きを行う方式（3社間）です。対象も会社ごとに違い、三菱ＵＦＪファクターの介護報酬は「介護保険事業者に指定の介護事業所（法人）」、リコーリースは「新設法人も可」、FPSメディカルは「個人事業主も可」としています（各確認日は上の表）。</p>
+<h3>一般のファクタリング会社で介護報酬を扱うと示している会社（15社）</h3>
+<p>並びは「3社間手数料の下限の数値が低い順」です（2社間・3社間を分けずに表示している会社はその値、率が非公示の会社は最後）。「介護報酬についての公式の記載」は、当サイトが確認した各社公式ページの文言の要約です。</p>
+<table>
+<thead>
+<tr>
+<th>会社</th>
+<th>介護報酬についての公式の記載</th>
+<th>手数料（2社間／3社間）</th>
+<th>最短入金</th>
+<th>記載の確認日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/companies/no1/">株式会社No.1</a></td>
+<td>トップに「介護報酬ファクタリング」のサービス</td>
+<td>0.5〜15%／0.5〜5%</td>
+<td>最短30分</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/top-management/">トップ・マネジメント</a></td>
+<td>導入事例に介護報酬債権（デイサービス・3社間）の事例</td>
+<td>3.5%〜／0.5%〜</td>
+<td>最短即日</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/accel-factor/">アクセルファクター</a></td>
+<td>公式コラムで診療報酬債権・介護報酬債権も取り扱うと記載</td>
+<td>1〜12%／0.5〜10.5%</td>
+<td>最短2時間（公式コラム）</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/escom/">エスコム</a></td>
+<td>介護報酬ファクタリングのページ。手数料は「買取金額の1.5%〜」</td>
+<td>5%〜／1.5%〜</td>
+<td>最短即日</td>
+<td>2026年11月3日</td>
+</tr>
+<tr>
+<td><a href="/companies/next-one/">ネクストワン</a></td>
+<td>介護報酬債権買取サービスのページ</td>
+<td>5%〜10%／公式内で表記が異なる（1.5%〜7%など）</td>
+<td>最短即日</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/trust-gateway/">トラストゲートウェイ</a></td>
+<td>「介護報酬債権を有している場合であればご利用が可能です。」</td>
+<td>1.5%〜9.5%／例示1.5%〜8%</td>
+<td>最短即日振込</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/factoring-zero/">ファクタリングZERO</a></td>
+<td>運営会社の事業紹介に介護報酬ファクタリング</td>
+<td>1.5%〜10%（区別なし）</td>
+<td>最短即日</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/be-trading/">ビートレーディング</a></td>
+<td>よくある質問で介護報酬債権の買い取りも行うと回答</td>
+<td>4%〜／2%〜</td>
+<td>最短2時間</td>
+<td>2026年10月31日</td>
+</tr>
+<tr>
+<td><a href="/companies/best-factor/">ベストファクター</a></td>
+<td>利用事例にケアハウスの介護報酬債権ファクタリング</td>
+<td>2〜20%／2〜15%</td>
+<td>最短6時間（2社間）</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/jps/">JPS</a></td>
+<td>介護報酬も含めて「診療報酬ファクタリング」と称すると記載</td>
+<td>5〜10%／2〜8%</td>
+<td>最短60分</td>
+<td>2026年11月10日</td>
+</tr>
+<tr>
+<td><a href="/companies/jbl/">JBL</a></td>
+<td>医療・介護事業者向けのファクタリングサービスを表示</td>
+<td>2%〜（区別なし）</td>
+<td>最短2時間</td>
+<td>2026年11月10日</td>
+</tr>
+<tr>
+<td><a href="/companies/progress/">プログレス</a></td>
+<td>医療法人や介護事業者向けに給付費請求書などを買い取ると記載</td>
+<td>3%〜（公式内で表記が異なる）／3%〜（医療系は2%〜）</td>
+<td>最短即日</td>
+<td>2026年11月10日</td>
+</tr>
+<tr>
+<td><a href="/companies/sokuderu/">ソクデル</a></td>
+<td>介護報酬・診療報酬ファクタリングの項で2社間・3社間に対応と記載</td>
+<td>5%〜（区別なし）</td>
+<td>最短60分</td>
+<td>2026年11月10日</td>
+</tr>
+<tr>
+<td><a href="/companies/mentor-capital/">メンターキャピタル</a></td>
+<td>業種別の活用法のページで介護報酬債権ファクタリングを紹介（手数料・条件の記載なし）</td>
+<td>非公示</td>
+<td>最短即日</td>
+<td>2026年11月1日</td>
+</tr>
+<tr>
+<td><a href="/companies/nishinihon-factor/">西日本ファクター</a></td>
+<td>介護報酬で2社間・3社間どちらも対応と記載（対応地域は九州・中国・関西）</td>
+<td>非公示／対応（率は非公示）</td>
+<td>最短即日</td>
+<td>2026年11月1日</td>
+</tr>
+</tbody>
+</table>
+<p>最短入金と手数料は、介護報酬に限らない一般の売掛金についての表示です。介護報酬で同じ条件になるかは、見積もりで確かめてください。表の数値の確認日は会社ごとに異なり、<a href="/fees/">手数料・入金スピードの一覧</a>に載せています。</p>
+<hr>
+<h2>買取割合と手数料から手元に入る額を計算する（仮定の例）</h2>
+<p>介護報酬に特化したサービスには、請求額の全額ではなく一部（80〜95%など）を買い取る、または先に払う形を公式に示している会社があり、カイポケ早期入金は残りの20%を後日支払うとしています。手元に先に入る額は「請求額 × 前払いの割合 − 手数料」です。</p>
+<p><strong>例：国保連への請求額300万円・前払いの割合80%・手数料は前払い額の1%と仮定した場合</strong></p>
+<ul>
+<li>先に入る額：300万円 × 80% = 240万円</li>
+<li>手数料：240万円 × 1% = 2万4,000円</li>
+<li>先に手元に入る額：240万円 − 2万4,000円 = 237万6,000円</li>
+<li>残りの60万円：国保連の支払日の後に精算（審査で減額があった場合の扱いは契約による）</li>
+</ul>
+<p>手数料の計算の元が「請求額」か「前払い額」か、初回手数料や月額費用がかかるかは、会社ごとに異なります（上の表のカイポケ早期入金・FPSメディカルの例）。月率や1日あたりの率で表示している会社の率を比べるときは、<a href="/articles/article-factoring-kakeme-nenritsu/">掛け目と手数料の年率換算</a>の計算方法を使ってください。</p>
+<hr>
+<h2>申し込む前に確かめること</h2>
+<ol>
+<li><strong>所在地の国保連の支払日</strong>：東京都は原則23日ですが、道府県によって日が違います。支払日から逆算して、給与日に間に合うかを確かめます</li>
+<li><strong>請求を10日までに出せるか</strong>：期限を過ぎた分はその月の支払いに乗らないため、ファクタリングの対象になる請求額も変わります</li>
+<li><strong>国保連への通知の方式</strong>：特化型の5社は、当サイトのデータでは国保連などへの通知や連名の手続きを行う方式です。2社間を示している一般の会社と、手続きと手数料を比べます（<a href="/articles/article-factoring-2sha-3sha/">2社間と3社間の違い</a>）</li>
+<li><strong>法人か個人事業主か</strong>：三菱ＵＦＪファクターの介護報酬は法人の介護事業所が対象、FPSメディカルは個人事業主も可など、対象が会社ごとに違います</li>
+<li><strong>利用者負担・食費などの分を分けて考える</strong>：国保連に請求しない部分は、介護報酬ファクタリングの対象に含まれません</li>
+</ol>
+<p>訪問看護ステーションで医療保険分と介護保険分の両方がある場合は、<a href="/articles/article-factoring-houmon-kango/">訪問看護ステーションの報酬を早く受け取る方法</a>、診療報酬は<a href="/articles/article-factoring-iryou/">診療報酬ファクタリング</a>で入金の時期を整理しています。</p>
+<hr>
+<h2>よくある質問</h2>
+<p><strong>Q: 介護報酬は、サービス提供から何日後に入金されますか？</strong>
+A: 各月分を翌月10日までに国保連へ請求し（請求命令3条1項）、支払日は国保連ごとに決まります。東京都国保連の令和8年度の日程では、9月提供分（10月請求）の支払日は11月24日で、提供月の末日から55日後です（2026年11月16日確認）。</p>
+<p><strong>Q: 開設したばかりの事業所でも使えますか？</strong>
+A: 当サイトのデータでは、リコーリースが新設法人も可、カイポケ早期入金が立ち上げたばかりの事業所も可としています（2026年11月6日・10月31日確認）。最初の請求を国保連に出した後の請求額が対象になるため、開設月の分の入金時期は上の日程で確かめてください。</p>
+<p><strong>Q: 利用者負担の1割分もまとめて売れますか？</strong>
+A: 利用者負担の分は国保連ではなく利用者本人への請求で、介護報酬ファクタリングの対象の外です。売掛先が個人の債権を扱うかは会社ごとに異なり、<a href="/articles/article-factoring-urikakesaki-kojin/">売掛先が個人の請求書</a>で各社の記載を整理しています。</p>
+<p><strong>Q: 障害福祉サービスの給付費も同じ会社で扱えますか？</strong>
+A: リコーリースは指定障害サービスも可、メドレー早期資金サポートは障がい福祉事業所も対象、FPSメディカルは障害福祉施設も対象と、当サイトのデータにあります（2026年11月6日・10日確認）。障害福祉の支払日は東京都国保連では原則15日で、介護とは異なります。</p>
+<hr>
+<h2>関連記事</h2>
+<ul>
+<li><a href="/articles/article-factoring-gyoushu-guide/">業種別ファクタリング｜売掛金の種類と支払時期を法令・公的な日程で一覧</a></li>
+<li><a href="/articles/article-factoring-shougai-fukushi/">障害福祉サービスの報酬（国保連の請求分）をファクタリングで早く受け取る方法</a></li>
+<li><a href="/articles/article-factoring-houmon-kango/">訪問看護ステーションの報酬（診療報酬・介護報酬）を早く受け取る方法</a></li>
+<li><a href="/articles/article-factoring-iryou/">診療報酬ファクタリングの会社比較</a></li>
+<li><a href="/articles/article-factoring-2sha-3sha/">2社間ファクタリングと3社間ファクタリングの違い</a></li>
+</ul>
+<hr>
+<blockquote>
+<p>※本記事の情報は2026年11月16日時点の内容です（各社の値の確認日は本文に記載）。手数料率・サービス内容は変更される場合があります。最新情報は各公式サイトでご確認ください。当サイトはアフィリエイトプログラムに参加しており、掲載企業から報酬を受けることがあります。ただし、記事の内容や評価は報酬に影響されません。</p>
+</blockquote>
+e:["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$1f"}}]
+f:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-md p-6","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","be-trading",{"children":["$","$L3",null,{"href":"/companies/be-trading/","className":"text-blue-600 hover:underline","children":["ビートレーディング","の口コミ・評判・手数料 →"]}]}],["$","li","accel-factor",{"children":["$","$L3",null,{"href":"/companies/accel-factor/","className":"text-blue-600 hover:underline","children":["アクセルファクター","の口コミ・評判・手数料 →"]}]}],["$","li","best-factor",{"children":["$","$L3",null,{"href":"/companies/best-factor/","className":"text-blue-600 hover:underline","children":["ベストファクター","の口コミ・評判・手数料 →"]}]}],["$","li","mentor-capital",{"children":["$","$L3",null,{"href":"/companies/mentor-capital/","className":"text-blue-600 hover:underline","children":["メンターキャピタル","の口コミ・評判・手数料 →"]}]}],["$","li","no1",{"children":["$","$L3",null,{"href":"/companies/no1/","className":"text-blue-600 hover:underline","children":["株式会社No.1","の口コミ・評判・手数料 →"]}]}],["$","li","trust-gateway",{"children":["$","$L3",null,{"href":"/companies/trust-gateway/","className":"text-blue-600 hover:underline","children":["トラストゲートウェイ","の口コミ・評判・手数料 →"]}]}],["$","li","kaipoke-early",{"children":["$","$L3",null,{"href":"/companies/kaipoke-early/","className":"text-blue-600 hover:underline","children":["カイポケ早期入金","の口コミ・評判・手数料 →"]}]}],["$","li","next-one",{"children":["$","$L3",null,{"href":"/companies/next-one/","className":"text-blue-600 hover:underline","children":["ネクストワン","の口コミ・評判・手数料 →"]}]}],["$","li","factoring-zero",{"children":["$","$L3",null,{"href":"/companies/factoring-zero/","className":"text-blue-600 hover:underline","children":["ファクタリングZERO","の口コミ・評判・手数料 →"]}]}],["$","li","nishinihon-factor",{"children":["$","$L3",null,{"href":"/companies/nishinihon-factor/","className":"text-blue-600 hover:underline","children":["西日本ファクター","の口コミ・評判・手数料 →"]}]}],["$","li","escom",{"children":["$","$L3",null,{"href":"/companies/escom/","className":"text-blue-600 hover:underline","children":["エスコム","の口コミ・評判・手数料 →"]}]}],["$","li","mufg-factor",{"children":["$","$L3",null,{"href":"/companies/mufg-factor/","className":"text-blue-600 hover:underline","children":["三菱ＵＦＪファクター","の口コミ・評判・手数料 →"]}]}],["$","li","ricoh-lease",{"children":["$","$L3",null,{"href":"/companies/ricoh-lease/","className":"text-blue-600 hover:underline","children":["リコーリース","の口コミ・評判・手数料 →"]}]}],["$","li","medley",{"children":["$","$L3",null,{"href":"/companies/medley/","className":"text-blue-600 hover:underline","children":["メドレー早期資金サポート","の口コミ・評判・手数料 →"]}]}],["$","li","sokuderu",{"children":["$","$L3",null,{"href":"/companies/sokuderu/","className":"text-blue-600 hover:underline","children":["ソクデル","の口コミ・評判・手数料 →"]}]}],["$","li","jps",{"children":["$","$L3",null,{"href":"/companies/jps/","className":"text-blue-600 hover:underline","children":["JPS","の口コミ・評判・手数料 →"]}]}],["$","li","fps-medical",{"children":["$","$L3",null,{"href":"/companies/fps-medical/","className":"text-blue-600 hover:underline","children":["FPSメディカル（アクリーティブ）","の口コミ・評判・手数料 →"]}]}],["$","li","progress",{"children":["$","$L3",null,{"href":"/companies/progress/","className":"text-blue-600 hover:underline","children":["プログレス","の口コミ・評判・手数料 →"]}]}],["$","li","jbl",{"children":["$","$L3",null,{"href":"/companies/jbl/","className":"text-blue-600 hover:underline","children":["JBL","の口コミ・評判・手数料 →"]}]}]]}]]}]
+10:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-5","children":"おすすめファクタリング会社"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","factors",{"href":"/companies/factors","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ファクターズ"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短4時間"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","kensetsu-pay",{"href":"/companies/kensetsu-pay","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"建設Pay"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1%〜（上限は要問い合わせ）"," ／ ","最短1時間（契約完了後1時間以内に送金）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","bizpay",{"href":"/companies/bizpay","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ビジペイ"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短60分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+11:["$","div",null,{"className":"mt-12 bg-[#1B3A5C] rounded-md p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-cta text-white px-8 py-3 rounded-md font-bold text-sm hover:bg-cta-hover transition","children":"無料診断を始める →"}]]}]
+12:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"関連記事"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-shougai-fukushi",{"href":"/articles/article-factoring-shougai-fukushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"障害福祉 ファクタリング, 障害福祉サービス 報酬 早期入金, 国保連 ファクタリング 障害"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"障害福祉サービスの報酬（国保連の請求分）をファクタリングで早く受け取る方法"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-houmon-kango",{"href":"/articles/article-factoring-houmon-kango","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"訪問看護 ファクタリング, 訪問看護 報酬 早期入金, 訪問看護療養費 支払日"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"訪問看護ステーションの報酬（診療報酬・介護報酬）を早く受け取る方法｜ファクタリングの対象と入金時期"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-iryou",{"href":"/articles/article-factoring-iryou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"診療報酬ファクタリング, 診療報酬ファクタリング おすすめ, 医療ファクタリング, 調剤報酬ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"診療報酬ファクタリングのおすすめ会社6社を比較｜手数料・調達可能額・入金スピード【2026年10月】"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-clinic-kaigyou",{"href":"/articles/article-factoring-clinic-kaigyou","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"クリニック 開業資金 ファクタリング, 医療 ファクタリング 開業"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"クリニック開業資金にファクタリングは使えるか｜医療業界の資金調達解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-hitori-oyakata",{"href":"/articles/article-factoring-hitori-oyakata","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"一人親方 ファクタリング, 一人親方 請求書 資金化, 建設 個人事業主 ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"一人親方（建設）のファクタリング｜元請けへの請求書で使えるか・必要書類"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-kensetsu",{"href":"/articles/article-factoring-kensetsu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":["$L20","$L21","$L22"]}]]}]]}]
+13:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/gyoushu","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["業種別ファクタリング","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+14:["$","footer",null,{"className":"bg-ink text-white py-12 mt-16 border-t border-white/10","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-white","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-blue-100/80 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-blue-100/80 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-blue-100/80 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-blue-100/80 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-blue-100/80 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-blue-100/80 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-blue-100/80 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-blue-100/80 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-blue-100/80 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-blue-100/80 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-blue-100/80 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-blue-100/80 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-blue-100/80 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-blue-100/80 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees/","className":"text-blue-100/80 hover:text-white transition","children":"手数料の相場・比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-blue-100/80 hover:text-white transition","children":"おすすめ15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-blue-100/80 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-blue-100/80 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block border border-white/40 text-white px-6 py-2.5 rounded-md font-bold text-sm hover:bg-white/10 transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-white/15 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-blue-100/80 hover:text-white transition","children":"利用規約"}],"$L23","$L24","$L25","$L26"]}]}],"$L27"]}]}]
+15:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"業種別ファクタリング\",\"item\":\"https://corp-factoring.com/topics/gyoushu/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"介護報酬ファクタリング｜国保連の支払日と公式に対応を示す20社の条件\",\"item\":\"https://corp-factoring.com/articles/article-factoring-kaigo/\"}]}"}}]
+16:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"介護報酬ファクタリング｜国保連の支払日と公式に対応を示す20社の条件\",\"description\":\"介護報酬ファクタリング｜国保連の支払日と公式に対応を示す20社の条件について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-04-29\",\"dateModified\":\"2026-11-26\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-kaigo\"}}"}}]
+17:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"介護報酬は、サービス提供から何日後に入金されますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"各月分を翌月10日までに国保連へ請求し（請求命令3条1項）、支払日は国保連ごとに決まります。東京都国保連の令和8年度の日程では、9月提供分（10月請求）の支払日は11月24日で、提供月の末日から55日後です（2026年11月16日確認）。\"}},{\"@type\":\"Question\",\"name\":\"開設したばかりの事業所でも使えますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"当サイトのデータでは、リコーリースが新設法人も可、カイポケ早期入金が立ち上げたばかりの事業所も可としています（2026年11月6日・10月31日確認）。最初の請求を国保連に出した後の請求額が対象になるため、開設月の分の入金時期は上の日程で確かめてください。\"}},{\"@type\":\"Question\",\"name\":\"利用者負担の1割分もまとめて売れますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"利用者負担の分は国保連ではなく利用者本人への請求で、介護報酬ファクタリングの対象の外です。売掛先が個人の債権を扱うかは会社ごとに異なり、[売掛先が個人の請求書](/articles/article-factoring-urikakesaki-kojin/)で各社の記載を整理しています。\"}},{\"@type\":\"Question\",\"name\":\"障害福祉サービスの給付費も同じ会社で扱えますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"リコーリースは指定障害サービスも可、メドレー早期資金サポートは障がい福祉事業所も対象、FPSメディカルは障害福祉施設も対象と、当サイトのデータにあります（2026年11月6日・10日確認）。障害福祉の支払日は東京都国保連では原則15日で、介護とは異なります。\"}}]}"}}]
+18:["$","script","script-0",{"src":"/_next/static/chunks/10r4oh5hzc3p9.js","async":true}]
+19:["$","$L28",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@2a"}]}]
+1a:["$","tr","mufg-factor",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/mufg-factor/","className":"text-blue-600 hover:underline","children":"三菱ＵＦＪファクター（診療報酬早期受取オンラインサービス）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「本サービスの「診療報酬」は 医科・歯科の「診療報酬」と調剤薬局の「調剤報酬」、介護事業所の「介護報酬」を対象としています」（介護報酬は2026年10月30日に取扱開始・国保宛請求額の90%を買取）（2026年11月26日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"公式に2社間の記載なし（DX審査支払機構・国保へ債権譲渡通知を行う方式）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"取引開始後は、取引申込受付日の翌営業日から起算して4営業日後（申込みから初回の資金化までは1カ月弱）"}]]}]
+1b:["$","tr","ricoh-lease",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/ricoh-lease/","className":"text-blue-600 hover:underline","children":"リコーリース（介護報酬ファクタリング・2026年12月にリトレスへ社名変更予定）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「介護報酬ファクタリングサービスとは、介護事業者様が国民健康保険団体連合会（国保連）に対して請求する介護保険給付費を弊社が前払いするサービスです。」（2026年11月6日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"公式に2社間の記載なし（国保連へ債権譲渡通知を送る方式）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"国保請求後、請求額確認から5営業日（サービス概要は「サービス提供月の月末より約15日後」）"}]]}]
+1c:["$","tr","medley",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/medley/","className":"text-blue-600 hover:underline","children":"メドレー早期資金サポート（メドレーフィナンシャルサービス）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「対象債権 : 診療報酬債権、介護給付費債権、障がい者自立支援給付費債権、調剤報酬債権」（2026年11月6日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"公式に2社間の記載なし（3者間ファクタリングを採用）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"必要書類の提出からおおよそ1週間（最短3日の取引実績。トップの強み欄は「最短1週間」）"}]]}]
+1d:["$","tr","fps-medical",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/fps-medical/","className":"text-blue-600 hover:underline","children":"FPSメディカル（アクリーティブの診療・介護報酬ファクタリング）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「医療機関様、調剤薬局様、介護事業者様等が、国保連や支払基金（支払担当機関）に対して有する診療、調剤、介護報酬債権等を、当社が譲り受けることにより、早期に資金化（お支払）するサービス…」（2026年11月10日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"公式に2社間の記載なし（支払担当機関へ債権譲渡通知を行う方式）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短1〜2週間（ファクタリング専門サイト・よくある質問）。アクリーティブ公式サイトは「最短２週間」"}]]}]
+1e:["$","tr","progress",{"className":"border-b border-gray-100 align-top last:border-0","children":[["$","td",null,{"className":"px-3 py-2 font-medium min-w-[7.5em]","children":["$","$L3",null,{"href":"/companies/progress/","className":"text-blue-600 hover:underline","children":"プログレス（株式会社Progress）"}]}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"可：「医療法人や介護事業者向けのサービスです。 介護報酬や診療報酬の支払通知書や給付費請求書を売掛債権として買い取らせていただきます。」（2026年11月10日確認）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"公式内で表記が異なる（トップ・よくある質問は2社間・3社間の区別なく「3%〜」、手数料ページは2社間「10%前後で主に対応」）"}],["$","td",null,{"className":"px-3 py-2 text-gray-800","children":"最短即日（遅くとも3日程度。即日は面談などの条件あり）"}]]}]
+20:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"建設業 ファクタリング, 建築業 ファクタリング, 工事代金 ファクタリング"}]
+21:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"建設業のファクタリング｜下請代金の支払期日と注文書に対応する会社の公式記載"}]
+22:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+23:["$","span",null,{"className":"text-white/30","children":"|"}]
+24:["$","$L3",null,{"href":"/privacy/","className":"text-blue-100/80 hover:text-white transition","children":"プライバシーポリシー"}]
+25:["$","span",null,{"className":"text-white/30","children":"|"}]
+26:["$","$L3",null,{"href":"/content-policy/","className":"text-blue-100/80 hover:text-white transition","children":"記事の制作ポリシー"}]
+27:["$","div",null,{"className":"border-t border-white/15 pt-6 text-center","children":["$","p",null,{"className":"text-blue-100/80 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+2a:null

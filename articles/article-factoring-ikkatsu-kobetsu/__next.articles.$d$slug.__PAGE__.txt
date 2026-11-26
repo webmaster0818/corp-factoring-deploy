@@ -1,0 +1,276 @@
+1:"$Sreact.fragment"
+2:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/10r4oh5hzc3p9.js"],"Header"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/10r4oh5hzc3p9.js"],""]
+18:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+:HL["/images/logo-88.webp","image"]
+4:T2e4e,<p>大手企業の取引先から一括ファクタリングの導入を案内された場合など、個別ファクタリングとの違いが気になる方も多いと考えられます。一括ファクタリングは、主に大手企業の支払サイトを短縮する仕組みとして、1990年代から普及してきた手法です。</p>
+<p>この記事では、中小企業の経営者が把握しておくべき、一括ファクタリングと個別ファクタリングの違い、メリット・デメリットを解説します。</p>
+<hr>
+<h2>一括ファクタリング・個別ファクタリングとは</h2>
+<table>
+<thead>
+<tr>
+<th>種類</th>
+<th>主体</th>
+<th>対象</th>
+<th>特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>一括ファクタリング</strong></td>
+<td>大手企業(買掛側)</td>
+<td>全仕入先の請求書を一括譲渡</td>
+<td>支払サイト短縮</td>
+</tr>
+<tr>
+<td><strong>個別ファクタリング</strong></td>
+<td>中小企業(売掛側)</td>
+<td>個別の売掛金を譲渡</td>
+<td>早期資金化</td>
+</tr>
+</tbody>
+</table>
+<p>両者は、「<strong>誰が主導するか</strong>」「<strong>何を対象とするか</strong>」が根本的に異なります。</p>
+<hr>
+<h2>一括ファクタリングの仕組み（支払企業主導型）</h2>
+<h3>流れ</h3>
+<ol>
+<li>大手企業A（支払側）が、銀行と一括ファクタリング契約を締結する</li>
+<li>A社の仕入先（中小企業）は、A社への請求書を<strong>すべて銀行に譲渡</strong>する</li>
+<li>仕入先は、通常の支払期日より早く資金化できる</li>
+<li>A社は、通常の支払期日に銀行へ振り込む（支払サイトは維持される）</li>
+</ol>
+<h3>特徴</h3>
+<ul>
+<li>大手企業の手形発行の費用削減が目的</li>
+<li>仕入先は、希望すれば早期に資金化できる（割引料を負担）</li>
+<li>仕入先は、希望しなければ通常の期日に支払いを受ける</li>
+</ul>
+<p>これは「<strong>リバースファクタリング</strong>」と呼ばれることもあり、サプライチェーンファイナンスの一形態です。詳しくは<a href="/articles/article-factoring-reverse/">リバースファクタリングの解説</a>をご覧ください。</p>
+<hr>
+<h2>個別ファクタリングの仕組み（売掛側主導型）</h2>
+<h3>流れ</h3>
+<ol>
+<li>中小企業B（売掛側）が、ファクタリング会社と個別に契約する</li>
+<li>特定の売掛金を1件単位で譲渡し、資金化する</li>
+<li>売掛先（取引先）の信用力をもとに審査が行われる</li>
+<li>売掛先からの入金後、ファクタリング会社が回収する</li>
+</ol>
+<h3>特徴</h3>
+<ul>
+<li>一般的な「ファクタリング」のイメージに近い</li>
+<li>売掛側が自由に選んで利用できる</li>
+<li>2社間・3社間のどちらも利用可能</li>
+</ul>
+<p>詳しくは<a href="/articles/article-factoring-toha/">ファクタリングの基礎</a>をご覧ください。</p>
+<hr>
+<h2>両者の比較</h2>
+<table>
+<thead>
+<tr>
+<th>比較項目</th>
+<th>一括ファクタリング</th>
+<th>個別ファクタリング</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>主導</td>
+<td>支払企業（大手）</td>
+<td>売掛側（中小）</td>
+</tr>
+<tr>
+<td>契約相手</td>
+<td>銀行が中心</td>
+<td>ファクタリング会社</td>
+</tr>
+<tr>
+<td>対象</td>
+<td>全仕入先の請求書</td>
+<td>個別の売掛金</td>
+</tr>
+<tr>
+<td>手数料</td>
+<td>年1.5〜3%（銀行系）</td>
+<td>2〜18%</td>
+</tr>
+<tr>
+<td>スピード</td>
+<td>数日〜1週間</td>
+<td>即日〜数日</td>
+</tr>
+<tr>
+<td>売掛先の信用</td>
+<td>大手企業前提</td>
+<td>多様</td>
+</tr>
+<tr>
+<td>利用の継続性</td>
+<td>取引が続く限り継続</td>
+<td>都度判断</td>
+</tr>
+<tr>
+<td>印紙税</td>
+<td><a href="/articles/article-factoring-inshizei/">契約書の内容による</a></td>
+<td><a href="/articles/article-factoring-inshizei/">紙の契約書は1通200円（1万円未満は非課税）</a></td>
+</tr>
+<tr>
+<td>手形代替</td>
+<td>◎</td>
+<td>△</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>メリットの比較</h2>
+<h3>一括ファクタリングのメリット</h3>
+<ul>
+<li><strong>手数料が低い</strong>（銀行系で年1.5〜3%）</li>
+<li><strong>継続的な利用</strong>により資金繰りが安定する</li>
+<li><strong>手形が不要</strong>で、手形の印紙税（印紙税法 別表第一 第3号）がかからない</li>
+<li><strong>電子化に対応</strong>（でんさいシステムとの連携）</li>
+</ul>
+<h3>個別ファクタリングのメリット</h3>
+<ul>
+<li><strong>必要なときのみ</strong>利用できる柔軟性</li>
+<li>売掛先に<strong>知られずに</strong>（2社間）資金化できる</li>
+<li><strong>個人事業主・新規事業</strong>も利用できる</li>
+<li><strong>即日の資金化</strong>が可能</li>
+</ul>
+<hr>
+<h2>デメリットの比較</h2>
+<h3>一括ファクタリングのデメリット</h3>
+<ul>
+<li>大手企業の取引先でなければ利用できない</li>
+<li>銀行口座の開設・与信審査が必要</li>
+<li>早期資金化のたびに、別途手続きが必要</li>
+<li>手数料は低いが、<strong>すべての請求書を譲渡</strong>することが前提</li>
+</ul>
+<h3>個別ファクタリングのデメリット</h3>
+<ul>
+<li>手数料が比較的高い（2〜18%）</li>
+<li>売掛先の信用力に左右される</li>
+<li>継続的な利用は、単発の契約の積み重ねとなる</li>
+</ul>
+<hr>
+<h2>自社に適しているのはどちらか</h2>
+<h3>一括ファクタリングが適しているケース</h3>
+<ul>
+<li>大手企業との安定した取引がある</li>
+<li>手形の受取りによる印紙税の負担が大きい</li>
+<li>年間を通じて継続的に資金化したい</li>
+<li>手数料の低さを優先したい</li>
+</ul>
+<h3>個別ファクタリングが適しているケース</h3>
+<ul>
+<li>突発的な資金需要がある</li>
+<li>売掛先に知られたくない</li>
+<li>小口・個別の案件である</li>
+<li>即日の資金化が必要</li>
+</ul>
+<p><a href="/">個別ファクタリングのおすすめ会社の比較</a>もあわせてご覧ください。</p>
+<hr>
+<h2>一括ファクタリングの歴史と現状</h2>
+<h3>1990年代:登場</h3>
+<p>バブル崩壊後、大手企業の手形発行の費用を削減する策として、銀行が提案しました。</p>
+<h3>2000年代:普及</h3>
+<p>電子化が進み、企業間の支払サイトを短縮する仕組みとして定着しました。</p>
+<h3>2013年:でんさいのサービス開始</h3>
+<p>全国銀行協会の100％子会社である株式会社全銀電子債権ネットワーク（でんさいネット）が、2013年（平成25年）2月18日に電子記録債権（でんさい）のサービス提供を開始しました（出典：<a href="https://www.densai.net/company/">でんさいネット 会社概要</a>・2026年10月17日確認）。</p>
+<h3>2027年3月末:紙の手形・小切手の利用廃止（予定）</h3>
+<p>産業界・金融界は、2027年3月末までの手形・小切手の利用廃止に向けた取組みを進めています（出典：<a href="https://www.zenginkyo.or.jp/tegata-kogitte-haishi/">全国銀行協会</a>・2026年10月17日確認）。これに伴い、一括ファクタリングと<a href="/articles/article-factoring-vs-densai/">でんさい</a>が、手形に代わる手段としてさらに普及しています。</p>
+<hr>
+<h2>2026年現在の主要な一括ファクタリングサービス</h2>
+<table>
+<thead>
+<tr>
+<th>サービス名</th>
+<th>提供</th>
+<th>特徴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>三菱UFJファクター</td>
+<td>三菱UFJ銀行系</td>
+<td>大手中心</td>
+</tr>
+<tr>
+<td>みずほファクター</td>
+<td>みずほ銀行系</td>
+<td>全国対応</td>
+</tr>
+<tr>
+<td>三井住友ファイナンス&#x26;リース</td>
+<td>SMBC系</td>
+<td>多様な業種</td>
+</tr>
+</tbody>
+</table>
+<p>これらは主に<strong>法人向け</strong>のサービスであり、個人事業主は利用できません。</p>
+<hr>
+<h2>一括ファクタリング契約時の注意点</h2>
+<h3>1. 仕入先への通知義務</h3>
+<p>すべての仕入先に一括ファクタリングの導入を通知し、同意を得る必要があります。</p>
+<h3>2. 仕入先のメリット説明</h3>
+<p>仕入先にとっては、手数料を負担すれば早期に資金化できるという選択肢が増えます。利用が強制ではないことを伝える必要があります。</p>
+<h3>3. 銀行取引枠への影響</h3>
+<p>利用企業の信用枠の一部として扱われる場合があります。</p>
+<h3>4. 既存の手形取引との整合</h3>
+<p>既に手形で決済している取引先がある場合は、移行の手続きが必要です。</p>
+<hr>
+<h2>大企業と中小企業での使い分け</h2>
+<h3>大企業の場合</h3>
+<ul>
+<li>主要な取引先には<strong>一括ファクタリング</strong>を用いて支払サイトを最適化する</li>
+<li>突発的な資金需要には<strong>個別ファクタリング</strong>を併用する</li>
+</ul>
+<h3>中小企業の場合</h3>
+<ul>
+<li>大手取引先が導入している一括ファクタリングを活用する</li>
+<li>中堅・中小の取引先の売掛金は、<a href="/">個別ファクタリング</a>を利用する</li>
+<li><a href="/articles/article-factoring-fukusu/">複数のファクタリングの併用</a>により、リスクを分散する</li>
+</ul>
+<hr>
+<h2>まとめ</h2>
+<ul>
+<li><strong>一括ファクタリング</strong>：大手企業が主導する、支払サイトを短縮する仕組みです。手数料が低く、継続的な利用に適しています。</li>
+<li><strong>個別ファクタリング</strong>：中小企業が主導する、早期資金化の手段です。柔軟で、即日の対応が可能です。</li>
+<li>両者は補完関係にあり、状況に応じて使い分けることが重要です。</li>
+<li>大手取引先がある場合は、一括ファクタリングの導入の提案を検討する価値があります。</li>
+</ul>
+<hr>
+<h2>よくある質問(FAQ)</h2>
+<p><strong>Q: 中小企業でも一括ファクタリングは利用できますか？</strong>
+A: 自社が「支払企業側」として導入するには、安定した売上と一定の仕入先数が必要です。中小企業の多くは、「利用者側」として、大手取引先が導入しているサービスを利用しています。</p>
+<p><strong>Q: 一括ファクタリングと個別ファクタリングは併用できますか？</strong>
+A: 併用できます。一括ファクタリングは継続的な利用、個別ファクタリングは突発的な資金需要に使い分けるのが一般的です。</p>
+<p><strong>Q: 一括ファクタリングの手数料は誰が支払いますか？</strong>
+A: 早期資金化を希望する仕入先が、割引料（手数料）を負担します。期日どおりに受け取る場合は無料です。</p>
+<p><strong>Q: 一括ファクタリングは違法ではありませんか？</strong>
+A: 合法です。銀行が提供する正式な金融サービスとして、長く運用されています。</p>
+<p><strong>Q: でんさいと一括ファクタリングはどのように違いますか？</strong>
+A: でんさいは電子記録債権のシステムであり、一括ファクタリングはサービスの名称です。両者は併用されることも多くあります。<a href="/articles/article-factoring-vs-densai/">でんさいとファクタリングの違い</a>もご覧ください。</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$L2",null,{}],["$","header",null,{"className":"page-head","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-4 pb-9 sm:pb-11","children":[["$","nav",null,{"className":"crumbs mb-7","children":[["$","$L3",null,{"href":"/","children":"ホーム"}]," > ",["$","$L3",null,{"href":"/articles","children":"コラム"}],[" > ",["$","$L3",null,{"href":"/topics/hikaku","children":"比較・おすすめ"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["一括ファクタリングと個別ファクタリングの違いを解説","..."]}]]}],["$","p",null,{"className":"page-label mb-3","children":"比較・おすすめ"}],["$","h1",null,{"className":"text-[23px] sm:text-[30px] font-bold text-ink leading-[1.5] tracking-[0.01em] mb-5","children":"一括ファクタリングと個別ファクタリングの違いを解説"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-gray-500","children":[["$","span",null,{"className":"num","children":["更新日: ","2026年11月27日"]}],["$","span",null,{"className":"bg-white border border-line text-ink/80 text-xs font-medium px-2.5 py-0.5 rounded-sm","children":"一括ファクタリング, 個別ファクタリング 違い, 一括 個別 比較"}]]}]]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-6 sm:pt-8 pb-10","children":[["$","article",null,{"children":[null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],"$L5","$L6","$L7",false,false,"$L8","$L9"]}],"$La","$Lb","$Lc","$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ES7AnOxdifeMXb16TZwvo"}
+5:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-md p-6","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","mufg-factor",{"children":["$","$L3",null,{"href":"/companies/mufg-factor/","className":"text-blue-600 hover:underline","children":["三菱ＵＦＪファクター","の口コミ・評判・手数料 →"]}]}]]}]]}]
+6:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-5","children":"おすすめファクタリング会社"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","msfj",{"href":"/companies/msfj","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"MSFJ"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1.8%〜9.8%"," ／ ","最短30分（公式トップ）／最短60分（建設業欄・LP）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","levanta",{"href":"/companies/levanta","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"レバンタ"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","4%〜10%"," ／ ","最短即日（契約後最短10分で振込）"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L3","trust-gateway",{"href":"/companies/trust-gateway","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"トラストゲートウェイ"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","1.5%〜9.5%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
+7:["$","div",null,{"className":"mt-12 bg-[#1B3A5C] rounded-md p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L3",null,{"href":"/#diagnosis","className":"inline-block bg-cta text-white px-8 py-3 rounded-md font-bold text-sm hover:bg-cta-hover transition","children":"無料診断を始める →"}]]}]
+8:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"関連記事"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L3","article-factoring-2sha-3sha",{"href":"/articles/article-factoring-2sha-3sha","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"2社間ファクタリング, 3社間ファクタリング 違い"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"2社間ファクタリングと3社間ファクタリングの違い｜メリット・デメリット・手数料を比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-cloud",{"href":"/articles/article-factoring-cloud","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"クラウドファクタリング とは, オンライン ファクタリング 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"クラウドファクタリングとは｜仕組み・メリット・おすすめサービスを解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-hikaku",{"href":"/articles/article-factoring-hikaku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 比較"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング会社の選び方｜手数料・入金スピード・審査など5つの観点で条件に合う1社を絞る"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-factoring-sokujitsu-osusume",{"href":"/articles/article-factoring-sokujitsu-osusume","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 即日 おすすめ, 即日ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"即日入金のファクタリング会社おすすめ8選｜最短2時間で資金調達"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-online-factoring",{"href":"/articles/article-online-factoring","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"オンラインファクタリング おすすめ, WEB完結 ファクタリング"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"オンラインファクタリングおすすめ7選｜来店不要・Web完結で即日入金"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L3","article-seikyusho-kaitori",{"href":"/articles/article-seikyusho-kaitori","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":["$L10","$L11","$L12"]}]]}]]}]
+9:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L3",null,{"href":"/topics/hikaku","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["比較・おすすめ","の記事一覧を見る →"]}],["$","$L3",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+a:["$","footer",null,{"className":"bg-ink text-white py-12 mt-16 border-t border-white/10","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-white","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-blue-100/80 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#comparison","className":"text-blue-100/80 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#diagnosis","className":"text-blue-100/80 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees","className":"text-blue-100/80 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles","className":"text-blue-100/80 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kiso","className":"text-blue-100/80 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/hikaku","className":"text-blue-100/80 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/gyoushu","className":"text-blue-100/80 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/topics/kojin","className":"text-blue-100/80 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/guide/trouble/","className":"text-blue-100/80 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#faq","className":"text-blue-100/80 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"text-blue-100/80 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-toha","className":"text-blue-100/80 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-blue-100/80 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/fees/","className":"text-blue-100/80 hover:text-white transition","children":"手数料の相場・比較"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/#ranking","className":"text-blue-100/80 hover:text-white transition","children":"おすすめ15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-blue-100/80 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-blue-100/80 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L3",null,{"href":"/#contact","className":"inline-block border border-white/40 text-white px-6 py-2.5 rounded-md font-bold text-sm hover:bg-white/10 transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-white/15 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L3",null,{"href":"/terms/","className":"text-blue-100/80 hover:text-white transition","children":"利用規約"}],"$L13","$L14","$L15","$L16"]}]}],"$L17"]}]}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"比較・おすすめ\",\"item\":\"https://corp-factoring.com/topics/hikaku/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"一括ファクタリングと個別ファクタリングの違いを解説\",\"item\":\"https://corp-factoring.com/articles/article-factoring-ikkatsu-kobetsu/\"}]}"}}]
+c:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"一括ファクタリングと個別ファクタリングの違いを解説\",\"description\":\"一括ファクタリングと個別ファクタリングの違いを解説について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-05-21\",\"dateModified\":\"2026-11-27\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-factoring-ikkatsu-kobetsu\"}}"}}]
+d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"中小企業でも一括ファクタリングは利用できますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"自社が「支払企業側」として導入するには、安定した売上と一定の仕入先数が必要です。中小企業の多くは、「利用者側」として、大手取引先が導入しているサービスを利用しています。\"}},{\"@type\":\"Question\",\"name\":\"一括ファクタリングと個別ファクタリングは併用できますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"併用できます。一括ファクタリングは継続的な利用、個別ファクタリングは突発的な資金需要に使い分けるのが一般的です。\"}},{\"@type\":\"Question\",\"name\":\"一括ファクタリングの手数料は誰が支払いますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"早期資金化を希望する仕入先が、割引料（手数料）を負担します。期日どおりに受け取る場合は無料です。\"}},{\"@type\":\"Question\",\"name\":\"一括ファクタリングは違法ではありませんか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"合法です。銀行が提供する正式な金融サービスとして、長く運用されています。\"}},{\"@type\":\"Question\",\"name\":\"でんさいと一括ファクタリングはどのように違いますか？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"でんさいは電子記録債権のシステムであり、一括ファクタリングはサービスの名称です。両者は併用されることも多くあります。[でんさいとファクタリングの違い](/articles/article-factoring-vs-densai/)もご覧ください。\"}}]}"}}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/10r4oh5hzc3p9.js","async":true}]
+f:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+10:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"請求書買取 おすすめ, 請求書 買取, 請求書買取 サービス, 請求書 現金化"}]
+11:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"請求書買取サービスおすすめ20選｜手数料・入金スピード・審査通過率で比較"}]
+12:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
+13:["$","span",null,{"className":"text-white/30","children":"|"}]
+14:["$","$L3",null,{"href":"/privacy/","className":"text-blue-100/80 hover:text-white transition","children":"プライバシーポリシー"}]
+15:["$","span",null,{"className":"text-white/30","children":"|"}]
+16:["$","$L3",null,{"href":"/content-policy/","className":"text-blue-100/80 hover:text-white transition","children":"記事の制作ポリシー"}]
+17:["$","div",null,{"className":"border-t border-white/15 pt-6 text-center","children":["$","p",null,{"className":"text-blue-100/80 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
+1a:null
