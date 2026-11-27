@@ -1,18 +1,18 @@
 1:"$Sreact.fragment"
-2:I[339756,["/_next/static/chunks/0x.73w57rn4ou.js","/_next/static/chunks/0i.l9589uvx0j.js"],"default"]
-3:I[837457,["/_next/static/chunks/0x.73w57rn4ou.js","/_next/static/chunks/0i.l9589uvx0j.js"],"default"]
-5:I[897367,["/_next/static/chunks/0x.73w57rn4ou.js","/_next/static/chunks/0i.l9589uvx0j.js"],"OutletBoundary"]
+2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default"]
+3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default"]
+5:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-9:I[897367,["/_next/static/chunks/0x.73w57rn4ou.js","/_next/static/chunks/0i.l9589uvx0j.js"],"ViewportBoundary"]
-b:I[897367,["/_next/static/chunks/0x.73w57rn4ou.js","/_next/static/chunks/0i.l9589uvx0j.js"],"MetadataBoundary"]
-d:I[168027,["/_next/static/chunks/0x.73w57rn4ou.js","/_next/static/chunks/0i.l9589uvx0j.js"],"default",1]
+9:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"MetadataBoundary"]
+d:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"default",1]
 :HL["/_next/static/chunks/0x_h4sx13b8.-.css","style"]
-0:{"P":null,"c":["","articles","article-shikin-short-taisaku",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-shikin-short-taisaku","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x_h4sx13b8.-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0x.73w57rn4ou.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0i.l9589uvx0j.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/0oqj0qjjl1ror.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x_h4sx13b8.-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zVtJdmPlb3WOzGvJJFQDH"}
+0:{"P":null,"c":["","articles","article-shikin-short-taisaku",""],"q":"","i":false,"f":[[["",{"children":["articles",{"children":[["slug","article-shikin-short-taisaku","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x_h4sx13b8.-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/12yuf4~qeefz8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta",null,{"httpEquiv":"Cache-Control","content":"no-cache, no-store, must-revalidate"}],["$","meta",null,{"httpEquiv":"Pragma","content":"no-cache"}],["$","meta",null,{"httpEquiv":"Expires","content":"0"}]]}],["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\",\"logo\":\"https://corp-factoring.com/images/logo.png\"}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com\"}"}}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/09li1p762gg_s.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x_h4sx13b8.-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ezf7nt-xcemCd1FxLz6q9"}
 e:[]
 8:"$We"
-f:I[70119,["/_next/static/chunks/0x.73w57rn4ou.js","/_next/static/chunks/0i.l9589uvx0j.js","/_next/static/chunks/0oqj0qjjl1ror.js"],"Header"]
-10:I[522016,["/_next/static/chunks/0x.73w57rn4ou.js","/_next/static/chunks/0i.l9589uvx0j.js","/_next/static/chunks/0oqj0qjjl1ror.js"],""]
-11:T670b,<p>資金ショートへの対策は、まず週単位の資金繰り表で「何週間後に残高がマイナスになるか」と「不足額はいくらか」を確定させ、その日までに間に合う手段を、手続きにかかる期間から逆算して選ぶことです。不足が数日〜2週間以内に迫っている場合は、支払先への相談と売掛金の早期資金化（ファクタリング）が候補になり、1か月以上の余裕がある場合は、日本政策金融公庫の融資や、税・社会保険料の猶予制度を組み合わせる余地があります。本記事では、兆候の見分け方と週単位の資金繰り表の計算例（仮定）を示したうえで、各手段の期間・費用・条件を官公庁の公表資料と各社の公式表示で比較します。</p>
+f:I[70119,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/09li1p762gg_s.js"],"Header"]
+10:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js","/_next/static/chunks/09li1p762gg_s.js"],""]
+11:T8c77,<p>資金ショートへの対策は、まず週単位の資金繰り表で「何週間後に残高がマイナスになるか」と「不足額はいくらか」を確定させ、その日までに間に合う手段を、手続きにかかる期間から逆算して選ぶことです。不足が数日〜2週間以内に迫っている場合は、支払先への相談と売掛金の早期資金化（ファクタリング）が候補になり、1か月以上の余裕がある場合は、日本政策金融公庫の融資や、税・社会保険料の猶予制度を組み合わせる余地があります。本記事では、兆候の見分け方と週単位の資金繰り表の計算例（仮定）を示したうえで、各手段の期間・費用・条件を官公庁の公表資料と各社の公式表示で比較します。</p>
 <table>
 <thead>
 <tr>
@@ -73,7 +73,7 @@ f:I[70119,["/_next/static/chunks/0x.73w57rn4ou.js","/_next/static/chunks/0i.l958
 <p>ある支払いのために短期の資金を調達し、その返済や手数料のために次の調達が必要になる状態は、資金繰りの悪化が続いていることを示します。ファクタリングを毎月続けて利用している場合も同様で、<a href="/articles/article-factoring-keizoku-riyou/">ファクタリングの継続利用のリスク</a>をあわせてご確認ください。</p>
 <hr>
 <h2>資金繰り表で「何週間先にマイナスになるか」を見る方法</h2>
-<p>資金ショートへの対策で最初に行うことは、不足する日と金額を数字で確定させることです。日付と金額が決まらないと、どの手段が間に合うかを判断できません。資金繰り表の基本的な作り方は<a href="/articles/article-shikin-gurihyou/">資金繰り表の作り方</a>にまとめているため、ここでは資金ショートが迫っている場合の見方に絞ってご説明します。</p>
+<p>資金ショートへの対策で最初に行うことは、不足する日と金額を数字で確定させることです。日付と金額が決まらないと、どの手段が間に合うかを判断できません。ここでは資金ショートが迫っている場合の週単位の見方を先にご説明し、3か月〜1年先を見通す月次の資金繰り表の作り方（日本政策金融公庫の様式）は次の章で扱います。</p>
 <h3>週単位で8週間分を作る</h3>
 <p>月次の資金繰り表は、3か月〜1年先の見通しを立てるのに向いていますが、月の途中の落ち込みを見落とします。資金ショートが心配な時期は、次の手順で週単位の表を作成します。</p>
 <ol>
@@ -156,6 +156,226 @@ f:I[70119,["/_next/static/chunks/0x.73w57rn4ou.js","/_next/static/chunks/0i.l958
 <h3>不足までの週数で、使える手段が変わる</h3>
 <p>不足する日が確定したら、その日までに入金が間に合う手段を選びます。上の例では、不足まで6週間あるため、送金まで1か月程度が目安とされる日本政策金融公庫の融資も、申込みが今週中であれば候補に残ります。一方、同じ不足が2週間後に迫っている場合は、融資は間に合わない可能性が高く、支払先への相談と売掛金の資金化が中心になります。</p>
 <p>週単位の表は、資金ショートの危険がなくなるまで、少なくとも毎週更新してください。入金の遅れや追加の支払いが1件あるだけで、マイナスになる週が前後するためです。</p>
+<hr>
+<h2>月次の資金繰り表：日本政策金融公庫の様式で作る</h2>
+<p>週単位の表で目の前の不足を確かめたら、3か月〜1年先の見通しは月次の資金繰り表で立てます。融資を申し込むときに求められる形式でもあります。</p>
+<h3>公庫の様式の構成</h3>
+<p>日本政策金融公庫の「各種書式ダウンロード（小規模事業者）」のページでは、「資金繰り計画を策定する場合に、ご記入いただくもの」として、資金繰り表、資金繰り表（簡易版）、資金繰り表（記入例）が公開されています（<a href="https://www.jfc.go.jp/n/service/dl_kokumin.html">日本政策金融公庫 各種書式ダウンロード</a>・2026年11月16日確認）。資金繰り表（Excel）は次の行で構成されています（2026年11月16日に様式ファイルで確認）。</p>
+<table>
+<thead>
+<tr>
+<th>区分</th>
+<th>行（公庫の様式の項目名）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>参考</td>
+<td>売上高、（参考）前年同月の売上高</td>
+</tr>
+<tr>
+<td>繰越</td>
+<td>前月繰越金（A）</td>
+</tr>
+<tr>
+<td>経常収支・収入</td>
+<td>現金売上、売掛金回収、受取手形入金・割引 → 計（B）</td>
+</tr>
+<tr>
+<td>経常収支・支出</td>
+<td>現金仕入、買掛金支払、手形決済、外注加工費、人件費、諸経費、支払利息（簡易版にはなし） → 計（C）</td>
+</tr>
+<tr>
+<td>差引</td>
+<td>差引過不足（B）−（C）＝（D）</td>
+</tr>
+<tr>
+<td>経常外収支</td>
+<td>経常外収入、経常外支出 → 計（E）</td>
+</tr>
+<tr>
+<td>財務収支</td>
+<td>収入：借入金（当公庫）、借入金／支出：借入金返済（短期）、借入金返済（長期）→ 財務収支計（F）</td>
+</tr>
+<tr>
+<td>繰越</td>
+<td>翌月繰越金（A）＋（D）＋（E）＋（F）＝（G）</td>
+</tr>
+<tr>
+<td>根拠</td>
+<td>売上高、売上原価、経費等の算出根拠</td>
+</tr>
+</tbody>
+</table>
+<p>月の欄は、通常版が〔実績〕1か月と〔予定〕11か月、簡易版が〔実績〕1か月と〔予定〕6か月です。どちらの様式にも「この書類に代わる資料を作成されていれば、そちらをご提出いただいてもかまいません。」と書かれているため、会計ソフトの資金繰り表がある場合はそれを出せるかを申込み先に確認します。</p>
+<h3>記入例の手順①〜⑦</h3>
+<p><a href="https://www.jfc.go.jp/n/service/pdf/sikinguri_rei.pdf">資金繰り表（記入例）</a>には、欄ごとの書き方が手順①〜⑦として書かれています（要約）。</p>
+<table>
+<thead>
+<tr>
+<th>手順</th>
+<th>記入する欄</th>
+<th>書き方</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>①</td>
+<td>売上高</td>
+<td>直近1か月分を記入し、次月以降は確定分・過去の実績・季節性等を考慮して予定を月次で記入</td>
+</tr>
+<tr>
+<td>②</td>
+<td>前月繰越金</td>
+<td>決算書・試算表・総勘定元帳等で期首の残高を記入。個人の場合は期首の預金通帳の残高等</td>
+</tr>
+<tr>
+<td>③</td>
+<td>経常収支の収入</td>
+<td>前月は実績、以降は予測売上に対する予測回収金額を月次で記入</td>
+</tr>
+<tr>
+<td>④</td>
+<td>経常収支の支出</td>
+<td>前月は実績、以降は予測仕入・外注費等の予測支出金額を月次で記入</td>
+</tr>
+<tr>
+<td>⑤</td>
+<td>経常外収支</td>
+<td>投資収入や設備売却の収入、投資や設備購入に伴う支出などを記入</td>
+</tr>
+<tr>
+<td>⑥</td>
+<td>財務収支</td>
+<td>返済予定表等から借入予定金額・支払予定金額を記入。新規で借りる予定の分も同様</td>
+</tr>
+<tr>
+<td>⑦</td>
+<td>算出根拠</td>
+<td>記入した金額の算出根拠を記載</td>
+</tr>
+</tbody>
+</table>
+<p>資金繰り表を損益の表と分けているのが③です。売上高（①）は売上を立てた月で書きますが、「売掛金回収」は実際に入金される月で書きます。取引先ごとの締め日と支払日を確認してから数字を置き、⑦には「A社：月末締め翌々月10日払い・前年同月の実績をもとに見込み」のように前提を書いておきます。</p>
+<h3>様式にない行：税金の納期限</h3>
+<p>公庫の様式には税金の専用の行がありません。個人事業主の場合、額が大きくなりやすい所得税と消費税の令和8年（2026年）分の納期限は次のとおりです（<a href="https://www.nta.go.jp/taxes/nozei/nofu/24200042/noufu_kigen.htm">国税庁「主な国税の納期限（法定納期限）及び振替日」</a>・2026年11月16日確認）。</p>
+<table>
+<thead>
+<tr>
+<th>税目・区分</th>
+<th>納期限</th>
+<th>振替納税の振替日</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>所得税 予定納税 第1期</td>
+<td>2026年7月31日（金）</td>
+<td>2026年7月31日（金）</td>
+</tr>
+<tr>
+<td>所得税 予定納税 第2期</td>
+<td>2026年11月30日（月）</td>
+<td>2026年11月30日（月）</td>
+</tr>
+<tr>
+<td>所得税 確定申告</td>
+<td>2027年3月15日（月）</td>
+<td>2027年4月23日（金）</td>
+</tr>
+<tr>
+<td>所得税 確定申告延納</td>
+<td>2027年5月31日（月）</td>
+<td>2027年5月31日（月）</td>
+</tr>
+<tr>
+<td>消費税及び地方消費税（個人事業者）確定申告</td>
+<td>2027年3月31日（水）</td>
+<td>2027年4月30日（金）</td>
+</tr>
+</tbody>
+</table>
+<p>資金繰り表には、実際に口座から出ていく月（振替納税なら振替日の月）で書きます。</p>
+<ul>
+<li><strong>予定納税</strong>：5月15日現在で確定している前年分の所得金額や税額などから計算した予定納税基準額が15万円以上となる方が対象で、原則として基準額の3分の1ずつを第1期分（7月）と第2期分（11月）に納めます（<a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2040.htm">国税庁 No.2040 予定納税</a>）。前年の所得が増えた年は、所得税の支出が年3回になります。</li>
+<li><strong>消費税</strong>：個人事業者は基準期間（前々年）の課税売上高が1,000万円以下なら原則として納税義務が免除されますが、適格請求書発行事業者の登録を受けている場合などは免除されません（<a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6501.htm">国税庁 No.6501 納税義務の免除</a>）。</li>
+<li><strong>源泉所得税</strong>：給与から預かった分は原則として支払った月の翌月10日が納期限で、納期の特例の承認を受けている場合は1月〜6月分が7月10日、7月〜12月分が翌年1月20日です。</li>
+</ul>
+<h3>個人事業主向けに行を足した書式（当サイトの書式）</h3>
+<p>次の表は、公庫の様式の構成をもとに、個人事業主の口座の動きに合わせて行を足した当サイト独自の書式です。公的な様式ではありません。公庫に出す場合は、公庫の様式に書き写すか、「代わる資料」として出せるかを窓口に確認してください。</p>
+<table>
+<thead>
+<tr>
+<th>区分</th>
+<th>行</th>
+<th>公庫の様式との対応</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>繰越</td>
+<td>前月繰越金（事業用口座の残高＋手元現金）</td>
+<td>前月繰越金（A）</td>
+</tr>
+<tr>
+<td>収入</td>
+<td>現金・カードでの売上の入金</td>
+<td>現金売上</td>
+</tr>
+<tr>
+<td>収入</td>
+<td>売掛金回収（取引先ごとに1行）</td>
+<td>売掛金回収</td>
+</tr>
+<tr>
+<td>収入</td>
+<td>ファクタリングによる入金</td>
+<td>様式に専用の行なし</td>
+</tr>
+<tr>
+<td>支出</td>
+<td>仕入・外注費</td>
+<td>現金仕入・買掛金支払・外注加工費</td>
+</tr>
+<tr>
+<td>支出</td>
+<td>人件費</td>
+<td>人件費</td>
+</tr>
+<tr>
+<td>支出</td>
+<td>家賃・通信費などの固定費</td>
+<td>諸経費</td>
+</tr>
+<tr>
+<td>支出</td>
+<td>税金（予定納税・確定申告・消費税・源泉所得税）</td>
+<td>様式に専用の行なし</td>
+</tr>
+<tr>
+<td>支出</td>
+<td>事業主貸（生活費の引き出し）</td>
+<td>様式に専用の行なし</td>
+</tr>
+<tr>
+<td>差引</td>
+<td>収入計−支出計</td>
+<td>差引過不足（D）</td>
+</tr>
+<tr>
+<td>財務</td>
+<td>借入れ／借入金の返済</td>
+<td>財務収支（F）</td>
+</tr>
+<tr>
+<td>繰越</td>
+<td>翌月繰越金</td>
+<td>翌月繰越金（G）</td>
+</tr>
+</tbody>
+</table>
+<p>個人事業主は事業用の口座から生活費を引き出すため、「事業主貸」の行を入れないと、表の残高が実際の口座残高より多く見えます。</p>
+<p>売掛金をファクタリングで売った場合は、売った月の「ファクタリングによる入金」に手数料を差し引いた受取額を入れます。入金予定月は、2社間なら売掛先からの入金がいったん自分の口座に入るため「売掛金回収」はそのまま残し、同じ額をファクタリング会社への支払いとして支出に入れます。3社間なら売掛先がファクタリング会社に直接支払うため、その月の「売掛金回収」から外します。どちらの場合も、入金予定月の手元に残る額は売掛金の額面より少なくなるため、売った後の月の行まで書き直してから判断します。</p>
 <hr>
 <h2>資金ショート対策の選択肢を期間・費用・条件で比べる</h2>
 <p>資金ショートへの対策は、ファクタリングに限りません。次の表は、本記事で取り上げる手段を、公的機関や各社の公式表示にもとづいて比較したものです。表に記載のない日数や費用は、各窓口で確認してください。</p>
@@ -251,7 +471,7 @@ f:I[70119,["/_next/static/chunks/0x.73w57rn4ou.js","/_next/static/chunks/0i.l958
 <p>この例では、7週目の不足は解消しますが、40万円の費用が発生し、8週目の残高は安全残高を下回ります。翌月以降も同じ構造が続く場合は、ファクタリングを繰り返すことになりかねません。支払先への猶予の相談で不足額そのものを小さくしたうえで、残りをファクタリングで補う、あるいは公庫の融資が実行されるまでのつなぎとして使う、といった組合せを検討してください。</p>
 <p>手数料の決まり方は<a href="/fees/">ファクタリングの手数料</a>、2社間と3社間の違いは<a href="/articles/article-factoring-2sha-3sha/">2社間ファクタリングと3社間ファクタリングの違い</a>にまとめています。</p>
 <h3>急いでいるときほど業者の実態を確認する</h3>
-<p>金融庁は、ファクタリングを装った違法な貸付について注意を呼びかけており、「高額な手数料を支払うと、かえって資金繰りが悪化し、多重債務に陥る危険性があります」としています。売掛金の売買ではなく、実質的に返済を求める契約になっていないか、契約前に確認してください。見分け方は<a href="/articles/article-factoring-ihou-gyousha/">違法なファクタリング業者の見分け方</a>をご覧ください。</p>
+<p>金融庁は、ファクタリングを装った違法な貸付について注意を呼びかけており、「高額な手数料を支払うと、かえって資金繰りが悪化し、多重債務に陥る危険性があります」としています。売掛金の売買ではなく、実質的に返済を求める契約になっていないか、契約前に確認してください。見分け方は<a href="/articles/article-factoring-ihou/">ファクタリングは違法か：違法業者の見分け方</a>をご覧ください。</p>
 <hr>
 <h2>給料と支払いの順番について</h2>
 <p>不足する支払いが従業員の給料である場合は、労働基準法24条が、賃金を通貨で直接労働者に全額支払うこと、毎月1回以上・一定の期日を定めて支払うことを定めている点に注意が必要です。給与日までに資金を確保する手順は、<a href="/articles/article-factoring-kyuryo-haraenai/">給料が払えない会社が給与日までにできること</a>で取り上げています。</p>
@@ -276,19 +496,19 @@ A: 3か月〜1年先の見通しには月次の表が向いています。一方
 <li>ファクタリングは「最短」だけでなく平均や締め時刻、手数料を不足額と比べて判断し、継続的な利用にならないよう他の手段と組み合わせてください</li>
 </ul>
 <p>各制度の要件や各社の条件は変更される場合があります。ご利用前に、各窓口・各社の公式サイトにて最新情報をご確認ください。</p>
-4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","header",null,{"className":"page-head","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-4 pb-9 sm:pb-11","children":[["$","nav",null,{"className":"crumbs mb-7","children":[["$","$L10",null,{"href":"/","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/kiso","children":"基礎知識・審査・法律"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資","..."]}]]}],["$","p",null,{"className":"page-label mb-3","children":"基礎知識・審査・法律"}],["$","h1",null,{"className":"text-[23px] sm:text-[30px] font-bold text-ink leading-[1.5] tracking-[0.01em] mb-5","children":"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-gray-500","children":[["$","span",null,{"className":"num","children":["更新日: ","2026年11月10日"]}],["$","span",null,{"className":"bg-white border border-line text-ink/80 text-xs font-medium px-2.5 py-0.5 rounded-sm","children":"資金ショート 対策, 資金ショート 兆候, 資金ショート 即日"}]]}]]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-6 sm:pt-8 pb-10","children":[["$","article",null,{"children":[null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14",false,false,"$L15","$L16"]}],"$L17","$L18","$L19","$L1a"]}]
+4:["$","div",null,{"className":"min-h-screen bg-gray-50","children":[["$","$Lf",null,{}],["$","header",null,{"className":"page-head","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-4 pb-9 sm:pb-11","children":[["$","nav",null,{"className":"crumbs mb-7","children":[["$","$L10",null,{"href":"/","children":"ホーム"}]," > ",["$","$L10",null,{"href":"/articles","children":"コラム"}],[" > ",["$","$L10",null,{"href":"/topics/kojin","children":"個人事業主・フリーランス"}]]," > ",["$","span",null,{"className":"text-gray-600","children":["資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資","..."]}]]}],["$","p",null,{"className":"page-label mb-3","children":"個人事業主・フリーランス"}],["$","h1",null,{"className":"text-[23px] sm:text-[30px] font-bold text-ink leading-[1.5] tracking-[0.01em] mb-5","children":"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-gray-500","children":[["$","span",null,{"className":"num","children":["更新日: ","2026年11月27日"]}],["$","span",null,{"className":"bg-white border border-line text-ink/80 text-xs font-medium px-2.5 py-0.5 rounded-sm","children":"資金ショート 対策, 資金ショート 兆候, 資金ショート 即日"}]]}]]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 pt-6 sm:pt-8 pb-10","children":[["$","article",null,{"children":[null,["$","div",null,{"className":"prose prose-gray max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-4 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 prose-ul:my-4 prose-li:text-gray-700 prose-table:border-collapse prose-th:bg-gray-100 prose-th:p-3 prose-td:p-3 prose-td:border prose-td:border-gray-200 prose-blockquote:border-l-4 prose-blockquote:border-blue-400 prose-blockquote:bg-blue-50 prose-blockquote:p-4 prose-blockquote:rounded-r-lg prose-hr:my-8","dangerouslySetInnerHTML":{"__html":"$11"}}]]}],"$L12","$L13","$L14",false,false,"$L15","$L16"]}],"$L17","$L18","$L19","$L1a"]}]
 :HL["/images/logo-88.webp","image"]
 12:["$","section",null,{"className":"mt-12 bg-white border border-gray-200 rounded-md p-6","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"この記事に登場する会社の口コミ・評判"}],["$","p",null,{"className":"text-xs text-gray-500 mb-4","children":"各社のページでは、公式サイトで確認した手数料・入金スピード・会社概要と、口コミの出典を掲載しています。掲載情報には確認日を記載しています。"}],["$","ul",null,{"className":"grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm","children":[["$","li","paytner",{"children":["$","$L10",null,{"href":"/companies/paytner/","className":"text-blue-600 hover:underline","children":["ペイトナー","の口コミ・評判・手数料 →"]}]}],["$","li","support-kinyu",{"children":["$","$L10",null,{"href":"/companies/support-kinyu/","className":"text-blue-600 hover:underline","children":["日本中小企業金融サポート機構","の口コミ・評判・手数料 →"]}]}]]}]]}]
 13:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-5","children":"おすすめファクタリング会社"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","next-one",{"href":"/companies/next-one","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"ネクストワン"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","5%〜10%"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","kkt",{"href":"/companies/kkt","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"KKT"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","3.7%〜（上限は要問い合わせ）"," ／ ","最短即日"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}],["$","$L10","coolpay",{"href":"/companies/coolpay","className":"bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","div",null,{"className":"flex items-center justify-between mb-2","children":["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition","children":"CoolPay"}]}],["$","p",null,{"className":"text-xs text-gray-500 mb-2","children":["手数料 ","要見積もり"," ／ ","最短60分"]}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"詳細を見る →"}]]}]]}]]}]
 14:["$","div",null,{"className":"mt-12 bg-[#1B3A5C] rounded-md p-8 text-white text-center","children":[["$","h2",null,{"className":"text-xl font-bold mb-3","children":"条件に合うファクタリング会社を診断できます"}],["$","p",null,{"className":"text-blue-200 mb-6 text-sm","children":"いくつかの質問に回答すると、条件に合うファクタリング会社を表示します"}],["$","$L10",null,{"href":"/#diagnosis","className":"inline-block bg-cta text-white px-8 py-3 rounded-md font-bold text-sm hover:bg-cta-hover transition","children":"無料診断を始める →"}]]}]
-15:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"関連記事"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-factoring-kyuryo-haraenai",{"href":"/articles/article-factoring-kyuryo-haraenai","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"給料 払えない 会社, 給与 払えない 資金繰り, 給料日 資金 足りない"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"給料が払えない会社が給与日までにできること｜即日で資金を確保する手順と注意点"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-shiharai-maniawanai",{"href":"/articles/article-shiharai-maniawanai","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"支払い 間に合わない 会社, 支払い 間に合わない 対処, 支払い 優先順位"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"支払いが間に合わない時の初動｜今日・今週でできる資金確保の優先順位"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-gaichuhi-haraenai",{"href":"/articles/article-gaichuhi-haraenai","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"外注費 払えない, 仕入れ代 払えない, 外注費 支払い 遅れる"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"仕入れ代・外注費が払えない時の対処法｜支払先への相談と売掛金の早期資金化"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-toha",{"href":"/articles/article-factoring-toha","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリングとは"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングとは｜仕組み・手数料・メリット・デメリットを初めての方向けに解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-merit-demerit",{"href":"/articles/article-factoring-merit-demerit","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング メリット デメリット"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリングのメリット・デメリット｜利用に適した人・適さない人を解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-hajimete",{"href":"/articles/article-factoring-hajimete","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":["$L1b","$L1c","$L1d"]}]]}]]}]
-16:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L10",null,{"href":"/topics/kiso","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["基礎知識・審査・法律","の記事一覧を見る →"]}],["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
+15:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"section-title section-title-sm mb-4","children":"関連記事"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4","children":[["$","$L10","article-freelance-shikin",{"href":"/articles/article-freelance-shikin","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"フリーランス 資金繰り / 個人事業主 資金繰り / フリーランス 支払いサイト"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"フリーランスの資金繰り改善ガイド｜支払いサイトが長い場合の5つの対策"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-kojin-jigyonushi",{"href":"/articles/article-factoring-kojin-jigyonushi","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"個人事業主のファクタリングおすすめ14選｜フリーランス・少額・即日対応を比較"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-kojin-kakutei",{"href":"/articles/article-factoring-kojin-kakutei","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 個人事業主 確定申告, 個人事業主 ファクタリング 税務"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"個人事業主のファクタリングと確定申告｜正しい経費処理・仕訳方法を解説"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-factoring-shougaku",{"href":"/articles/article-factoring-shougaku","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 少額, ファクタリング 10万円, 小口 ファクタリング, 少額 ファクタリング 個人事業主"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"少額ファクタリング｜10万円以下から使える19社を下限額で比較・個人事業主も対象"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-seikyusho-genkinkan",{"href":"/articles/article-seikyusho-genkinkan","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":[["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"請求書 現金化 / 売掛金 現金化"}],["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"請求書を現金化する方法3選｜売掛金を最短即日で資金化"}],["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]]}],["$","$L10","article-kojin-shikin-chotatsu",{"href":"/articles/article-kojin-shikin-chotatsu","className":"bg-white border border-gray-200 rounded-lg p-5 hover:shadow-sm hover:border-[#1B3A5C]/30 transition group","children":["$L1b","$L1c","$L1d"]}]]}]]}]
+16:["$","div",null,{"className":"mt-8 text-center space-x-6","children":[["$","$L10",null,{"href":"/topics/kojin","className":"text-[#1B3A5C] hover:underline text-sm font-medium transition","children":["個人事業主・フリーランス","の記事一覧を見る →"]}],["$","$L10",null,{"href":"/articles","className":"text-gray-500 hover:text-gray-700 text-sm transition","children":"← コラム一覧に戻る"}]]}]
 17:["$","footer",null,{"className":"bg-ink text-white py-12 mt-16 border-t border-white/10","children":["$","div",null,{"className":"container mx-auto px-4 max-w-6xl","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","div",null,{"className":"flex items-center gap-2.5 mb-4","children":[["$","img",null,{"src":"/images/logo-88.webp","alt":"ファクタリング比較ナビ ロゴ","className":"w-11 h-11","width":"44","height":"44"}],["$","span",null,{"className":"text-lg font-bold text-white","children":"ファクタリング比較ナビ"}]]}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed","children":"法人・個人事業主向けのファクタリング会社を、手数料・審査・入金スピードの観点から比較する情報サイトです。各社の公式サイトで公開されている情報をもとに掲載しています。"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"サイトマップ"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-blue-100/80 hover:text-white transition","children":"ランキング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#comparison","className":"text-blue-100/80 hover:text-white transition","children":"比較表"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#diagnosis","className":"text-blue-100/80 hover:text-white transition","children":"診断ツール"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees","className":"text-blue-100/80 hover:text-white transition","children":"手数料比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles","className":"text-blue-100/80 hover:text-white transition","children":"コラム"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kiso","className":"text-blue-100/80 hover:text-white transition","children":"基礎知識・審査・法律"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/hikaku","className":"text-blue-100/80 hover:text-white transition","children":"比較・おすすめ"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/gyoushu","className":"text-blue-100/80 hover:text-white transition","children":"業種別ファクタリング"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/topics/kojin","className":"text-blue-100/80 hover:text-white transition","children":"個人事業主・フリーランス"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/guide/trouble/","className":"text-blue-100/80 hover:text-white transition","children":"トラブル・法務ガイド"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#faq","className":"text-blue-100/80 hover:text-white transition","children":"よくある質問"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/about/","className":"text-blue-100/80 hover:text-white transition","children":"運営者情報"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"人気コラム"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-toha","className":"text-blue-100/80 hover:text-white transition","children":"ファクタリングとは？"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-merit-demerit","className":"text-blue-100/80 hover:text-white transition","children":"メリット・デメリット"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/fees/","className":"text-blue-100/80 hover:text-white transition","children":"手数料の相場・比較"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/#ranking","className":"text-blue-100/80 hover:text-white transition","children":"おすすめ15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-sokujitsu","className":"text-blue-100/80 hover:text-white transition","children":"即日対応15選"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/articles/article-factoring-kuchikomi","className":"text-blue-100/80 hover:text-white transition","children":"口コミ・評判"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-bold text-white mb-4","children":"お問い合わせ"}],["$","p",null,{"className":"text-blue-100/80 text-sm leading-relaxed mb-4","children":"掲載内容に関するご質問・ご指摘は、こちらからお問い合わせください。"}],["$","$L10",null,{"href":"/#contact","className":"inline-block border border-white/40 text-white px-6 py-2.5 rounded-md font-bold text-sm hover:bg-white/10 transition","children":"お問い合わせ"}]]}]]}],["$","div",null,{"className":"border-t border-white/15 pt-6 pb-2","children":["$","div",null,{"className":"flex flex-wrap justify-center gap-4 text-sm","children":[["$","$L10",null,{"href":"/terms/","className":"text-blue-100/80 hover:text-white transition","children":"利用規約"}],"$L1e","$L1f","$L20","$L21"]}]}],"$L22"]}]}]
-18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"基礎知識・審査・法律\",\"item\":\"https://corp-factoring.com/topics/kiso/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢\",\"item\":\"https://corp-factoring.com/articles/article-shikin-short-taisaku/\"}]}"}}]
-19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢\",\"description\":\"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-31\",\"dateModified\":\"2026-11-10\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-shikin-short-taisaku\"}}"}}]
+18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://corp-factoring.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"コラム\",\"item\":\"https://corp-factoring.com/articles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"個人事業主・フリーランス\",\"item\":\"https://corp-factoring.com/topics/kojin/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢\",\"item\":\"https://corp-factoring.com/articles/article-shikin-short-taisaku/\"}]}"}}]
+19:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢\",\"description\":\"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢について、公式情報や公的資料をもとに解説しています。\",\"datePublished\":\"2026-10-31\",\"dateModified\":\"2026-11-27\",\"author\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"url\":\"https://corp-factoring.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"ファクタリング比較ナビ\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://corp-factoring.com/images/logo.png\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://corp-factoring.com/articles/article-shikin-short-taisaku\"}}"}}]
 23:T9a8,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"資金ショートまで何週間あれば、日本政策金融公庫の融資は間に合いますか？","acceptedAnswer":{"@type":"Answer","text":"日本政策金融公庫は、国民生活事業の申込から送金完了までを「1ヵ月程度（土日、祝日を含む。）」とし、融資の条件や支店の混雑状況によってはさらに日数を要する場合があるとしています。不足まで1か月を切っている場合は、融資の申込みと並行して、支払先への相談や売掛金の資金化を検討してください。"}},{"@type":"Question","name":"税金を滞納していても、換価の猶予は申請できますか？","acceptedAnswer":{"@type":"Answer","text":"国税庁が示す申請による換価の猶予の要件には、猶予を受けようとする国税以外の国税の滞納がないことが含まれています。また、申請は納期限から6か月以内に行う必要があります。ただし、すでに滞納がある場合や滞納となってから6か月を超える場合でも、税務署長の職権による換価の猶予（国税徴収法151条）を受けられる場合があると国税庁は案内しています。条件に当てはまるかどうかは、所轄の税務署の徴収担当に相談してください。"}},{"@type":"Question","name":"売掛金がない場合、即日で資金を用意する方法はありますか？","acceptedAnswer":{"@type":"Answer","text":"ファクタリングは売掛金を売却する取引のため、売掛金がない場合は利用できません。その場合は、支払先への支払日の変更の相談や、税・社会保険料の猶予制度の相談を優先し、あわせて取引金融機関や日本政策金融公庫に相談してください。"}},{"@type":"Question","name":"資金繰り表は月次と週次のどちらで作ればよいですか？","acceptedAnswer":{"@type":"Answer","text":"3か月〜1年先の見通しには月次の表が向いています。一方、資金ショートが心配な時期は、月の途中の落ち込みを見落とさないよう、週単位で8週間分程度の表を作成し、毎週更新する方法が有効です。本記事の計算例（仮定）のように、月末残高がプラスでも月の途中でマイナスになる場合があります。"}}]}1a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$23"}}]
-1b:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"ファクタリング 初めて, ファクタリング 初回, ファクタリング 使い方"}]
-1c:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"ファクタリング初めての方向けガイド｜初回利用の手順・注意点・おすすめ会社"}]
+1b:["$","span",null,{"className":"inline-block bg-[#1B3A5C]/10 text-[#1B3A5C] text-xs font-medium px-2.5 py-1 rounded-sm mb-3","children":"個人事業主 資金調達, 個人事業主 融資"}]
+1c:["$","h3",null,{"className":"text-sm font-bold text-gray-900 group-hover:text-[#1B3A5C] transition leading-snug mb-2","children":"個人事業主の資金調達と融資｜公庫・制度融資・共済・補助金・売掛金を書類で比べる"}]
 1d:["$","span",null,{"className":"text-xs text-[#1B3A5C] font-medium group-hover:underline","children":"記事を読む →"}]
 1e:["$","span",null,{"className":"text-white/30","children":"|"}]
 1f:["$","$L10",null,{"href":"/privacy/","className":"text-blue-100/80 hover:text-white transition","children":"プライバシーポリシー"}]
@@ -296,6 +516,6 @@ A: 3か月〜1年先の見通しには月次の表が向いています。一方
 21:["$","$L10",null,{"href":"/content-policy/","className":"text-blue-100/80 hover:text-white transition","children":"記事の制作ポリシー"}]
 22:["$","div",null,{"className":"border-t border-white/15 pt-6 text-center","children":["$","p",null,{"className":"text-blue-100/80 text-sm","children":"© 2026 ファクタリング比較ナビ. All rights reserved."}]}]
 a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-24:I[27201,["/_next/static/chunks/0x.73w57rn4ou.js","/_next/static/chunks/0i.l9589uvx0j.js"],"IconMark"]
+24:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/12yuf4~qeefz8.js"],"IconMark"]
 7:null
 c:[["$","title","0",{"children":"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢｜ファクタリング比較ナビ"}],["$","meta","1",{"name":"description","content":"資金ショートへの対策は、週単位の資金繰り表で「何週間後に・いくら」足りなくなるかを確定させ、その日までに間に合う手段を選ぶことです。兆候の見分け方、仮定の計算例、税・社会保険料の猶予、公庫、ファクタリングの期間と条件を公的情報と各社公式表示で比較します。"}],["$","meta","2",{"name":"keywords","content":"ファクタリング,法人,おすすめ,比較,手数料,審査,即日"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://corp-factoring.com/articles/article-shikin-short-taisaku/"}],["$","meta","5",{"property":"og:title","content":"資金ショート寸前の会社がやるべきこと｜兆候の見分け方と即日資金化の選択肢｜ファクタリング比較ナビ"}],["$","meta","6",{"property":"og:description","content":"資金ショートへの対策は、週単位の資金繰り表で「何週間後に・いくら」足りなくなるかを確定させ、その日までに間に合う手段を選ぶことです。兆候の見分け方、仮定の計算例、税・社会保険料の猶予、公庫、ファクタリングの期間と条件を公的情報と各社公式表示で比較します。"}],["$","meta","7",{"property":"og:url","content":"https://corp-factoring.com/articles/article-shikin-short-taisaku/"}],["$","meta","8",{"property":"og:image","content":"https://corp-factoring.com/og-default.png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"ファクタリング比較ナビ"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"ファクタリング会社おすすめ比較15選【法人向け】手数料・即日入金・審査で選ぶ"}],["$","meta","15",{"name":"twitter:description","content":"ファクタリング会社の手数料・審査・入金スピードを、公式サイトの情報をもとに比較しています。"}],["$","meta","16",{"name":"twitter:image","content":"https://corp-factoring.com/og-default.png"}],["$","link","17",{"rel":"icon","href":"/icon.png?icon.17d9g_7ysl2ux.png","sizes":"512x512","type":"image/png"}],["$","$L24","18",{}]]
